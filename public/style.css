@@ -1,0 +1,161 @@
+/* Custom styles to complement Tailwind */
+
+/* Background image */
+body {
+  position: relative;
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url("assets/images/bg-3.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  opacity: 0.15;
+  z-index: -1;
+  pointer-events: none;
+}
+
+.dark body::before,
+html.dark body::before {
+  opacity: 0.2;
+}
+
+/* Smooth transitions for dark mode */
+* {
+  transition:
+    background-color 0.3s ease,
+    border-color 0.3s ease,
+    color 0.3s ease;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #8b5cf6;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #7c3aed;
+}
+
+/* Segment card styles */
+.segment {
+  @apply bg-gray-100 dark:bg-gray-700/50 rounded-xl p-4 border border-gray-200 dark:border-gray-600 hover:border-purple-400 dark:hover:border-purple-500 transition-all;
+}
+
+.segment.active {
+  @apply border-purple-500 bg-purple-50 dark:bg-purple-900/20 shadow-md;
+}
+
+.segment-input {
+  @apply px-3 py-2 rounded-lg border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 focus:ring-2 focus:ring-purple-500 focus:border-transparent outline-none transition-all text-sm;
+}
+
+.segment-input-title {
+  @apply flex-1 min-w-0;
+}
+
+.segment-input-time {
+  @apply w-20 text-center;
+}
+
+.segment-btn {
+  @apply p-2 rounded-lg transition-all text-lg hover:scale-110;
+}
+
+.segment-btn-play {
+  @apply bg-purple-500 hover:bg-purple-600 text-white;
+}
+
+.segment-btn-play.playing {
+  @apply bg-orange-500 hover:bg-orange-600;
+}
+
+.segment-btn-loop {
+  @apply bg-gray-200 dark:bg-gray-600 hover:bg-gray-300 dark:hover:bg-gray-500;
+}
+
+.segment-btn-loop.loop-on {
+  @apply bg-emerald-500 text-white;
+}
+
+.segment-btn-delete {
+  @apply bg-red-100 dark:bg-red-900/30 text-red-500 hover:bg-red-200 dark:hover:bg-red-900/50;
+}
+
+/* YouTube player responsive */
+#player {
+  position: relative;
+  width: 100%;
+  max-width: 560px;
+  margin: 0 auto;
+}
+
+#player iframe {
+  border-radius: 12px;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+}
+
+/* Mobile optimizations */
+@media (max-width: 640px) {
+  .segment {
+    @apply p-3;
+  }
+
+  .segment-input-title {
+    @apply text-base;
+  }
+
+  .segment-input-time {
+    @apply text-sm;
+  }
+
+  .segment-btn {
+    @apply p-2.5;
+  }
+}
+
+/* Empty state animation */
+#empty-state {
+  animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+  0%,
+  100% {
+    opacity: 0.6;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+
+/* Focus ring for accessibility */
+button:focus-visible,
+input:focus-visible,
+select:focus-visible {
+  @apply ring-2 ring-purple-500 ring-offset-2 ring-offset-white dark:ring-offset-gray-900;
+}
+
+/* Glass morphism effect for cards (optional enhancement) */
+.glass {
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+}

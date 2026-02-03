@@ -1,0 +1,423 @@
+<!doctype html>
+<html lang="th" class="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>🎸 YouTube Guitar Practice</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        darkMode: "class",
+        theme: {
+          extend: {
+            colors: {
+              primary: "#8b5cf6",
+              secondary: "#6366f1",
+            },
+          },
+        },
+      };
+    </script>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body
+    class="min-h-screen bg-gray-50 dark:bg-gray-900 text-gray-800 dark:text-gray-100 transition-colors duration-300"
+  >
+    <div class="max-w-4xl mx-auto px-4 py-8">
+      <!-- Header -->
+      <header class="flex items-center justify-between mb-8">
+        <h1
+          class="text-2xl md:text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-indigo-500 flex items-center gap-3"
+        >
+          <svg
+            class="w-8 h-8 text-purple-500"
+            fill="currentColor"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 3v10.55c-.59-.34-1.27-.55-2-.55-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4V7h4V3h-6z"
+            />
+          </svg>
+          FREE LOOP
+        </h1>
+        <div class="flex items-center gap-2">
+          <button
+            onclick="openGuideModal()"
+            class="p-2.5 rounded-xl bg-blue-500 hover:bg-blue-600 transition-colors text-white"
+            title="คู่มือการใช้งาน"
+          >
+            <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
+              <path
+                d="M11 18h2v-2h-2v2zm1-16C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm0-14c-2.21 0-4 1.79-4 4h2c0-1.1.9-2 2-2s2 .9 2 2c0 2-3 1.75-3 5h2c0-2.25 3-2.5 3-5 0-2.21-1.79-4-4-4z"
+              />
+            </svg>
+          </button>
+          <button
+            onclick="toggleDarkMode()"
+            class="p-2.5 rounded-xl bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600 transition-colors"
+            title="Toggle Dark Mode"
+          >
+            <svg
+              class="w-5 h-5 dark:hidden"
+              fill="currentColor"
+              viewBox="0 0 24 24"
+            >
+              <path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z" />
+            </svg>
+            <svg
+              class="w-5 h-5 hidden dark:block"
+              fill="currentColor"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 7c-2.76 0-5 2.24-5 5s2.24 5 5 5 5-2.24 5-5-2.24-5-5-5zM2 13h2c.55 0 1-.45 1-1s-.45-1-1-1H2c-.55 0-1 .45-1 1s.45 1 1 1zm18 0h2c.55 0 1-.45 1-1s-.45-1-1-1h-2c-.55 0-1 .45-1 1s.45 1 1 1zM11 2v2c0 .55.45 1 1 1s1-.45 1-1V2c0-.55-.45-1-1-1s-1 .45-1 1zm0 18v2c0 .55.45 1 1 1s1-.45 1-1v-2c0-.55-.45-1-1-1s-1 .45-1 1zM5.99 4.58a.996.996 0 00-1.41 0 .996.996 0 000 1.41l1.06 1.06c.39.39 1.03.39 1.41 0s.39-1.03 0-1.41L5.99 4.58zm12.37 12.37a.996.996 0 00-1.41 0 .996.996 0 000 1.41l1.06 1.06c.39.39 1.03.39 1.41 0a.996.996 0 000-1.41l-1.06-1.06zm1.06-10.96a.996.996 0 000-1.41.996.996 0 00-1.41 0l-1.06 1.06c-.39.39-.39 1.03 0 1.41s1.03.39 1.41 0l1.06-1.06zM7.05 18.36a.996.996 0 000-1.41.996.996 0 00-1.41 0l-1.06 1.06c-.39.39-.39 1.03 0 1.41s1.03.39 1.41 0l1.06-1.06z"
+              />
+            </svg>
+          </button>
+        </div>
+      </header>
+
+      <!-- Video Player -->
+      <div class="bg-white dark:bg-gray-800 rounded-2xl shadow-lg p-6 mb-6">
+        <div
+          id="player"
+          class="flex justify-center mb-6 rounded-xl overflow-hidden"
+        ></div>
+
+        <!-- URL Input -->
+        <div class="flex flex-col sm:flex-row gap-3 mb-6">
+          <input
+            id="youtubeUrl"
+            placeholder="🔗 Paste YouTube URL here..."
+            class="flex-1 px-4 py-3 rounded-xl border border-gray-300 dark:border-gray-600 bg-gray-50 dark:bg-gray-700 focus:ring-2 focus:ring-purple-500 focus:border-transparent outline-none transition-all"
+          />
+          <div class="flex gap-2">
+            <button
+              onclick="loadVideo()"
+              class="px-5 py-3 bg-gradient-to-r from-purple-500 to-indigo-500 text-white font-medium rounded-xl hover:from-purple-600 hover:to-indigo-600 transition-all shadow-md hover:shadow-lg flex items-center gap-2"
+            >
+              <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24">
+                <path d="M8 5v14l11-7z" />
+              </svg>
+              Load
+            </button>
+            <button
+              id="stopBtn"
+              onclick="stopPlayback()"
+              class="hidden px-4 py-3 bg-red-500 hover:bg-red-600 text-white font-medium rounded-xl transition-all shadow-md hover:shadow-lg"
+              title="Stop"
+            >
+              <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
+                <rect x="6" y="6" width="12" height="12" rx="1" />
+              </svg>
+            </button>
+          </div>
+        </div>
+
+        <!-- Controls -->
+        <div
+          id="controls"
+          class="hidden flex flex-col sm:flex-row flex-wrap items-stretch sm:items-center gap-4"
+        >
+          <div class="flex items-center gap-2">
+            <label class="text-sm font-medium text-gray-600 dark:text-gray-400"
+              >Speed:</label
+            >
+            <select
+              onchange="setSpeed(this.value)"
+              class="flex-1 sm:flex-none px-3 py-2 rounded-lg border border-gray-300 dark:border-gray-600 bg-gray-50 dark:bg-gray-700 focus:ring-2 focus:ring-purple-500 outline-none transition-all cursor-pointer"
+            >
+              <option value="0.25">0.25x</option>
+              <option value="0.5">0.5x</option>
+              <option value="0.75">0.75x</option>
+              <option value="1" selected>1x</option>
+              <option value="1.25">1.25x</option>
+              <option value="1.5">1.5x</option>
+            </select>
+          </div>
+
+          <div class="flex flex-wrap gap-2 sm:ml-auto">
+            <button
+              onclick="addSegment()"
+              class="flex-1 sm:flex-none px-4 py-2 bg-emerald-500 hover:bg-emerald-600 text-white font-medium rounded-lg transition-all text-sm flex items-center justify-center gap-1.5"
+            >
+              <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24">
+                <path d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z" />
+              </svg>
+              Add
+            </button>
+            <button
+              onclick="savePreset()"
+              class="flex-1 sm:flex-none px-4 py-2 bg-blue-500 hover:bg-blue-600 text-white font-medium rounded-lg transition-all text-sm flex items-center justify-center gap-1.5"
+            >
+              <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24">
+                <path
+                  d="M17 3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2V7l-4-4zm-5 16c-1.66 0-3-1.34-3-3s1.34-3 3-3 3 1.34 3 3-1.34 3-3 3zm3-10H5V5h10v4z"
+                />
+              </svg>
+              Save
+            </button>
+            <button
+              onclick="loadPreset()"
+              class="flex-1 sm:flex-none px-4 py-2 bg-gray-500 hover:bg-gray-600 text-white font-medium rounded-lg transition-all text-sm flex items-center justify-center gap-1.5"
+            >
+              <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24">
+                <path
+                  d="M20 6h-8l-2-2H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2zm0 12H4V8h16v10z"
+                />
+              </svg>
+              Load
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Segments Section -->
+      <div class="bg-white dark:bg-gray-800 rounded-2xl shadow-lg p-6">
+        <h2 class="text-xl font-semibold mb-4 flex items-center gap-2">
+          <svg
+            class="w-5 h-5 text-purple-500"
+            fill="currentColor"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M4 6H2v14c0 1.1.9 2 2 2h14v-2H4V6zm16-4H8c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm-1 9h-4v4h-2v-4H9V9h4V5h2v4h4v2z"
+            />
+          </svg>
+          Practice Segments
+        </h2>
+        <div id="segments" class="space-y-3"></div>
+        <div
+          id="empty-state"
+          class="text-center py-8 text-gray-400 dark:text-gray-500"
+        >
+          <svg
+            class="w-12 h-12 mx-auto mb-3 opacity-50"
+            fill="currentColor"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 3v10.55c-.59-.34-1.27-.55-2-.55-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4V7h4V3h-6z"
+            />
+          </svg>
+          <p>No segments yet. Add one to start practicing!</p>
+        </div>
+      </div>
+
+      <!-- Footer -->
+      <footer
+        class="text-center mt-8 text-sm text-gray-400 dark:text-gray-500 flex items-center justify-center gap-1"
+      >
+        Made with
+        <svg
+          class="w-4 h-4 text-purple-500"
+          fill="currentColor"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+          />
+        </svg>
+        for guitar practice
+      </footer>
+    </div>
+
+    <!-- Guide Modal -->
+    <div
+      id="guideModal"
+      class="hidden fixed inset-0 bg-black bg-opacity-50 z-50 flex items-center justify-center p-4"
+      onclick="if (event.target === this) closeGuideModal();"
+    >
+      <div
+        class="bg-white dark:bg-gray-800 rounded-2xl shadow-2xl max-w-2xl w-full max-h-[90vh] overflow-y-auto"
+      >
+        <div
+          class="sticky top-0 bg-white dark:bg-gray-800 border-b border-gray-200 dark:border-gray-700 p-6 flex items-center justify-between z-10"
+        >
+          <h2
+            class="text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-indigo-500 flex items-center gap-2"
+          >
+            <svg
+              class="w-6 h-6 text-purple-500"
+              fill="currentColor"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-5 14H7v-2h7v2zm3-4H7v-2h10v2zm0-4H7V7h10v2z"
+              />
+            </svg>
+            คู่มือการใช้งาน
+          </h2>
+          <button
+            onclick="closeGuideModal()"
+            class="p-2 hover:bg-gray-100 dark:hover:bg-gray-700 rounded-lg transition-colors"
+          >
+            <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
+              <path
+                d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"
+              />
+            </svg>
+          </button>
+        </div>
+
+        <div class="p-6 space-y-6">
+          <!-- Step 1 -->
+          <div class="flex gap-4">
+            <div
+              class="flex-shrink-0 w-8 h-8 rounded-full bg-purple-500 text-white flex items-center justify-center font-bold"
+            >
+              1
+            </div>
+            <div class="flex-1">
+              <h3 class="font-semibold text-lg mb-2">โหลดวิดีโอจาก YouTube</h3>
+              <p class="text-gray-600 dark:text-gray-400 mb-2">
+                วางลิงก์ YouTube ในช่อง URL แล้วกดปุ่ม "Load"
+              </p>
+              <div class="bg-gray-100 dark:bg-gray-700 rounded-lg p-3 text-sm">
+                <code>https://www.youtube.com/watch?v=...</code>
+              </div>
+            </div>
+          </div>
+
+          <!-- Step 2 -->
+          <div class="flex gap-4">
+            <div
+              class="flex-shrink-0 w-8 h-8 rounded-full bg-purple-500 text-white flex items-center justify-center font-bold"
+            >
+              2
+            </div>
+            <div class="flex-1">
+              <h3 class="font-semibold text-lg mb-2">ปรับความเร็ว</h3>
+              <p class="text-gray-600 dark:text-gray-400">
+                เลือกความเร็วเพลงตามความถนัด (0.25x - 1.5x)
+              </p>
+            </div>
+          </div>
+
+          <!-- Step 3 -->
+          <div class="flex gap-4">
+            <div
+              class="flex-shrink-0 w-8 h-8 rounded-full bg-purple-500 text-white flex items-center justify-center font-bold"
+            >
+              3
+            </div>
+            <div class="flex-1">
+              <h3 class="font-semibold text-lg mb-2">
+                เพิ่ม Segment สำหรับฝึกซ้อม
+              </h3>
+              <p class="text-gray-600 dark:text-gray-400 mb-2">
+                กดปุ่ม "Add" เพื่อสร้างช่วงเวลาที่ต้องการฝึกซ้อม
+              </p>
+              <ul
+                class="list-disc list-inside space-y-1 text-sm text-gray-600 dark:text-gray-400 ml-2"
+              >
+                <li>ตั้งชื่อ Segment (ชื่อช่วงที่ต้องการฝึก)</li>
+                <li>ตั้งเวลาเริ่มต้นและสิ้นสุด (นาที:วินาที)</li>
+              </ul>
+            </div>
+          </div>
+
+          <!-- Step 4 -->
+          <div class="flex gap-4">
+            <div
+              class="flex-shrink-0 w-8 h-8 rounded-full bg-purple-500 text-white flex items-center justify-center font-bold"
+            >
+              4
+            </div>
+            <div class="flex-1">
+              <h3 class="font-semibold text-lg mb-2">เริ่มฝึกซ้อม</h3>
+              <p class="text-gray-600 dark:text-gray-400 mb-2">
+                กดปุ่ม "▶" เพื่อเริ่มเล่นในช่วงที่กำหนด
+              </p>
+              <p class="text-gray-600 dark:text-gray-400 mb-2">
+                กดปุ่ม "🔁" เพื่อกำหนดให้เล่นซ้ำในช่วงที่กำหนด
+              </p>
+            </div>
+          </div>
+
+          <!-- Step 5 -->
+          <div class="flex gap-4">
+            <div
+              class="flex-shrink-0 w-8 h-8 rounded-full bg-purple-500 text-white flex items-center justify-center font-bold"
+            >
+              5
+            </div>
+            <div class="flex-1">
+              <h3 class="font-semibold text-lg mb-2">บันทึกและโหลด Preset</h3>
+              <p class="text-gray-600 dark:text-gray-400 mb-2">
+                บันทึกการตั้งค่าทั้งหมดเพื่อใช้ในครั้งถัดไป
+              </p>
+              <div class="flex gap-2 text-sm flex-wrap">
+                <span
+                  class="px-3 py-1 bg-blue-100 dark:bg-blue-900 text-blue-700 dark:text-blue-300 rounded-lg"
+                  >💾 Save - บันทึก</span
+                >
+                <span
+                  class="px-3 py-1 bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300 rounded-lg"
+                  >📁 Load - โหลด</span
+                >
+              </div>
+            </div>
+          </div>
+
+          <!-- Tips -->
+          <div
+            class="bg-gradient-to-r from-purple-50 to-indigo-50 dark:from-purple-900/20 dark:to-indigo-900/20 rounded-xl p-4 border border-purple-200 dark:border-purple-800"
+          >
+            <h3 class="font-semibold text-lg mb-3 flex items-center gap-2">
+              <svg
+                class="w-5 h-5 text-purple-500"
+                fill="currentColor"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-6h2v6zm0-8h-2V7h2v2z"
+                />
+              </svg>
+              เคล็ดลับ
+            </h3>
+            <ul class="space-y-2 text-sm text-gray-700 dark:text-gray-300">
+              <li>✅ เริ่มจากความเร็วช้าๆ แล้วค่อยเพิ่มทีละน้อย</li>
+              <li>✅ แบ่งเพลงออกเป็นช่วงเล็กๆ เพื่อฝึกแต่ละท่อนให้เชี่ยวชาญ</li>
+              <li>✅ ใช้หมายเหตุเพื่อบันทึกจุดที่ต้องปรับปรุง</li>
+              <li>✅ บันทึก Preset เพื่อกลับมาฝึกต่อได้ง่าย</li>
+            </ul>
+          </div>
+        </div>
+
+        <div
+          class="sticky bottom-0 bg-gray-50 dark:bg-gray-900 border-t border-gray-200 dark:border-gray-700 p-6"
+        >
+          <button
+            onclick="closeGuideModal()"
+            class="w-full px-6 py-3 bg-gradient-to-r from-purple-500 to-indigo-500 text-white font-medium rounded-xl hover:from-purple-600 hover:to-indigo-600 transition-all shadow-md hover:shadow-lg"
+          >
+            เริ่มใช้งาน
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <script src="https://www.youtube.com/iframe_api"></script>
+    <script src="app.js"></script>
+    <script>
+      function openGuideModal() {
+        document.getElementById("guideModal").classList.remove("hidden");
+        document.body.style.overflow = "hidden";
+      }
+
+      function closeGuideModal() {
+        document.getElementById("guideModal").classList.add("hidden");
+        document.body.style.overflow = "auto";
+      }
+
+      // Close modal with Escape key
+      document.addEventListener("keydown", function (e) {
+        if (e.key === "Escape") {
+          closeGuideModal();
+        }
+      });
+    </script>
+  </body>
+</html>

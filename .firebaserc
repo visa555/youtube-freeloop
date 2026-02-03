@@ -1,0 +1,16 @@
+{
+  "projects": {
+    "default": "fireweb-3cfe0"
+  },
+  "targets": {
+    "fireweb-3cfe0": {
+      "hosting": {
+        "dev-guitar-hero": [
+          "dev-guitar-hero"
+        ]
+      }
+    }
+  },
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
