@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "q": "1,000,000 อ่านเป็นภาษาอังกฤษว่าอย่างไร",
+    "options": [
+      "one billion",
+      "ten thousand",
+      "one million",
+      "one hundred thousand"
+    ],
+    "answer": 2,
+    "explanation": "1,000,000 (หนึ่งล้าน) มีเลข 0 หกตัว อ่านว่า one million ส่วน one billion คือ 1,000,000,000"
+  },
+  {
+    "id": 2,
+    "q": "one billion เขียนเป็นตัวเลขได้ข้อใด",
+    "options": [
+      "1,000,000",
+      "100,000,000",
+      "1,000,000,000",
+      "10,000,000,000"
+    ],
+    "answer": 2,
+    "explanation": "one billion คือหนึ่งพันล้าน มีเลข 0 เก้าตัว เขียนว่า 1,000,000,000"
+  },
+  {
+    "id": 3,
+    "q": "10,000 อ่านเป็นภาษาอังกฤษว่าอย่างไร",
+    "options": [
+      "ten thousand",
+      "one hundred thousand",
+      "one thousand",
+      "ten million"
+    ],
+    "answer": 0,
+    "explanation": "10,000 คือหนึ่งหมื่น ภาษาอังกฤษไม่มีคำว่า “หมื่น” จึงอ่านว่า ten thousand (สิบพัน)"
+  },
+  {
+    "id": 4,
+    "q": "100,000 อ่านเป็นภาษาอังกฤษว่าอย่างไร",
+    "options": [
+      "ten thousand",
+      "one million",
+      "one thousand",
+      "one hundred thousand"
+    ],
+    "answer": 3,
+    "explanation": "100,000 คือหนึ่งแสน ภาษาอังกฤษไม่มีคำว่า “แสน” จึงอ่านว่า one hundred thousand (หนึ่งร้อยพัน)"
+  },
+  {
+    "id": 5,
+    "q": "2,500 อ่านเป็นภาษาอังกฤษว่าอย่างไร",
+    "options": [
+      "two thousand and fifty",
+      "two thousand five hundred",
+      "two hundred and fifty",
+      "twenty-five thousand"
+    ],
+    "answer": 1,
+    "explanation": "2,500 คือ 2 พัน กับ 5 ร้อย อ่านว่า two thousand five hundred"
+  },
+  {
+    "id": 6,
+    "q": "45,300 อ่านเป็นภาษาอังกฤษว่าอย่างไร",
+    "options": [
+      "forty-five thousand three hundred",
+      "four thousand five hundred and thirty",
+      "four hundred and fifty-three thousand",
+      "forty-five thousand and thirty"
+    ],
+    "answer": 0,
+    "explanation": "แบ่งตัวเลขตามเครื่องหมายจุลภาค 45 | 300 อ่านกลุ่มหน้าว่า forty-five thousand แล้วตามด้วย three hundred"
+  },
+  {
+    "id": 7,
+    "q": "three million five hundred thousand เขียนเป็นตัวเลขได้ข้อใด",
+    "options": [
+      "3,050,000",
+      "350,000",
+      "3,500,000",
+      "35,000,000"
+    ],
+    "answer": 2,
+    "explanation": "three million = 3,000,000 และ five hundred thousand = 500,000 รวมกันได้ 3,500,000"
+  },
+  {
+    "id": 8,
+    "q": "ประโยคใดถูกต้องตามหลักไวยากรณ์",
+    "options": [
+      "The city has a population of two millions people.",
+      "The city has a population of two million people.",
+      "The city has a population of two million of people.",
+      "The city has a population of two millions of people."
+    ],
+    "answer": 1,
+    "explanation": "เมื่อมีตัวเลขนำหน้า คำว่า hundred, thousand, million, billion จะไม่เติม -s และไม่ต้องมี of เช่น two million people"
+  },
+  {
+    "id": 9,
+    "q": "เติมคำในช่องว่าง: ___ of people visited the festival last weekend.",
+    "options": [
+      "Thousand",
+      "Three thousands",
+      "A thousands",
+      "Thousands"
+    ],
+    "answer": 3,
+    "explanation": "ถ้าไม่ระบุจำนวนที่แน่นอน ให้ใช้รูปพหูพจน์ + of เช่น hundreds of, thousands of, millions of (หมายถึง จำนวนหลายพัน)"
+  },
+  {
+    "id": 10,
+    "q": "1,200 อ่านเป็นภาษาอังกฤษว่าอย่างไร",
+    "options": [
+      "one thousand and twenty",
+      "twelve thousand",
+      "one hundred and twenty",
+      "one thousand two hundred"
+    ],
+    "answer": 3,
+    "explanation": "1,200 คือ 1 พัน กับ 2 ร้อย อ่านว่า one thousand two hundred"
+  },
+  {
+    "id": 11,
+    "q": "750,000 อ่านเป็นภาษาอังกฤษว่าอย่างไร",
+    "options": [
+      "seventy-five thousand",
+      "seven hundred and fifty thousand",
+      "seven thousand five hundred",
+      "seven million and fifty thousand"
+    ],
+    "answer": 1,
+    "explanation": "750,000 คือ 750 พัน อ่านกลุ่ม 750 ว่า seven hundred and fifty แล้วตามด้วย thousand (แบบอังกฤษใส่ and หลัง hundred ส่วนแบบอเมริกันอาจไม่ใส่)"
+  },
+  {
+    "id": 12,
+    "q": "one million มีเลข 0 กี่ตัว",
+    "options": [
+      "3 ตัว",
+      "7 ตัว",
+      "6 ตัว",
+      "9 ตัว"
+    ],
+    "answer": 2,
+    "explanation": "one million = 1,000,000 มีเลข 0 หกตัว (thousand มี 3 ตัว, million มี 6 ตัว, billion มี 9 ตัว)"
+  },
+  {
+    "id": 13,
+    "q": "1,000 × 1,000 เท่ากับข้อใด",
+    "options": [
+      "one million",
+      "ten thousand",
+      "one hundred thousand",
+      "one billion"
+    ],
+    "answer": 0,
+    "explanation": "1,000 × 1,000 = 1,000,000 ซึ่งอ่านว่า one million (หนึ่งพันของหนึ่งพัน เท่ากับหนึ่งล้าน)"
+  },
+  {
+    "id": 14,
+    "q": "70,000,000 อ่านเป็นภาษาอังกฤษว่าอย่างไร",
+    "options": [
+      "seven million",
+      "seven hundred million",
+      "seventy million",
+      "seventy billion"
+    ],
+    "answer": 2,
+    "explanation": "70,000,000 คือเจ็ดสิบล้าน กลุ่มหน้าสุดคือ 70 ตามด้วยหลักล้าน จึงอ่านว่า seventy million"
+  },
+  {
+    "id": 15,
+    "q": "“The house costs 4,200,000 baht.” ตัวเลขนี้อ่านว่าอย่างไร",
+    "options": [
+      "four million twenty thousand baht",
+      "forty-two million baht",
+      "four hundred and twenty thousand baht",
+      "four million two hundred thousand baht"
+    ],
+    "answer": 3,
+    "explanation": "แบ่งเป็น 4 | 200 | 000 อ่านว่า four million two hundred thousand"
+  },
+  {
+    "id": 16,
+    "q": "sixty thousand and five เขียนเป็นตัวเลขได้ข้อใด",
+    "options": [
+      "60,005",
+      "60,500",
+      "65,000",
+      "6,005"
+    ],
+    "answer": 0,
+    "explanation": "sixty thousand = 60,000 และ five = 5 รวมกันเป็น 60,005 (and ในที่นี้เชื่อมกับหลักหน่วย ไม่ใช่หลักร้อย)"
+  },
+  {
+    "id": 17,
+    "q": "half a million เท่ากับข้อใด",
+    "options": [
+      "50,000",
+      "500,000",
+      "5,000,000",
+      "1,500,000"
+    ],
+    "answer": 1,
+    "explanation": "half แปลว่า ครึ่งหนึ่ง ครึ่งหนึ่งของ 1,000,000 คือ 500,000 (ห้าแสน)"
+  },
+  {
+    "id": 18,
+    "q": "จำนวนใดมีค่ามากที่สุด",
+    "options": [
+      "nine hundred million",
+      "two billion",
+      "fifty million",
+      "999,999"
+    ],
+    "answer": 1,
+    "explanation": "two billion = 2,000,000,000 มากกว่า nine hundred million (900,000,000) fifty million (50,000,000) และ 999,999"
+  },
+  {
+    "id": 19,
+    "q": "two hundred thousand + three hundred thousand = ___",
+    "options": [
+      "five million",
+      "fifty thousand",
+      "five thousand",
+      "five hundred thousand"
+    ],
+    "answer": 3,
+    "explanation": "200,000 + 300,000 = 500,000 ซึ่งอ่านว่า five hundred thousand"
+  },
+  {
+    "id": 20,
+    "q": "เติมคำในช่องว่าง: The new stadium can hold ___ people.",
+    "options": [
+      "fifty thousand",
+      "fifty thousands",
+      "fifty thousands of",
+      "fifty of thousand"
+    ],
+    "answer": 0,
+    "explanation": "มีตัวเลข fifty นำหน้าแล้ว thousand จึงไม่เติม -s และไม่มี of ตามหลัง"
+  }
+]

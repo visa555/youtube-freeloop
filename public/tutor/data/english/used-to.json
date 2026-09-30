@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "q": "เติมคำในช่องว่าง: I ___ play football every evening when I was a child.",
+    "options": [
+      "am used to",
+      "use to",
+      "get used to",
+      "used to"
+    ],
+    "answer": 3,
+    "explanation": "used to + กริยาช่อง 1 ใช้บอกนิสัยหรือสิ่งที่เคยทำเป็นประจำในอดีต แต่ปัจจุบันไม่ได้ทำแล้ว"
+  },
+  {
+    "id": 2,
+    "q": "เติมคำในช่องว่าง: My grandfather used to ___ a farmer.",
+    "options": [
+      "being",
+      "be",
+      "was",
+      "been"
+    ],
+    "answer": 1,
+    "explanation": "หลัง used to (เคย) ต้องใช้กริยาช่อง 1 เสมอ จึงเป็น used to be a farmer (เคยเป็นชาวนา)"
+  },
+  {
+    "id": 3,
+    "q": "เติมคำในช่องว่าง: She is used to ___ up early.",
+    "options": [
+      "getting",
+      "get",
+      "got",
+      "gets"
+    ],
+    "answer": 0,
+    "explanation": "be used to (เคยชินกับ) ต้องตามด้วยคำนามหรือกริยาเติม -ing เพราะ to ในที่นี้เป็นบุพบท จึงเป็น is used to getting up early"
+  },
+  {
+    "id": 4,
+    "q": "เติมคำในช่องว่าง: He didn't ___ like vegetables, but now he loves them.",
+    "options": [
+      "using to",
+      "uses to",
+      "use to",
+      "be used to"
+    ],
+    "answer": 2,
+    "explanation": "รูปปฏิเสธของ used to คือ didn't use to + กริยาช่อง 1 (ตัด d ออกเพราะมี did บอกอดีตแล้ว)"
+  },
+  {
+    "id": 5,
+    "q": "เติมคำในช่องว่าง: Did you ___ live in Chiang Mai?",
+    "options": [
+      "used",
+      "use to",
+      "using to",
+      "uses to"
+    ],
+    "answer": 1,
+    "explanation": "รูปคำถามของ used to คือ Did + ประธาน + use to + กริยาช่อง 1 (ใช้ use to เพราะมี Did แล้ว)"
+  },
+  {
+    "id": 6,
+    "q": "“I used to walk to school.” มีความหมายตรงกับข้อใด",
+    "options": [
+      "I walk to school every day now.",
+      "I am familiar with walking to school.",
+      "I will walk to school tomorrow.",
+      "In the past I walked to school, but now I don't."
+    ],
+    "answer": 3,
+    "explanation": "used to + กริยาช่อง 1 หมายถึง เคยทำในอดีต แต่ตอนนี้ไม่ได้ทำแล้ว ส่วน “am familiar with” คือความหมายของ be used to"
+  },
+  {
+    "id": 7,
+    "q": "“Tom is used to hot weather.” มีความหมายตรงกับข้อใด",
+    "options": [
+      "Tom liked hot weather only in the past.",
+      "Tom is starting to like hot weather.",
+      "Tom will visit a hot country.",
+      "Tom is familiar with hot weather, so it is not strange for him."
+    ],
+    "answer": 3,
+    "explanation": "be used to + คำนาม แปลว่า เคยชินกับสิ่งนั้นแล้ว ไม่รู้สึกแปลกหรือลำบาก"
+  },
+  {
+    "id": 8,
+    "q": "เติมคำในช่องว่าง: When I moved to London, it was hard at first, but I soon ___ driving on the left.",
+    "options": [
+      "used to",
+      "got used to",
+      "get used",
+      "was use to"
+    ],
+    "answer": 1,
+    "explanation": "get used to แปลว่า ค่อย ๆ ชินกับสิ่งใหม่ เหตุการณ์เกิดในอดีตจึงใช้ got used to + กริยาเติม -ing"
+  },
+  {
+    "id": 9,
+    "q": "เติมคำในช่องว่าง: Don't worry. You will ___ your new school soon.",
+    "options": [
+      "used to",
+      "use to",
+      "get used to",
+      "be use to"
+    ],
+    "answer": 2,
+    "explanation": "get used to ใช้เมื่อกำลังจะคุ้นเคยกับสิ่งใหม่ หลัง will ใช้กริยาช่อง 1 จึงเป็น will get used to your new school"
+  },
+  {
+    "id": 10,
+    "q": "เติมคำในช่องว่าง: My father ___ working at night. He has done it for ten years.",
+    "options": [
+      "is used to",
+      "used to",
+      "use to",
+      "is use to"
+    ],
+    "answer": 0,
+    "explanation": "พ่อทำงานกลางคืนมา 10 ปีจนเคยชินแล้วและยังทำอยู่ จึงใช้ is used to + กริยาเติม -ing (ถ้าใช้ used to working จะผิดรูป)"
+  },
+  {
+    "id": 11,
+    "q": "ประโยคใดถูกต้องตามหลักไวยากรณ์",
+    "options": [
+      "There use to be a big tree in front of my house.",
+      "There used to being a big tree in front of my house.",
+      "There used to be a big tree in front of my house.",
+      "There was used to be a big tree in front of my house."
+    ],
+    "answer": 2,
+    "explanation": "there used to be ใช้บอกว่าเคยมีสิ่งหนึ่งอยู่ในอดีตแต่ตอนนี้ไม่มีแล้ว ประโยคบอกเล่าต้องใช้ used to (มี d) + กริยาช่อง 1"
+  },
+  {
+    "id": 12,
+    "q": "ประโยคใดถูกต้องตามหลักไวยากรณ์",
+    "options": [
+      "I am not used to eat spicy food.",
+      "I not used to eating spicy food.",
+      "I am not use to eating spicy food.",
+      "I am not used to eating spicy food."
+    ],
+    "answer": 3,
+    "explanation": "รูปปฏิเสธของ be used to คือ am / is / are not used to + กริยาเติม -ing หรือคำนาม"
+  },
+  {
+    "id": 13,
+    "q": "“Ben used to be shy.” ข้อใดถูกต้องเกี่ยวกับ Ben ในปัจจุบัน",
+    "options": [
+      "He is not shy now.",
+      "He is still very shy.",
+      "He was never shy.",
+      "He will be shy tomorrow."
+    ],
+    "answer": 0,
+    "explanation": "used to be บอกว่าเคยเป็นในอดีตแต่ตอนนี้ไม่เป็นแล้ว ปัจจุบัน Ben จึงไม่ขี้อายแล้ว"
+  },
+  {
+    "id": 14,
+    "q": "เติมคำในช่องว่าง: We ___ have a dog, but it died last year.",
+    "options": [
+      "are used to",
+      "used to",
+      "got used to",
+      "use to"
+    ],
+    "answer": 1,
+    "explanation": "เคยเลี้ยงสุนัขในอดีตแต่ตอนนี้ไม่มีแล้ว จึงใช้ used to + กริยาช่อง 1 (have)"
+  },
+  {
+    "id": 15,
+    "q": "เติมคำในช่องว่าง: It took me a long time to ___ the noise of the city.",
+    "options": [
+      "used to",
+      "get used to",
+      "be use to",
+      "getting used"
+    ],
+    "answer": 1,
+    "explanation": "ใช้เวลานานกว่าจะชินกับเสียงดังของเมือง เป็นกระบวนการค่อย ๆ ชิน จึงใช้ get used to + คำนาม"
+  },
+  {
+    "id": 16,
+    "q": "เติมคำในช่องว่าง: Nurses ___ working long hours.",
+    "options": [
+      "use to",
+      "is used to",
+      "are use to",
+      "are used to"
+    ],
+    "answer": 3,
+    "explanation": "พยาบาลเคยชินกับการทำงานเป็นเวลานาน ใช้ be used to + กริยาเติม -ing ประธาน Nurses เป็นพหูพจน์จึงใช้ are"
+  },
+  {
+    "id": 17,
+    "q": "เติมคำในช่องว่าง: ___ you used to living alone yet?",
+    "options": [
+      "Are",
+      "Do",
+      "Did",
+      "Have"
+    ],
+    "answer": 0,
+    "explanation": "รูปคำถามของ be used to ให้นำ am / is / are ขึ้นต้นประโยค ประธาน you จึงใช้ Are you used to ...?"
+  },
+  {
+    "id": 18,
+    "q": "เติมคำในช่องว่าง: When I was young, I ___ drink milk every day. Now I ___ drinking coffee.",
+    "options": [
+      "am used to / used to",
+      "used to / use to",
+      "used to / am used to",
+      "get used to / used to"
+    ],
+    "answer": 2,
+    "explanation": "ช่องแรกเป็นนิสัยในอดีต ใช้ used to + กริยาช่อง 1 ช่องที่สองเป็นความเคยชินในปัจจุบัน ใช้ am used to + กริยาเติม -ing"
+  },
+  {
+    "id": 19,
+    "q": "หลัง be used to และ get used to ต้องใช้กริยารูปใด",
+    "options": [
+      "กริยาช่อง 1 เช่น live",
+      "กริยาช่อง 2 เช่น lived",
+      "กริยาเติม -ing เช่น living",
+      "to + กริยาช่อง 1 เช่น to live"
+    ],
+    "answer": 2,
+    "explanation": "to ใน be used to / get used to เป็นบุพบท จึงตามด้วยคำนามหรือกริยาเติม -ing ส่วน used to (เคย) ตามด้วยกริยาช่อง 1"
+  },
+  {
+    "id": 20,
+    "q": "“Sam is getting used to his new glasses.” มีความหมายตรงกับข้อใด",
+    "options": [
+      "Sam is slowly becoming comfortable with his new glasses.",
+      "Sam wore glasses in the past but not now.",
+      "Sam has always been comfortable with his glasses.",
+      "Sam doesn't want to wear glasses."
+    ],
+    "answer": 0,
+    "explanation": "get used to หมายถึง กำลังค่อย ๆ ชินกับสิ่งใหม่ ในประโยคนี้แซมกำลังปรับตัวให้ชินกับแว่นใหม่"
+  }
+]

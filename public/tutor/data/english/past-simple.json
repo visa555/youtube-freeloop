@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "q": "เติมคำในช่องว่าง: I ___ to the zoo yesterday.",
+    "options": [
+      "go",
+      "went",
+      "goes",
+      "going"
+    ],
+    "answer": 1,
+    "explanation": "มีคำว่า yesterday (เมื่อวานนี้) แสดงว่าเป็นเหตุการณ์ในอดีต ต้องใช้ Past Simple กริยา go เป็นกริยาอปกติ รูปอดีตคือ went"
+  },
+  {
+    "id": 2,
+    "q": "เติมคำในช่องว่าง: She ___ her homework last night.",
+    "options": [
+      "do",
+      "does",
+      "done",
+      "did"
+    ],
+    "answer": 3,
+    "explanation": "last night บอกเวลาในอดีต กริยา do ในรูปอดีตคือ did (done เป็นกริยาช่อง 3 ใช้กับ have/has)"
+  },
+  {
+    "id": 3,
+    "q": "รูปอดีต (Past Simple) ของคำว่า “play” คือข้อใด",
+    "options": [
+      "played",
+      "plaied",
+      "plaid",
+      "plays"
+    ],
+    "answer": 0,
+    "explanation": "play ลงท้ายด้วยสระ a + y จึงเติม -ed ได้เลยโดยไม่ต้องเปลี่ยน y เป็น i"
+  },
+  {
+    "id": 4,
+    "q": "รูปอดีต (Past Simple) ของคำว่า “study” คือข้อใด",
+    "options": [
+      "studyed",
+      "studed",
+      "studied",
+      "studies"
+    ],
+    "answer": 2,
+    "explanation": "study ลงท้ายด้วยพยัญชนะ d + y ต้องเปลี่ยน y เป็น i แล้วเติม -ed จึงเป็น studied"
+  },
+  {
+    "id": 5,
+    "q": "รูปอดีต (Past Simple) ของคำว่า “stop” คือข้อใด",
+    "options": [
+      "stoped",
+      "stops",
+      "stopped",
+      "stopping"
+    ],
+    "answer": 2,
+    "explanation": "stop มีพยางค์เดียว สระเสียงสั้นตัวเดียวตามด้วยพยัญชนะตัวเดียว ต้องเพิ่มพยัญชนะตัวท้าย (p) อีกตัวก่อนเติม -ed"
+  },
+  {
+    "id": 6,
+    "q": "เติมคำในช่องว่าง: We ___ at home last Sunday.",
+    "options": [
+      "were",
+      "was",
+      "are",
+      "is"
+    ],
+    "answer": 0,
+    "explanation": "ประธาน we ใช้ were ในอดีต (was ใช้กับ I, he, she, it และคำนามเอกพจน์)"
+  },
+  {
+    "id": 7,
+    "q": "เติมคำในช่องว่าง: He ___ sick yesterday.",
+    "options": [
+      "were",
+      "is",
+      "be",
+      "was"
+    ],
+    "answer": 3,
+    "explanation": "ประธาน he เป็นเอกพจน์ และมี yesterday บอกอดีต จึงใช้ was"
+  },
+  {
+    "id": 8,
+    "q": "เติมคำในช่องว่าง: ___ you watch TV last night?",
+    "options": [
+      "Do",
+      "Did",
+      "Does",
+      "Were"
+    ],
+    "answer": 1,
+    "explanation": "ประโยคคำถามในอดีตที่มีกริยาแท้ (watch) ใช้ Did ขึ้นต้น แล้วตามด้วยประธานและกริยาช่อง 1"
+  },
+  {
+    "id": 9,
+    "q": "เติมคำในช่องว่าง: They didn't ___ football yesterday.",
+    "options": [
+      "play",
+      "played",
+      "plays",
+      "playing"
+    ],
+    "answer": 0,
+    "explanation": "หลัง didn't ต้องใช้กริยาช่อง 1 เสมอ เพราะ did บอกความเป็นอดีตไว้แล้ว"
+  },
+  {
+    "id": 10,
+    "q": "เติมคำในช่องว่าง: A: Did Tom visit his grandma?  B: Yes, he ___.",
+    "options": [
+      "does",
+      "was",
+      "did",
+      "visited"
+    ],
+    "answer": 2,
+    "explanation": "คำถามขึ้นต้นด้วย Did การตอบสั้น ๆ ก็ต้องใช้ did เช่นกัน คือ Yes, he did. หรือ No, he didn't."
+  },
+  {
+    "id": 11,
+    "q": "ประโยคใดถูกต้องตามหลักไวยากรณ์",
+    "options": [
+      "My father buy a new car last month.",
+      "My father bought a new car last month.",
+      "My father buyed a new car last month.",
+      "My father buys a new car last month."
+    ],
+    "answer": 1,
+    "explanation": "last month บอกอดีต ต้องใช้ Past Simple กริยา buy เป็นกริยาอปกติ รูปอดีตคือ bought ไม่ใช่ buyed"
+  },
+  {
+    "id": 12,
+    "q": "รูปอดีต (Past Simple) ของคำว่า “eat” คือข้อใด",
+    "options": [
+      "eated",
+      "eaten",
+      "eats",
+      "ate"
+    ],
+    "answer": 3,
+    "explanation": "eat เป็นกริยาอปกติ รูปอดีตคือ ate ส่วน eaten เป็นกริยาช่อง 3"
+  },
+  {
+    "id": 13,
+    "q": "คำหรือวลีใดบอกเวลาในอดีต",
+    "options": [
+      "tomorrow",
+      "next week",
+      "now",
+      "two days ago"
+    ],
+    "answer": 3,
+    "explanation": "ago แปลว่า “ที่แล้ว” two days ago คือ สองวันที่แล้ว ส่วน tomorrow และ next week บอกอนาคต และ now บอกปัจจุบัน"
+  },
+  {
+    "id": 14,
+    "q": "เติมคำในช่องว่าง: Mali ___ a letter to her friend two days ago.",
+    "options": [
+      "writes",
+      "wrote",
+      "writed",
+      "write"
+    ],
+    "answer": 1,
+    "explanation": "two days ago บอกอดีต กริยา write เป็นกริยาอปกติ รูปอดีตคือ wrote"
+  },
+  {
+    "id": 15,
+    "q": "เปลี่ยนประโยค “I see a bird.” ให้เป็นเหตุการณ์เมื่อวานนี้ ข้อใดถูกต้อง",
+    "options": [
+      "I seen a bird yesterday.",
+      "I seed a bird yesterday.",
+      "I saw a bird yesterday.",
+      "I sees a bird yesterday."
+    ],
+    "answer": 2,
+    "explanation": "see เป็นกริยาอปกติ รูปอดีตคือ saw ส่วน seen เป็นกริยาช่อง 3 ต้องใช้กับ have/has"
+  },
+  {
+    "id": 16,
+    "q": "ประโยคปฏิเสธของ “She went to school.” คือข้อใด",
+    "options": [
+      "She didn't go to school.",
+      "She didn't went to school.",
+      "She doesn't went to school.",
+      "She wasn't go to school."
+    ],
+    "answer": 0,
+    "explanation": "ประโยคปฏิเสธในอดีตใช้ didn't + กริยาช่อง 1 จึงต้องเปลี่ยน went กลับเป็น go"
+  },
+  {
+    "id": 17,
+    "q": "เติมคำในช่องว่าง: A: ___ did you go last weekend?  B: I went to the beach.",
+    "options": [
+      "What",
+      "Who",
+      "Where",
+      "When"
+    ],
+    "answer": 2,
+    "explanation": "คำตอบบอกสถานที่ (to the beach) จึงต้องถามด้วย Where (ที่ไหน)"
+  },
+  {
+    "id": 18,
+    "q": "เติมคำในช่องว่าง: The children ___ very happy at the party.",
+    "options": [
+      "was",
+      "is",
+      "be",
+      "were"
+    ],
+    "answer": 3,
+    "explanation": "The children เป็นคำนามพหูพจน์ (เด็ก ๆ หลายคน) ในอดีตจึงใช้ were"
+  },
+  {
+    "id": 19,
+    "q": "รูปอดีต (Past Simple) ของคำว่า “have” คือข้อใด",
+    "options": [
+      "had",
+      "haved",
+      "has",
+      "having"
+    ],
+    "answer": 0,
+    "explanation": "have เป็นกริยาอปกติ รูปอดีตคือ had ใช้ได้กับประธานทุกตัว"
+  },
+  {
+    "id": 20,
+    "q": "อ่านข้อความ: “Last Saturday, Ben got up early. He rode his bike to the park and played with his friends. In the evening, he was very tired.” Ben ทำอะไรที่สวนสาธารณะ",
+    "options": [
+      "He rode a horse.",
+      "He played with his friends.",
+      "He slept all day.",
+      "He did his homework."
+    ],
+    "answer": 1,
+    "explanation": "ข้อความบอกว่า He rode his bike to the park and played with his friends. แปลว่า เขาขี่จักรยานไปสวนสาธารณะและเล่นกับเพื่อน ๆ"
+  }
+]

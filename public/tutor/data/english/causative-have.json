@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "q": "เติมคำในช่องว่าง: I ___ my hair cut yesterday.",
+    "options": [
+      "have",
+      "did",
+      "was",
+      "had"
+    ],
+    "answer": 3,
+    "explanation": "have something done ใช้เมื่อให้ผู้อื่นทำบางอย่างให้เรา เหตุการณ์เกิดเมื่อวาน (yesterday) จึงใช้ had (ช่างตัดผมให้ ไม่ได้ตัดเอง)"
+  },
+  {
+    "id": 2,
+    "q": "เติมคำในช่องว่าง: She has her car ___ every month.",
+    "options": [
+      "wash",
+      "washed",
+      "washing",
+      "to wash"
+    ],
+    "answer": 1,
+    "explanation": "โครงสร้าง have + สิ่งของ + กริยาช่อง 3 เพราะรถถูกล้างโดยผู้อื่น จึงเป็น has her car washed"
+  },
+  {
+    "id": 3,
+    "q": "เติมคำในช่องว่าง: My father had the mechanic ___ his car.",
+    "options": [
+      "repaired",
+      "repairing",
+      "repair",
+      "to repair"
+    ],
+    "answer": 2,
+    "explanation": "โครงสร้าง have + คน + กริยาช่อง 1 (ไม่มี to) หมายถึง ให้คนนั้นทำบางอย่าง จึงเป็น had the mechanic repair his car"
+  },
+  {
+    "id": 4,
+    "q": "“I had my house painted.” มีความหมายตรงกับข้อใด",
+    "options": [
+      "Someone else painted my house for me.",
+      "I painted my house myself.",
+      "I will paint my house.",
+      "My house was never painted."
+    ],
+    "answer": 0,
+    "explanation": "have + สิ่งของ + กริยาช่อง 3 หมายถึง มีคนอื่นทำให้ ในที่นี้มีคนทาสีบ้านให้ ไม่ได้ทาสีเอง"
+  },
+  {
+    "id": 5,
+    "q": "“The teacher had the students clean the classroom.” มีความหมายตรงกับข้อใด",
+    "options": [
+      "The teacher cleaned the classroom.",
+      "The students asked the teacher to clean the classroom.",
+      "The teacher asked the students to clean the classroom.",
+      "The classroom was cleaned by the teacher."
+    ],
+    "answer": 2,
+    "explanation": "have + คน + กริยาช่อง 1 หมายถึง ให้คนนั้นทำ ครูจึงให้นักเรียนทำความสะอาดห้อง"
+  },
+  {
+    "id": 6,
+    "q": "เติมคำในช่องว่าง: We are going to have our photo ___ at the studio.",
+    "options": [
+      "take",
+      "took",
+      "taking",
+      "taken"
+    ],
+    "answer": 3,
+    "explanation": "have + สิ่งของ + กริยาช่อง 3 รูปถ่ายถูกถ่ายโดยช่างภาพ กริยาช่อง 3 ของ take คือ taken"
+  },
+  {
+    "id": 7,
+    "q": "เติมคำในช่องว่าง: I will have my brother ___ me with my homework.",
+    "options": [
+      "help",
+      "helped",
+      "helping",
+      "to help"
+    ],
+    "answer": 0,
+    "explanation": "have + คน + กริยาช่อง 1 ให้พี่ชายช่วย จึงเป็น have my brother help me"
+  },
+  {
+    "id": 8,
+    "q": "ประโยคใดถูกต้องตามหลักไวยากรณ์",
+    "options": [
+      "Mali had her eyes test last week.",
+      "Mali had her eyes tested last week.",
+      "Mali had her eyes testing last week.",
+      "Mali had test her eyes last week."
+    ],
+    "answer": 1,
+    "explanation": "have + สิ่งของ + กริยาช่อง 3 ตาของมาลีถูกตรวจโดยจักษุแพทย์ จึงเป็น had her eyes tested"
+  },
+  {
+    "id": 9,
+    "q": "เติมคำในช่องว่าง: Where do you usually ___ your clothes cleaned?",
+    "options": [
+      "had",
+      "have",
+      "do",
+      "make"
+    ],
+    "answer": 1,
+    "explanation": "ประโยคคำถามที่มี do ต้องใช้กริยาช่อง 1 จึงเป็น do you have your clothes cleaned? (ให้ร้านซักรีดทำให้)"
+  },
+  {
+    "id": 10,
+    "q": "เติมคำในช่องว่าง: The manager had his secretary ___ the letters.",
+    "options": [
+      "typed",
+      "typing",
+      "types",
+      "type"
+    ],
+    "answer": 3,
+    "explanation": "have + คน + กริยาช่อง 1 ผู้จัดการให้เลขานุการพิมพ์จดหมาย จึงเป็น had his secretary type the letters"
+  },
+  {
+    "id": 11,
+    "q": "โครงสร้าง have + สิ่งของ + ___ ใช้เมื่อให้ผู้อื่นทำบางอย่างให้ ช่องว่างต้องเป็นกริยารูปใด",
+    "options": [
+      "กริยาช่อง 3 (past participle)",
+      "กริยาช่อง 1",
+      "กริยาเติม -ing",
+      "to + กริยาช่อง 1"
+    ],
+    "answer": 0,
+    "explanation": "have something done เช่น have my hair cut, have my car washed ใช้กริยาช่อง 3 เพราะสิ่งของเป็นผู้ถูกกระทำ"
+  },
+  {
+    "id": 12,
+    "q": "โครงสร้าง have + คน + ___ ใช้เมื่อให้คนนั้นทำบางอย่าง ช่องว่างต้องเป็นกริยารูปใด",
+    "options": [
+      "กริยาช่อง 3",
+      "กริยาเติม -ing",
+      "กริยาช่อง 1 (ไม่มี to)",
+      "to + กริยาช่อง 1"
+    ],
+    "answer": 2,
+    "explanation": "have someone do something เช่น have the mechanic fix my car ใช้กริยาช่อง 1 ที่ไม่มี to เพราะคนเป็นผู้ลงมือทำ"
+  },
+  {
+    "id": 13,
+    "q": "เปลี่ยนประโยค “A dentist checked my teeth.” ให้ใช้ have something done ข้อใดถูกต้อง",
+    "options": [
+      "I had my teeth check by a dentist.",
+      "I checked my teeth by a dentist.",
+      "I had my teeth checked by a dentist.",
+      "I had a dentist checked my teeth."
+    ],
+    "answer": 2,
+    "explanation": "ใช้ had + สิ่งของ (my teeth) + กริยาช่อง 3 (checked) และบอกผู้ทำด้วย by a dentist"
+  },
+  {
+    "id": 14,
+    "q": "เปลี่ยนประโยค “I asked the plumber to fix the sink.” ให้ใช้ have someone do ข้อใดถูกต้อง",
+    "options": [
+      "I had the plumber fix the sink.",
+      "I had the plumber fixed the sink.",
+      "I had the sink fix by the plumber.",
+      "I had the plumber to fix the sink."
+    ],
+    "answer": 0,
+    "explanation": "ใช้ had + คน (the plumber) + กริยาช่อง 1 ไม่มี to (fix)"
+  },
+  {
+    "id": 15,
+    "q": "เติมคำในช่องว่าง: My mother is having a new dress ___ for the wedding.",
+    "options": [
+      "make",
+      "making",
+      "to make",
+      "made"
+    ],
+    "answer": 3,
+    "explanation": "have + สิ่งของ + กริยาช่อง 3 ชุดถูกตัดโดยช่างตัดเสื้อ กริยาช่อง 3 ของ make คือ made"
+  },
+  {
+    "id": 16,
+    "q": "เติมคำในช่องว่าง: Our school ___ a new library built last year.",
+    "options": [
+      "has",
+      "had",
+      "have",
+      "was"
+    ],
+    "answer": 1,
+    "explanation": "last year บอกอดีต จึงใช้ had + สิ่งของ + กริยาช่อง 3 (โรงเรียนให้ผู้รับเหมาสร้างห้องสมุดใหม่)"
+  },
+  {
+    "id": 17,
+    "q": "เติมคำในช่องว่าง: I didn't ___ my car washed yesterday.",
+    "options": [
+      "have",
+      "had",
+      "having",
+      "to have"
+    ],
+    "answer": 0,
+    "explanation": "หลัง didn't ต้องใช้กริยาช่อง 1 จึงเป็น didn't have my car washed"
+  },
+  {
+    "id": 18,
+    "q": "เติมคำในช่องว่าง: ___ you have your bike fixed last week?",
+    "options": [
+      "Do",
+      "Were",
+      "Did",
+      "Have"
+    ],
+    "answer": 2,
+    "explanation": "คำถามในอดีตที่มีกริยาแท้ have ใช้ Did ขึ้นต้น แล้วตามด้วย have + สิ่งของ + กริยาช่อง 3"
+  },
+  {
+    "id": 19,
+    "q": "เติมคำในช่องว่าง: Tomorrow I ___ my computer repaired.",
+    "options": [
+      "had",
+      "will have",
+      "have had",
+      "will had"
+    ],
+    "answer": 1,
+    "explanation": "tomorrow บอกอนาคต ใช้ will + have (กริยาช่อง 1) + สิ่งของ + กริยาช่อง 3"
+  },
+  {
+    "id": 20,
+    "q": "Anna couldn't fix her phone by herself, so she ___.",
+    "options": [
+      "had it fix at a shop",
+      "fixed it herself",
+      "had it fixing at a shop",
+      "had it fixed at a shop"
+    ],
+    "answer": 3,
+    "explanation": "แอนนาซ่อมเองไม่ได้ จึงให้ร้านซ่อมให้ ใช้ have + สิ่งของ (it) + กริยาช่อง 3 (fixed)"
+  }
+]

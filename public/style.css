@@ -55,80 +55,203 @@ html.dark body::before {
 
 /* Segment card styles */
 .segment {
-  @apply bg-gray-100 dark:bg-gray-700/50 rounded-xl p-4 border border-gray-200 dark:border-gray-600 hover:border-purple-400 dark:hover:border-purple-500 transition-all;
+  background-color: #f3f4f6;
+  border-radius: 0.75rem;
+  padding: 1rem;
+  border: 1px solid #e5e7eb;
+  transition: all 0.3s ease;
+}
+
+.dark .segment {
+  background-color: rgba(55, 65, 81, 0.5);
+  border-color: #4b5563;
+}
+
+.segment:hover {
+  border-color: #a78bfa;
+}
+
+.dark .segment:hover {
+  border-color: #8b5cf6;
 }
 
 .segment.active {
-  @apply border-purple-500 bg-purple-50 dark:bg-purple-900/20 shadow-md;
+  border-color: #8b5cf6;
+  background-color: #faf5ff;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+
+.dark .segment.active {
+  background-color: rgba(88, 28, 135, 0.2);
 }
 
 .segment-input {
-  @apply px-3 py-2 rounded-lg border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 focus:ring-2 focus:ring-purple-500 focus:border-transparent outline-none transition-all text-sm;
+  padding: 0.5rem 0.75rem;
+  border-radius: 0.5rem;
+  border: 1px solid #d1d5db;
+  background-color: white;
+  font-size: 0.875rem;
+  outline: none;
+  transition: all 0.3s ease;
+}
+
+.dark .segment-input {
+  border-color: #4b5563;
+  background-color: #1f2937;
+}
+
+.segment-input:focus {
+  box-shadow: 0 0 0 2px #8b5cf6;
+  border-color: transparent;
 }
 
 .segment-input-title {
-  @apply flex-1 min-w-0;
+  flex: 1;
+  min-width: 0;
 }
 
 .segment-input-time {
-  @apply w-20 text-center;
+  width: 5rem;
+  text-align: center;
 }
 
 .segment-btn {
-  @apply p-2 rounded-lg transition-all text-lg hover:scale-110;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  transition: all 0.3s ease;
+  font-size: 1.125rem;
+}
+
+.segment-btn:hover {
+  transform: scale(1.1);
 }
 
 .segment-btn-play {
-  @apply bg-purple-500 hover:bg-purple-600 text-white;
+  background-color: #8b5cf6;
+  color: white;
+}
+
+.segment-btn-play:hover {
+  background-color: #7c3aed;
 }
 
 .segment-btn-play.playing {
-  @apply bg-orange-500 hover:bg-orange-600;
+  background-color: #f97316;
+}
+
+.segment-btn-play.playing:hover {
+  background-color: #ea580c;
+}
+
+.segment-btn-stop {
+  background-color: #ef4444;
+  color: white;
+}
+
+.segment-btn-stop:hover {
+  background-color: #dc2626;
+}
+
+.segment-btn-stop.hidden {
+  display: none;
 }
 
 .segment-btn-loop {
-  @apply bg-gray-200 dark:bg-gray-600 hover:bg-gray-300 dark:hover:bg-gray-500;
+  background-color: #e5e7eb;
+}
+
+.dark .segment-btn-loop {
+  background-color: #4b5563;
+}
+
+.segment-btn-loop:hover {
+  background-color: #d1d5db;
+}
+
+.dark .segment-btn-loop:hover {
+  background-color: #6b7280;
 }
 
 .segment-btn-loop.loop-on {
-  @apply bg-emerald-500 text-white;
+  background-color: #10b981 !important;
+  color: white !important;
+  box-shadow:
+    0 0 12px rgba(16, 185, 129, 0.6),
+    0 0 24px rgba(16, 185, 129, 0.3);
+  animation: loop-pulse 1.5s ease-in-out infinite;
+}
+
+@keyframes loop-pulse {
+  0%,
+  100% {
+    box-shadow:
+      0 0 8px rgba(16, 185, 129, 0.5),
+      0 0 16px rgba(16, 185, 129, 0.25);
+    transform: scale(1);
+  }
+  50% {
+    box-shadow:
+      0 0 16px rgba(16, 185, 129, 0.7),
+      0 0 32px rgba(16, 185, 129, 0.4);
+    transform: scale(1.05);
+  }
 }
 
 .segment-btn-delete {
-  @apply bg-red-100 dark:bg-red-900/30 text-red-500 hover:bg-red-200 dark:hover:bg-red-900/50;
+  background-color: #fee2e2;
+  color: #ef4444;
+}
+
+.dark .segment-btn-delete {
+  background-color: rgba(127, 29, 29, 0.3);
+}
+
+.segment-btn-delete:hover {
+  background-color: #fecaca;
+}
+
+.dark .segment-btn-delete:hover {
+  background-color: rgba(127, 29, 29, 0.5);
 }
 
 /* YouTube player responsive */
 #player {
   position: relative;
   width: 100%;
-  max-width: 560px;
+  max-width: 100%;
+  height: 0;
   margin: 0 auto;
+  overflow: hidden;
+  transition: height 0.4s ease;
+}
+
+#player.loaded {
+  height: 70vh;
+  margin-bottom: 1.5rem;
 }
 
 #player iframe {
   border-radius: 12px;
   width: 100%;
-  height: auto;
-  aspect-ratio: 16 / 9;
+  height: 100%;
 }
 
 /* Mobile optimizations */
 @media (max-width: 640px) {
   .segment {
-    @apply p-3;
+    padding: 0.75rem;
   }
 
   .segment-input-title {
-    @apply text-base;
+    font-size: 1rem;
   }
 
   .segment-input-time {
-    @apply text-sm;
+    font-size: 0.875rem;
   }
 
   .segment-btn {
-    @apply p-2.5;
+    padding: 0.625rem;
   }
 }
 
@@ -151,7 +274,9 @@ html.dark body::before {
 button:focus-visible,
 input:focus-visible,
 select:focus-visible {
-  @apply ring-2 ring-purple-500 ring-offset-2 ring-offset-white dark:ring-offset-gray-900;
+  box-shadow: 0 0 0 2px #8b5cf6;
+  outline: 2px solid transparent;
+  outline-offset: 2px;
 }
 
 /* Glass morphism effect for cards (optional enhancement) */

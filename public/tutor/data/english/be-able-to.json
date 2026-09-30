@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "q": "เติมคำในช่องว่าง (Present Simple): She ___ swim very well.",
+    "options": [
+      "are able to",
+      "is able to",
+      "able to",
+      "is able"
+    ],
+    "answer": 1,
+    "explanation": "Present Simple ใช้ am / is / are + able to + กริยาช่อง 1 ประธาน she เป็นเอกพจน์จึงใช้ is able to"
+  },
+  {
+    "id": 2,
+    "q": "เติมคำในช่องว่าง: They ___ finish the work yesterday.",
+    "options": [
+      "was able to",
+      "are able to",
+      "will be able to",
+      "were able to"
+    ],
+    "answer": 3,
+    "explanation": "yesterday บอกอดีต ใช้ Past Simple คือ was / were able to ประธาน they เป็นพหูพจน์จึงใช้ were able to"
+  },
+  {
+    "id": 3,
+    "q": "เติมคำในช่องว่าง: I ___ come to your party tomorrow.",
+    "options": [
+      "will be able to",
+      "will able to",
+      "am able to",
+      "will can"
+    ],
+    "answer": 0,
+    "explanation": "tomorrow บอกอนาคต ใช้ Future Simple คือ will be able to ต้องมี be หลัง will เสมอ และภาษาอังกฤษไม่ใช้ will can"
+  },
+  {
+    "id": 4,
+    "q": "เติมคำในช่องว่าง: He ___ drive a car. He is only ten years old.",
+    "options": [
+      "doesn't able to",
+      "isn't able",
+      "isn't able to",
+      "not able to"
+    ],
+    "answer": 2,
+    "explanation": "รูปปฏิเสธของ Present Simple คือ am not / isn't / aren't able to ห้ามใช้ doesn't เพราะ be able to มีกริยา be อยู่แล้ว"
+  },
+  {
+    "id": 5,
+    "q": "เติมคำในช่องว่าง: We ___ find the key last night.",
+    "options": [
+      "didn't able to",
+      "wasn't able to",
+      "weren't able to",
+      "aren't able to"
+    ],
+    "answer": 2,
+    "explanation": "last night บอกอดีต รูปปฏิเสธคือ wasn't / weren't able to ประธาน we จึงใช้ weren't able to (ไม่ใช้ didn't เพราะมีกริยา be อยู่แล้ว)"
+  },
+  {
+    "id": 6,
+    "q": "เติมคำในช่องว่าง: You ___ see the stars tonight because it is very cloudy.",
+    "options": [
+      "won't be able to",
+      "won't able to",
+      "will not able to",
+      "aren't be able to"
+    ],
+    "answer": 0,
+    "explanation": "รูปปฏิเสธของ Future Simple คือ won't (will not) be able to ต้องมี be หลัง won't เสมอ"
+  },
+  {
+    "id": 7,
+    "q": "เปลี่ยนประโยค “I can read Chinese.” โดยใช้ be able to ข้อใดถูกต้อง",
+    "options": [
+      "I able to read Chinese.",
+      "I am able read Chinese.",
+      "I was able to reading Chinese.",
+      "I am able to read Chinese."
+    ],
+    "answer": 3,
+    "explanation": "can ในปัจจุบันเปลี่ยนเป็น am / is / are able to + กริยาช่อง 1 ประธาน I ใช้ am จึงเป็น I am able to read Chinese."
+  },
+  {
+    "id": 8,
+    "q": "เปลี่ยนประโยค “Tom could ride a bike when he was five.” โดยใช้ be able to ข้อใดถูกต้อง",
+    "options": [
+      "Tom is able to ride a bike when he was five.",
+      "Tom was able to ride a bike when he was five.",
+      "Tom were able to ride a bike when he was five.",
+      "Tom was able riding a bike when he was five."
+    ],
+    "answer": 1,
+    "explanation": "could เป็นอดีตของ can จึงเปลี่ยนเป็น was / were able to ประธาน Tom เป็นเอกพจน์ใช้ was able to + กริยาช่อง 1"
+  },
+  {
+    "id": 9,
+    "q": "เติมคำในช่องว่าง: My baby brother can't walk now, but he ___ walk next year.",
+    "options": [
+      "will be able to",
+      "is able to",
+      "was able to",
+      "won't be able to"
+    ],
+    "answer": 0,
+    "explanation": "next year บอกอนาคต และประโยคบอกว่าตอนนี้ยังเดินไม่ได้ แต่ปีหน้าจะเดินได้ จึงใช้ will be able to"
+  },
+  {
+    "id": 10,
+    "q": "ประโยคใดถูกต้องตามหลักไวยากรณ์",
+    "options": [
+      "Birds is able to fly.",
+      "Birds are able fly.",
+      "Birds are able to fly.",
+      "Birds are able to flying."
+    ],
+    "answer": 2,
+    "explanation": "Birds เป็นพหูพจน์จึงใช้ are และหลัง able to ต้องเป็นกริยาช่อง 1 (fly) เสมอ"
+  },
+  {
+    "id": 11,
+    "q": "เติมคำในช่องว่าง: Mali was sick, so she ___ go to school yesterday.",
+    "options": [
+      "isn't able to",
+      "wasn't able to",
+      "won't be able to",
+      "weren't able to"
+    ],
+    "answer": 1,
+    "explanation": "เหตุการณ์เกิดเมื่อวาน (yesterday) และมาลีป่วยจึงไปโรงเรียนไม่ได้ ใช้รูปปฏิเสธอดีต ประธาน she ใช้ wasn't able to"
+  },
+  {
+    "id": 12,
+    "q": "เติมคำในช่องว่าง: ___ you able to hear me now?",
+    "options": [
+      "Do",
+      "Is",
+      "Can",
+      "Are"
+    ],
+    "answer": 3,
+    "explanation": "ประโยคคำถามของ be able to ให้นำ am / is / are ขึ้นต้นประโยค ประธาน you ใช้ Are จึงเป็น Are you able to hear me now?"
+  },
+  {
+    "id": 13,
+    "q": "เติมคำในช่องว่าง: ___ your sister able to pass the test last week?",
+    "options": [
+      "Were",
+      "Did",
+      "Is",
+      "Was"
+    ],
+    "answer": 3,
+    "explanation": "last week บอกอดีต คำถามจึงขึ้นต้นด้วย Was / Were ประธาน your sister เป็นเอกพจน์จึงใช้ Was"
+  },
+  {
+    "id": 14,
+    "q": "เติมคำในช่องว่าง: Will you ___ help me tomorrow?",
+    "options": [
+      "able to",
+      "be able to",
+      "are able to",
+      "can"
+    ],
+    "answer": 1,
+    "explanation": "คำถามในอนาคตใช้ Will + ประธาน + be able to + กริยาช่อง 1 ต้องมี be หลังประธานเสมอ"
+  },
+  {
+    "id": 15,
+    "q": "เติมคำในช่องว่าง: If you practise every day, you ___ play the piano well.",
+    "options": [
+      "will can",
+      "are able",
+      "will be able to",
+      "was able to"
+    ],
+    "answer": 2,
+    "explanation": "ถ้าฝึกทุกวัน ในอนาคตจะเล่นเปียโนได้ดี จึงใช้ will be able to (ไม่มีรูป will can ในภาษาอังกฤษ)"
+  },
+  {
+    "id": 16,
+    "q": "ประโยค “He is unable to lift the box.” มีความหมายเหมือนกับข้อใด",
+    "options": [
+      "He isn't able to lift the box.",
+      "He is able to lift the box.",
+      "He was able to lift the box.",
+      "He will be able to lift the box."
+    ],
+    "answer": 0,
+    "explanation": "unable to มีความหมายเท่ากับ not able to ดังนั้น is unable to จึงเท่ากับ isn't able to (ยกกล่องไม่ได้)"
+  },
+  {
+    "id": 17,
+    "q": "เปลี่ยนประโยค “I am not able to sleep.” ให้เป็นเหตุการณ์เมื่อคืนนี้ (last night) ข้อใดถูกต้อง",
+    "options": [
+      "I weren't able to sleep last night.",
+      "I didn't able to sleep last night.",
+      "I wasn't able to sleep last night.",
+      "I am not able to sleep last night."
+    ],
+    "answer": 2,
+    "explanation": "เปลี่ยนเป็นอดีตโดยเปลี่ยน am not เป็น wasn't ประธาน I ใช้ was / wasn't"
+  },
+  {
+    "id": 18,
+    "q": "เติมคำในช่องว่าง: The students ___ answer all the questions in the last test. They got full marks.",
+    "options": [
+      "weren't able to",
+      "was able to",
+      "are able to",
+      "were able to"
+    ],
+    "answer": 3,
+    "explanation": "นักเรียนได้คะแนนเต็ม แสดงว่าตอบได้ทุกข้อ เป็นเหตุการณ์ในอดีต (the last test) ประธานพหูพจน์จึงใช้ were able to"
+  },
+  {
+    "id": 19,
+    "q": "เติมคำในช่องว่าง: Next month, my father ___ buy a new car because he has saved enough money.",
+    "options": [
+      "will be able to",
+      "won't be able to",
+      "was able to",
+      "is able"
+    ],
+    "answer": 0,
+    "explanation": "next month บอกอนาคต และพ่อเก็บเงินได้พอแล้ว จึงจะซื้อรถได้ ใช้ will be able to"
+  },
+  {
+    "id": 20,
+    "q": "ประโยค “She will not be able to join us.” เป็นประโยคแบบใด",
+    "options": [
+      "Present Simple รูปปฏิเสธ",
+      "Future Simple รูปปฏิเสธ",
+      "Past Simple รูปบอกเล่า",
+      "Future Simple รูปบอกเล่า"
+    ],
+    "answer": 1,
+    "explanation": "will ... be able to เป็น Future Simple และมี not จึงเป็นรูปปฏิเสธ หมายถึง เธอจะมาร่วมกับเราไม่ได้"
+  }
+]

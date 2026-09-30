@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "q": "เติมคำในช่องว่าง: An elephant is ___ than a dog.",
+    "options": [
+      "bigger",
+      "big",
+      "biggest",
+      "more big"
+    ],
+    "answer": 0,
+    "explanation": "เปรียบเทียบของ 2 สิ่งโดยมี than ใช้ขั้นกว่า (comparative) big มีสระเสียงสั้นตามด้วยพยัญชนะตัวเดียว จึงเพิ่ม g แล้วเติม -er เป็น bigger"
+  },
+  {
+    "id": 2,
+    "q": "เติมคำในช่องว่าง: Mount Everest is the ___ mountain in the world.",
+    "options": [
+      "high",
+      "higher",
+      "more high",
+      "highest"
+    ],
+    "answer": 3,
+    "explanation": "เปรียบเทียบกับภูเขาทุกลูกในโลก (in the world) และมี the นำหน้า ต้องใช้ขั้นสูงสุด (superlative) คือ highest"
+  },
+  {
+    "id": 3,
+    "q": "ขั้นกว่า (comparative) ของคำว่า “happy” คือข้อใด",
+    "options": [
+      "happyer",
+      "happier",
+      "more happy",
+      "happiest"
+    ],
+    "answer": 1,
+    "explanation": "happy ลงท้ายด้วยพยัญชนะ + y ให้เปลี่ยน y เป็น i แล้วเติม -er เป็น happier (happiest คือขั้นสูงสุด)"
+  },
+  {
+    "id": 4,
+    "q": "ขั้นสูงสุด (superlative) ของคำว่า “good” คือข้อใด",
+    "options": [
+      "best",
+      "goodest",
+      "better",
+      "most good"
+    ],
+    "answer": 0,
+    "explanation": "good เป็นคำคุณศัพท์ที่เปลี่ยนรูปไม่ปกติ good → better → best"
+  },
+  {
+    "id": 5,
+    "q": "ขั้นกว่า (comparative) ของคำว่า “bad” คือข้อใด",
+    "options": [
+      "badder",
+      "worst",
+      "worse",
+      "more bad"
+    ],
+    "answer": 2,
+    "explanation": "bad เปลี่ยนรูปไม่ปกติ bad → worse → worst"
+  },
+  {
+    "id": 6,
+    "q": "เติมคำในช่องว่าง: This book is ___ than that one. (interesting)",
+    "options": [
+      "interestinger",
+      "more interesting",
+      "most interesting",
+      "the more interesting"
+    ],
+    "answer": 1,
+    "explanation": "interesting เป็นคำยาวหลายพยางค์ ขั้นกว่าต้องใช้ more นำหน้า ไม่เติม -er"
+  },
+  {
+    "id": 7,
+    "q": "เติมคำในช่องว่าง: She is the ___ girl in our class. (beautiful)",
+    "options": [
+      "more beautiful",
+      "beautifulest",
+      "beautifuller",
+      "most beautiful"
+    ],
+    "answer": 3,
+    "explanation": "เปรียบเทียบกับทุกคนในห้อง (in our class) และมี the จึงใช้ขั้นสูงสุด beautiful เป็นคำยาวต้องใช้ most นำหน้า"
+  },
+  {
+    "id": 8,
+    "q": "เติมคำในช่องว่าง: My bag is ___ than yours. (heavy)",
+    "options": [
+      "heavyer",
+      "more heavy",
+      "heaviest",
+      "heavier"
+    ],
+    "answer": 3,
+    "explanation": "มี than จึงใช้ขั้นกว่า heavy ลงท้ายด้วยพยัญชนะ + y เปลี่ยน y เป็น i แล้วเติม -er เป็น heavier"
+  },
+  {
+    "id": 9,
+    "q": "ประโยคใดถูกต้องตามหลักไวยากรณ์",
+    "options": [
+      "Tom is tall than Ben.",
+      "Tom is taller than Ben.",
+      "Tom is more tall than Ben.",
+      "Tom is tallest than Ben."
+    ],
+    "answer": 1,
+    "explanation": "เปรียบเทียบคน 2 คนด้วย than ใช้ขั้นกว่า tall เป็นคำสั้นจึงเติม -er เป็น taller"
+  },
+  {
+    "id": 10,
+    "q": "ประโยคใดถูกต้องตามหลักไวยากรณ์",
+    "options": [
+      "Bangkok is the bigest city in Thailand.",
+      "Bangkok is biggest city than Thailand.",
+      "Bangkok is the biggest city in Thailand.",
+      "Bangkok is the most big city in Thailand."
+    ],
+    "answer": 2,
+    "explanation": "เปรียบเทียบกับทุกเมืองในประเทศไทยใช้ the + ขั้นสูงสุด big ต้องเพิ่ม g ก่อนเติม -est เป็น biggest"
+  },
+  {
+    "id": 11,
+    "q": "เติมคำในช่องว่าง: A cheetah runs ___ than a horse.",
+    "options": [
+      "faster",
+      "fastest",
+      "more fast",
+      "fastly"
+    ],
+    "answer": 0,
+    "explanation": "มี than จึงใช้ขั้นกว่า fast เป็นคำสั้น เติม -er เป็น faster (ภาษาอังกฤษไม่มีคำว่า fastly)"
+  },
+  {
+    "id": 12,
+    "q": "ขั้นกว่า (comparative) ของคำว่า “thin” คือข้อใด",
+    "options": [
+      "thiner",
+      "more thin",
+      "thinner",
+      "thinnest"
+    ],
+    "answer": 2,
+    "explanation": "thin มีสระเสียงสั้นตัวเดียวตามด้วยพยัญชนะตัวเดียว ต้องเพิ่ม n อีกตัวก่อนเติม -er"
+  },
+  {
+    "id": 13,
+    "q": "อ่านข้อมูลแล้วตอบคำถาม: Ann is 150 cm tall, Bee is 145 cm tall and Cat is 155 cm tall. Who is the tallest?",
+    "options": [
+      "Ann",
+      "Bee",
+      "Ann and Bee",
+      "Cat"
+    ],
+    "answer": 3,
+    "explanation": "Cat สูง 155 เซนติเมตร มากที่สุดในสามคน จึงเป็น the tallest"
+  },
+  {
+    "id": 14,
+    "q": "อ่านข้อมูลแล้วตอบคำถาม: Ann is 150 cm tall and Bee is 145 cm tall. Bee is ___ than Ann.",
+    "options": [
+      "shorter",
+      "taller",
+      "shortest",
+      "tallest"
+    ],
+    "answer": 0,
+    "explanation": "Bee สูง 145 เซนติเมตร ส่วน Ann สูง 150 เซนติเมตร Bee จึงเตี้ยกว่า และมี than จึงใช้ขั้นกว่า shorter"
+  },
+  {
+    "id": 15,
+    "q": "อ่านข้อมูลแล้วตอบคำถาม: A pen costs 10 baht, a ruler costs 15 baht and a notebook costs 25 baht. Which is the most expensive?",
+    "options": [
+      "the pen",
+      "the notebook",
+      "the ruler",
+      "the pen and the ruler"
+    ],
+    "answer": 1,
+    "explanation": "สมุด (notebook) ราคา 25 บาท แพงที่สุด expensive เป็นคำยาว ขั้นสูงสุดจึงเป็น the most expensive"
+  },
+  {
+    "id": 16,
+    "q": "เติมคำในช่องว่าง: A pen costs 10 baht. A ruler costs 15 baht. The pen is ___ the ruler. (cheap)",
+    "options": [
+      "cheapest than",
+      "cheaper than",
+      "more cheap than",
+      "the cheapest"
+    ],
+    "answer": 1,
+    "explanation": "ปากกา 10 บาท ถูกกว่าไม้บรรทัด 15 บาท เปรียบเทียบ 2 สิ่งใช้ขั้นกว่า + than และ cheap เป็นคำสั้นจึงเติม -er"
+  },
+  {
+    "id": 17,
+    "q": "ขั้นสูงสุด (superlative) ของคำว่า “far” (ไกล) คือข้อใด",
+    "options": [
+      "farer",
+      "farest",
+      "most far",
+      "farthest"
+    ],
+    "answer": 3,
+    "explanation": "far เปลี่ยนรูปไม่ปกติ far → farther → farthest (หรือ further → furthest)"
+  },
+  {
+    "id": 18,
+    "q": "เติมคำในช่องว่าง: This is the ___ day of my life! (bad)",
+    "options": [
+      "worst",
+      "worse",
+      "baddest",
+      "most bad"
+    ],
+    "answer": 0,
+    "explanation": "มี the และเปรียบเทียบกับทุกวันในชีวิต จึงใช้ขั้นสูงสุด bad → worse → worst"
+  },
+  {
+    "id": 19,
+    "q": "ข้อใดเขียนขั้นกว่า (comparative) ผิด",
+    "options": [
+      "smaller",
+      "easier",
+      "beautifuler",
+      "hotter"
+    ],
+    "answer": 2,
+    "explanation": "beautiful เป็นคำยาวต้องใช้ more beautiful ไม่เติม -er ส่วน smaller, easier (easy → easier) และ hotter (hot → hotter) เขียนถูกต้อง"
+  },
+  {
+    "id": 20,
+    "q": "เติมคำในช่องว่าง: Today is as hot ___ yesterday.",
+    "options": [
+      "than",
+      "then",
+      "as",
+      "so"
+    ],
+    "answer": 2,
+    "explanation": "โครงสร้าง as + คำคุณศัพท์ + as ใช้บอกว่าสองสิ่งเท่ากัน Today is as hot as yesterday. แปลว่า วันนี้ร้อนเท่ากับเมื่อวาน"
+  }
+]

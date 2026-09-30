@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GE100 Pro — Effect Chain Advisor</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header>
+    <h1>GE100 Pro — Effect Chain Advisor</h1>
+    <p>เลือกสไตล์เพลงเพื่อรับคำแนะนำ Effect Chain สำหรับกีต้าร์ไฟฟ้า</p>
+  </header>
+
+  <nav class="tab-nav">
+    <button class="tab-btn tab-active" data-view="advisor" onclick="switchView('advisor')">Style Advisor</button>
+    <button class="tab-btn" data-view="effects" onclick="switchView('effects')">Effect List</button>
+  </nav>
+
+  <main>
+    <!-- ── Style Advisor ── -->
+    <section id="style-selector">
+      <h2>เลือกสไตล์เพลง</h2>
+      <div id="style-grid" class="style-grid"></div>
+    </section>
+
+    <section id="recommendation" class="hidden">
+      <div id="style-header"></div>
+      <div id="chain-container"></div>
+      <div id="tips-container"></div>
+    </section>
+
+    <!-- ── Effect List ── -->
+    <section id="effect-list" class="hidden">
+      <div class="effect-list-controls">
+        <input type="text" id="effect-search" placeholder="ค้นหา effect, model, หรือ based on..." autocomplete="off" />
+        <div id="category-filters" class="category-filters"></div>
+      </div>
+      <div id="effect-results"></div>
+    </section>
+  </main>
+
+  <footer>
+    <p>อ้างอิงจาก MOOER GE100 Pro &amp; Pro Li Manual · Sound Engineer Advisor</p>
+  </footer>
+
+  <script src="js/presets.js"></script>
+  <script src="js/effects.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

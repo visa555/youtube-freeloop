@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "q": "เติมคำในช่องว่าง: Please don't ___ so much noise. The baby is sleeping.",
+    "options": [
+      "do",
+      "take",
+      "make",
+      "have"
+    ],
+    "answer": 2,
+    "explanation": "ใช้ make กับ noise เป็นวลีที่ใช้คู่กันเสมอ (make a noise = ทำเสียงดัง)"
+  },
+  {
+    "id": 2,
+    "q": "เติมคำในช่องว่าง: I always ___ my homework after dinner.",
+    "options": [
+      "make",
+      "do",
+      "take",
+      "play"
+    ],
+    "answer": 1,
+    "explanation": "ใช้ do กับงานหรือหน้าที่ที่ต้องทำ เช่น do homework, do housework, do the dishes"
+  },
+  {
+    "id": 3,
+    "q": "เติมคำในช่องว่าง: Everyone can ___ mistakes.",
+    "options": [
+      "do",
+      "get",
+      "take",
+      "make"
+    ],
+    "answer": 3,
+    "explanation": "ใช้ make กับ mistake เสมอ (make a mistake = ทำผิดพลาด) ห้ามใช้ do a mistake"
+  },
+  {
+    "id": 4,
+    "q": "เติมคำในช่องว่าง: Can you ___ me a favour?",
+    "options": [
+      "make",
+      "give",
+      "take",
+      "do"
+    ],
+    "answer": 3,
+    "explanation": "do someone a favour แปลว่า ช่วยเหลือใครสักเรื่องหนึ่ง เป็นวลีที่ใช้ do"
+  },
+  {
+    "id": 5,
+    "q": "เติมคำในช่องว่าง: My mother ___ a cake for my birthday last week.",
+    "options": [
+      "did",
+      "made",
+      "does",
+      "done"
+    ],
+    "answer": 1,
+    "explanation": "ใช้ make กับการสร้างหรือทำสิ่งของขึ้นมาใหม่ เช่น make a cake และมี last week บอกอดีตจึงใช้ made"
+  },
+  {
+    "id": 6,
+    "q": "เติมคำในช่องว่าง: You should ___ exercise every day.",
+    "options": [
+      "make",
+      "play",
+      "do",
+      "join"
+    ],
+    "answer": 2,
+    "explanation": "ใช้ do กับกิจกรรม เช่น do exercise, do yoga, do your best"
+  },
+  {
+    "id": 7,
+    "q": "เติมคำในช่องว่าง: It is sometimes hard to ___ a decision.",
+    "options": [
+      "make",
+      "do",
+      "have",
+      "say"
+    ],
+    "answer": 0,
+    "explanation": "ใช้ make กับ decision (make a decision = ตัดสินใจ) เช่นเดียวกับ make a choice, make a plan"
+  },
+  {
+    "id": 8,
+    "q": "ประโยคใดใช้ make / do ถูกต้อง",
+    "options": [
+      "I made the washing-up after lunch.",
+      "I did a mistake in the test.",
+      "I did the washing-up after lunch.",
+      "She made her best in the race."
+    ],
+    "answer": 2,
+    "explanation": "do ใช้กับงานบ้าน (do the washing-up) และ do your best ส่วน mistake ต้องใช้ make a mistake"
+  },
+  {
+    "id": 9,
+    "q": "คำในข้อใดใช้กับ make ได้ทั้งหมด",
+    "options": [
+      "homework, the dishes, exercise",
+      "your best, the shopping, housework",
+      "a favour, business, the laundry",
+      "a phone call, friends, a promise"
+    ],
+    "answer": 3,
+    "explanation": "make a phone call, make friends, make a promise ใช้ make ทั้งหมด ส่วนข้ออื่นใช้ do เช่น do homework, do the shopping, do business"
+  },
+  {
+    "id": 10,
+    "q": "เติมคำในช่องว่าง: Every morning, I ___ my bed before I go to school.",
+    "options": [
+      "make",
+      "do",
+      "doing",
+      "done"
+    ],
+    "answer": 0,
+    "explanation": "make the bed / make my bed แปลว่า จัดที่นอนให้เรียบร้อย เป็นวลีที่ใช้ make"
+  },
+  {
+    "id": 11,
+    "q": "เรียงคำคุณศัพท์ให้ถูกต้อง: She has a ___ cat.",
+    "options": [
+      "small beautiful black",
+      "beautiful small black",
+      "black small beautiful",
+      "beautiful black small"
+    ],
+    "answer": 1,
+    "explanation": "ลำดับคำคุณศัพท์คือ ความคิดเห็น (beautiful) → ขนาด (small) → สี (black) แล้วจึงเป็นคำนาม"
+  },
+  {
+    "id": 12,
+    "q": "เรียงคำคุณศัพท์ให้ถูกต้อง: I bought a ___ table.",
+    "options": [
+      "wooden big old",
+      "big old wooden",
+      "old big wooden",
+      "big wooden old"
+    ],
+    "answer": 1,
+    "explanation": "ลำดับคือ ขนาด (big) → อายุ (old) → วัสดุ (wooden) วัสดุอยู่ติดคำนามมากที่สุด"
+  },
+  {
+    "id": 13,
+    "q": "เรียงคำคุณศัพท์ให้ถูกต้อง: He wore a ___ shirt.",
+    "options": [
+      "blue new cotton",
+      "cotton blue new",
+      "new cotton blue",
+      "new blue cotton"
+    ],
+    "answer": 3,
+    "explanation": "ลำดับคือ อายุ (new) → สี (blue) → วัสดุ (cotton)"
+  },
+  {
+    "id": 14,
+    "q": "เรียงคำคุณศัพท์ให้ถูกต้อง: They live in a ___ house.",
+    "options": [
+      "lovely old Thai",
+      "old lovely Thai",
+      "Thai old lovely",
+      "lovely Thai old"
+    ],
+    "answer": 0,
+    "explanation": "ลำดับคือ ความคิดเห็น (lovely) → อายุ (old) → แหล่งที่มาหรือสัญชาติ (Thai)"
+  },
+  {
+    "id": 15,
+    "q": "ข้อใดเรียงลำดับประเภทของคำคุณศัพท์ในภาษาอังกฤษได้ถูกต้อง",
+    "options": [
+      "size → opinion → colour → age → material",
+      "colour → size → opinion → material → age",
+      "opinion → size → age → colour → material",
+      "material → colour → age → size → opinion"
+    ],
+    "answer": 2,
+    "explanation": "ลำดับคำคุณศัพท์คือ Opinion (ความคิดเห็น) → Size (ขนาด) → Age (อายุ) → Shape (รูปร่าง) → Colour (สี) → Origin (แหล่งที่มา) → Material (วัสดุ) → Purpose (จุดประสงค์) แล้วจึงเป็นคำนาม"
+  },
+  {
+    "id": 16,
+    "q": "ประโยคใดเรียงคำคุณศัพท์ถูกต้อง",
+    "options": [
+      "My sister has black long straight hair.",
+      "My sister has straight black long hair.",
+      "My sister has long straight black hair.",
+      "My sister has long black straight hair."
+    ],
+    "answer": 2,
+    "explanation": "ลำดับคือ ขนาดหรือความยาว (long) → รูปร่าง (straight) → สี (black)"
+  },
+  {
+    "id": 17,
+    "q": "เรียงคำคุณศัพท์ให้ถูกต้อง: He gave me a ___ box.",
+    "options": [
+      "small square wooden",
+      "square small wooden",
+      "wooden square small",
+      "small wooden square"
+    ],
+    "answer": 0,
+    "explanation": "ลำดับคือ ขนาด (small) → รูปร่าง (square) → วัสดุ (wooden)"
+  },
+  {
+    "id": 18,
+    "q": "เรียงคำคุณศัพท์ให้ถูกต้อง: She bought a pair of ___ shoes.",
+    "options": [
+      "running new white",
+      "white new running",
+      "new running white",
+      "new white running"
+    ],
+    "answer": 3,
+    "explanation": "ลำดับคือ อายุ (new) → สี (white) → จุดประสงค์ (running = สำหรับวิ่ง) คำที่บอกจุดประสงค์อยู่ติดคำนามเสมอ"
+  },
+  {
+    "id": 19,
+    "q": "เรียงคำคุณศัพท์ให้ถูกต้อง: We had dinner at a ___ restaurant.",
+    "options": [
+      "little nice Italian",
+      "nice little Italian",
+      "Italian nice little",
+      "nice Italian little"
+    ],
+    "answer": 1,
+    "explanation": "ลำดับคือ ความคิดเห็น (nice) → ขนาด (little) → แหล่งที่มา (Italian)"
+  },
+  {
+    "id": 20,
+    "q": "ข้อใดถูกต้องทั้งการใช้ make / do และการเรียงคำคุณศัพท์",
+    "options": [
+      "My grandmother made a delicious big chocolate cake.",
+      "My grandmother did a delicious big chocolate cake.",
+      "My grandmother made a big delicious chocolate cake.",
+      "My grandmother made a chocolate big delicious cake."
+    ],
+    "answer": 0,
+    "explanation": "การทำขนมใช้ make และเรียงคำคุณศัพท์เป็น ความคิดเห็น (delicious) → ขนาด (big) → วัสดุหรือส่วนผสม (chocolate)"
+  }
+]

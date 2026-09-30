@@ -1,0 +1,103 @@
+{
+  "grade": "ป.6",
+  "gradeEn": "PRIMARY 6",
+  "subjects": [
+    {
+      "id": "thai",
+      "name": "ภาษาไทย",
+      "nameEn": "THAI",
+      "icon": "📖",
+      "color": "#b8386a",
+      "topics": [
+        { "id": "word-types", "title": "ชนิดและหน้าที่ของคำ", "icon": "🔤", "ready": true },
+        { "id": "sentences", "title": "กลุ่มคำและประโยค (ประโยคสามัญ ประโยครวม ประโยคซ้อน)", "icon": "🧩" },
+        { "id": "royal-words", "title": "คำราชาศัพท์และระดับภาษา", "icon": "👑" },
+        { "id": "loanwords", "title": "คำที่มาจากภาษาต่างประเทศ", "icon": "🌏" },
+        { "id": "idioms", "title": "สำนวน คำพังเพย และสุภาษิต", "icon": "💬", "ready": true },
+        { "id": "poetry", "title": "การแต่งบทร้อยกรอง", "icon": "🎼" },
+        { "id": "reading", "title": "การอ่านจับใจความ", "icon": "📰" }
+      ]
+    },
+    {
+      "id": "math",
+      "name": "คณิตศาสตร์",
+      "nameEn": "MATHEMATICS",
+      "icon": "➗",
+      "color": "#3056c8",
+      "topics": [
+        { "id": "gcd-lcm", "title": "ห.ร.ม. และ ค.ร.น.", "icon": "🔢", "ready": true },
+        { "id": "fractions", "title": "เศษส่วน", "icon": "🍕", "ready": true },
+        { "id": "decimals", "title": "ทศนิยม", "icon": "🔟" },
+        { "id": "ratio-percent", "title": "อัตราส่วนและร้อยละ", "icon": "💯", "ready": true },
+        { "id": "patterns", "title": "แบบรูป", "icon": "🔁", "ready": true },
+        { "id": "triangles", "title": "รูปสามเหลี่ยม", "icon": "🔺" },
+        { "id": "polygons", "title": "ความยาวรอบรูปและพื้นที่ของรูปหลายเหลี่ยม", "icon": "⬟" },
+        { "id": "circles", "title": "วงกลม", "icon": "⭕" },
+        { "id": "solids-volume", "title": "รูปเรขาคณิตสามมิติและปริมาตร", "icon": "🧊" },
+        { "id": "pie-charts", "title": "แผนภูมิรูปวงกลม", "icon": "📊" }
+      ]
+    },
+    {
+      "id": "science",
+      "name": "วิทยาศาสตร์",
+      "nameEn": "SCIENCE",
+      "icon": "🔬",
+      "color": "#176b87",
+      "topics": [
+        { "id": "digestion", "title": "สารอาหารและระบบย่อยอาหาร", "icon": "🥗" },
+        { "id": "mixtures", "title": "การแยกสารผสม", "icon": "🧪" },
+        { "id": "electricity", "title": "ไฟฟ้าสถิตและวงจรไฟฟ้า", "icon": "⚡" },
+        { "id": "rocks", "title": "หิน วัฏจักรของหิน และซากดึกดำบรรพ์", "icon": "🪨", "ready": true },
+        { "id": "winds", "title": "ลมบก ลมทะเล และมรสุม", "icon": "🌬️" },
+        { "id": "natural-hazards", "title": "ภัยธรรมชาติและปรากฏการณ์เรือนกระจก", "icon": "🌋" },
+        { "id": "eclipses-space", "title": "อุปราคาและเทคโนโลยีอวกาศ", "icon": "🌒" }
+      ]
+    },
+    {
+      "id": "social",
+      "name": "สังคมศึกษา",
+      "nameEn": "SOCIAL STUDIES",
+      "icon": "🏛️",
+      "color": "#a5641a",
+      "topics": [
+        { "id": "buddhism", "title": "พระพุทธศาสนาและหลักธรรม", "icon": "☸️" },
+        { "id": "citizenship", "title": "หน้าที่พลเมืองและวัฒนธรรม", "icon": "🤝", "ready": true },
+        { "id": "democracy", "title": "การปกครองระบอบประชาธิปไตยและรัฐธรรมนูญ", "icon": "🗳️", "ready": true },
+        { "id": "economics", "title": "เศรษฐศาสตร์และเศรษฐกิจพอเพียง", "icon": "💰", "ready": true },
+        { "id": "rattanakosin", "title": "ประวัติศาสตร์สมัยรัตนโกสินทร์", "icon": "🏯", "ready": true },
+        { "id": "thai-wisdom", "title": "ภูมิปัญญาไทย", "icon": "🧺" },
+        { "id": "geography", "title": "ภูมิศาสตร์ประเทศไทย", "icon": "🗺️" },
+        { "id": "neighbors", "title": "ประเทศเพื่อนบ้านของไทย", "icon": "🌏", "ready": true },
+        { "id": "daily-law", "title": "กฎหมายพื้นฐานที่เกี่ยวข้องกับชีวิตประจำวัน", "icon": "⚖️", "ready": true },
+        { "id": "media-literacy", "title": "ข้อมูลข่าวสารในชีวิตประจำวัน", "icon": "📰", "ready": true },
+        { "id": "thai-politics", "title": "การเมืองการปกครองของไทย", "icon": "🏛️", "ready": true },
+        { "id": "thai-manners", "title": "วัฒนธรรมและมารยาทไทย", "icon": "🙏", "ready": true }
+      ]
+    },
+    {
+      "id": "english",
+      "name": "ภาษาอังกฤษ",
+      "nameEn": "ENGLISH",
+      "icon": "🔠",
+      "color": "#6a45b8",
+      "topics": [
+        { "id": "vocabulary", "title": "Vocabulary คำศัพท์ในชีวิตประจำวัน", "icon": "📝" },
+        { "id": "present-tenses", "title": "Present Simple และ Present Continuous", "icon": "⏱️" },
+        { "id": "past-simple", "title": "Past Simple", "icon": "🕰️", "ready": true },
+        { "id": "future", "title": "Future: will และ be going to", "icon": "🚀" },
+        { "id": "comparison", "title": "Comparative และ Superlative", "icon": "📏", "ready": true },
+        { "id": "prepositions", "title": "Prepositions of Place and Time", "icon": "📦" },
+        { "id": "wh-questions", "title": "Wh- Questions", "icon": "❓" },
+        { "id": "nouns-quantity", "title": "Countable / Uncountable Nouns (some, any, much, many)", "icon": "🍎" },
+        { "id": "conversation", "title": "บทสนทนาในชีวิตประจำวัน", "icon": "💬" },
+        { "id": "reading", "title": "Reading Comprehension", "icon": "📚" },
+        { "id": "be-able-to", "title": "Be able to (Present / Past / Future Simple)", "icon": "💪", "ready": true },
+        { "id": "large-numbers", "title": "Large Numbers การอ่านและเขียนจำนวนมาก", "icon": "🔢", "ready": true },
+        { "id": "used-to", "title": "used to / be used to / get used to", "icon": "🔄", "ready": true },
+        { "id": "make-do-adjectives", "title": "Make / Do และ Adjective Order", "icon": "🎨", "ready": true },
+        { "id": "causative-have", "title": "have something done / have someone do something", "icon": "✂️", "ready": true },
+        { "id": "that-clauses", "title": "Verbs + that-clause", "icon": "💭", "ready": true }
+      ]
+    }
+  ]
+}

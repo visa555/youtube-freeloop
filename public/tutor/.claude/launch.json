@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "tutor-static",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-m", "http.server", "5510", "--directory", "C:/Users/bht-a/Documents/ME/firebase-project/guitar-hero/public"],
+      "port": 5510
+    }
+  ]
+}

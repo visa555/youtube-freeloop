@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "q": "เติมคำในช่องว่าง: I ___ that it will rain this afternoon. Look at those dark clouds.",
+    "options": [
+      "think",
+      "want",
+      "look",
+      "listen"
+    ],
+    "answer": 0,
+    "explanation": "think that + ประโยค ใช้บอกความคิดเห็น ส่วน want, look, listen ไม่ตามด้วย that-clause"
+  },
+  {
+    "id": 2,
+    "q": "เติมคำในช่องว่าง: She ___ me that she was tired.",
+    "options": [
+      "said",
+      "spoke",
+      "told",
+      "talked"
+    ],
+    "answer": 2,
+    "explanation": "tell ต้องมีกรรม (คน) ตามหลังก่อน that เสมอ เช่น told me that ส่วน said จะไม่มีกรรมตามทันที"
+  },
+  {
+    "id": 3,
+    "q": "เติมคำในช่องว่าง: He ___ that he would come to the party.",
+    "options": [
+      "told",
+      "talked",
+      "spoke",
+      "said"
+    ],
+    "answer": 3,
+    "explanation": "say that + ประโยค ใช้ได้โดยไม่ต้องมีกรรม ส่วน told ต้องมีคนตามหลังก่อน เช่น He told us that ..."
+  },
+  {
+    "id": 4,
+    "q": "ประโยคใดถูกต้องตามหลักไวยากรณ์",
+    "options": [
+      "Mom said that dinner was ready.",
+      "Mom said me that dinner was ready.",
+      "Mom told that dinner was ready.",
+      "Mom spoke that dinner was ready."
+    ],
+    "answer": 0,
+    "explanation": "say + that ไม่มีกรรมคั่น (ถ้าจะบอกผู้ฟังต้องใช้ said to me that) ส่วน tell ต้องมีกรรม เช่น Mom told me that ..."
+  },
+  {
+    "id": 5,
+    "q": "เติมคำในช่องว่าง: We ___ that our team will win the game.",
+    "options": [
+      "want",
+      "hope",
+      "enjoy",
+      "finish"
+    ],
+    "answer": 1,
+    "explanation": "hope that + ประโยค ใช้บอกความหวัง ส่วน want, enjoy, finish ไม่ตามด้วย that-clause"
+  },
+  {
+    "id": 6,
+    "q": "กริยาในข้อใดไม่ใช้ตามด้วย that-clause",
+    "options": [
+      "believe",
+      "want",
+      "know",
+      "agree"
+    ],
+    "answer": 1,
+    "explanation": "want ใช้โครงสร้าง want + คน + to + กริยา เช่น I want you to come. ไม่ใช้ I want that you come. ส่วน believe, know, agree ตามด้วย that-clause ได้"
+  },
+  {
+    "id": 7,
+    "q": "เติมคำในช่องว่าง: Do you ___ that the Earth goes around the Sun?",
+    "options": [
+      "tell",
+      "speak",
+      "look",
+      "know"
+    ],
+    "answer": 3,
+    "explanation": "know that + ประโยค แปลว่า รู้ว่า ... ส่วน tell ต้องมีกรรมคั่น และ speak, look ไม่ตามด้วย that-clause"
+  },
+  {
+    "id": 8,
+    "q": "เติมคำในช่องว่าง: The teacher ___ that we should read more books.",
+    "options": [
+      "suggested",
+      "wanted",
+      "made",
+      "let"
+    ],
+    "answer": 0,
+    "explanation": "suggest that + ประธาน + (should) + กริยาช่อง 1 ใช้เสนอแนะ จึงเป็น suggested that we should read more books"
+  },
+  {
+    "id": 9,
+    "q": "ประโยคใดใช้ suggest ได้ถูกต้อง",
+    "options": [
+      "The doctor suggested him to rest for a few days.",
+      "The doctor suggested that he resting for a few days.",
+      "The doctor suggested that he should rest for a few days.",
+      "The doctor suggested that he to rest for a few days."
+    ],
+    "answer": 2,
+    "explanation": "suggest ใช้โครงสร้าง suggest that + ประธาน + (should) + กริยาช่อง 1 ไม่ใช้ suggest + คน + to + กริยา"
+  },
+  {
+    "id": 10,
+    "q": "ข้อใดมีความหมายเหมือนกับ “I know that he is honest.”",
+    "options": [
+      "I know he honest.",
+      "I know that honest he is.",
+      "I know he is honest.",
+      "I know is he honest."
+    ],
+    "answer": 2,
+    "explanation": "หลังกริยาที่ใช้บ่อย เช่น think, know, say, believe สามารถละ that ได้โดยความหมายไม่เปลี่ยน"
+  },
+  {
+    "id": 11,
+    "q": "เติมคำในช่องว่าง: She promised ___ she would call me every day.",
+    "options": [
+      "that",
+      "what",
+      "which",
+      "who"
+    ],
+    "answer": 0,
+    "explanation": "promise that + ประโยค แปลว่า สัญญาว่า ... ใช้ that เชื่อมกริยาหลักกับประโยคที่ตามมา"
+  },
+  {
+    "id": 12,
+    "q": "เติมคำในช่องว่าง: My parents agreed that I ___ go on the school trip.",
+    "options": [
+      "could to",
+      "to",
+      "going",
+      "could"
+    ],
+    "answer": 3,
+    "explanation": "that-clause ต้องเป็นประโยคที่สมบูรณ์ คือมีประธานและกริยา หลัง could ใช้กริยาช่อง 1 โดยไม่มี to"
+  },
+  {
+    "id": 13,
+    "q": "เติมคำในช่องว่าง: Everybody believes that Somchai ___ the best student in the class.",
+    "options": [
+      "be",
+      "is",
+      "being",
+      "to be"
+    ],
+    "answer": 1,
+    "explanation": "หลัง that ต้องเป็นประโยคที่มีกริยาแท้ ประธาน Somchai เป็นเอกพจน์จึงใช้ is"
+  },
+  {
+    "id": 14,
+    "q": "นิดพูดว่า “I am hungry.” ข้อใดเล่าคำพูดของนิดได้ถูกต้อง",
+    "options": [
+      "Nid said that she was hungry.",
+      "Nid said that I am hungry.",
+      "Nid told that she was hungry.",
+      "Nid said me that she was hungry."
+    ],
+    "answer": 0,
+    "explanation": "เมื่อเล่าคำพูดของผู้อื่นด้วย said that ต้องเปลี่ยน I เป็น she ให้ตรงกับผู้พูด และเปลี่ยน am เป็น was ให้เป็นอดีต ส่วน told ต้องมีกรรมคั่น และ said ห้ามมีกรรมตามทันที"
+  },
+  {
+    "id": 15,
+    "q": "เติมคำในช่องว่าง: The news reporter ___ that the storm would arrive tonight.",
+    "options": [
+      "listened",
+      "looked",
+      "announced",
+      "watched"
+    ],
+    "answer": 2,
+    "explanation": "announce that + ประโยค แปลว่า ประกาศว่า ... ส่วน listened, looked, watched ไม่ตามด้วย that-clause"
+  },
+  {
+    "id": 16,
+    "q": "เติมคำในช่องว่าง: I ___ that you won the competition. Congratulations!",
+    "options": [
+      "listened",
+      "heard",
+      "told",
+      "spoke"
+    ],
+    "answer": 1,
+    "explanation": "hear that + ประโยค แปลว่า ได้ยินมาว่า ... ส่วน listen ไม่ตามด้วย that-clause และ told ต้องมีกรรมคั่น"
+  },
+  {
+    "id": 17,
+    "q": "ประโยคใดถูกต้องตามหลักไวยากรณ์",
+    "options": [
+      "Tom explained the teacher that he was late because of the rain.",
+      "Tom explained that the teacher he was late because of the rain.",
+      "Tom explained to the teacher he late because of the rain.",
+      "Tom explained to the teacher that he was late because of the rain."
+    ],
+    "answer": 3,
+    "explanation": "explain ต้องใช้ to หน้าผู้ฟังเสมอ คือ explain to + คน + that ... (ต่างจาก tell ที่ตามด้วยคนได้เลย)"
+  },
+  {
+    "id": 18,
+    "q": "เติมคำในช่องว่าง: I didn't ___ that you had a sister.",
+    "options": [
+      "known",
+      "knew",
+      "knows",
+      "know"
+    ],
+    "answer": 3,
+    "explanation": "หลัง didn't ต้องใช้กริยาช่อง 1 จึงเป็น didn't know that ... (ไม่รู้มาก่อนว่า ...)"
+  },
+  {
+    "id": 19,
+    "q": "เติมคำในช่องว่าง: She decided that she ___ study harder next term.",
+    "options": [
+      "would to",
+      "would",
+      "will to",
+      "to"
+    ],
+    "answer": 1,
+    "explanation": "decide that + ประโยค กริยาหลักเป็นอดีต (decided) จึงใช้ would + กริยาช่อง 1 โดยไม่มี to"
+  },
+  {
+    "id": 20,
+    "q": "ประโยคใดใช้ that-clause ได้ถูกต้อง",
+    "options": [
+      "I want that we help our friends.",
+      "I enjoy that we help our friends.",
+      "I feel that we should help our friends.",
+      "I let that we help our friends."
+    ],
+    "answer": 2,
+    "explanation": "feel that + ประโยค แปลว่า รู้สึกว่า ... ส่วน want, enjoy, let ไม่ใช้ตามด้วย that-clause"
+  }
+]
