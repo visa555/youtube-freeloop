@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "onet-static",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-m", "http.server", "5512", "--directory", "C:/Users/bht-a/Documents/ME/firebase-project/guitar-hero/public"],
+      "port": 5512
+    }
+  ]
+}

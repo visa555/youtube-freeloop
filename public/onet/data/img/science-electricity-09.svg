@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 240" width="460" height="240" font-family="Tahoma, Arial, sans-serif" font-size="15">
+  <rect width="460" height="240" fill="#fff"/>
+  <path d="M109 170 H40 V50 H190 V170 H121" stroke="#18323d" stroke-width="2.5" fill="none" stroke-linejoin="round"/>
+  <path d="M109 170 H109 M121 170 H121" stroke="#18323d" stroke-width="2.5" fill="none"/>
+  <path d="M109 156 V184" stroke="#18323d" stroke-width="3"/>
+  <path d="M121 163 V177" stroke="#18323d" stroke-width="5"/>
+  <text x="97" y="154" fill="#18323d" font-size="14">+</text>
+  <circle cx="85" cy="50" r="13" fill="#fff" stroke="#18323d" stroke-width="2.5"/>
+  <path d="M76 41 L94 59 M94 41 L76 59" stroke="#18323d" stroke-width="2"/>
+  <circle cx="145" cy="50" r="13" fill="#fff" stroke="#18323d" stroke-width="2.5"/>
+  <path d="M136 41 L154 59 M154 41 L136 59" stroke="#18323d" stroke-width="2"/>
+  <text x="115" y="220" text-anchor="middle" fill="#18323d" font-weight="bold" font-size="17">วงจร ก</text>
+  <path d="M270 50 H420 V170 H270" stroke="#18323d" stroke-width="2.5" fill="none" stroke-linejoin="round"/>
+  <path d="M270 50 V104 M270 116 V170" stroke="#18323d" stroke-width="2.5" fill="none"/>
+  <path d="M256 104 H284" stroke="#18323d" stroke-width="3"/>
+  <path d="M263 116 H277" stroke="#18323d" stroke-width="5"/>
+  <text x="288" y="102" fill="#18323d" font-size="14">+</text>
+  <path d="M345 50 V170" stroke="#18323d" stroke-width="2.5" fill="none" stroke-linejoin="round"/>
+  <circle cx="345" cy="50" r="4" fill="#18323d"/>
+  <circle cx="345" cy="170" r="4" fill="#18323d"/>
+  <circle cx="345" cy="110" r="13" fill="#fff" stroke="#18323d" stroke-width="2.5"/>
+  <path d="M336 101 L354 119 M354 101 L336 119" stroke="#18323d" stroke-width="2"/>
+  <circle cx="420" cy="110" r="13" fill="#fff" stroke="#18323d" stroke-width="2.5"/>
+  <path d="M411 101 L429 119 M429 101 L411 119" stroke="#18323d" stroke-width="2"/>
+  <text x="345" y="220" text-anchor="middle" fill="#18323d" font-weight="bold" font-size="17">วงจร ข</text>
+</svg>

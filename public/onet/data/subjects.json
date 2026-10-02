@@ -1,0 +1,107 @@
+{
+  "title": "ฝึกทำข้อสอบเข้า ม.1",
+  "titleEn": "M.1 ENTRANCE PRACTICE",
+  "subtitle": "5 วิชา • สุ่มวิชาละ 40 ข้อ จากคลัง 100 ข้อ • ง่ายถึงยากระดับห้องเรียน EP",
+  "questionsPerExam": 40,
+  "levels": ["ง่าย", "ปานกลาง", "ยาก (EP)"],
+  "subjects": [
+    {
+      "id": "math",
+      "name": "คณิตศาสตร์",
+      "nameEn": "MATHEMATICS",
+      "icon": "➗",
+      "color": "#3056c8",
+      "minutes": 60,
+      "sets": 3,
+      "topics": [
+        { "id": "numbers", "title": "จำนวนและการดำเนินการ", "scope": "จำนวนนับ เศษส่วน ทศนิยม การบวก ลบ คูณ หารระคน", "icon": "🔢", "bank": [4, 8, 3], "draw": [2, 3, 1], "ready": true },
+        { "id": "gcd-lcm", "title": "ห.ร.ม. และ ค.ร.น.", "scope": "ตัวประกอบ จำนวนเฉพาะ โจทย์ปัญหา", "icon": "🧮", "bank": [2, 5, 3], "draw": [1, 2, 1], "ready": true },
+        { "id": "ratio-percent", "title": "อัตราส่วนและร้อยละ", "scope": "สัดส่วน กำไร ขาดทุน ส่วนลด ดอกเบี้ย", "icon": "💯", "bank": [3, 7, 5], "draw": [1, 3, 2], "ready": true },
+        { "id": "patterns-equations", "title": "แบบรูป สมการ และโจทย์เชาว์", "scope": "แบบรูปจำนวนและรูปภาพ สมการตัวแปรเดียวอย่างง่าย", "icon": "🔁", "bank": [2, 5, 3], "draw": [1, 2, 1], "ready": true },
+        { "id": "geometry-2d", "title": "มุมและรูปเรขาคณิตสองมิติ", "scope": "มุม เส้นขนาน สมบัติของรูปสามเหลี่ยมและรูปสี่เหลี่ยม", "icon": "📐", "bank": [4, 8, 3], "draw": [2, 3, 1], "ready": true },
+        { "id": "perimeter-area", "title": "ความยาวรอบรูปและพื้นที่", "scope": "รูปสามเหลี่ยม รูปสี่เหลี่ยม รูปหลายเหลี่ยม วงกลม", "icon": "⬛", "bank": [4, 7, 4], "draw": [1, 3, 2], "ready": true },
+        { "id": "solids-volume", "title": "รูปเรขาคณิตสามมิติ ปริมาตรและความจุ", "scope": "ปริซึม ทรงสี่เหลี่ยมมุมฉาก การแปลงหน่วย", "icon": "🧊", "bank": [3, 5, 2], "draw": [1, 2, 1], "ready": true },
+        { "id": "statistics", "title": "สถิติและการนำเสนอข้อมูล", "scope": "ตาราง แผนภูมิแท่ง กราฟเส้น แผนภูมิรูปวงกลม ค่าเฉลี่ย", "icon": "📊", "bank": [3, 5, 2], "draw": [1, 2, 1], "ready": true }
+      ]
+    },
+    {
+      "id": "science",
+      "name": "วิทยาศาสตร์",
+      "nameEn": "SCIENCE",
+      "icon": "🔬",
+      "color": "#176b87",
+      "minutes": 50,
+      "sets": 3,
+      "topics": [
+        { "id": "living-things", "title": "สิ่งมีชีวิตและระบบนิเวศ", "scope": "การจำแนก พืช การถ่ายทอดลักษณะ ห่วงโซ่อาหาร", "icon": "🌱", "bank": [4, 8, 3], "draw": [2, 3, 1], "ready": true },
+        { "id": "human-body", "title": "ร่างกายมนุษย์", "scope": "สารอาหาร ระบบย่อยอาหาร", "icon": "🫀", "bank": [3, 5, 2], "draw": [1, 2, 1], "ready": true },
+        { "id": "substances", "title": "สารและการเปลี่ยนแปลง", "scope": "สถานะ การละลาย การเปลี่ยนแปลงทางเคมี การแยกสารผสม", "icon": "🧪", "bank": [3, 7, 5], "draw": [1, 3, 2], "ready": true },
+        { "id": "forces", "title": "แรงและการเคลื่อนที่", "scope": "แรงลัพธ์ แรงเสียดทาน แรงโน้มถ่วง แรงแม่เหล็ก", "icon": "🧲", "bank": [2, 5, 3], "draw": [1, 2, 1], "ready": true },
+        { "id": "electricity", "title": "ไฟฟ้า", "scope": "ไฟฟ้าสถิต วงจรไฟฟ้า การต่อแบบอนุกรมและขนาน", "icon": "⚡", "bank": [4, 7, 4], "draw": [1, 3, 2], "ready": true },
+        { "id": "light-sound", "title": "แสงและเสียง", "scope": "การเคลื่อนที่ของแสง เงา การได้ยิน ระดับเสียง", "icon": "🔦", "bank": [3, 5, 2], "draw": [1, 2, 1], "ready": true },
+        { "id": "earth", "title": "โลกและการเปลี่ยนแปลง", "scope": "หิน ซากดึกดำบรรพ์ วัฏจักรน้ำ ลมบก ลมทะเล มรสุม ภัยธรรมชาติ ปรากฏการณ์เรือนกระจก", "icon": "🌋", "bank": [4, 8, 3], "draw": [2, 3, 1], "ready": true },
+        { "id": "space", "title": "ดาราศาสตร์และอวกาศ", "scope": "ระบบสุริยะ ดวงจันทร์ ดาวฤกษ์ อุปราคา เทคโนโลยีอวกาศ", "icon": "🪐", "bank": [2, 5, 3], "draw": [1, 2, 1], "ready": true }
+      ]
+    },
+    {
+      "id": "english",
+      "name": "ภาษาอังกฤษ",
+      "nameEn": "ENGLISH",
+      "icon": "🔠",
+      "color": "#6a45b8",
+      "minutes": 50,
+      "sets": 3,
+      "letters": "ABCD",
+      "topics": [
+        { "id": "vocabulary", "title": "Vocabulary", "scope": "คำศัพท์ในชีวิตประจำวัน ความหมาย คำตรงข้าม หมวดคำ", "icon": "📝", "bank": [4, 8, 3], "draw": [2, 3, 1], "ready": true },
+        { "id": "tenses", "title": "Tenses", "scope": "Present Simple/Continuous, Past Simple, Future, Present Perfect เบื้องต้น", "icon": "⏱️", "bank": [4, 7, 4], "draw": [1, 3, 2], "ready": true },
+        { "id": "nouns-quantifiers", "title": "Nouns, Articles & Quantifiers", "scope": "countable/uncountable, a/an/the, some/any/much/many", "icon": "🍎", "bank": [3, 5, 2], "draw": [1, 2, 1], "ready": true },
+        { "id": "adjectives-comparison", "title": "Adjectives, Adverbs & Comparison", "scope": "comparative, superlative, adjective order", "icon": "📏", "bank": [3, 5, 2], "draw": [1, 2, 1], "ready": true },
+        { "id": "prepositions-questions", "title": "Prepositions, Conjunctions & Wh-questions", "scope": "in/on/at, and/but/so/because, Wh-", "icon": "📦", "bank": [2, 5, 3], "draw": [1, 2, 1], "ready": true },
+        { "id": "modals-patterns", "title": "Modals & Sentence Patterns", "scope": "can/must/should, be able to, used to, there is/are", "icon": "🎛️", "bank": [2, 5, 3], "draw": [1, 2, 1], "ready": true },
+        { "id": "conversation", "title": "Conversation & Situations", "scope": "บทสนทนา การตอบสนองตามสถานการณ์", "icon": "💬", "bank": [4, 8, 3], "draw": [2, 3, 1], "ready": true },
+        { "id": "reading", "title": "Reading", "scope": "ป้าย ประกาศ ตาราง ข้อความสั้น", "icon": "📚", "bank": [3, 7, 5], "draw": [1, 3, 2], "ready": true }
+      ]
+    },
+    {
+      "id": "thai",
+      "name": "ภาษาไทย",
+      "nameEn": "THAI",
+      "icon": "📖",
+      "color": "#b8386a",
+      "minutes": 50,
+      "sets": 3,
+      "topics": [
+        { "id": "sounds-spelling", "title": "เสียง อักษร และการสะกดคำ", "scope": "ไตรยางศ์ วรรณยุกต์ คำเป็นคำตาย มาตราตัวสะกด คำที่มักเขียนผิด", "icon": "🔤", "bank": [4, 8, 3], "draw": [2, 3, 1], "ready": true },
+        { "id": "word-types", "title": "ชนิดและหน้าที่ของคำ", "scope": "คำนาม สรรพนาม กริยา วิเศษณ์ บุพบท สันธาน อุทาน", "icon": "🧩", "bank": [4, 7, 4], "draw": [1, 3, 2], "ready": true },
+        { "id": "sentences", "title": "กลุ่มคำและประโยค", "scope": "ส่วนประกอบประโยค ประโยคสามัญ ประโยครวม ประโยคซ้อน", "icon": "🧱", "bank": [2, 5, 3], "draw": [1, 2, 1], "ready": true },
+        { "id": "royal-loanwords", "title": "ราชาศัพท์ ระดับภาษา และคำยืม", "scope": "คำราชาศัพท์ ระดับภาษา คำบาลี สันสกฤต เขมร จีน อังกฤษ", "icon": "👑", "bank": [2, 5, 3], "draw": [1, 2, 1], "ready": true },
+        { "id": "idioms", "title": "สำนวน สุภาษิต คำพังเพย", "scope": "ความหมายและการนำไปใช้", "icon": "💬", "bank": [3, 5, 2], "draw": [1, 2, 1], "ready": true },
+        { "id": "reading", "title": "การอ่านจับใจความและตีความ", "scope": "ร้อยแก้ว ข่าว โฆษณา การหาใจความสำคัญ", "icon": "📰", "bank": [3, 7, 5], "draw": [1, 3, 2], "ready": true },
+        { "id": "literature-poetry", "title": "วรรณคดี ร้อยกรอง และภาพพจน์", "scope": "วรรณคดีในบทเรียน กาพย์ยานี 11 โคลงสี่สุภาพ โวหาร ภาพพจน์", "icon": "🎼", "bank": [4, 8, 3], "draw": [2, 3, 1], "ready": true },
+        { "id": "writing", "title": "การเขียน", "scope": "เรียงความ ย่อความ จดหมาย กรอกแบบรายการ", "icon": "✍️", "bank": [3, 5, 2], "draw": [1, 2, 1], "ready": true }
+      ]
+    },
+    {
+      "id": "social",
+      "name": "สังคมศึกษา",
+      "nameEn": "SOCIAL STUDIES",
+      "icon": "🏛️",
+      "color": "#a5641a",
+      "minutes": 40,
+      "sets": 3,
+      "topics": [
+        { "id": "buddha-religions", "title": "พุทธประวัติ ชาดก และศาสนาต่าง ๆ", "scope": "สาระศาสนา", "icon": "☸️", "bank": [3, 5, 2], "draw": [1, 2, 1], "ready": true },
+        { "id": "dhamma-ceremonies", "title": "หลักธรรม ศาสนพิธี และวันสำคัญทางศาสนา", "scope": "สาระศาสนา", "icon": "🪷", "bank": [2, 5, 3], "draw": [1, 2, 1], "ready": true },
+        { "id": "citizenship-culture", "title": "หน้าที่พลเมือง วัฒนธรรม และมารยาทไทย", "scope": "สาระหน้าที่พลเมือง รวมการรู้เท่าทันสื่อ", "icon": "🤝", "bank": [3, 5, 2], "draw": [1, 2, 1], "ready": true },
+        { "id": "democracy-law", "title": "ประชาธิปไตย การปกครอง และกฎหมายในชีวิตประจำวัน", "scope": "สาระหน้าที่พลเมือง", "icon": "🗳️", "bank": [2, 5, 3], "draw": [1, 2, 1], "ready": true },
+        { "id": "production-consumption", "title": "การผลิต การบริโภค และเศรษฐกิจพอเพียง", "scope": "สาระเศรษฐศาสตร์", "icon": "🌾", "bank": [3, 5, 2], "draw": [1, 2, 1], "ready": true },
+        { "id": "money-cooperatives", "title": "การเงิน การออม สหกรณ์ และการพึ่งพากัน", "scope": "สาระเศรษฐศาสตร์", "icon": "💰", "bank": [2, 5, 3], "draw": [1, 2, 1], "ready": true },
+        { "id": "early-history", "title": "ศักราช หลักฐาน และสุโขทัย อยุธยา ธนบุรี", "scope": "สาระประวัติศาสตร์", "icon": "🏺", "bank": [2, 5, 3], "draw": [1, 2, 1], "ready": true },
+        { "id": "rattanakosin", "title": "รัตนโกสินทร์ บุคคลสำคัญ และภูมิปัญญาไทย", "scope": "สาระประวัติศาสตร์", "icon": "🏯", "bank": [3, 5, 2], "draw": [1, 2, 1], "ready": true },
+        { "id": "thai-geography", "title": "แผนที่ เครื่องมือภูมิศาสตร์ และภูมิภาคของไทย", "scope": "สาระภูมิศาสตร์", "icon": "🗺️", "bank": [3, 5, 2], "draw": [1, 2, 1], "ready": true },
+        { "id": "asean-environment", "title": "ประเทศเพื่อนบ้าน อาเซียน และสิ่งแวดล้อม", "scope": "สาระภูมิศาสตร์", "icon": "🌏", "bank": [2, 5, 3], "draw": [1, 2, 1], "ready": true }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "english-vocabulary-01",
+    "level": 1,
+    "q": "Which word is a fruit?",
+    "options": ["mango", "carrot", "chicken", "bread"],
+    "answer": 0,
+    "explanation": "mango (มะม่วง) เป็นผลไม้ ส่วน carrot (แครอท) เป็นผัก chicken (ไก่) เป็นเนื้อสัตว์ และ bread (ขนมปัง) เป็นอาหารที่ทำจากแป้ง"
+  },
+  {
+    "id": "english-vocabulary-02",
+    "level": 1,
+    "q": "The opposite of “hot” is ___.",
+    "options": ["cold", "warm", "big", "wet"],
+    "answer": 0,
+    "explanation": "hot (ร้อน) มีความหมายตรงข้ามกับ cold (เย็น หนาว) ส่วน warm (อุ่น) มีความหมายใกล้เคียงกับ hot"
+  },
+  {
+    "id": "english-vocabulary-03",
+    "level": 1,
+    "q": "A person who teaches students at school is a ___.",
+    "options": ["teacher", "doctor", "farmer", "driver"],
+    "answer": 0,
+    "explanation": "teacher (ครู) คือผู้สอนนักเรียนที่โรงเรียน doctor คือหมอ farmer คือเกษตรกร และ driver คือคนขับรถ"
+  },
+  {
+    "id": "english-vocabulary-04",
+    "level": 1,
+    "q": "Which day comes after Monday?",
+    "options": ["Tuesday", "Sunday", "Wednesday", "Friday"],
+    "answer": 0,
+    "explanation": "วันที่มาหลังวันจันทร์ (Monday) คือวันอังคาร (Tuesday) ส่วน Sunday คือวันอาทิตย์ซึ่งมาก่อนวันจันทร์"
+  },
+  {
+    "id": "english-vocabulary-05",
+    "level": 2,
+    "q": "We use ___ to cut paper.",
+    "options": ["scissors", "a spoon", "a ruler", "a pillow"],
+    "answer": 0,
+    "explanation": "scissors (กรรไกร) ใช้ตัดกระดาษ ส่วน spoon (ช้อน) ใช้ตักอาหาร ruler (ไม้บรรทัด) ใช้วัดหรือขีดเส้น และ pillow (หมอน) ใช้หนุนนอน"
+  },
+  {
+    "id": "english-vocabulary-06",
+    "level": 2,
+    "q": "The opposite of “borrow” is ___.",
+    "options": ["lend", "take", "buy", "keep"],
+    "answer": 0,
+    "explanation": "borrow แปลว่า ยืม (รับของจากผู้อื่นมาใช้ชั่วคราว) ส่วน lend แปลว่า ให้ยืม จึงมีความหมายตรงข้ามกัน เช่น Can I borrow your pen? / Can you lend me your pen?"
+  },
+  {
+    "id": "english-vocabulary-07",
+    "level": 2,
+    "q": "Which word does NOT belong in the group?",
+    "options": ["potato", "apple", "banana", "mango"],
+    "answer": 0,
+    "explanation": "apple, banana และ mango เป็นผลไม้ (fruits) ส่วน potato (มันฝรั่ง) เป็นผัก (vegetable) จึงไม่เข้ากลุ่ม"
+  },
+  {
+    "id": "english-vocabulary-08",
+    "level": 2,
+    "q": "My uncle's daughter is my ___.",
+    "options": ["cousin", "niece", "aunt", "sister"],
+    "answer": 0,
+    "explanation": "ลูกสาวของลุงหรือน้าคือลูกพี่ลูกน้อง ภาษาอังกฤษใช้ cousin ส่วน niece คือหลานสาว (ลูกสาวของพี่น้องเรา) aunt คือป้าหรือน้าผู้หญิง และ sister คือพี่สาวหรือน้องสาว"
+  },
+  {
+    "id": "english-vocabulary-09",
+    "level": 2,
+    "q": "Nok is very ___. She always helps her friends and shares her snacks.",
+    "options": ["kind", "lazy", "rude", "selfish"],
+    "answer": 0,
+    "explanation": "ประโยคหลังบอกว่านกช่วยเหลือเพื่อนและแบ่งขนมให้เพื่อน จึงเป็นคนใจดี (kind) ส่วน lazy แปลว่าขี้เกียจ rude แปลว่าหยาบคาย และ selfish แปลว่าเห็นแก่ตัว ซึ่งขัดกับประโยคหลัง"
+  },
+  {
+    "id": "english-vocabulary-10",
+    "level": 2,
+    "q": "Which place lets you borrow books for free?",
+    "options": ["a library", "a bookstore", "a museum", "a bakery"],
+    "answer": 0,
+    "explanation": "library (ห้องสมุด) เป็นที่ยืมหนังสือได้ ส่วน bookstore (ร้านหนังสือ) เป็นที่ซื้อหนังสือ museum คือพิพิธภัณฑ์ และ bakery คือร้านขนมอบ"
+  },
+  {
+    "id": "english-vocabulary-11",
+    "level": 2,
+    "q": "It is raining heavily. Don't forget to take your ___.",
+    "options": ["umbrella", "sunglasses", "sunscreen", "fan"],
+    "answer": 0,
+    "explanation": "ฝนตกหนัก จึงควรพกร่ม (umbrella) ส่วน sunglasses (แว่นกันแดด) และ sunscreen (ครีมกันแดด) ใช้ตอนแดดจัด และ fan คือพัดลม"
+  },
+  {
+    "id": "english-vocabulary-12",
+    "level": 2,
+    "q": "In which month do Thai people celebrate the Songkran Festival?",
+    "options": ["April", "January", "October", "December"],
+    "answer": 0,
+    "explanation": "เทศกาลสงกรานต์ (Songkran Festival) ตรงกับวันที่ 13–15 เมษายน ภาษาอังกฤษคือ April"
+  },
+  {
+    "id": "english-vocabulary-13",
+    "level": 3,
+    "q": "The word “enormous” has the closest meaning to ___.",
+    "options": ["huge", "tiny", "quick", "empty"],
+    "answer": 0,
+    "explanation": "enormous แปลว่า ใหญ่มาก มีความหมายใกล้เคียงกับ huge ส่วน tiny แปลว่า เล็กมาก ซึ่งตรงข้าม quick แปลว่าเร็ว และ empty แปลว่าว่างเปล่า"
+  },
+  {
+    "id": "english-vocabulary-14",
+    "level": 3,
+    "q": "The museum tour was so ___ that we fell asleep.",
+    "options": ["boring", "bored", "interesting", "interested"],
+    "answer": 0,
+    "explanation": "คำคุณศัพท์ลงท้าย -ing ใช้บอกลักษณะของสิ่งที่ทำให้รู้สึก ส่วน -ed ใช้บอกความรู้สึกของคน ทัวร์เป็นสิ่งที่น่าเบื่อจึงใช้ boring (ถ้าพูดถึงคนจะใช้ We were bored) และเพราะทุกคนหลับไป จึงไม่ใช่ interesting"
+  },
+  {
+    "id": "english-vocabulary-15",
+    "level": 3,
+    "q": "The prefix “un-” in “unhappy” and “unsafe” means ___.",
+    "options": ["not", "again", "before", "very"],
+    "answer": 0,
+    "explanation": "คำอุปสรรค un- แปลว่า “ไม่” unhappy จึงแปลว่าไม่มีความสุข และ unsafe แปลว่าไม่ปลอดภัย ส่วน re- แปลว่าอีกครั้ง (redo) และ pre- แปลว่าก่อน (preview)"
+  }
+]

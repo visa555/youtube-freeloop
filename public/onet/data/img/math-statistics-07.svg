@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 290" width="380" height="290" font-family="Tahoma, Arial, sans-serif" font-size="14">
+  <rect width="380" height="290" fill="#fff"/>
+  <text x="200" y="20" text-anchor="middle" fill="#18323d" font-weight="bold">ยอดขายไอศกรีม มกราคม – มิถุนายน</text>
+  <!-- plot: y = 240 at 0 cups, 10 cups = 30 px, top 60 = 60 cups -->
+  <g stroke="#e3ecef" stroke-width="1">
+    <line x1="56" y1="210" x2="365" y2="210"/>
+    <line x1="56" y1="180" x2="365" y2="180"/>
+    <line x1="56" y1="150" x2="365" y2="150"/>
+    <line x1="56" y1="120" x2="365" y2="120"/>
+    <line x1="56" y1="90" x2="365" y2="90"/>
+    <line x1="56" y1="60" x2="365" y2="60"/>
+  </g>
+  <g fill="#667b84" text-anchor="end" font-size="12">
+    <text x="50" y="244">0</text>
+    <text x="50" y="214">10</text>
+    <text x="50" y="184">20</text>
+    <text x="50" y="154">30</text>
+    <text x="50" y="124">40</text>
+    <text x="50" y="94">50</text>
+    <text x="50" y="64">60</text>
+  </g>
+  <line x1="56" y1="240" x2="365" y2="240" stroke="#18323d" stroke-width="2"/>
+  <line x1="56" y1="50" x2="56" y2="240" stroke="#18323d" stroke-width="2"/>
+  <polyline points="85,180 140,165 195,105 250,75 305,90 360,135" fill="none" stroke="#c2410c" stroke-width="3" stroke-linejoin="round"/>
+  <g fill="#c2410c">
+    <circle cx="85" cy="180" r="4.5"/>
+    <circle cx="140" cy="165" r="4.5"/>
+    <circle cx="195" cy="105" r="4.5"/>
+    <circle cx="250" cy="75" r="4.5"/>
+    <circle cx="305" cy="90" r="4.5"/>
+    <circle cx="360" cy="135" r="4.5"/>
+  </g>
+  <g fill="#18323d" text-anchor="middle" font-weight="bold" font-size="13">
+    <text x="85" y="170">20</text>
+    <text x="140" y="155">25</text>
+    <text x="186" y="97">45</text>
+    <text x="250" y="65">55</text>
+    <text x="314" y="81">50</text>
+    <text x="352" y="125">35</text>
+  </g>
+  <g fill="#18323d" text-anchor="middle">
+    <text x="85" y="260">ม.ค.</text>
+    <text x="140" y="260">ก.พ.</text>
+    <text x="195" y="260">มี.ค.</text>
+    <text x="250" y="260">เม.ย.</text>
+    <text x="305" y="260">พ.ค.</text>
+    <text x="360" y="260">มิ.ย.</text>
+  </g>
+  <text x="18" y="145" fill="#667b84" font-size="12" text-anchor="middle" transform="rotate(-90 18 145)">ยอดขาย (ถ้วย)</text>
+  <text x="210" y="282" fill="#667b84" font-size="12" text-anchor="middle">เดือน</text>
+</svg>

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "english-modals-patterns-01",
+    "level": 1,
+    "q": "I ___ swim. I learned when I was six.",
+    "options": ["can", "can't", "mustn't", "doesn't"],
+    "answer": 0,
+    "explanation": "ประโยคหลังบอกว่าเรียนว่ายน้ำมาตั้งแต่อายุหกขวบ แสดงว่าว่ายน้ำได้ จึงใช้ can (สามารถ) ส่วน can't ขัดกับประโยคหลัง และ doesn't ใช้กับประธาน I ไม่ได้"
+  },
+  {
+    "id": "english-modals-patterns-02",
+    "level": 1,
+    "q": "There ___ many books on the shelf.",
+    "options": ["are", "is", "am", "be"],
+    "answer": 0,
+    "explanation": "There is / There are แปลว่า “มี” ให้ดูนามที่ตามมา many books เป็นพหูพจน์จึงใช้ There are ถ้าเป็นเอกพจน์หรือนามนับไม่ได้ใช้ There is"
+  },
+  {
+    "id": "english-modals-patterns-03",
+    "level": 2,
+    "q": "You ___ talk loudly in the library. It's against the rules.",
+    "options": ["mustn't", "must", "should", "can"],
+    "answer": 0,
+    "explanation": "It's against the rules (ผิดกฎ) แสดงว่าเป็นข้อห้าม จึงใช้ mustn't (must not) ซึ่งแปลว่า ห้าม"
+  },
+  {
+    "id": "english-modals-patterns-04",
+    "level": 2,
+    "q": "You look tired. You ___ go to bed early.",
+    "options": ["should", "mustn't", "can't", "shouldn't"],
+    "answer": 0,
+    "explanation": "การให้คำแนะนำใช้ should (ควร) เมื่อเพื่อนดูเหนื่อย จึงแนะนำว่าควรเข้านอนเร็ว ส่วน shouldn't และ mustn't มีความหมายตรงข้ามกับคำแนะนำนี้"
+  },
+  {
+    "id": "english-modals-patterns-05",
+    "level": 2,
+    "q": "When I was young, I ___ live in Chiang Mai, but now I live in Bangkok.",
+    "options": ["used to", "use to", "am used to", "was used to"],
+    "answer": 0,
+    "explanation": "used to + V1 ใช้บอกสิ่งที่เคยทำหรือเคยเป็นในอดีตแต่ปัจจุบันไม่เป็นแล้ว ในประโยคบอกเล่าต้องใช้ used to (มี d) ส่วน be used to แปลว่าเคยชินกับ ซึ่งความหมายไม่ตรง"
+  },
+  {
+    "id": "english-modals-patterns-06",
+    "level": 2,
+    "q": "She ___ able to ride a bike when she was five.",
+    "options": ["was", "is", "were", "will"],
+    "answer": 0,
+    "explanation": "be able to แปลว่า สามารถ when she was five บอกอดีต และประธาน She เป็นเอกพจน์ จึงใช้ was able to"
+  },
+  {
+    "id": "english-modals-patterns-07",
+    "level": 2,
+    "q": "___ I borrow your pen, please?",
+    "options": ["May", "Must", "Should", "Do"],
+    "answer": 0,
+    "explanation": "การขออนุญาตอย่างสุภาพใช้ May I …? หรือ Can I …? ส่วน Must และ Should ไม่ใช้ขออนุญาต และ Do I borrow … ผิดความหมาย"
+  },
+  {
+    "id": "english-modals-patterns-08",
+    "level": 3,
+    "q": "You ___ wear a uniform at our school on weekdays. It's a rule. But you ___ wear it on Saturdays. You can wear anything you like.",
+    "options": ["must / don't have to", "mustn't / must", "don't have to / must", "should / mustn't"],
+    "answer": 0,
+    "explanation": "วันธรรมดาเป็นกฎจึงใช้ must (ต้อง) วันเสาร์จะใส่หรือไม่ใส่ก็ได้จึงใช้ don't have to (ไม่จำเป็นต้อง) ระวังว่า mustn't แปลว่า ห้าม ซึ่งต่างจาก don't have to"
+  },
+  {
+    "id": "english-modals-patterns-09",
+    "level": 3,
+    "q": "Nid is used to ___ up early because she has done it for years.",
+    "options": ["getting", "get", "got", "gets"],
+    "answer": 0,
+    "explanation": "be used to (เคยชินกับ) ตามด้วยคำนามหรือ V-ing จึงเป็น is used to getting up ต่างจาก used to + V1 ที่แปลว่า เคยทำในอดีต"
+  },
+  {
+    "id": "english-modals-patterns-10",
+    "level": 3,
+    "q": "My mother made me ___ the dishes after dinner.",
+    "options": ["wash", "to wash", "washing", "washed"],
+    "answer": 0,
+    "explanation": "โครงสร้าง make + กรรม + V1 (ไม่มี to) แปลว่า ทำให้หรือบังคับให้ใครทำบางอย่าง จึงเป็น made me wash เช่นเดียวกับ let me go"
+  }
+]

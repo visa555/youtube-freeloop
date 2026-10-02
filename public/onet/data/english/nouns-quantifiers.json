@@ -1,0 +1,87 @@
+[
+  {
+    "id": "english-nouns-quantifiers-01",
+    "level": 1,
+    "q": "There are three ___ on the table.",
+    "options": ["boxes", "boxs", "box", "boxies"],
+    "answer": 0,
+    "explanation": "นามที่ลงท้ายด้วย -s, -ss, -sh, -ch, -x, -o เมื่อทำเป็นพหูพจน์ให้เติม -es ดังนั้น box จึงเป็น boxes"
+  },
+  {
+    "id": "english-nouns-quantifiers-02",
+    "level": 1,
+    "q": "I want ___ apple.",
+    "options": ["an", "a", "many", "any"],
+    "answer": 0,
+    "explanation": "apple ขึ้นต้นด้วยเสียงสระ จึงใช้ an ส่วน a ใช้กับคำที่ขึ้นต้นด้วยเสียงพยัญชนะ เช่น a banana และ many ใช้กับนามพหูพจน์"
+  },
+  {
+    "id": "english-nouns-quantifiers-03",
+    "level": 1,
+    "q": "One child, two ___.",
+    "options": ["children", "childs", "childrens", "childes"],
+    "answer": 0,
+    "explanation": "child เป็นนามที่เปลี่ยนรูปพหูพจน์แบบไม่ปกติ คือ children เช่นเดียวกับ man – men, mouse – mice และ foot – feet"
+  },
+  {
+    "id": "english-nouns-quantifiers-04",
+    "level": 2,
+    "q": "There isn't ___ milk in the fridge.",
+    "options": ["any", "many", "a", "some"],
+    "answer": 0,
+    "explanation": "ประโยคปฏิเสธและคำถามใช้ any ส่วนประโยคบอกเล่าใช้ some milk เป็นนามนับไม่ได้ จึงใช้ many หรือ a ไม่ได้"
+  },
+  {
+    "id": "english-nouns-quantifiers-05",
+    "level": 2,
+    "q": "How ___ students are there in your class?",
+    "options": ["many", "much", "any", "lot"],
+    "answer": 0,
+    "explanation": "students เป็นนามนับได้พหูพจน์ ถามจำนวนจึงใช้ How many ส่วน How much ใช้กับนามนับไม่ได้หรือถามราคา"
+  },
+  {
+    "id": "english-nouns-quantifiers-06",
+    "level": 2,
+    "q": "She is ___ honest girl.",
+    "options": ["an", "a", "some", "any"],
+    "answer": 0,
+    "explanation": "honest ขึ้นต้นด้วยตัว h แต่ไม่ออกเสียง h (อ่านว่า ออน-เนสท์) จึงขึ้นต้นด้วยเสียงสระ ต้องใช้ an การเลือก a หรือ an ให้ดูที่เสียง ไม่ใช่ตัวอักษร"
+  },
+  {
+    "id": "english-nouns-quantifiers-07",
+    "level": 2,
+    "q": "Which word is an uncountable noun?",
+    "options": ["water", "bottle", "orange", "chair"],
+    "answer": 0,
+    "explanation": "water (น้ำ) เป็นนามนับไม่ได้ ต้องนับด้วยภาชนะ เช่น a glass of water ส่วน bottle, orange และ chair เป็นนามนับได้"
+  },
+  {
+    "id": "english-nouns-quantifiers-08",
+    "level": 2,
+    "q": "I need ___ information about the school trip.",
+    "options": ["some", "an", "many", "a few"],
+    "answer": 0,
+    "explanation": "information เป็นนามนับไม่ได้ในภาษาอังกฤษ (ไม่มีรูป informations) จึงใช้ some ได้ แต่ใช้ an, many หรือ a few ไม่ได้ เพราะคำเหล่านี้ใช้กับนามนับได้"
+  },
+  {
+    "id": "english-nouns-quantifiers-09",
+    "level": 3,
+    "q": "Which sentence is correct?",
+    "options": [
+      "There is a little sugar in the jar.",
+      "There are a few water in the glass.",
+      "There is many books on the shelf.",
+      "There are much people in the room."
+    ],
+    "answer": 0,
+    "explanation": "sugar นับไม่ได้ จึงใช้ There is กับ a little ได้ถูกต้อง ส่วน water นับไม่ได้จึงใช้ a few ไม่ได้ books เป็นพหูพจน์ต้องใช้ There are และ people เป็นพหูพจน์ต้องใช้ many ไม่ใช่ much"
+  },
+  {
+    "id": "english-nouns-quantifiers-10",
+    "level": 3,
+    "q": "He plays ___ guitar, and his sister plays ___ football.",
+    "options": ["the / – (no article)", "– (no article) / the", "a / a", "the / the"],
+    "answer": 0,
+    "explanation": "เมื่อพูดถึงการเล่นเครื่องดนตรีใช้ the นำหน้า (play the guitar, play the piano) แต่การเล่นกีฬาไม่ใช้คำนำหน้านาม (play football, play badminton)"
+  }
+]

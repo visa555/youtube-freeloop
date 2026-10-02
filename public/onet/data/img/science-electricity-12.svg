@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 240" width="420" height="240" font-family="Tahoma, Arial, sans-serif" font-size="15">
+  <rect width="420" height="240" fill="#fff"/>
+  <path d="M60 40 H360 V200 H60" stroke="#18323d" stroke-width="2.5" fill="none" stroke-linejoin="round"/>
+  <path d="M60 40 V114 M60 126 V200" stroke="#18323d" stroke-width="2.5" fill="none"/>
+  <path d="M46 114 H74" stroke="#18323d" stroke-width="3"/>
+  <path d="M53 126 H67" stroke="#18323d" stroke-width="5"/>
+  <text x="78" y="112" fill="#18323d" font-size="14">+</text>
+  <path d="M240 40 V200" stroke="#18323d" stroke-width="2.5" fill="none" stroke-linejoin="round"/>
+  <circle cx="240" cy="40" r="4" fill="#18323d"/>
+  <circle cx="240" cy="200" r="4" fill="#18323d"/>
+  <circle cx="150" cy="40" r="13" fill="#fff" stroke="#18323d" stroke-width="2.5"/>
+  <path d="M141 31 L159 49 M159 31 L141 49" stroke="#18323d" stroke-width="2"/>
+  <text x="144" y="18" fill="#18323d" font-weight="bold" font-size="17">A</text>
+  <circle cx="240" cy="120" r="13" fill="#fff" stroke="#18323d" stroke-width="2.5"/>
+  <path d="M231 111 L249 129 M249 111 L231 129" stroke="#18323d" stroke-width="2"/>
+  <text x="260" y="126" fill="#18323d" font-weight="bold" font-size="17">B</text>
+  <circle cx="360" cy="120" r="13" fill="#fff" stroke="#18323d" stroke-width="2.5"/>
+  <path d="M351 111 L369 129 M369 111 L351 129" stroke="#18323d" stroke-width="2"/>
+  <text x="380" y="126" fill="#18323d" font-weight="bold" font-size="17">C</text>
+</svg>

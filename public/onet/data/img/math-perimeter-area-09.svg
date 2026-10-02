@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 270" width="360" height="270" font-family="Tahoma, Arial, sans-serif" font-size="15">
+  <rect width="360" height="270" fill="#fff"/>
+  <!-- 1 cm = 20 px -->
+  <path d="M60 30 H200 V110 H300 V230 H60 Z" fill="#e3eafb" stroke="#18323d" stroke-width="2.5" stroke-linejoin="round"/>
+  <g fill="#18323d" font-weight="bold">
+    <text x="130" y="22" text-anchor="middle">7 ซม.</text>
+    <text x="52" y="135" text-anchor="end">10 ซม.</text>
+    <text x="180" y="252" text-anchor="middle">12 ซม.</text>
+    <text x="308" y="175">6 ซม.</text>
+    <text x="207" y="75">4 ซม.</text>
+    <text x="250" y="102" text-anchor="middle">5 ซม.</text>
+  </g>
+</svg>

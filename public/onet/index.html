@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ฝึกทำข้อสอบเข้า ม.1</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+Thai:wght@400;700;800;900&display=swap">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="app">
+  <header class="hero">
+    <div>
+      <div class="eyebrow" id="heroEyebrow">M.1 ENTRANCE PRACTICE</div>
+      <h1 id="heroTitle">ฝึกทำข้อสอบเข้า ม.1</h1>
+      <p id="heroSubtitle"></p>
+    </div>
+    <div class="hero-icon" id="heroIcon">🎯</div>
+  </header>
+
+  <nav id="crumbs" class="crumbs hidden"></nav>
+
+  <section id="loadingScreen" class="card status">กำลังโหลด...</section>
+
+  <section id="errorScreen" class="card status hidden">
+    <h2>โหลดข้อมูลไม่สำเร็จ</h2>
+    <p id="errorMessage"></p>
+    <a class="button secondary" href="#/">กลับหน้าแรก</a>
+  </section>
+
+  <section id="homeScreen" class="hidden">
+    <div id="subjectGrid" class="subject-grid"></div>
+  </section>
+
+  <section id="subjectScreen" class="hidden">
+    <div class="card sets">
+      <h2>เลือกชุดข้อสอบ</h2>
+      <p id="setsInfo" class="muted"></p>
+      <ul class="mode-help">
+        <li><b>📝 ฝึกทำ</b> ตรวจคำตอบและอ่านเฉลยทีละข้อ ไม่จับเวลา</li>
+        <li><b>⏱️ จำลองสอบ</b> <span id="examInfo"></span></li>
+      </ul>
+      <div id="setGrid" class="set-grid"></div>
+    </div>
+
+    <div class="card blueprint">
+      <h2>เนื้อหาที่ออกสอบ</h2>
+      <p class="muted">ทุกชุดแบ่งจำนวนข้อของแต่ละเรื่องเท่ากัน</p>
+      <div class="table-wrap"><table id="blueprintTable"></table></div>
+    </div>
+
+    <div id="historyCard" class="card history hidden">
+      <h2>ผลสอบล่าสุด</h2>
+      <div id="historyList" class="history-list"></div>
+    </div>
+  </section>
+
+  <main id="quizScreen" class="hidden">
+    <div class="topbar">
+      <div class="progress-wrap">
+        <div class="progress-label"><span id="progressText"></span><span id="scoreText"></span></div>
+        <div class="progress"><div id="progressBar"></div></div>
+      </div>
+      <span id="timer" class="timer hidden"></span>
+      <button id="submitBtn" class="ghost hidden" onclick="confirmSubmit()">ส่งคำตอบ</button>
+      <button id="restartBtn" class="ghost" onclick="confirmRestart()">เริ่มใหม่</button>
+      <button id="resultBtn" class="ghost hidden" onclick="showResult()">หน้าผลคะแนน</button>
+    </div>
+
+    <section class="card question-card">
+      <div class="question-head">
+        <span class="question-number" id="questionNumber"></span>
+        <span id="questionTags" class="tags"></span>
+      </div>
+      <h2 id="questionText"></h2>
+      <img id="questionImage" class="figure hidden" alt="">
+      <div id="options" class="options"></div>
+
+      <div id="feedback" class="feedback hidden"></div>
+
+      <div class="actions">
+        <button id="prevBtn" class="secondary" onclick="prevQuestion()">← ข้อก่อนหน้า</button>
+        <button id="flagBtn" class="secondary hidden" onclick="toggleFlag()"></button>
+        <button id="checkBtn" class="primary" onclick="checkAnswer()">ตรวจคำตอบ</button>
+        <button id="nextBtn" class="primary hidden" onclick="nextQuestion()">ข้อถัดไป →</button>
+      </div>
+    </section>
+
+    <section id="navCard" class="card nav-card hidden">
+      <div id="navLegend" class="nav-legend"></div>
+      <div id="navGrid" class="nav-grid"></div>
+    </section>
+  </main>
+
+  <section id="resultScreen" class="hidden">
+    <div class="card result">
+      <div class="result-icon" id="resultIcon">🎉</div>
+      <h2 id="resultHeading"></h2>
+      <div class="score-circle"><span id="finalScore">0</span><small id="finalTotal">/ 0</small></div>
+      <h3 id="resultTitle"></h3>
+      <p id="resultMessage"></p>
+      <div class="result-stats">
+        <div><strong id="correctCount">0</strong><span>ตอบถูก</span></div>
+        <div><strong id="wrongCount">0</strong><span>ตอบผิด / ไม่ได้ตอบ</span></div>
+        <div><strong id="percent">0%</strong><span>คิดเป็น</span></div>
+      </div>
+      <div class="result-actions">
+        <button id="reviewBtn" class="primary" onclick="review(true)">ทบทวนข้อที่ผิด</button>
+        <button class="secondary" onclick="review(false)">ดูเฉลยทุกข้อ</button>
+        <button class="secondary" onclick="startQuiz(mode)">ทำชุดนี้อีกครั้ง</button>
+        <a id="nextSetLink" class="button secondary" href="#/">ชุดถัดไป →</a>
+        <a id="subjectLink" class="button secondary" href="#/">เลือกชุดอื่น</a>
+      </div>
+    </div>
+
+    <div class="card breakdown">
+      <h3>คะแนนแยกตามระดับ</h3>
+      <div id="levelBreakdown" class="bars"></div>
+      <h3>คะแนนแยกตามเรื่อง</h3>
+      <div id="topicBreakdown" class="bars"></div>
+    </div>
+  </section>
+
+  <footer>แบบฝึกทำข้อสอบเข้ามัธยมศึกษาปีที่ 1 ตามหลักสูตรแกนกลาง ช่วงชั้น ป.4–ป.6</footer>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

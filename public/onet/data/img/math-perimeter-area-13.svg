@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 240" width="380" height="240" font-family="Tahoma, Arial, sans-serif" font-size="15">
+  <rect width="380" height="240" fill="#fff"/>
+  <!-- 1 cm = 16 px; E is 5 cm from A -->
+  <defs>
+    <pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="8" height="8" fill="#c9d6f5"/>
+      <line x1="0" y1="0" x2="0" y2="8" stroke="#6f86c9" stroke-width="2"/>
+    </pattern>
+  </defs>
+  <path d="M132 30 L308 190 H52 Z" fill="url(#hatch)" stroke="#18323d" stroke-width="2" stroke-linejoin="round"/>
+  <rect x="52" y="30" width="256" height="160" fill="none" stroke="#18323d" stroke-width="2.5"/>
+  <circle cx="132" cy="30" r="3.5" fill="#18323d"/>
+  <g fill="#18323d" font-weight="bold">
+    <text x="40" y="26">A</text>
+    <text x="312" y="26">B</text>
+    <text x="312" y="206">C</text>
+    <text x="38" y="206">D</text>
+    <text x="127" y="22">E</text>
+    <text x="180" y="214" text-anchor="middle">16 ซม.</text>
+    <text x="316" y="115">10 ซม.</text>
+  </g>
+</svg>

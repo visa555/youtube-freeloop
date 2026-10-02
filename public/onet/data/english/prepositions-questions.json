@@ -1,0 +1,87 @@
+[
+  {
+    "id": "english-prepositions-questions-01",
+    "level": 1,
+    "q": "My birthday is ___ May.",
+    "options": ["in", "on", "at", "to"],
+    "answer": 0,
+    "explanation": "ใช้ in กับเดือน ปี และฤดู (in May, in 2026) ใช้ on กับวันและวันที่ (on Monday, on 5 May) และใช้ at กับเวลา (at 7 o'clock)"
+  },
+  {
+    "id": "english-prepositions-questions-02",
+    "level": 1,
+    "q": "___ is your name? — My name is Pim.",
+    "options": ["What", "Who", "Where", "When"],
+    "answer": 0,
+    "explanation": "ถามชื่อใช้ What is your name? ส่วน Who ถามว่าใคร Where ถามสถานที่ และ When ถามเวลา"
+  },
+  {
+    "id": "english-prepositions-questions-03",
+    "level": 2,
+    "q": "The meeting starts ___ 9 o'clock ___ Monday.",
+    "options": ["at / on", "on / at", "in / on", "at / in"],
+    "answer": 0,
+    "explanation": "ใช้ at กับเวลาที่ระบุชัดเจน (at 9 o'clock) และใช้ on กับวัน (on Monday)"
+  },
+  {
+    "id": "english-prepositions-questions-04",
+    "level": 2,
+    "q": "___ do you go to school? — By bus.",
+    "options": ["How", "What", "Where", "Why"],
+    "answer": 0,
+    "explanation": "คำตอบ By bus บอกวิธีการเดินทาง คำถามที่ถามวิธีการใช้ How ส่วน Where ถามสถานที่ และ Why ถามเหตุผล"
+  },
+  {
+    "id": "english-prepositions-questions-05",
+    "level": 2,
+    "q": "It was raining heavily, ___ we stayed at home.",
+    "options": ["so", "but", "because", "or"],
+    "answer": 0,
+    "explanation": "ประโยคหลังเป็นผลของประโยคหน้า (ฝนตกหนัก ผลคืออยู่บ้าน) จึงใช้ so ซึ่งแปลว่า “ดังนั้น” ส่วน because ใช้นำหน้าสาเหตุ ซึ่งในที่นี้ประโยคหลังไม่ใช่สาเหตุ และ but ใช้กับความขัดแย้ง"
+  },
+  {
+    "id": "english-prepositions-questions-06",
+    "level": 2,
+    "q": "___ book is this? — It's Nid's.",
+    "options": ["Whose", "Who", "Which", "What"],
+    "answer": 0,
+    "explanation": "คำตอบ It's Nid's บอกความเป็นเจ้าของ คำถามที่ถามว่าเป็นของใครใช้ Whose + คำนาม"
+  },
+  {
+    "id": "english-prepositions-questions-07",
+    "level": 2,
+    "q": "She was born ___ Chiang Mai ___ 2014.",
+    "options": ["in / in", "at / on", "on / in", "in / on"],
+    "answer": 0,
+    "explanation": "ใช้ in กับเมืองหรือประเทศ (in Chiang Mai) และใช้ in กับปี (in 2014)"
+  },
+  {
+    "id": "english-prepositions-questions-08",
+    "level": 3,
+    "q": "He is good ___ math, but he is afraid ___ dogs.",
+    "options": ["at / of", "in / from", "on / with", "at / with"],
+    "answer": 0,
+    "explanation": "คำคุณศัพท์บางคำใช้คู่กับคำบุพบทเฉพาะ ต้องจำเป็นคู่ เช่น good at (เก่งเรื่อง) และ afraid of (กลัว) คู่อื่นที่พบบ่อย เช่น interested in และ proud of"
+  },
+  {
+    "id": "english-prepositions-questions-09",
+    "level": 3,
+    "q": "We stayed at home ___ the heavy rain.",
+    "options": ["because of", "because", "so", "although"],
+    "answer": 0,
+    "explanation": "หลังช่องว่างเป็นกลุ่มคำนาม (the heavy rain) ไม่ใช่ประโยค จึงใช้ because of ส่วน because ต้องตามด้วยประโยคที่มีประธานและกริยา เช่น because it rained heavily และ although (แม้ว่า) ไม่สมเหตุผลกับความหมาย"
+  },
+  {
+    "id": "english-prepositions-questions-10",
+    "level": 3,
+    "q": "Which question is correct?",
+    "options": [
+      "Where does your father work?",
+      "Where your father works?",
+      "Where does your father works?",
+      "Where do your father work?"
+    ],
+    "answer": 0,
+    "explanation": "คำถาม Wh- ใน Present Simple ใช้โครงสร้าง Wh- + do/does + ประธาน + V1 ประธาน your father เป็นเอกพจน์จึงใช้ does และเมื่อมี does แล้ว กริยาหลักต้องเป็นรูปเดิม (work) ไม่เติม s"
+  }
+]
