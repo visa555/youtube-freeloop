@@ -3,7 +3,12 @@
     "id": "english-tenses-01",
     "level": 1,
     "q": "She ___ to school every day.",
-    "options": ["goes", "go", "going", "gone"],
+    "options": [
+      "goes",
+      "go",
+      "going",
+      "gone"
+    ],
     "answer": 0,
     "explanation": "every day บอกว่าทำเป็นประจำ จึงใช้ Present Simple ประธาน She เป็นเอกพจน์บุรุษที่ 3 กริยาต้องเติม -es เป็น goes"
   },
@@ -11,7 +16,12 @@
     "id": "english-tenses-02",
     "level": 1,
     "q": "Look! The children ___ in the garden.",
-    "options": ["are playing", "play", "played", "plays"],
+    "options": [
+      "are playing",
+      "play",
+      "played",
+      "plays"
+    ],
     "answer": 0,
     "explanation": "Look! บอกว่าเหตุการณ์กำลังเกิดขึ้นตอนนี้ จึงใช้ Present Continuous (is/am/are + V-ing) ประธาน The children เป็นพหูพจน์จึงใช้ are playing"
   },
@@ -19,7 +29,12 @@
     "id": "english-tenses-03",
     "level": 1,
     "q": "Yesterday, I ___ a movie with my family.",
-    "options": ["watched", "watch", "am watching", "will watch"],
+    "options": [
+      "watched",
+      "watch",
+      "am watching",
+      "will watch"
+    ],
     "answer": 0,
     "explanation": "Yesterday (เมื่อวาน) บอกว่าเหตุการณ์เกิดขึ้นและจบไปแล้วในอดีต จึงใช้ Past Simple คือ watched"
   },
@@ -27,7 +42,12 @@
     "id": "english-tenses-04",
     "level": 1,
     "q": "Tomorrow, we ___ visit our grandparents.",
-    "options": ["will", "did", "was", "have"],
+    "options": [
+      "will",
+      "did",
+      "was",
+      "have"
+    ],
     "answer": 0,
     "explanation": "Tomorrow (พรุ่งนี้) บอกอนาคต จึงใช้ will + V1 คือ will visit ส่วน did และ was ใช้กับอดีต"
   },
@@ -35,7 +55,12 @@
     "id": "english-tenses-05",
     "level": 2,
     "q": "My father usually ___ coffee in the morning, but today he ___ tea.",
-    "options": ["drinks / is drinking", "is drinking / drinks", "drink / drinking", "drank / drinks"],
+    "options": [
+      "drinks / is drinking",
+      "is drinking / drinks",
+      "drink / drinking",
+      "drank / drinks"
+    ],
     "answer": 0,
     "explanation": "usually บอกกิจวัตรจึงใช้ Present Simple (drinks) ส่วน today บอกว่าวันนี้ทำต่างจากปกติ และกำลังเกิดขึ้น จึงใช้ Present Continuous (is drinking)"
   },
@@ -43,7 +68,12 @@
     "id": "english-tenses-06",
     "level": 2,
     "q": "When I arrived home, my mother ___ dinner.",
-    "options": ["was cooking", "cooks", "is cooking", "will cook"],
+    "options": [
+      "was cooking",
+      "cooks",
+      "is cooking",
+      "will cook"
+    ],
     "answer": 0,
     "explanation": "เหตุการณ์ในอดีตที่กำลังดำเนินอยู่ แล้วมีอีกเหตุการณ์หนึ่งแทรกเข้ามา ใช้ Past Continuous กับเหตุการณ์ที่กำลังทำ (was cooking) และ Past Simple กับเหตุการณ์ที่แทรก (arrived)"
   },
@@ -51,7 +81,12 @@
     "id": "english-tenses-07",
     "level": 2,
     "q": "I have lived in Bangkok ___ 2015.",
-    "options": ["since", "for", "ago", "in"],
+    "options": [
+      "since",
+      "for",
+      "ago",
+      "in"
+    ],
     "answer": 0,
     "explanation": "Present Perfect ใช้ since ตามด้วยจุดเริ่มต้นของเวลา (since 2015) และใช้ for ตามด้วยช่วงระยะเวลา (for ten years) ส่วน ago ใช้กับ Past Simple"
   },
@@ -59,7 +94,12 @@
     "id": "english-tenses-08",
     "level": 2,
     "q": "Did you ___ your homework last night?",
-    "options": ["finish", "finished", "finishing", "finishes"],
+    "options": [
+      "finish",
+      "finished",
+      "finishing",
+      "finishes"
+    ],
     "answer": 0,
     "explanation": "ประโยคคำถาม Past Simple ใช้ Did + ประธาน + V1 เพราะ Did แสดงอดีตแล้ว กริยาหลักจึงกลับเป็นรูปเดิม (finish)"
   },
@@ -67,7 +107,12 @@
     "id": "english-tenses-09",
     "level": 2,
     "q": "Look at those dark clouds! It ___ rain.",
-    "options": ["is going to", "will be", "was", "has"],
+    "options": [
+      "is going to",
+      "will be",
+      "was",
+      "has"
+    ],
     "answer": 0,
     "explanation": "be going to ใช้คาดการณ์สิ่งที่จะเกิดขึ้นเมื่อมีหลักฐานให้เห็นอยู่ตรงหน้า (เมฆดำ) จึงเป็น It is going to rain ส่วน will be rain และ has rain ผิดโครงสร้าง"
   },
@@ -75,7 +120,12 @@
     "id": "english-tenses-10",
     "level": 2,
     "q": "She ___ never ___ to Japan.",
-    "options": ["has / been", "have / been", "has / go", "is / went"],
+    "options": [
+      "has / been",
+      "have / been",
+      "has / go",
+      "is / went"
+    ],
     "answer": 0,
     "explanation": "ประโยคบอกประสบการณ์ใช้ Present Perfect (has/have + V3) ประธาน She ใช้ has และ been เป็น V3 ของ be จึงได้ She has never been to Japan (เธอไม่เคยไปญี่ปุ่น)"
   },
@@ -83,15 +133,38 @@
     "id": "english-tenses-11",
     "level": 2,
     "q": "Water ___ at 100 degrees Celsius.",
-    "options": ["boils", "is boiling", "boiled", "will boil"],
+    "options": [
+      "boils",
+      "is boiling",
+      "boiled",
+      "will boil"
+    ],
     "answer": 0,
     "explanation": "ข้อเท็จจริงทางวิทยาศาสตร์และความจริงทั่วไปใช้ Present Simple ประธาน Water เป็นนามนับไม่ได้ ใช้กริยาเอกพจน์ boils"
+  },
+  {
+    "id": "english-tenses-16",
+    "level": 2,
+    "q": "While I ___ my homework, the lights went out.",
+    "options": [
+      "was doing",
+      "did",
+      "am doing",
+      "have done"
+    ],
+    "answer": 0,
+    "explanation": "While ใช้กับเหตุการณ์ที่กำลังดำเนินอยู่ในอดีต จึงใช้ Past Continuous (was doing) ส่วนเหตุการณ์ที่แทรกเข้ามา (ไฟดับ) ใช้ Past Simple (went out)"
   },
   {
     "id": "english-tenses-12",
     "level": 3,
     "q": "I ___ this book for three days, and I still haven't finished it.",
-    "options": ["have been reading", "read", "am reading", "was read"],
+    "options": [
+      "have been reading",
+      "read",
+      "am reading",
+      "was read"
+    ],
     "answer": 0,
     "explanation": "การกระทำที่เริ่มในอดีต ทำต่อเนื่องมาจนถึงปัจจุบันและยังไม่จบ (still haven't finished) ใช้ Present Perfect Continuous (have been + V-ing) ร่วมกับ for three days ส่วน was read เป็นรูปถูกกระทำซึ่งไม่เข้ากับความหมาย"
   },
@@ -99,7 +172,12 @@
     "id": "english-tenses-13",
     "level": 3,
     "q": "By the time we got to the cinema, the movie ___.",
-    "options": ["had already started", "has already started", "already starts", "is already starting"],
+    "options": [
+      "had already started",
+      "has already started",
+      "already starts",
+      "is already starting"
+    ],
     "answer": 0,
     "explanation": "เหตุการณ์ในอดีตสองเหตุการณ์ เหตุการณ์ที่เกิดก่อน (หนังเริ่มฉาย) ใช้ Past Perfect (had + V3) ส่วนเหตุการณ์ที่เกิดทีหลัง (got to the cinema) ใช้ Past Simple"
   },
@@ -107,7 +185,12 @@
     "id": "english-tenses-14",
     "level": 3,
     "q": "Which sentence is correct?",
-    "options": ["I saw him yesterday.", "I have seen him yesterday.", "I see him yesterday.", "I was see him yesterday."],
+    "options": [
+      "I saw him yesterday.",
+      "I have seen him yesterday.",
+      "I see him yesterday.",
+      "I was see him yesterday."
+    ],
     "answer": 0,
     "explanation": "คำบอกเวลาที่ระบุอดีตชัดเจน เช่น yesterday ใช้กับ Past Simple เท่านั้น ห้ามใช้กับ Present Perfect ส่วน I see ไม่ใช่รูปอดีต และ was see ผิดโครงสร้าง"
   },
@@ -115,7 +198,12 @@
     "id": "english-tenses-15",
     "level": 3,
     "q": "If it rains tomorrow, we ___ at home.",
-    "options": ["will stay", "stayed", "would stayed", "stays"],
+    "options": [
+      "will stay",
+      "stayed",
+      "would stayed",
+      "stays"
+    ],
     "answer": 0,
     "explanation": "ประโยคเงื่อนไขแบบที่ 1 พูดถึงสิ่งที่อาจเกิดขึ้นจริงในอนาคต ใช้โครงสร้าง If + Present Simple, will + V1 จึงเป็น we will stay"
   }

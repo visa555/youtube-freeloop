@@ -3,7 +3,12 @@
     "id": "english-nouns-quantifiers-01",
     "level": 1,
     "q": "There are three ___ on the table.",
-    "options": ["boxes", "boxs", "box", "boxies"],
+    "options": [
+      "boxes",
+      "boxs",
+      "box",
+      "boxies"
+    ],
     "answer": 0,
     "explanation": "นามที่ลงท้ายด้วย -s, -ss, -sh, -ch, -x, -o เมื่อทำเป็นพหูพจน์ให้เติม -es ดังนั้น box จึงเป็น boxes"
   },
@@ -11,7 +16,12 @@
     "id": "english-nouns-quantifiers-02",
     "level": 1,
     "q": "I want ___ apple.",
-    "options": ["an", "a", "many", "any"],
+    "options": [
+      "an",
+      "a",
+      "many",
+      "any"
+    ],
     "answer": 0,
     "explanation": "apple ขึ้นต้นด้วยเสียงสระ จึงใช้ an ส่วน a ใช้กับคำที่ขึ้นต้นด้วยเสียงพยัญชนะ เช่น a banana และ many ใช้กับนามพหูพจน์"
   },
@@ -19,15 +29,90 @@
     "id": "english-nouns-quantifiers-03",
     "level": 1,
     "q": "One child, two ___.",
-    "options": ["children", "childs", "childrens", "childes"],
+    "options": [
+      "children",
+      "childs",
+      "childrens",
+      "childes"
+    ],
     "answer": 0,
     "explanation": "child เป็นนามที่เปลี่ยนรูปพหูพจน์แบบไม่ปกติ คือ children เช่นเดียวกับ man – men, mouse – mice และ foot – feet"
+  },
+  {
+    "id": "english-nouns-quantifiers-11",
+    "level": 1,
+    "q": "This is my brother. ___ name is Tom.",
+    "options": [
+      "His",
+      "He",
+      "Him",
+      "Her"
+    ],
+    "answer": 0,
+    "explanation": "หน้าคำนาม name ต้องใช้คำแสดงความเป็นเจ้าของ (possessive adjective) ของ brother ซึ่งเป็นผู้ชาย คือ His ส่วน He เป็นประธาน Him เป็นกรรม และ Her ใช้กับผู้หญิง"
+  },
+  {
+    "id": "english-nouns-quantifiers-12",
+    "level": 1,
+    "q": "Mary and I are friends. ___ go to the same school.",
+    "options": [
+      "We",
+      "Us",
+      "They",
+      "Our"
+    ],
+    "answer": 0,
+    "explanation": "Mary and I รวมผู้พูดด้วย ใช้แทนด้วย We ซึ่งเป็นสรรพนามที่ทำหน้าที่ประธาน ส่วน Us เป็นกรรม Our ใช้แสดงความเป็นเจ้าของ และ They ไม่รวมผู้พูด"
+  },
+  {
+    "id": "english-nouns-quantifiers-13",
+    "level": 1,
+    "q": "Can you help ___? I can't open this box.",
+    "options": [
+      "me",
+      "I",
+      "my",
+      "mine"
+    ],
+    "answer": 0,
+    "explanation": "ตำแหน่งหลังกริยา help เป็นกรรม จึงใช้สรรพนามรูปกรรม me ส่วน I เป็นประธาน my ต้องตามด้วยคำนาม และ mine แปลว่าของฉัน"
+  },
+  {
+    "id": "english-nouns-quantifiers-14",
+    "level": 1,
+    "q": "This bag belongs to Jane. It's ___.",
+    "options": [
+      "hers",
+      "her",
+      "she",
+      "she's"
+    ],
+    "answer": 0,
+    "explanation": "เมื่อไม่มีคำนามตามหลัง ใช้ possessive pronoun คือ hers (ของเธอ) ส่วน her ต้องตามด้วยคำนาม เช่น It's her bag."
+  },
+  {
+    "id": "english-nouns-quantifiers-15",
+    "level": 1,
+    "q": "The plural of “leaf” is ___.",
+    "options": [
+      "leaves",
+      "leafs",
+      "leafes",
+      "leaf"
+    ],
+    "answer": 0,
+    "explanation": "คำนามที่ลงท้ายด้วย -f หรือ -fe ส่วนใหญ่ทำเป็นพหูพจน์โดยเปลี่ยน f เป็น v แล้วเติม -es เช่น leaf – leaves, knife – knives, wolf – wolves"
   },
   {
     "id": "english-nouns-quantifiers-04",
     "level": 2,
     "q": "There isn't ___ milk in the fridge.",
-    "options": ["any", "many", "a", "some"],
+    "options": [
+      "any",
+      "many",
+      "a",
+      "some"
+    ],
     "answer": 0,
     "explanation": "ประโยคปฏิเสธและคำถามใช้ any ส่วนประโยคบอกเล่าใช้ some milk เป็นนามนับไม่ได้ จึงใช้ many หรือ a ไม่ได้"
   },
@@ -35,7 +120,12 @@
     "id": "english-nouns-quantifiers-05",
     "level": 2,
     "q": "How ___ students are there in your class?",
-    "options": ["many", "much", "any", "lot"],
+    "options": [
+      "many",
+      "much",
+      "any",
+      "lot"
+    ],
     "answer": 0,
     "explanation": "students เป็นนามนับได้พหูพจน์ ถามจำนวนจึงใช้ How many ส่วน How much ใช้กับนามนับไม่ได้หรือถามราคา"
   },
@@ -43,7 +133,12 @@
     "id": "english-nouns-quantifiers-06",
     "level": 2,
     "q": "She is ___ honest girl.",
-    "options": ["an", "a", "some", "any"],
+    "options": [
+      "an",
+      "a",
+      "some",
+      "any"
+    ],
     "answer": 0,
     "explanation": "honest ขึ้นต้นด้วยตัว h แต่ไม่ออกเสียง h (อ่านว่า ออน-เนสท์) จึงขึ้นต้นด้วยเสียงสระ ต้องใช้ an การเลือก a หรือ an ให้ดูที่เสียง ไม่ใช่ตัวอักษร"
   },
@@ -51,7 +146,12 @@
     "id": "english-nouns-quantifiers-07",
     "level": 2,
     "q": "Which word is an uncountable noun?",
-    "options": ["water", "bottle", "orange", "chair"],
+    "options": [
+      "water",
+      "bottle",
+      "orange",
+      "chair"
+    ],
     "answer": 0,
     "explanation": "water (น้ำ) เป็นนามนับไม่ได้ ต้องนับด้วยภาชนะ เช่น a glass of water ส่วน bottle, orange และ chair เป็นนามนับได้"
   },
@@ -59,9 +159,53 @@
     "id": "english-nouns-quantifiers-08",
     "level": 2,
     "q": "I need ___ information about the school trip.",
-    "options": ["some", "an", "many", "a few"],
+    "options": [
+      "some",
+      "an",
+      "many",
+      "a few"
+    ],
     "answer": 0,
     "explanation": "information เป็นนามนับไม่ได้ในภาษาอังกฤษ (ไม่มีรูป informations) จึงใช้ some ได้ แต่ใช้ an, many หรือ a few ไม่ได้ เพราะคำเหล่านี้ใช้กับนามนับได้"
+  },
+  {
+    "id": "english-nouns-quantifiers-16",
+    "level": 2,
+    "q": "Each of the students ___ a book.",
+    "options": [
+      "has",
+      "have",
+      "are having",
+      "having"
+    ],
+    "answer": 0,
+    "explanation": "ประธานคือ Each (แต่ละคน) ซึ่งเป็นเอกพจน์ แม้จะตามด้วย of the students ก็ต้องใช้กริยาเอกพจน์ has"
+  },
+  {
+    "id": "english-nouns-quantifiers-17",
+    "level": 2,
+    "q": "These shoes are too small. I need a new ___ of shoes.",
+    "options": [
+      "pair",
+      "piece",
+      "slice",
+      "bar"
+    ],
+    "answer": 0,
+    "explanation": "ของที่มาเป็นคู่ เช่น รองเท้า ถุงเท้า กางเกง และกรรไกร ใช้ a pair of ส่วน a piece of ใช้กับกระดาษหรือเค้ก a slice of ใช้กับขนมปัง และ a bar of ใช้กับช็อกโกแลตหรือสบู่"
+  },
+  {
+    "id": "english-nouns-quantifiers-18",
+    "level": 2,
+    "q": "Which sentence is correct?",
+    "options": [
+      "The children are playing with their toys.",
+      "The childrens are playing with theirs toys.",
+      "The children is playing with there toys.",
+      "The child are playing with them toys."
+    ],
+    "answer": 0,
+    "explanation": "children เป็นพหูพจน์อยู่แล้ว (ไม่เติม s) ใช้กริยา are และหน้าคำนาม toys ต้องใช้ their (ของพวกเขา) ส่วน there แปลว่าที่นั่น และ them เป็นสรรพนามรูปกรรม"
   },
   {
     "id": "english-nouns-quantifiers-09",
@@ -80,8 +224,39 @@
     "id": "english-nouns-quantifiers-10",
     "level": 3,
     "q": "He plays ___ guitar, and his sister plays ___ football.",
-    "options": ["the / – (no article)", "– (no article) / the", "a / a", "the / the"],
+    "options": [
+      "the / – (no article)",
+      "– (no article) / the",
+      "a / a",
+      "the / the"
+    ],
     "answer": 0,
     "explanation": "เมื่อพูดถึงการเล่นเครื่องดนตรีใช้ the นำหน้า (play the guitar, play the piano) แต่การเล่นกีฬาไม่ใช้คำนำหน้านาม (play football, play badminton)"
+  },
+  {
+    "id": "english-nouns-quantifiers-19",
+    "level": 3,
+    "q": "I have ___ friends in this new town, so I often feel lonely.",
+    "options": [
+      "few",
+      "a few",
+      "many",
+      "much"
+    ],
+    "answer": 0,
+    "explanation": "few (ไม่มี a) แปลว่า มีน้อยมากหรือแทบไม่มี ให้ความหมายเชิงลบ จึงเข้ากับ so I often feel lonely ส่วน a few แปลว่า มีอยู่บ้าง ให้ความหมายเชิงบวก และ much ใช้กับนามนับไม่ได้"
+  },
+  {
+    "id": "english-nouns-quantifiers-20",
+    "level": 3,
+    "q": "Neither Tom nor his friends ___ at home yesterday.",
+    "options": [
+      "were",
+      "was",
+      "is",
+      "be"
+    ],
+    "answer": 0,
+    "explanation": "โครงสร้าง Neither … nor … ให้กริยาสอดคล้องกับประธานตัวที่อยู่ใกล้กริยาที่สุด ในที่นี้คือ his friends ซึ่งเป็นพหูพจน์ และ yesterday บอกอดีต จึงใช้ were"
   }
 ]

@@ -3,7 +3,12 @@
     "id": "english-reading-01",
     "level": 1,
     "q": "Look at the sign:\n“NO SMOKING”\nWhat does this sign mean?",
-    "options": ["You must not smoke here.", "You can smoke here.", "You must not eat here.", "This is a smoking area."],
+    "options": [
+      "You must not smoke here.",
+      "You can smoke here.",
+      "You must not eat here.",
+      "This is a smoking area."
+    ],
     "answer": 0,
     "explanation": "ป้าย NO SMOKING แปลว่า ห้ามสูบบุหรี่ ป้ายที่ขึ้นต้นด้วย NO + V-ing หรือคำนาม หมายถึงห้ามทำสิ่งนั้น เช่น NO PARKING (ห้ามจอดรถ)"
   },
@@ -11,7 +16,12 @@
     "id": "english-reading-02",
     "level": 1,
     "q": "Read the text:\n“Tom is ten years old. He lives in Phuket with his parents. He has a dog named Lucky.”\nWhere does Tom live?",
-    "options": ["In Phuket", "In Bangkok", "With his grandparents", "With a cat named Lucky"],
+    "options": [
+      "In Phuket",
+      "In Bangkok",
+      "With his grandparents",
+      "With a cat named Lucky"
+    ],
     "answer": 0,
     "explanation": "ข้อความบอกว่า He lives in Phuket with his parents. ทอมจึงอาศัยอยู่ที่ภูเก็ต และ Lucky เป็นชื่อสุนัข ไม่ใช่แมว"
   },
@@ -19,15 +29,38 @@
     "id": "english-reading-03",
     "level": 1,
     "q": "Read the notice:\n“SWIMMING POOL\nOpen: 9:00 a.m. – 6:00 p.m.\nClosed on Mondays”\nWhen is the swimming pool closed?",
-    "options": ["On Mondays", "On Sundays", "At 9:00 a.m.", "Every day"],
+    "options": [
+      "On Mondays",
+      "On Sundays",
+      "At 9:00 a.m.",
+      "Every day"
+    ],
     "answer": 0,
     "explanation": "ประกาศระบุว่า Closed on Mondays คือปิดทุกวันจันทร์ ส่วน 9:00 a.m. – 6:00 p.m. เป็นเวลาเปิดของวันอื่น"
+  },
+  {
+    "id": "english-reading-16",
+    "level": 1,
+    "q": "Read the sign:\n“PLEASE KEEP QUIET. PEOPLE ARE READING.”\nWhere would you most likely see this sign?",
+    "options": [
+      "In a library",
+      "At a football match",
+      "In a swimming pool",
+      "At a market"
+    ],
+    "answer": 0,
+    "explanation": "ป้ายขอให้เงียบเพราะมีคนกำลังอ่านหนังสือ สถานที่ที่เหมาะที่สุดคือห้องสมุด ส่วนสนามฟุตบอลและตลาดเป็นที่ที่มีเสียงดังตามปกติ"
   },
   {
     "id": "english-reading-04",
     "level": 2,
     "q": "Read the text:\n“Mali gets up at six o'clock every morning. She takes a shower, eats breakfast, and walks to school with her brother. School starts at eight.”\nHow does Mali go to school?",
-    "options": ["She walks.", "By bus.", "By car.", "By bike."],
+    "options": [
+      "She walks.",
+      "By bus.",
+      "By car.",
+      "By bike."
+    ],
     "answer": 0,
     "explanation": "ข้อความบอกว่า walks to school with her brother มะลิจึงเดินไปโรงเรียนกับพี่ชายหรือน้องชาย ไม่ได้กล่าวถึงรถชนิดใดเลย"
   },
@@ -35,7 +68,12 @@
     "id": "english-reading-05",
     "level": 2,
     "q": "Read the text:\n“Last Saturday, Ben went to the zoo with his class. He saw lions, giraffes, and monkeys. His favorite animal was the giraffe because it was very tall.”\nWhy did Ben like the giraffe best?",
-    "options": ["Because it was very tall.", "Because it was very fast.", "Because it was very small.", "Because it could climb trees."],
+    "options": [
+      "Because it was very tall.",
+      "Because it was very fast.",
+      "Because it was very small.",
+      "Because it could climb trees."
+    ],
     "answer": 0,
     "explanation": "ประโยคสุดท้ายบอกเหตุผลหลังคำว่า because คือ it was very tall (มันตัวสูงมาก) คำถาม Why มักหาคำตอบได้จากส่วนที่ตามหลัง because"
   },
@@ -43,7 +81,12 @@
     "id": "english-reading-06",
     "level": 2,
     "q": "Read the menu:\n“Fried rice – 50 baht\nNoodle soup – 45 baht\nOrange juice – 20 baht\nWater – 10 baht”\nNok orders fried rice and orange juice. How much does she pay?",
-    "options": ["70 baht", "65 baht", "60 baht", "75 baht"],
+    "options": [
+      "70 baht",
+      "65 baht",
+      "60 baht",
+      "75 baht"
+    ],
     "answer": 0,
     "explanation": "ข้าวผัด (Fried rice) 50 บาท และน้ำส้ม (Orange juice) 20 บาท รวม 50 + 20 = 70 บาท ต้องอ่านชื่ออาหารให้ตรงกับราคาในเมนู"
   },
@@ -64,7 +107,12 @@
     "id": "english-reading-08",
     "level": 2,
     "q": "Read the sentence:\n“The road was very narrow, so two cars could not pass each other.”\nThe word “narrow” is closest in meaning to ___.",
-    "options": ["not wide", "very long", "very busy", "very clean"],
+    "options": [
+      "not wide",
+      "very long",
+      "very busy",
+      "very clean"
+    ],
     "answer": 0,
     "explanation": "ประโยคบอกว่ารถสองคันสวนกันไม่ได้ แสดงว่าถนนแคบ narrow จึงแปลว่า แคบ หรือ not wide การเดาความหมายจากบริบทให้ดูว่าส่วนอื่นของประโยคบอกผลหรือเหตุอะไร"
   },
@@ -72,7 +120,12 @@
     "id": "english-reading-09",
     "level": 2,
     "q": "Read the timetable:\n“Bus to Hua Hin: 7:00 / 9:30 / 12:00 / 14:30”\nJane arrives at the bus station at 10:15. What time is the next bus she can take?",
-    "options": ["12:00", "9:30", "14:30", "10:30"],
+    "options": [
+      "12:00",
+      "9:30",
+      "14:30",
+      "10:30"
+    ],
     "answer": 0,
     "explanation": "เจนมาถึงเวลา 10:15 รถเที่ยว 9:30 ออกไปแล้ว รถเที่ยวถัดไปคือ 12:00 ส่วน 10:30 ไม่มีในตารางเวลา"
   },
@@ -88,6 +141,71 @@
     ],
     "answer": 0,
     "explanation": "แอนบอกเหตุผลว่า My family is going to visit my grandmother in Korat. คือครอบครัวจะไปเยี่ยมคุณยายที่โคราช ไม่ใช่คุณยายมาหา และไม่ได้กล่าวว่าป่วย"
+  },
+  {
+    "id": "english-reading-17",
+    "level": 2,
+    "q": "Read the passage:\n“Last year, the students of Ban Rak School started a vegetable garden behind their classroom. At first, nothing grew well because the soil was hard and dry. Their science teacher, Mr. Chai, showed them how to make compost from fallen leaves and food scraps. After two months, the soil became soft and dark, and the plants began to grow quickly. Now the garden produces enough morning glory, basil, and long beans for the school lunch twice a week. The students also sell extra vegetables to parents and use the money to buy new seeds.”\nWhy didn't the plants grow well at first?",
+    "options": [
+      "The soil was hard and dry.",
+      "There was too much rain.",
+      "The students forgot to plant seeds.",
+      "Mr. Chai took the vegetables."
+    ],
+    "answer": 0,
+    "explanation": "ประโยคที่สองบอกเหตุผลหลัง because ว่า the soil was hard and dry (ดินแข็งและแห้ง) ตัวเลือกอื่นไม่ได้กล่าวถึงในบทอ่าน"
+  },
+  {
+    "id": "english-reading-18",
+    "level": 2,
+    "q": "Read the passage:\n“Last year, the students of Ban Rak School started a vegetable garden behind their classroom. At first, nothing grew well because the soil was hard and dry. Their science teacher, Mr. Chai, showed them how to make compost from fallen leaves and food scraps. After two months, the soil became soft and dark, and the plants began to grow quickly. Now the garden produces enough morning glory, basil, and long beans for the school lunch twice a week. The students also sell extra vegetables to parents and use the money to buy new seeds.”\nWhat did Mr. Chai teach the students?",
+    "options": [
+      "How to make compost",
+      "How to cook vegetables",
+      "How to sell vegetables online",
+      "How to build a classroom"
+    ],
+    "answer": 0,
+    "explanation": "บทอ่านบอกว่า Mr. Chai showed them how to make compost from fallen leaves and food scraps คือสอนทำปุ๋ยหมักจากใบไม้และเศษอาหาร"
+  },
+  {
+    "id": "english-reading-19",
+    "level": 2,
+    "q": "Read the passage:\n“Last year, the students of Ban Rak School started a vegetable garden behind their classroom. At first, nothing grew well because the soil was hard and dry. Their science teacher, Mr. Chai, showed them how to make compost from fallen leaves and food scraps. After two months, the soil became soft and dark, and the plants began to grow quickly. Now the garden produces enough morning glory, basil, and long beans for the school lunch twice a week. The students also sell extra vegetables to parents and use the money to buy new seeds.”\nWhat do the students do with the money from selling vegetables?",
+    "options": [
+      "They buy new seeds.",
+      "They buy school lunch.",
+      "They give it to Mr. Chai.",
+      "They buy new books."
+    ],
+    "answer": 0,
+    "explanation": "ประโยคสุดท้ายบอกว่า use the money to buy new seeds นักเรียนนำเงินไปซื้อเมล็ดพันธุ์ใหม่ ส่วนผักที่ปลูกได้นำไปทำอาหารกลางวัน ไม่ได้ใช้เงินซื้ออาหารกลางวัน"
+  },
+  {
+    "id": "english-reading-20",
+    "level": 2,
+    "q": "Choose the best word to complete the passage:\n“Water is very important for all living things. Without it, plants and animals ___ survive.”",
+    "options": [
+      "cannot",
+      "can",
+      "must",
+      "should"
+    ],
+    "answer": 0,
+    "explanation": "ประโยคแรกบอกว่าน้ำสำคัญมาก ประโยคต่อมาจึงต้องบอกว่าถ้าไม่มีน้ำ สิ่งมีชีวิตจะอยู่รอดไม่ได้ (cannot survive) การเติมคำในบทอ่าน (cloze) ต้องเลือกคำที่ทั้งถูกไวยากรณ์และสอดคล้องกับความหมายของประโยครอบข้าง"
+  },
+  {
+    "id": "english-reading-21",
+    "level": 2,
+    "q": "Choose the best word to complete the passage:\n“Tom wanted to buy a new bike, ___ he didn't have enough money. So he saved his pocket money for three months.”",
+    "options": [
+      "but",
+      "because",
+      "so",
+      "or"
+    ],
+    "answer": 0,
+    "explanation": "อยากซื้อจักรยาน กับ เงินไม่พอ เป็นความขัดแย้งกัน จึงใช้ but และประโยคต่อมาบอกผลว่าจึงเก็บเงิน ส่วน because ใช้นำเหตุ และ so ใช้นำผล ซึ่งไม่ตรงกับความสัมพันธ์ในที่นี้"
   },
   {
     "id": "english-reading-11",
@@ -106,7 +224,12 @@
     "id": "english-reading-12",
     "level": 3,
     "q": "Read the text:\n“Lisa gave her sister a book for her birthday. Her sister liked it so much that she read it in one night.”\nIn the second sentence, the word “it” refers to ___.",
-    "options": ["the book", "the birthday", "the night", "the sister"],
+    "options": [
+      "the book",
+      "the birthday",
+      "the night",
+      "the sister"
+    ],
     "answer": 0,
     "explanation": "it แทนสิ่งของที่กล่าวถึงก่อนหน้าและสอดคล้องกับความหมาย สิ่งที่น้องสาวชอบและอ่านจบในคืนเดียวคือหนังสือ (the book) จึงต้องอ่านทั้งประโยคเพื่อหาว่าคำแทนหมายถึงอะไร"
   },
@@ -140,8 +263,52 @@
     "id": "english-reading-15",
     "level": 3,
     "q": "Read the text:\n“Many students think that breakfast is not important, so they skip it. However, students who eat breakfast can often concentrate better in class and have more energy. A simple meal like rice soup, eggs, or fruit is enough to start the day well.”\nWhich is the best title for this text?",
-    "options": ["Why Breakfast Matters", "How to Cook Rice Soup", "Students Who Skip Class", "The History of Eggs"],
+    "options": [
+      "Why Breakfast Matters",
+      "How to Cook Rice Soup",
+      "Students Who Skip Class",
+      "The History of Eggs"
+    ],
     "answer": 0,
     "explanation": "ข้อความใช้ However เพื่อแย้งความคิดว่าอาหารเช้าไม่สำคัญ แล้วอธิบายประโยชน์ของอาหารเช้า ชื่อเรื่องที่ครอบคลุมใจความทั้งหมดจึงเป็น Why Breakfast Matters (ทำไมอาหารเช้าจึงสำคัญ) ส่วนข้าวต้มและไข่เป็นเพียงตัวอย่าง และ skip ในข้อความหมายถึงไม่กินอาหารเช้า ไม่ใช่โดดเรียน"
+  },
+  {
+    "id": "english-reading-22",
+    "level": 3,
+    "q": "Read the passage:\n“Last year, the students of Ban Rak School started a vegetable garden behind their classroom. At first, nothing grew well because the soil was hard and dry. Their science teacher, Mr. Chai, showed them how to make compost from fallen leaves and food scraps. After two months, the soil became soft and dark, and the plants began to grow quickly. Now the garden produces enough morning glory, basil, and long beans for the school lunch twice a week. The students also sell extra vegetables to parents and use the money to buy new seeds.”\nWhat is the main idea of the passage?",
+    "options": [
+      "Students turned a failing garden into a successful project by improving the soil.",
+      "Mr. Chai is a science teacher at Ban Rak School.",
+      "Morning glory is easy to grow.",
+      "Parents like to buy vegetables."
+    ],
+    "answer": 0,
+    "explanation": "บทอ่านเล่าตั้งแต่ปัญหา (ดินไม่ดี) วิธีแก้ (ทำปุ๋ยหมัก) จนถึงผลสำเร็จ (ผักพอทำอาหารและขายได้) ใจความสำคัญจึงครอบคลุมทั้งเรื่อง ส่วนตัวเลือกอื่นเป็นเพียงรายละเอียดหรือไม่ได้กล่าวไว้"
+  },
+  {
+    "id": "english-reading-23",
+    "level": 3,
+    "q": "Read the sentence from the passage:\n“Now the garden produces enough morning glory, basil, and long beans for the school lunch twice a week.”\nThe word “produces” is closest in meaning to ___.",
+    "options": [
+      "grows",
+      "sells",
+      "eats",
+      "buys"
+    ],
+    "answer": 0,
+    "explanation": "สิ่งที่สวนผักทำได้คือให้ผลผลิตเป็นผักต่าง ๆ produces ในที่นี้จึงหมายถึง grows หรือ makes (ผลิต ปลูกได้) การเดาความหมายจากบริบทให้ดูว่าประธาน (the garden) ทำอะไรได้บ้าง"
+  },
+  {
+    "id": "english-reading-24",
+    "level": 3,
+    "q": "Read the passage:\n“Kittipong had practiced the piano every day for a year. On the day of the competition, his hands were shaking as he walked onto the stage. But as soon as he started playing, he forgot about the audience. When he finished, the hall was silent for a moment, and then everyone stood up and clapped loudly.”\nHow did the audience feel about Kittipong's performance?",
+    "options": [
+      "They were very impressed.",
+      "They were bored.",
+      "They were angry.",
+      "They could not hear it."
+    ],
+    "answer": 0,
+    "explanation": "ผู้ชมเงียบไปครู่หนึ่ง แล้วลุกขึ้นยืนปรบมือดัง ๆ (stood up and clapped loudly) ซึ่งแสดงว่าประทับใจมาก ความเงียบในตอนแรกไม่ได้แปลว่าเบื่อ แต่เป็นความตะลึงก่อนปรบมือ ต้องอ่านประโยคให้จบก่อนสรุป"
   }
 ]

@@ -1,0 +1,262 @@
+[
+  {
+    "id": "english-advanced-grammar-01",
+    "level": 1,
+    "q": "This house ___ in 1990.",
+    "options": [
+      "was built",
+      "built",
+      "is build",
+      "was build"
+    ],
+    "answer": 0,
+    "explanation": "บ้านถูกสร้าง (บ้านไม่ได้สร้างเอง) จึงใช้ประโยค passive voice: be + V3 และ in 1990 บอกอดีต จึงเป็น was built (V3 ของ build คือ built)"
+  },
+  {
+    "id": "english-advanced-grammar-02",
+    "level": 1,
+    "q": "She is a nurse, ___ she?",
+    "options": [
+      "isn't",
+      "is",
+      "doesn't",
+      "wasn't"
+    ],
+    "answer": 0,
+    "explanation": "question tag ใช้กริยาช่วยเดียวกับประโยคหน้าแต่กลับบอกเล่าเป็นปฏิเสธ ประโยคหน้าเป็นบอกเล่าใช้ is จึงต่อท้ายด้วย isn't she?"
+  },
+  {
+    "id": "english-advanced-grammar-03",
+    "level": 1,
+    "q": "I enjoy ___ books in my free time.",
+    "options": [
+      "reading",
+      "to read",
+      "read",
+      "reads"
+    ],
+    "answer": 0,
+    "explanation": "enjoy ตามด้วยกริยารูป V-ing (gerund) เสมอ เช่น enjoy reading, enjoy swimming ไม่ใช้ enjoy to read"
+  },
+  {
+    "id": "english-advanced-grammar-04",
+    "level": 1,
+    "q": "The girl ___ is talking to the teacher is my sister.",
+    "options": [
+      "who",
+      "which",
+      "where",
+      "whose"
+    ],
+    "answer": 0,
+    "explanation": "relative pronoun ที่ใช้แทนคนและทำหน้าที่ประธานของอนุประโยคคือ who ส่วน which ใช้แทนสัตว์หรือสิ่งของ where ใช้แทนสถานที่ และ whose แสดงความเป็นเจ้าของ"
+  },
+  {
+    "id": "english-advanced-grammar-05",
+    "level": 2,
+    "q": "English ___ in many countries around the world.",
+    "options": [
+      "is spoken",
+      "speaks",
+      "is speaking",
+      "spoke"
+    ],
+    "answer": 0,
+    "explanation": "ภาษาอังกฤษเป็นสิ่งที่ถูกพูด (ไม่ได้พูดเอง) และเป็นความจริงทั่วไป จึงใช้ passive voice ใน Present Simple คือ is + V3 = is spoken"
+  },
+  {
+    "id": "english-advanced-grammar-06",
+    "level": 2,
+    "q": "The letters ___ by the postman every morning.",
+    "options": [
+      "are delivered",
+      "deliver",
+      "is delivered",
+      "are delivering"
+    ],
+    "answer": 0,
+    "explanation": "จดหมายถูกส่งโดยบุรุษไปรษณีย์ (by the postman) จึงเป็น passive voice ประธาน The letters เป็นพหูพจน์ และ every morning บอกกิจวัตร จึงใช้ are delivered"
+  },
+  {
+    "id": "english-advanced-grammar-07",
+    "level": 2,
+    "q": "You can't swim, ___ you?",
+    "options": [
+      "can",
+      "can't",
+      "do",
+      "don't"
+    ],
+    "answer": 0,
+    "explanation": "ประโยคหน้าเป็นปฏิเสธ (can't) question tag จึงเป็นบอกเล่า และใช้กริยาช่วยตัวเดียวกัน คือ can you?"
+  },
+  {
+    "id": "english-advanced-grammar-08",
+    "level": 2,
+    "q": "They went to the zoo yesterday, ___ they?",
+    "options": [
+      "didn't",
+      "weren't",
+      "don't",
+      "did"
+    ],
+    "answer": 0,
+    "explanation": "ประโยคหน้าใช้กริยาแท้ went ใน Past Simple ไม่มีกริยาช่วย question tag จึงใช้ did และเพราะประโยคหน้าเป็นบอกเล่า tag ต้องเป็นปฏิเสธ คือ didn't they?"
+  },
+  {
+    "id": "english-advanced-grammar-09",
+    "level": 2,
+    "q": "This is the book ___ I told you about.",
+    "options": [
+      "which",
+      "who",
+      "where",
+      "when"
+    ],
+    "answer": 0,
+    "explanation": "the book เป็นสิ่งของ จึงใช้ relative pronoun which (หรือ that) ส่วน who ใช้กับคน where ใช้กับสถานที่ และ when ใช้กับเวลา"
+  },
+  {
+    "id": "english-advanced-grammar-10",
+    "level": 2,
+    "q": "Bangkok is the city ___ I was born.",
+    "options": [
+      "where",
+      "which",
+      "who",
+      "when"
+    ],
+    "answer": 0,
+    "explanation": "the city เป็นสถานที่ และอนุประโยค I was born (in the city) ขาดส่วนบอกสถานที่ จึงใช้ where ถ้าจะใช้ which ต้องมีคำบุพบท เช่น the city in which I was born"
+  },
+  {
+    "id": "english-advanced-grammar-11",
+    "level": 2,
+    "q": "She decided ___ a new language this year.",
+    "options": [
+      "to learn",
+      "learning",
+      "learn",
+      "learned"
+    ],
+    "answer": 0,
+    "explanation": "decide ตามด้วย to + V1 (infinitive) เช่น decide to learn, decide to go กริยาที่ตามด้วย to + V1 ที่พบบ่อย เช่น want, hope, plan, decide"
+  },
+  {
+    "id": "english-advanced-grammar-12",
+    "level": 2,
+    "q": "Would you mind ___ the door, please?",
+    "options": [
+      "closing",
+      "to close",
+      "close",
+      "closed"
+    ],
+    "answer": 0,
+    "explanation": "mind ตามด้วย V-ing เสมอ Would you mind closing …? เป็นการขอร้องอย่างสุภาพ แปลว่า ช่วยปิดประตูได้ไหม"
+  },
+  {
+    "id": "english-advanced-grammar-13",
+    "level": 2,
+    "q": "He stopped ___ because he was very tired.",
+    "options": [
+      "running",
+      "to run",
+      "run",
+      "ran"
+    ],
+    "answer": 0,
+    "explanation": "stop + V-ing แปลว่า หยุดทำสิ่งนั้น ส่วน stop + to V1 แปลว่า หยุด (สิ่งที่ทำอยู่) เพื่อไปทำอีกอย่าง เขาเหนื่อยจึงหยุดวิ่ง ต้องใช้ stopped running"
+  },
+  {
+    "id": "english-advanced-grammar-14",
+    "level": 2,
+    "q": "Which part of the sentence is incorrect?\n“My brother don't like eating vegetables very much.”",
+    "options": [
+      "don't",
+      "like",
+      "eating",
+      "very much"
+    ],
+    "answer": 0,
+    "explanation": "ประธาน My brother เป็นเอกพจน์บุรุษที่ 3 ประโยคปฏิเสธใน Present Simple ต้องใช้ doesn't ไม่ใช่ don't ส่วน like eating ถูกต้อง เพราะ like ตามด้วย V-ing ได้"
+  },
+  {
+    "id": "english-advanced-grammar-15",
+    "level": 2,
+    "q": "Which part of the sentence is incorrect?\n“She has lived here since five years.”",
+    "options": [
+      "since",
+      "has lived",
+      "here",
+      "years"
+    ],
+    "answer": 0,
+    "explanation": "five years เป็นช่วงระยะเวลา ต้องใช้ for (for five years) ส่วน since ใช้กับจุดเริ่มต้นของเวลา เช่น since 2020 การใช้ Present Perfect (has lived) ถูกต้องแล้ว"
+  },
+  {
+    "id": "english-advanced-grammar-16",
+    "level": 2,
+    "q": "The man ___ car was stolen called the police.",
+    "options": [
+      "whose",
+      "who",
+      "which",
+      "who's"
+    ],
+    "answer": 0,
+    "explanation": "รถเป็นของชายคนนั้น (the man's car) จึงใช้ whose ซึ่งแสดงความเป็นเจ้าของและตามด้วยคำนามได้ทันที ส่วน who's ย่อมาจาก who is"
+  },
+  {
+    "id": "english-advanced-grammar-17",
+    "level": 3,
+    "q": "The new bridge ___ next year.",
+    "options": [
+      "will be built",
+      "will build",
+      "is built",
+      "built"
+    ],
+    "answer": 0,
+    "explanation": "สะพานถูกสร้าง จึงเป็น passive voice และ next year บอกอนาคต จึงใช้ will be + V3 = will be built ส่วน will build เป็นประโยค active ซึ่งหมายความว่าสะพานจะสร้างเอง"
+  },
+  {
+    "id": "english-advanced-grammar-18",
+    "level": 3,
+    "q": "Let's go to the beach this weekend, ___?",
+    "options": [
+      "shall we",
+      "will we",
+      "don't we",
+      "let we"
+    ],
+    "answer": 0,
+    "explanation": "ประโยคชักชวนที่ขึ้นต้นด้วย Let's ใช้ question tag ว่า shall we? เป็นรูปแบบเฉพาะที่ต้องจำ"
+  },
+  {
+    "id": "english-advanced-grammar-19",
+    "level": 3,
+    "q": "Which part of the sentence is incorrect?\n“The students was asked to bring their own lunch.”",
+    "options": [
+      "was",
+      "asked",
+      "to bring",
+      "their"
+    ],
+    "answer": 0,
+    "explanation": "ประธาน The students เป็นพหูพจน์ passive voice ในอดีตจึงต้องใช้ were asked ไม่ใช่ was asked ส่วน asked to bring และ their ถูกต้องแล้ว"
+  },
+  {
+    "id": "english-advanced-grammar-20",
+    "level": 3,
+    "q": "I clearly remember ___ the door this morning, but now it's open!",
+    "options": [
+      "locking",
+      "to lock",
+      "lock",
+      "locked"
+    ],
+    "answer": 0,
+    "explanation": "remember + V-ing แปลว่า จำได้ว่าเคยทำแล้ว (ผู้พูดจำได้ว่าล็อกประตูไปแล้วเมื่อเช้า แต่ตอนนี้ประตูเปิดอยู่) ส่วน remember + to V1 แปลว่า อย่าลืมที่จะทำ ใช้กับสิ่งที่ยังไม่ได้ทำ"
+  }
+]

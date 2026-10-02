@@ -3,7 +3,12 @@
     "id": "english-prepositions-questions-01",
     "level": 1,
     "q": "My birthday is ___ May.",
-    "options": ["in", "on", "at", "to"],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "to"
+    ],
     "answer": 0,
     "explanation": "ใช้ in กับเดือน ปี และฤดู (in May, in 2026) ใช้ on กับวันและวันที่ (on Monday, on 5 May) และใช้ at กับเวลา (at 7 o'clock)"
   },
@@ -11,15 +16,51 @@
     "id": "english-prepositions-questions-02",
     "level": 1,
     "q": "___ is your name? — My name is Pim.",
-    "options": ["What", "Who", "Where", "When"],
+    "options": [
+      "What",
+      "Who",
+      "Where",
+      "When"
+    ],
     "answer": 0,
     "explanation": "ถามชื่อใช้ What is your name? ส่วน Who ถามว่าใคร Where ถามสถานที่ และ When ถามเวลา"
+  },
+  {
+    "id": "english-prepositions-questions-11",
+    "level": 1,
+    "q": "There is a picture ___ the wall.",
+    "options": [
+      "on",
+      "in",
+      "at",
+      "under"
+    ],
+    "answer": 0,
+    "explanation": "สิ่งที่ติดหรือแขวนอยู่บนพื้นผิว เช่น ผนัง ใช้ on (on the wall)"
+  },
+  {
+    "id": "english-prepositions-questions-12",
+    "level": 1,
+    "q": "___ old are you? — I'm twelve.",
+    "options": [
+      "How",
+      "What",
+      "When",
+      "Who"
+    ],
+    "answer": 0,
+    "explanation": "ถามอายุใช้ How old …? คำว่า How ใช้ร่วมกับคำคุณศัพท์เพื่อถามปริมาณหรือระดับ เช่น How tall, How long, How far"
   },
   {
     "id": "english-prepositions-questions-03",
     "level": 2,
     "q": "The meeting starts ___ 9 o'clock ___ Monday.",
-    "options": ["at / on", "on / at", "in / on", "at / in"],
+    "options": [
+      "at / on",
+      "on / at",
+      "in / on",
+      "at / in"
+    ],
     "answer": 0,
     "explanation": "ใช้ at กับเวลาที่ระบุชัดเจน (at 9 o'clock) และใช้ on กับวัน (on Monday)"
   },
@@ -27,7 +68,12 @@
     "id": "english-prepositions-questions-04",
     "level": 2,
     "q": "___ do you go to school? — By bus.",
-    "options": ["How", "What", "Where", "Why"],
+    "options": [
+      "How",
+      "What",
+      "Where",
+      "Why"
+    ],
     "answer": 0,
     "explanation": "คำตอบ By bus บอกวิธีการเดินทาง คำถามที่ถามวิธีการใช้ How ส่วน Where ถามสถานที่ และ Why ถามเหตุผล"
   },
@@ -35,7 +81,12 @@
     "id": "english-prepositions-questions-05",
     "level": 2,
     "q": "It was raining heavily, ___ we stayed at home.",
-    "options": ["so", "but", "because", "or"],
+    "options": [
+      "so",
+      "but",
+      "because",
+      "or"
+    ],
     "answer": 0,
     "explanation": "ประโยคหลังเป็นผลของประโยคหน้า (ฝนตกหนัก ผลคืออยู่บ้าน) จึงใช้ so ซึ่งแปลว่า “ดังนั้น” ส่วน because ใช้นำหน้าสาเหตุ ซึ่งในที่นี้ประโยคหลังไม่ใช่สาเหตุ และ but ใช้กับความขัดแย้ง"
   },
@@ -43,7 +94,12 @@
     "id": "english-prepositions-questions-06",
     "level": 2,
     "q": "___ book is this? — It's Nid's.",
-    "options": ["Whose", "Who", "Which", "What"],
+    "options": [
+      "Whose",
+      "Who",
+      "Which",
+      "What"
+    ],
     "answer": 0,
     "explanation": "คำตอบ It's Nid's บอกความเป็นเจ้าของ คำถามที่ถามว่าเป็นของใครใช้ Whose + คำนาม"
   },
@@ -51,15 +107,64 @@
     "id": "english-prepositions-questions-07",
     "level": 2,
     "q": "She was born ___ Chiang Mai ___ 2014.",
-    "options": ["in / in", "at / on", "on / in", "in / on"],
+    "options": [
+      "in / in",
+      "at / on",
+      "on / in",
+      "in / on"
+    ],
     "answer": 0,
     "explanation": "ใช้ in กับเมืองหรือประเทศ (in Chiang Mai) และใช้ in กับปี (in 2014)"
+  },
+  {
+    "id": "english-prepositions-questions-13",
+    "level": 2,
+    "q": "The bank is ___ the post office and the school.",
+    "options": [
+      "between",
+      "among",
+      "behind",
+      "in"
+    ],
+    "answer": 0,
+    "explanation": "between ใช้กับสิ่งที่อยู่ตรงกลางระหว่างสองสิ่ง (between A and B) ส่วน among ใช้กับสิ่งที่อยู่ท่ามกลางสามสิ่งขึ้นไป"
+  },
+  {
+    "id": "english-prepositions-questions-14",
+    "level": 2,
+    "q": "___ often do you go swimming? — Twice a week.",
+    "options": [
+      "How",
+      "What",
+      "When",
+      "Which"
+    ],
+    "answer": 0,
+    "explanation": "คำตอบ Twice a week บอกความถี่ คำถามที่ถามความถี่คือ How often …?"
+  },
+  {
+    "id": "english-prepositions-questions-15",
+    "level": 2,
+    "q": "We arrived ___ the airport ___ night.",
+    "options": [
+      "at / at",
+      "in / at",
+      "on / in",
+      "at / in"
+    ],
+    "answer": 0,
+    "explanation": "arrive at ใช้กับสถานที่เฉพาะจุด เช่น สนามบินหรือสถานี ส่วนช่วงเวลากลางคืนใช้ at night (แต่ in the morning, in the evening)"
   },
   {
     "id": "english-prepositions-questions-08",
     "level": 3,
     "q": "He is good ___ math, but he is afraid ___ dogs.",
-    "options": ["at / of", "in / from", "on / with", "at / with"],
+    "options": [
+      "at / of",
+      "in / from",
+      "on / with",
+      "at / with"
+    ],
     "answer": 0,
     "explanation": "คำคุณศัพท์บางคำใช้คู่กับคำบุพบทเฉพาะ ต้องจำเป็นคู่ เช่น good at (เก่งเรื่อง) และ afraid of (กลัว) คู่อื่นที่พบบ่อย เช่น interested in และ proud of"
   },
@@ -67,7 +172,12 @@
     "id": "english-prepositions-questions-09",
     "level": 3,
     "q": "We stayed at home ___ the heavy rain.",
-    "options": ["because of", "because", "so", "although"],
+    "options": [
+      "because of",
+      "because",
+      "so",
+      "although"
+    ],
     "answer": 0,
     "explanation": "หลังช่องว่างเป็นกลุ่มคำนาม (the heavy rain) ไม่ใช่ประโยค จึงใช้ because of ส่วน because ต้องตามด้วยประโยคที่มีประธานและกริยา เช่น because it rained heavily และ although (แม้ว่า) ไม่สมเหตุผลกับความหมาย"
   },
@@ -83,5 +193,18 @@
     ],
     "answer": 0,
     "explanation": "คำถาม Wh- ใน Present Simple ใช้โครงสร้าง Wh- + do/does + ประธาน + V1 ประธาน your father เป็นเอกพจน์จึงใช้ does และเมื่อมี does แล้ว กริยาหลักต้องเป็นรูปเดิม (work) ไม่เติม s"
+  },
+  {
+    "id": "english-prepositions-questions-16",
+    "level": 3,
+    "q": "I'm looking forward ___ you again soon.",
+    "options": [
+      "to seeing",
+      "to see",
+      "seeing",
+      "for seeing"
+    ],
+    "answer": 0,
+    "explanation": "look forward to (ตั้งตารอ) ใช้ to เป็นคำบุพบท ไม่ใช่ to ของกริยา จึงตามด้วย V-ing ได้ looking forward to seeing ความผิดพลาดที่พบบ่อยคือใช้ to see"
   }
 ]

@@ -3,7 +3,12 @@
     "id": "english-conversation-01",
     "level": 1,
     "q": "A: How are you?\nB: ___",
-    "options": ["I'm fine, thank you.", "I'm ten years old.", "I'm a student.", "I'm from Thailand."],
+    "options": [
+      "I'm fine, thank you.",
+      "I'm ten years old.",
+      "I'm a student.",
+      "I'm from Thailand."
+    ],
     "answer": 0,
     "explanation": "How are you? ถามความเป็นอยู่หรือสุขภาพ จึงตอบว่า I'm fine, thank you. ส่วนตัวเลือกอื่นตอบคำถามเรื่องอายุ (How old are you?) อาชีพ (What do you do?) และประเทศ (Where are you from?)"
   },
@@ -11,7 +16,12 @@
     "id": "english-conversation-02",
     "level": 1,
     "q": "A: Thank you very much.\nB: ___",
-    "options": ["You're welcome.", "Yes, please.", "Good night.", "I'm sorry."],
+    "options": [
+      "You're welcome.",
+      "Yes, please.",
+      "Good night.",
+      "I'm sorry."
+    ],
     "answer": 0,
     "explanation": "เมื่อมีคนขอบคุณ ตอบว่า You're welcome. (ไม่เป็นไร ด้วยความยินดี) ส่วน Yes, please. ใช้ตอบรับเมื่อมีคนเสนอสิ่งของให้"
   },
@@ -19,7 +29,12 @@
     "id": "english-conversation-03",
     "level": 1,
     "q": "A: Nice to meet you.\nB: ___",
-    "options": ["Nice to meet you, too.", "See you later.", "I'm fine, thank you.", "You're welcome."],
+    "options": [
+      "Nice to meet you, too.",
+      "See you later.",
+      "I'm fine, thank you.",
+      "You're welcome."
+    ],
     "answer": 0,
     "explanation": "เมื่อพบกันครั้งแรกและอีกฝ่ายพูดว่า Nice to meet you. ให้ตอบกลับว่า Nice to meet you, too. ส่วน See you later. ใช้ตอนลาจากกัน"
   },
@@ -27,7 +42,12 @@
     "id": "english-conversation-04",
     "level": 1,
     "q": "A: What time is it?\nB: ___",
-    "options": ["It's half past seven.", "It's Monday.", "It's sunny.", "It's 30 baht."],
+    "options": [
+      "It's half past seven.",
+      "It's Monday.",
+      "It's sunny.",
+      "It's 30 baht."
+    ],
     "answer": 0,
     "explanation": "What time is it? ถามเวลา จึงตอบว่า It's half past seven. (เจ็ดโมงครึ่ง) ส่วนตัวเลือกอื่นบอกวัน สภาพอากาศ และราคา"
   },
@@ -35,7 +55,12 @@
     "id": "english-conversation-05",
     "level": 2,
     "q": "A: Would you like some juice?\nB: ___",
-    "options": ["Yes, please.", "Yes, I would like.", "No, I don't.", "You're welcome."],
+    "options": [
+      "Yes, please.",
+      "Yes, I would like.",
+      "No, I don't.",
+      "You're welcome."
+    ],
     "answer": 0,
     "explanation": "การตอบรับข้อเสนอ Would you like …? อย่างสุภาพใช้ Yes, please. หรือปฏิเสธว่า No, thank you. ส่วน Yes, I would like. ขาดกรรม (ต้องพูดว่า I'd like some.) และ No, I don't. ไม่สอดคล้องกับ Would"
   },
@@ -43,7 +68,12 @@
     "id": "english-conversation-06",
     "level": 2,
     "q": "A: I'm sorry I'm late.\nB: ___",
-    "options": ["That's all right.", "You're welcome.", "Congratulations!", "Yes, please."],
+    "options": [
+      "That's all right.",
+      "You're welcome.",
+      "Congratulations!",
+      "Yes, please."
+    ],
     "answer": 0,
     "explanation": "เมื่อมีคนขอโทษ ตอบว่า That's all right. หรือ Never mind. (ไม่เป็นไร) ส่วน You're welcome. ใช้ตอบคำขอบคุณ ไม่ใช่คำขอโทษ"
   },
@@ -51,7 +81,12 @@
     "id": "english-conversation-07",
     "level": 2,
     "q": "A: I passed the exam!\nB: ___",
-    "options": ["Congratulations!", "Never mind.", "Bless you!", "Take care."],
+    "options": [
+      "Congratulations!",
+      "Never mind.",
+      "Bless you!",
+      "Take care."
+    ],
     "answer": 0,
     "explanation": "เมื่อได้ยินข่าวดี ใช้ Congratulations! (ยินดีด้วย) ส่วน Never mind. ใช้ปลอบเมื่อเกิดเรื่องไม่ดี Bless you! ใช้เมื่อมีคนจาม และ Take care. ใช้ตอนลาจากกัน"
   },
@@ -72,7 +107,12 @@
     "id": "english-conversation-09",
     "level": 2,
     "q": "A: How much is this T-shirt?\nB: ___",
-    "options": ["It's 250 baht.", "It's size M.", "It's made in Thailand.", "It's very much."],
+    "options": [
+      "It's 250 baht.",
+      "It's size M.",
+      "It's made in Thailand.",
+      "It's very much."
+    ],
     "answer": 0,
     "explanation": "How much …? ใช้ถามราคา จึงตอบเป็นจำนวนเงิน ส่วนตัวเลือกอื่นบอกขนาด แหล่งผลิต และ It's very much. ไม่ใช่การบอกราคา"
   },
@@ -80,7 +120,12 @@
     "id": "english-conversation-10",
     "level": 2,
     "q": "A: You look pale. What's the matter?\nB: ___",
-    "options": ["I have a headache.", "I'm a doctor.", "It's on the table.", "I like it very much."],
+    "options": [
+      "I have a headache.",
+      "I'm a doctor.",
+      "It's on the table.",
+      "I like it very much."
+    ],
     "answer": 0,
     "explanation": "What's the matter? แปลว่า เป็นอะไรไป มีปัญหาอะไร จึงตอบด้วยอาการหรือปัญหาที่เกิดขึ้น เช่น I have a headache. (ฉันปวดหัว)"
   },
@@ -88,7 +133,12 @@
     "id": "english-conversation-11",
     "level": 2,
     "q": "A: Can you help me carry this box?\nB: ___",
-    "options": ["Sure. No problem.", "You're welcome.", "I don't know where it is.", "Yes, I can't."],
+    "options": [
+      "Sure. No problem.",
+      "You're welcome.",
+      "I don't know where it is.",
+      "Yes, I can't."
+    ],
     "answer": 0,
     "explanation": "เมื่อมีคนขอความช่วยเหลือ ตอบรับว่า Sure. หรือ No problem. ส่วน Yes, I can't. ขัดแย้งในตัวเอง (Yes ต้องตามด้วย I can) และ You're welcome. ใช้ตอบคำขอบคุณ"
   },
@@ -96,7 +146,12 @@
     "id": "english-conversation-12",
     "level": 2,
     "q": "A: Hello, may I speak to Nok, please?\nB: ___",
-    "options": ["Hold on, please.", "Speaking about Nok.", "Goodbye, Nok.", "I'm fine, thanks."],
+    "options": [
+      "Hold on, please.",
+      "Speaking about Nok.",
+      "Goodbye, Nok.",
+      "I'm fine, thanks."
+    ],
     "answer": 0,
     "explanation": "เมื่อมีคนโทรมาขอพูดกับอีกคน ผู้รับสายตอบว่า Hold on, please. (กรุณารอสักครู่) แล้วจึงตามคนนั้นมารับสาย ถ้าผู้รับสายเป็นนกเองจะตอบว่า Speaking. ไม่ใช่ Speaking about Nok."
   },
@@ -104,7 +159,12 @@
     "id": "english-conversation-13",
     "level": 3,
     "q": "A: Let's go swimming this afternoon.\nB: ___ I have to finish my science project.",
-    "options": ["I'd love to, but", "That's a great idea, so", "Yes, let's go because", "Of course, and"],
+    "options": [
+      "I'd love to, but",
+      "That's a great idea, so",
+      "Yes, let's go because",
+      "Of course, and"
+    ],
     "answer": 0,
     "explanation": "ประโยคหลังบอกว่าต้องทำโครงงานให้เสร็จ จึงเป็นการปฏิเสธคำชวนอย่างสุภาพ ใช้ I'd love to, but … (อยากไปนะ แต่…) ตัวเลือกอื่นเป็นการตอบรับคำชวน ซึ่งขัดกับเหตุผลที่ตามมา"
   },
@@ -112,7 +172,12 @@
     "id": "english-conversation-14",
     "level": 3,
     "q": "A: Do you mind if I open the window?\nB: ___ (B is happy for A to open it.)",
-    "options": ["No, not at all. Go ahead.", "Yes, please open it.", "Yes, I do. Go ahead.", "No, I do."],
+    "options": [
+      "No, not at all. Go ahead.",
+      "Yes, please open it.",
+      "Yes, I do. Go ahead.",
+      "No, I do."
+    ],
     "answer": 0,
     "explanation": "Do you mind …? แปลว่า คุณจะรังเกียจไหมถ้า… ถ้าอนุญาตต้องตอบปฏิเสธ คือ No, not at all. (ไม่รังเกียจเลย) แล้วตามด้วย Go ahead. ถ้าตอบ Yes จะหมายถึงรังเกียจหรือไม่อนุญาต"
   },
@@ -128,5 +193,18 @@
     ],
     "answer": 0,
     "explanation": "การถามอย่างสุภาพใช้ Excuse me, could you tell me …? และเมื่อคำถามอยู่ในประโยคอื่น (indirect question) ต้องเรียงแบบประโยคบอกเล่า คือ what time it is ไม่ใช่ what time is it ส่วนอีกสองตัวเลือกห้วนและไม่สุภาพ"
+  },
+  {
+    "id": "english-conversation-16",
+    "level": 3,
+    "q": "A: I'm afraid I can't come to the meeting tomorrow.\nB: ___",
+    "options": [
+      "Oh, that's a pity. Maybe next time.",
+      "Congratulations!",
+      "Yes, I'm afraid too.",
+      "Don't mention it."
+    ],
+    "answer": 0,
+    "explanation": "I'm afraid … ในที่นี้ใช้บอกข่าวที่ไม่ดีอย่างสุภาพ ไม่ได้แปลว่ากลัว จึงตอบด้วยความเสียดาย เช่น That's a pity. ส่วน Don't mention it. ใช้ตอบคำขอบคุณ"
   }
 ]

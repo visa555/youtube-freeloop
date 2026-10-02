@@ -3,7 +3,12 @@
     "id": "english-adjectives-comparison-01",
     "level": 1,
     "q": "An elephant is ___ than a dog.",
-    "options": ["bigger", "big", "biggest", "more big"],
+    "options": [
+      "bigger",
+      "big",
+      "biggest",
+      "more big"
+    ],
     "answer": 0,
     "explanation": "การเปรียบเทียบสองสิ่งใช้ขั้นกว่า (comparative) ตามด้วย than คำพยางค์เดียวที่ลงท้ายด้วยสระเสียงสั้น + พยัญชนะ ให้เพิ่มพยัญชนะตัวสุดท้ายแล้วเติม -er จึงเป็น bigger"
   },
@@ -11,7 +16,12 @@
     "id": "english-adjectives-comparison-02",
     "level": 1,
     "q": "Bangkok is the ___ city in Thailand.",
-    "options": ["largest", "larger", "large", "most large"],
+    "options": [
+      "largest",
+      "larger",
+      "large",
+      "most large"
+    ],
     "answer": 0,
     "explanation": "การเปรียบเทียบตั้งแต่สามสิ่งขึ้นไปและบอกว่ามากที่สุดใช้ขั้นสูงสุด (superlative) the + -est คำว่า large ลงท้ายด้วย e อยู่แล้วจึงเติมแค่ -st เป็น the largest"
   },
@@ -19,15 +29,38 @@
     "id": "english-adjectives-comparison-03",
     "level": 1,
     "q": "She sings ___.",
-    "options": ["beautifully", "beautiful", "beauty", "more beauty"],
+    "options": [
+      "beautifully",
+      "beautiful",
+      "beauty",
+      "more beauty"
+    ],
     "answer": 0,
     "explanation": "คำที่ขยายกริยา sings ต้องเป็นคำกริยาวิเศษณ์ (adverb) ซึ่งมักสร้างจากคำคุณศัพท์ + -ly จึงเป็น beautifully ส่วน beautiful เป็นคำคุณศัพท์ใช้ขยายคำนาม"
+  },
+  {
+    "id": "english-adjectives-comparison-11",
+    "level": 1,
+    "q": "The cheetah is ___ animal on land.",
+    "options": [
+      "the fastest",
+      "faster",
+      "fast",
+      "more fast"
+    ],
+    "answer": 0,
+    "explanation": "เปรียบเทียบกับสัตว์บกทั้งหมดและบอกว่าเร็วที่สุด จึงใช้ขั้นสูงสุด the fastest"
   },
   {
     "id": "english-adjectives-comparison-04",
     "level": 2,
     "q": "This book is ___ than that one.",
-    "options": ["more interesting", "interestinger", "most interesting", "interesting"],
+    "options": [
+      "more interesting",
+      "interestinger",
+      "most interesting",
+      "interesting"
+    ],
     "answer": 0,
     "explanation": "คำคุณศัพท์ที่มีสามพยางค์ขึ้นไป เช่น interesting ทำเป็นขั้นกว่าโดยใช้ more นำหน้า ไม่เติม -er และเมื่อมี than ต้องใช้ขั้นกว่า ไม่ใช่ขั้นสูงสุด"
   },
@@ -35,7 +68,12 @@
     "id": "english-adjectives-comparison-05",
     "level": 2,
     "q": "My new bag is ___ than my old one.",
-    "options": ["better", "gooder", "best", "more good"],
+    "options": [
+      "better",
+      "gooder",
+      "best",
+      "more good"
+    ],
     "answer": 0,
     "explanation": "good เปลี่ยนรูปแบบไม่ปกติ คือ good – better – best ขั้นกว่าจึงเป็น better (ไม่มีรูป gooder หรือ more good)"
   },
@@ -43,7 +81,12 @@
     "id": "english-adjectives-comparison-06",
     "level": 2,
     "q": "Somchai is as ___ as his brother.",
-    "options": ["tall", "taller", "tallest", "more tall"],
+    "options": [
+      "tall",
+      "taller",
+      "tallest",
+      "more tall"
+    ],
     "answer": 0,
     "explanation": "โครงสร้าง as + คำคุณศัพท์รูปปกติ + as ใช้บอกว่าสองสิ่งเท่ากัน จึงใช้ as tall as ไม่ใช้รูปขั้นกว่าหรือขั้นสูงสุด"
   },
@@ -51,7 +94,12 @@
     "id": "english-adjectives-comparison-07",
     "level": 2,
     "q": "Choose the correct order of adjectives: She has a ___ bag.",
-    "options": ["beautiful big red", "red big beautiful", "big red beautiful", "big beautiful red"],
+    "options": [
+      "beautiful big red",
+      "red big beautiful",
+      "big red beautiful",
+      "big beautiful red"
+    ],
     "answer": 0,
     "explanation": "การเรียงคำคุณศัพท์หลายคำ เรียงจาก ความคิดเห็น (beautiful) → ขนาด (big) → สี (red) จึงเป็น a beautiful big red bag"
   },
@@ -59,15 +107,64 @@
     "id": "english-adjectives-comparison-08",
     "level": 2,
     "q": "He runs very ___.",
-    "options": ["fast", "fastly", "faster than", "fastest"],
+    "options": [
+      "fast",
+      "fastly",
+      "faster than",
+      "fastest"
+    ],
     "answer": 0,
     "explanation": "fast เป็นได้ทั้งคำคุณศัพท์และคำกริยาวิเศษณ์โดยไม่ต้องเติม -ly (ไม่มีคำว่า fastly) ส่วน very ใช้ขยายคำรูปปกติ ไม่ใช้กับขั้นกว่าหรือขั้นสูงสุด"
+  },
+  {
+    "id": "english-adjectives-comparison-12",
+    "level": 2,
+    "q": "This exercise is ___ than the last one.",
+    "options": [
+      "easier",
+      "more easy",
+      "easyer",
+      "easiest"
+    ],
+    "answer": 0,
+    "explanation": "คำคุณศัพท์ 2 พยางค์ที่ลงท้ายด้วย -y ให้เปลี่ยน y เป็น i แล้วเติม -er จึงเป็น easier และเมื่อมี than ต้องใช้ขั้นกว่า"
+  },
+  {
+    "id": "english-adjectives-comparison-13",
+    "level": 2,
+    "q": "She speaks English very ___.",
+    "options": [
+      "well",
+      "good",
+      "better than",
+      "best"
+    ],
+    "answer": 0,
+    "explanation": "คำที่ขยายกริยา speaks ต้องเป็นคำกริยาวิเศษณ์ good เป็นคำคุณศัพท์ รูปกริยาวิเศษณ์ของ good คือ well (ไม่ใช่ goodly)"
+  },
+  {
+    "id": "english-adjectives-comparison-14",
+    "level": 2,
+    "q": "Which sentence is correct?",
+    "options": [
+      "My sister is not as tall as I am.",
+      "My sister is not as taller as me.",
+      "My sister is less tall as me.",
+      "My sister is not so tall than me."
+    ],
+    "answer": 0,
+    "explanation": "โครงสร้าง (not) as + คำคุณศัพท์รูปปกติ + as ใช้เปรียบเทียบความเท่ากันหรือไม่เท่ากัน ตัวเลือกอื่นใช้ taller กับ as ผิด ใช้ less … as ผิด (ต้องเป็น less … than) และใช้ so … than ผิด"
   },
   {
     "id": "english-adjectives-comparison-09",
     "level": 3,
     "q": "This is the ___ movie I have ever seen.",
-    "options": ["worst", "baddest", "worse", "most bad"],
+    "options": [
+      "worst",
+      "baddest",
+      "worse",
+      "most bad"
+    ],
     "answer": 0,
     "explanation": "bad เปลี่ยนรูปแบบไม่ปกติ คือ bad – worse – worst ประโยคมี the และ I have ever seen ซึ่งบอกว่ามากที่สุดในบรรดาที่เคยดู จึงใช้ขั้นสูงสุด the worst"
   },
@@ -75,8 +172,39 @@
     "id": "english-adjectives-comparison-10",
     "level": 3,
     "q": "The ___ you practice, the ___ you will become.",
-    "options": ["more / better", "most / best", "much / good", "many / well"],
+    "options": [
+      "more / better",
+      "most / best",
+      "much / good",
+      "many / well"
+    ],
     "answer": 0,
     "explanation": "โครงสร้าง The + ขั้นกว่า …, the + ขั้นกว่า … แปลว่า “ยิ่ง…ยิ่ง…” จึงเป็น The more you practice, the better you will become (ยิ่งฝึกมาก ยิ่งเก่งขึ้น) ต้องใช้ขั้นกว่าทั้งสองส่วน"
+  },
+  {
+    "id": "english-adjectives-comparison-15",
+    "level": 3,
+    "q": "Prices are getting ___ every year.",
+    "options": [
+      "higher and higher",
+      "high and high",
+      "highest and highest",
+      "more high and more high"
+    ],
+    "answer": 0,
+    "explanation": "โครงสร้าง ขั้นกว่า + and + ขั้นกว่า แปลว่า “…ขึ้นเรื่อย ๆ” ใช้กับสิ่งที่เปลี่ยนแปลงต่อเนื่อง เช่น higher and higher (สูงขึ้นเรื่อย ๆ) หรือ more and more expensive"
+  },
+  {
+    "id": "english-adjectives-comparison-16",
+    "level": 3,
+    "q": "Somchai is taller than ___ student in his class.",
+    "options": [
+      "any other",
+      "all",
+      "other",
+      "any"
+    ],
+    "answer": 0,
+    "explanation": "การเปรียบเทียบกับสมาชิกคนอื่นในกลุ่มเดียวกันด้วยขั้นกว่า ใช้ than any other + นามเอกพจน์ ต้องมี other เพราะสมชายเองก็อยู่ในห้องนั้น (ถ้าใช้ any จะหมายถึงสูงกว่าตัวเองด้วย ซึ่งเป็นไปไม่ได้) และ all ต้องตามด้วยนามพหูพจน์"
   }
 ]
