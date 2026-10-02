@@ -1,0 +1,327 @@
+{
+  "lesson": {
+    "summary": "คำสรรพนาม (Pronoun) ใช้ **แทนคำนาม** เพื่อไม่ต้องพูดซ้ำ ต้องเลือกรูปให้ตรงกับ **ตำแหน่ง** ในประโยค คือ ประธาน กรรม แสดงความเป็นเจ้าของ หรือสะท้อนกลับ",
+    "sections": [
+      {
+        "icon": "📋",
+        "title": "ตารางคำสรรพนาม",
+        "table": {
+          "head": ["ประธาน", "กรรม", "ของ… + นาม", "ของ… (ไม่มีนาม)", "ตัวเอง"],
+          "rows": [
+            ["I", "me", "my", "mine", "myself"],
+            ["you", "you", "your", "yours", "yourself / yourselves"],
+            ["he", "him", "his", "his", "himself"],
+            ["she", "her", "her", "hers", "herself"],
+            ["it", "it", "its", "—", "itself"],
+            ["we", "us", "our", "ours", "ourselves"],
+            ["they", "them", "their", "theirs", "themselves"]
+          ]
+        }
+      },
+      {
+        "icon": "🎯",
+        "title": "ใช้อย่างไร",
+        "list": [
+          "**ประธาน** วางหน้ากริยา: **She** likes music.",
+          "**กรรม** วางหลังกริยาหรือบุพบท: Mary called **me**. / This gift is for **him**.",
+          "**my / your / his …** ต้องมีคำนามตามหลัง: This is **my** book.",
+          "**mine / yours / hers …** ใช้แทน “ของ… + คำนาม” ไม่มีคำนามตาม: This book is **mine**.",
+          "**-self / -selves** ใช้เมื่อประธานกับกรรมเป็นคนเดียวกัน หรือ by + -self = ด้วยตัวเอง: I cut **myself**. / She did it **by herself**."
+        ]
+      },
+      {
+        "icon": "📝",
+        "title": "ตัวอย่าง",
+        "examples": [
+          { "en": "**Ben** is my friend. **He** lives near **me**.", "th": "เบนเป็นเพื่อนฉัน เขาอาศัยอยู่ใกล้ฉัน" },
+          { "en": "Is this **your** pen? — No, it's not **mine**. It's **hers**.", "th": "นี่ปากกาของเธอหรือเปล่า — ไม่ใช่ของฉัน เป็นของเธอ (ผู้หญิงคนนั้น)" },
+          { "en": "The kids made the cake **by themselves**.", "th": "เด็ก ๆ ทำเค้กด้วยตัวเอง" }
+        ]
+      },
+      {
+        "icon": "⚠️",
+        "title": "ระวัง! จุดที่มักผิด",
+        "mistakes": [
+          { "wrong": "**Me and Tom** went to school.", "right": "**Tom and I** went to school.", "why": "ตำแหน่งประธานใช้ I และนิยมเอาตัวเองไว้ข้างหลัง" },
+          { "wrong": "This pen is **my**.", "right": "This pen is **mine**.", "why": "ไม่มีคำนามตามหลัง ต้องใช้ mine" },
+          { "wrong": "The dog wagged **it's** tail.", "right": "The dog wagged **its** tail.", "why": "it's = it is · its = ของมัน" },
+          { "wrong": "They did it by **theirselves**.", "right": "They did it by **themselves**.", "why": "ไม่มีคำว่า theirselves" },
+          { "wrong": "Please help **we**.", "right": "Please help **us**.", "why": "หลังกริยาใช้รูปกรรม" }
+        ]
+      }
+    ],
+    "tip": "ดูตำแหน่งก่อนเลือก: **หน้ากริยา → I, she** · **หลังกริยา/บุพบท → me, her** · **มีคำนามตาม → my, her** · **ไม่มีคำนามตาม → mine, hers**"
+  },
+  "questions": [
+    {
+      "q": "เติมคำในช่องว่าง: ___ go to school by bus every day. (ฉัน)",
+      "options": ["Me", "I", "My", "Mine"],
+      "answer": 1,
+      "explanation": "ตำแหน่งประธาน (หน้ากริยา go) ใช้ **I**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Mr. Brown is our teacher. We like ___ very much.",
+      "options": ["he", "him", "his", "himself"],
+      "answer": 1,
+      "explanation": "ตำแหน่งกรรม (หลังกริยา like) ใช้ **him**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: This is Ann. ___ is my best friend.",
+      "options": ["Her", "She", "Hers", "Herself"],
+      "answer": 1,
+      "explanation": "ตำแหน่งประธานของผู้หญิงใช้ **She**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Can you help ___ with this box? It's too heavy for me.",
+      "options": ["I", "me", "my", "mine"],
+      "answer": 1,
+      "explanation": "หลังกริยา help ใช้รูปกรรม **me**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Where are my keys? I can't find ___.",
+      "options": ["it", "them", "they", "their"],
+      "answer": 1,
+      "explanation": "keys เป็นพหูพจน์ และอยู่ตำแหน่งกรรม → **them**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Ben and I are classmates. ___ sit together.",
+      "options": ["Us", "We", "Our", "Ours"],
+      "answer": 1,
+      "explanation": "Ben and I = เรา ตำแหน่งประธาน → **We**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The teacher gave ___ some homework. (พวกเรา)",
+      "options": ["we", "us", "our", "ours"],
+      "answer": 1,
+      "explanation": "หลังกริยา gave ใช้รูปกรรม **us**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Is this ___ bag, Tom?",
+      "options": ["you", "your", "yours", "yourself"],
+      "answer": 1,
+      "explanation": "มีคำนาม bag ตามหลัง ใช้ **your**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: This bag isn't mine. It's ___. (ของเธอ – ผู้หญิง)",
+      "options": ["her", "hers", "she", "herself"],
+      "answer": 1,
+      "explanation": "ไม่มีคำนามตามหลัง ใช้ **hers** (= her bag)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The cat is licking ___ paw.",
+      "options": ["it's", "its", "it", "itself"],
+      "answer": 1,
+      "explanation": "**its** = ของมัน (it's = it is)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Our house is small, but ___ is big. (ของพวกเขา)",
+      "options": ["their", "theirs", "them", "they"],
+      "answer": 1,
+      "explanation": "ไม่มีคำนามตามหลัง ใช้ **theirs** (= their house)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: That red car is ___. (ของเรา)",
+      "options": ["our", "ours", "us", "we"],
+      "answer": 1,
+      "explanation": "ท้ายประโยค ไม่มีคำนามตาม → **ours**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Did you make this cake by ___?",
+      "options": ["you", "your", "yourself", "yours"],
+      "answer": 2,
+      "explanation": "by + -self = ด้วยตัวเอง → by **yourself**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Be careful! Don't hurt ___ with the knife. (พูดกับเพื่อนคนเดียว)",
+      "options": ["you", "yours", "yourself", "yourselves"],
+      "answer": 2,
+      "explanation": "ประธาน (you) กับกรรมเป็นคนเดียวกัน และเป็นคนเดียว → **yourself**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The children cleaned the classroom by ___.",
+      "options": ["themself", "theirselves", "themselves", "itself"],
+      "answer": 2,
+      "explanation": "they → **themselves**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: He looked at ___ in the mirror.",
+      "options": ["him", "his", "himself", "hisself"],
+      "answer": 2,
+      "explanation": "เขามองตัวเอง (ประธานกับกรรมเป็นคนเดียวกัน) → **himself**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: We enjoyed ___ at the party.",
+      "options": ["us", "ours", "ourselves", "ourself"],
+      "answer": 2,
+      "explanation": "enjoy oneself = สนุกสนาน และประธาน we → **ourselves**"
+    },
+    {
+      "q": "เปลี่ยนคำที่ไฮไลต์เป็นสรรพนาม: **My sister** loves cats.",
+      "options": ["Her", "She", "Hers", "It"],
+      "answer": 1,
+      "explanation": "My sister อยู่ตำแหน่งประธาน และเป็นผู้หญิง → **She**"
+    },
+    {
+      "q": "เปลี่ยนคำที่ไฮไลต์เป็นสรรพนาม: I called **John and Mike** yesterday.",
+      "options": ["they", "them", "their", "theirs"],
+      "answer": 1,
+      "explanation": "อยู่ตำแหน่งกรรม (หลัง called) และเป็นพหูพจน์ → **them**"
+    },
+    {
+      "q": "เปลี่ยนคำที่ไฮไลต์เป็นสรรพนาม: **The book** is on the table.",
+      "options": ["It", "Its", "They", "Them"],
+      "answer": 0,
+      "explanation": "สิ่งของ 1 ชิ้นในตำแหน่งประธาน → **It**"
+    },
+    {
+      "q": "เปลี่ยนคำที่ไฮไลต์เป็นสรรพนาม: This is **Mali's** pencil.",
+      "options": ["she", "her", "hers", "herself"],
+      "answer": 1,
+      "explanation": "มีคำนาม pencil ตามหลัง → **her** pencil"
+    },
+    {
+      "q": "เปลี่ยนคำที่ไฮไลต์เป็นสรรพนาม: This pencil is **Mali's**.",
+      "options": ["she", "her", "hers", "herself"],
+      "answer": 2,
+      "explanation": "ไม่มีคำนามตามหลัง → **hers**"
+    },
+    {
+      "q": "เปลี่ยนคำที่ไฮไลต์เป็นสรรพนาม: **You and I** are in the same team.",
+      "options": ["We", "Us", "They", "You"],
+      "answer": 0,
+      "explanation": "You and I = พวกเรา ตำแหน่งประธาน → **We**"
+    },
+    {
+      "q": "เปลี่ยนคำที่ไฮไลต์เป็นสรรพนาม: **Somchai and his brother** are playing chess.",
+      "options": ["He", "They", "Them", "Their"],
+      "answer": 1,
+      "explanation": "สองคน ตำแหน่งประธาน → **They**"
+    },
+    {
+      "q": "ข้อใดถูกต้อง",
+      "options": ["Me and my brother play football.", "My brother and I play football.", "My brother and me play football.", "Myself and my brother play football."],
+      "answer": 1,
+      "explanation": "ตำแหน่งประธานต้องใช้ I และนิยมวางตัวเองไว้ข้างหลัง → **My brother and I**"
+    },
+    {
+      "q": "ข้อใดถูกต้อง",
+      "options": ["This umbrella is your.", "This umbrella is yours.", "This umbrella is you.", "This umbrella is yourself."],
+      "answer": 1,
+      "explanation": "ไม่มีคำนามตามหลัง → **yours**"
+    },
+    {
+      "q": "ข้อใดผิดหลักไวยากรณ์",
+      "options": ["She did her homework by herself.", "The dog wagged it's tail.", "Those books are theirs.", "Please give it to me."],
+      "answer": 1,
+      "explanation": "it's = it is ที่ถูกคือ The dog wagged **its** tail."
+    },
+    {
+      "q": "ข้อใดถูกต้อง",
+      "options": ["Him is my cousin.", "He is my cousin.", "His is my cousin.", "Himself is my cousin."],
+      "answer": 1,
+      "explanation": "ตำแหน่งประธานใช้ **He**"
+    },
+    {
+      "q": "A: Whose phone is this?  B: It's ___. (ของฉัน)",
+      "options": ["my", "mine", "me", "I"],
+      "answer": 1,
+      "explanation": "ไม่มีคำนามตามหลัง → It's **mine**."
+    },
+    {
+      "q": "A: Is this your jacket?  B: No, it isn't ___. I think it's Ken's.",
+      "options": ["my", "mine", "me", "myself"],
+      "answer": 1,
+      "explanation": "ไม่มีคำนามตามหลัง → it isn't **mine**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: My parents and ___ went to Hua Hin last weekend.",
+      "options": ["me", "I", "my", "mine"],
+      "answer": 1,
+      "explanation": "อยู่ในส่วนประธาน (หน้ากริยา went) → My parents and **I**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: This present is for you and ___.",
+      "options": ["I", "me", "my", "mine"],
+      "answer": 1,
+      "explanation": "หลังบุพบท for ใช้รูปกรรม — ลองตัด you and ออก จะได้ for **me**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The students raised ___ hands.",
+      "options": ["they", "them", "their", "theirs"],
+      "answer": 2,
+      "explanation": "มีคำนาม hands ตามหลัง → **their** hands"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Let ___ help you. (ให้ฉันช่วย)",
+      "options": ["I", "me", "my", "mine"],
+      "answer": 1,
+      "explanation": "หลังกริยา let ใช้รูปกรรม → Let **me** help you."
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Nobody helped Nina. She fixed the bike ___.",
+      "options": ["herself", "her", "hers", "she"],
+      "answer": 0,
+      "explanation": "ทำเองโดยไม่มีใครช่วย → **herself** (ด้วยตัวเอง)"
+    },
+    {
+      "q": "“by myself” แปลว่าอะไร",
+      "options": ["ด้วยตัวเอง / ตามลำพัง", "ของฉัน", "กับฉัน", "สำหรับฉัน"],
+      "answer": 0,
+      "explanation": "by + -self = **ด้วยตัวเอง / ตามลำพัง**"
+    },
+    {
+      "q": "ข้อใดใช้ its / it's ถูกต้อง",
+      "options": ["It's raining, and the tree is losing its leaves.", "Its raining, and the tree is losing it's leaves.", "It's raining, and the tree is losing it's leaves.", "Its raining, and the tree is losing its leaves."],
+      "answer": 0,
+      "explanation": "**It's** raining = It is raining · **its** leaves = ใบของมัน"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Ploy and Fah are sisters. ___ mother is a doctor.",
+      "options": ["Their", "They", "Them", "Theirs"],
+      "answer": 0,
+      "explanation": "มีคำนาม mother ตามหลัง → **Their** mother"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: I bought a new phone. ___ screen is very big.",
+      "options": ["It's", "Its", "It", "Itself"],
+      "answer": 1,
+      "explanation": "หน้าจอ **ของมัน** → Its screen"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: We made these cookies ___. Do you want some?",
+      "options": ["ourselves", "ourself", "us", "ours"],
+      "answer": 0,
+      "explanation": "พวกเราทำเอง → **ourselves**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Kim lent me ___ bike because mine was broken.",
+      "options": ["she", "her", "hers", "herself"],
+      "answer": 1,
+      "explanation": "มีคำนาม bike ตามหลัง → **her** bike"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Your answer is correct, but ___ is wrong. (ของฉัน)",
+      "options": ["my", "mine", "me", "I"],
+      "answer": 1,
+      "explanation": "ใช้แทน my answer โดยไม่มีคำนามตาม → **mine**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Tom, please introduce ___ to the class.",
+      "options": ["you", "your", "yourself", "yours"],
+      "answer": 2,
+      "explanation": "แนะนำตัวเอง (ประธานกับกรรมเป็นคนเดียวกัน) → introduce **yourself**"
+    },
+    {
+      "q": "อ่านข้อความ: “Lisa has a cat. She feeds it every morning. Its name is Mochi, and it sleeps on her bed.” คำว่า “it” ในประโยคที่สองหมายถึงอะไร",
+      "options": ["Lisa", "the cat", "the bed", "the morning"],
+      "answer": 1,
+      "explanation": "She feeds **it** = Lisa ให้อาหาร **แมว** (it ใช้แทน a cat ในประโยคแรก)"
+    },
+    {
+      "q": "อ่านข้อความ: “Tom and Jerry are my neighbors. I often play games with them, and their house is next to mine.” คำว่า “mine” หมายถึงอะไร",
+      "options": ["my game", "my house", "my neighbor", "my friend"],
+      "answer": 1,
+      "explanation": "their house is next to **mine** = บ้านของพวกเขาอยู่ติดกับ **บ้านของฉัน** (my house)"
+    }
+  ]
+}

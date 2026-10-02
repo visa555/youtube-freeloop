@@ -1,0 +1,99 @@
+{
+  "lesson": {
+    "summary": "Causative คือโครงสร้างที่บอกว่า **เราให้ / ทำให้ / อนุญาตให้คนอื่นทำ** บางอย่าง แทนที่จะทำเอง เช่น ไปตัดผม (ช่างตัดให้) ใช้คำว่า **have, get, make, let**",
+    "sections": [
+      {
+        "icon": "✂️",
+        "title": "ให้คนอื่นทำให้ (เน้นสิ่งที่ถูกทำ)",
+        "formulas": [
+          { "label": "have", "formula": "ประธาน + **have / has / had** + สิ่งของ + **V3**", "example": "I **had my hair cut** yesterday. (ช่างตัดให้)" },
+          { "label": "get", "formula": "ประธาน + **get / gets / got** + สิ่งของ + **V3**", "example": "She **got her phone repaired**." }
+        ],
+        "list": [
+          "ใช้เมื่อจ้างหรือให้คนอื่นทำให้ เช่น ตัดผม ซ่อมรถ ล้างรถ ตรวจฟัน",
+          "ผัน **have / get** ตาม tense ได้ปกติ: I **have** my car washed every week. / I **will have** my eyes checked."
+        ]
+      },
+      {
+        "icon": "👤",
+        "title": "ให้ (คน) ทำ — ระบุว่าใครทำ",
+        "table": {
+          "head": ["โครงสร้าง", "ความหมาย", "ตัวอย่าง"],
+          "rows": [
+            ["have + คน + **V1**", "มอบหมายให้…ทำ", "The teacher **had us read** chapter 3."],
+            ["get + คน + **to + V1**", "โน้มน้าว / ขอให้…ทำ", "I **got Dad to drive** me to school."],
+            ["make + คน + **V1**", "บังคับ / ทำให้…", "The sad movie **made me cry**."],
+            ["let + คน + **V1**", "อนุญาตให้…ทำ", "Mom **lets us watch** TV on weekends."]
+          ]
+        }
+      },
+      {
+        "icon": "🔎",
+        "title": "เปรียบเทียบ",
+        "examples": [
+          { "en": "I **cut** my hair.", "th": "ฉันตัดผมเอง" },
+          { "en": "I **had** my hair **cut**.", "th": "ฉันไปให้ช่างตัดผม" }
+        ]
+      },
+      {
+        "icon": "⚠️",
+        "title": "ระวัง! จุดที่มักผิด",
+        "mistakes": [
+          { "wrong": "I had my bike **repair**.", "right": "I had my bike **repaired**.", "why": "จักรยานถูกซ่อม → V3" },
+          { "wrong": "The coach made us **to run** five laps.", "right": "The coach made us **run** five laps.", "why": "make + คน + V1 (ไม่มี to)" },
+          { "wrong": "I got my sister **lend** me her bike.", "right": "I got my sister **to lend** me her bike.", "why": "get + คน + to + V1" },
+          { "wrong": "Mr. Kim had his secretary **sends** the email.", "right": "Mr. Kim had his secretary **send** the email.", "why": "have + คน + V1" },
+          { "wrong": "Dad let me **using** his laptop.", "right": "Dad let me **use** his laptop.", "why": "let + คน + V1" }
+        ]
+      }
+    ],
+    "tip": "**have / get + ของ + V3** = ให้คนอื่นทำให้ · **have / make / let + คน + V1** · **get + คน + to + V1** — ระวัง make และ let ไม่มี to"
+  },
+  "questions": [
+    { "q": "I ___ my hair cut every month.", "options": ["have", "has", "having", "am"], "answer": 0, "explanation": "ประธาน I + **have** + สิ่งของ + V3" },
+    { "q": "She had her car ___ yesterday.", "options": ["wash", "washed", "washing", "to wash"], "answer": 1, "explanation": "รถถูกล้าง → have + ของ + **V3**" },
+    { "q": "We're going to get our house ___ next week.", "options": ["paint", "painted", "painting", "to paint"], "answer": 1, "explanation": "get + ของ + **V3** → painted" },
+    { "q": "Tom gets his teeth ___ every six months.", "options": ["check", "checked", "checking", "to check"], "answer": 1, "explanation": "ฟันถูกตรวจ → **checked**" },
+    { "q": "I need to have my phone ___. The screen is broken.", "options": ["repair", "repaired", "repairing", "to repair"], "answer": 1, "explanation": "โทรศัพท์ถูกซ่อม → **repaired**" },
+    { "q": "My mom ___ her dress made by a tailor last month.", "options": ["had", "has", "have", "having"], "answer": 0, "explanation": "last month = อดีต → **had**" },
+    { "q": "Where do you usually get your bike ___?", "options": ["fix", "fixed", "fixing", "to fix"], "answer": 1, "explanation": "get + ของ + **V3**" },
+    { "q": "“I had my hair cut.” หมายความว่าอย่างไร", "options": ["ฉันตัดผมเอง", "ฉันไปให้ช่างตัดผมให้", "ฉันตัดผมให้คนอื่น", "ฉันยังไม่ได้ตัดผม"], "answer": 1, "explanation": "have + ของ + V3 = **ให้คนอื่นทำให้**" },
+    { "q": "“I cut my hair.” ต่างจาก “I had my hair cut.” อย่างไร", "options": ["ประโยคแรกตัดเอง · ประโยคหลังให้คนอื่นตัดให้", "ความหมายเหมือนกัน", "ประโยคแรกให้คนอื่นตัด", "ประโยคหลังตัดเอง"], "answer": 0, "explanation": "cut my hair = **ตัดเอง** · had my hair cut = **ให้ช่างตัด**" },
+    { "q": "The teacher had us ___ chapter 3.", "options": ["read", "to read", "reading", "reads"], "answer": 0, "explanation": "have + คน + **V1**" },
+    { "q": "The manager had the staff ___ the meeting room.", "options": ["clean", "to clean", "cleaned", "cleans"], "answer": 0, "explanation": "have + คน + **V1** (มอบหมายให้ทำ)" },
+    { "q": "I got Dad ___ me to school.", "options": ["drive", "to drive", "driving", "driven"], "answer": 1, "explanation": "get + คน + **to + V1**" },
+    { "q": "She finally got her brother ___ his room.", "options": ["clean", "to clean", "cleaned", "cleans"], "answer": 1, "explanation": "get + คน + **to + V1** (โน้มน้าวให้ทำ)" },
+    { "q": "The sad movie made me ___.", "options": ["cry", "to cry", "crying", "cried"], "answer": 0, "explanation": "make + คน + **V1**" },
+    { "q": "The coach made us ___ five laps.", "options": ["run", "to run", "running", "ran"], "answer": 0, "explanation": "make + คน + **V1** (บังคับ)" },
+    { "q": "Onions always make my eyes ___.", "options": ["water", "to water", "watered", "watering"], "answer": 0, "explanation": "make + กรรม + **V1** (ทำให้น้ำตาไหล)" },
+    { "q": "Mom lets us ___ TV on weekends.", "options": ["watch", "to watch", "watching", "watched"], "answer": 0, "explanation": "let + คน + **V1**" },
+    { "q": "My parents won't let me ___ out late.", "options": ["go", "to go", "going", "went"], "answer": 0, "explanation": "let + คน + **V1**" },
+    { "q": "Please let me ___ you.", "options": ["help", "to help", "helping", "helped"], "answer": 0, "explanation": "let + คน + **V1**" },
+    { "q": "“make + คน + V1” มีความหมายว่าอะไร", "options": ["บังคับ / ทำให้…", "อนุญาตให้…ทำ", "จ้างให้…ทำ", "ขอร้องให้…ทำ"], "answer": 0, "explanation": "make = **บังคับ / ทำให้**" },
+    { "q": "“let + คน + V1” มีความหมายว่าอะไร", "options": ["อนุญาตให้…ทำ", "บังคับให้…ทำ", "ห้าม…ทำ", "ช่วย…ทำ"], "answer": 0, "explanation": "let = **อนุญาตให้**" },
+    { "q": "“get + คน + to + V1” มีความหมายว่าอะไร", "options": ["โน้มน้าว / ขอให้…ทำ", "บังคับให้…ทำ", "ห้าม…ทำ", "อนุญาตให้…ทำ"], "answer": 0, "explanation": "get someone to do = **โน้มน้าวให้ทำ**" },
+    { "q": "“My dad let me drive his car.” หมายความว่าอย่างไร", "options": ["พ่ออนุญาตให้ฉันขับรถของพ่อ", "พ่อบังคับให้ฉันขับรถ", "พ่อขับรถให้ฉัน", "พ่อห้ามฉันขับรถ"], "answer": 0, "explanation": "let = **อนุญาต**" },
+    { "q": "“The teacher made Ken apologize.” หมายความว่าอย่างไร", "options": ["ครูบังคับให้เคนขอโทษ", "ครูขอโทษเคน", "เคนอนุญาตให้ครูขอโทษ", "ครูไม่ให้เคนขอโทษ"], "answer": 0, "explanation": "make = **บังคับให้**" },
+    { "q": "ข้อใดผิด", "options": ["The coach made us run.", "I had my bike repaired.", "Mom let me to go out.", "I got him to help me."], "answer": 2, "explanation": "let + คน + V1 (ไม่มี to) → Mom let me **go** out." },
+    { "q": "ข้อใดผิด", "options": ["She had her nails painted.", "I got my sister lend me her bike.", "They had the plumber fix the sink.", "He made me laugh."], "answer": 1, "explanation": "get + คน + **to + V1** → got my sister **to lend**" },
+    { "q": "หาส่วนที่ผิด: “Mr. Kim had his secretary sends the email.” ต้องแก้อย่างไร", "options": ["had → has", "secretary → secretaries", "sends → send", "the email → email"], "answer": 2, "explanation": "have + คน + **V1** → send" },
+    { "q": "หาส่วนที่ผิด: “Dad let me using his laptop.” ต้องแก้อย่างไร", "options": ["let → lets", "me → I", "using → use", "his → him"], "answer": 2, "explanation": "let + คน + **V1** → use" },
+    { "q": "หาส่วนที่ผิด: “I had my bike repair last week.” ต้องแก้อย่างไร", "options": ["had → have", "my → mine", "repair → repaired", "last → next"], "answer": 2, "explanation": "have + ของ + **V3** → repaired" },
+    { "q": "ข้อใดถูกต้อง", "options": ["The rain made us stay inside.", "The rain made us to stay inside.", "The rain made us staying inside.", "The rain made us stayed inside."], "answer": 0, "explanation": "make + กรรม + **V1**" },
+    { "q": "I ___ my car serviced tomorrow.", "options": ["will have", "had", "have had", "am have"], "answer": 0, "explanation": "tomorrow → **will have** + ของ + V3" },
+    { "q": "She ___ her photo taken for her passport last week.", "options": ["has", "had", "will have", "is having"], "answer": 1, "explanation": "last week → **had**" },
+    { "q": "We are ___ our kitchen redesigned at the moment.", "options": ["having", "have", "had", "has"], "answer": 0, "explanation": "at the moment → are **having** + ของ + V3" },
+    { "q": "Have you ever ___ your car stolen?", "options": ["had", "have", "having", "has"], "answer": 0, "explanation": "Present Perfect → have + **had** + ของ + V3 (ประสบเหตุถูกขโมย)" },
+    { "q": "แปล: “ฉันไปตัดผมมาเมื่อวาน”", "options": ["I had my hair cut yesterday.", "I cut hair yesterday.", "I had cut my hair by yesterday.", "I had my hair cutting yesterday."], "answer": 0, "explanation": "ให้ช่างตัด → **had my hair cut**" },
+    { "q": "แปล: “เราจ้างช่างมาทาสีบ้าน”", "options": ["We had the house painted.", "We painted the house by ourselves.", "We had the house paint.", "We had painted the house."], "answer": 0, "explanation": "ให้คนอื่นทำ → have + ของ + **V3**" },
+    { "q": "แปล: “แม่ให้ฉันล้างจาน” (มอบหมาย)", "options": ["Mom had me wash the dishes.", "Mom had me to wash the dishes.", "Mom had me washed the dishes.", "Mom had the dishes wash me."], "answer": 0, "explanation": "have + คน + **V1**" },
+    { "q": "แปล: “ครูไม่ยอมให้เราใช้โทรศัพท์ในห้องเรียน”", "options": ["The teacher doesn't let us use phones in class.", "The teacher doesn't let us to use phones in class.", "The teacher doesn't let us using phones in class.", "The teacher doesn't make us use phones in class."], "answer": 0, "explanation": "ไม่อนุญาต → **doesn't let** + คน + V1" },
+    { "q": "แปล: “ฉันโน้มน้าวให้เพื่อนมางานปาร์ตี้ได้”", "options": ["I got my friend to come to the party.", "I got my friend come to the party.", "I made my friend to come to the party.", "I let my friend to come to the party."], "answer": 0, "explanation": "โน้มน้าว → **get** + คน + **to + V1**" },
+    { "q": "สถานการณ์: แอร์ที่บ้านเสีย คุณจะเรียกช่างมาซ่อม ควรพูดว่าอะไร", "options": ["I'm going to have the air conditioner fixed.", "I'm going to fix the air conditioner myself.", "I'm going to have fixed the air conditioner.", "I'm going to have the air conditioner fix."], "answer": 0, "explanation": "ให้ช่างซ่อม → have + ของ + **V3**" },
+    { "q": "สถานการณ์: พ่อแม่อนุญาตให้คุณไปค่ายกับเพื่อน ข้อใดถูกต้อง", "options": ["My parents let me go to camp with my friends.", "My parents made me go to camp with my friends.", "My parents let me to go to camp with my friends.", "My parents had me going to camp."], "answer": 0, "explanation": "อนุญาต → **let** + คน + V1" },
+    { "q": "เติมคำในช่องว่าง: The sad song ___ everyone cry.", "options": ["made", "let", "got", "had"], "answer": 0, "explanation": "เพลงทำให้ทุกคนร้องไห้ → **made**" },
+    { "q": "เติมคำในช่องว่าง: Will your mom ___ you stay up late tonight?", "options": ["let", "make", "get", "had"], "answer": 0, "explanation": "ถามเรื่องการอนุญาต → **let** you stay up late" },
+    { "q": "อ่านข้อความ: “Last Saturday, Mrs. Lee had her garden cleaned and got her windows washed. She also made her son tidy his room.” ข้อใดถูกต้อง", "options": ["คุณลีทำความสะอาดสวนเอง", "คุณลีให้ลูกชายจัดห้องของตัวเอง", "คุณลีล้างหน้าต่างเอง", "ลูกชายไม่ได้ทำอะไร"], "answer": 1, "explanation": "**made her son tidy his room** = ให้ลูกชายจัดห้อง ส่วนสวนและหน้าต่างจ้างคนอื่นทำ" },
+    { "q": "อ่านข้อความ: “Ken wanted to go to the concert, but his parents wouldn't let him go alone. Finally, he got his older sister to go with him.” ข้อใดถูกต้อง", "options": ["พ่อแม่ให้เคนไปคนเดียว", "พี่สาวไปคอนเสิร์ตกับเคน", "เคนไม่ได้ไปคอนเสิร์ต", "เคนบังคับพ่อแม่"], "answer": 1, "explanation": "**got his older sister to go with him** = ชวนพี่สาวไปด้วยได้" }
+  ]
+}

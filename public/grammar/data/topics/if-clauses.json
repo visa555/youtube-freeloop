@@ -1,0 +1,382 @@
+{
+  "lesson": {
+    "summary": "ประโยค If ใช้บอก **เงื่อนไข** และ **ผลที่ตามมา** แบบ “ถ้า… ก็จะ…” มี 4 แบบ (Type 0–3) แบ่งตามว่าเรื่องนั้นจริงเสมอ เป็นไปได้ หรือเป็นแค่การสมมติ",
+    "sections": [
+      {
+        "icon": "🧩",
+        "title": "ส่วนประกอบของประโยค",
+        "text": "ประโยคเงื่อนไขมี 2 ส่วน คือ **If-clause** (ส่วนเงื่อนไข “ถ้า…”) และ **main clause** (ส่วนที่เป็นผล)",
+        "examples": [
+          { "en": "**If it rains**, we will stay at home.", "th": "ถ้าฝนตก (เงื่อนไข) พวกเราจะอยู่บ้าน (ผล)" }
+        ],
+        "list": [
+          "สลับตำแหน่งได้: ถ้า If-clause ขึ้นต้นประโยค ให้ใส่ **comma ( , )** คั่น",
+          "ถ้า main clause ขึ้นก่อน ไม่ต้องใส่ comma — We will stay at home **if it rains**."
+        ]
+      },
+      {
+        "icon": "🧱",
+        "title": "โครงสร้าง 4 แบบ",
+        "table": {
+          "head": ["แบบ", "If-clause", "main clause", "ใช้เมื่อ"],
+          "rows": [
+            ["Type 0", "If + **V1** (s/es)", "**V1** (s/es)", "ความจริงทั่วไป / วิทยาศาสตร์ เกิดขึ้นทุกครั้ง"],
+            ["Type 1", "If + **V1** (s/es)", "**will** + V1", "เรื่องที่ **เป็นไปได้จริง** ในอนาคต"],
+            ["Type 2", "If + **V2** (be → were)", "**would** + V1", "เรื่อง **สมมติ** ที่ไม่จริงในปัจจุบัน"],
+            ["Type 3", "If + **had + V3**", "**would have** + V3", "สมมติย้อนไปใน **อดีต** ที่ไม่ได้เกิดขึ้นจริง (มักเสียดาย)"]
+          ]
+        }
+      },
+      {
+        "icon": "📝",
+        "title": "ตัวอย่างแต่ละแบบ",
+        "examples": [
+          { "en": "If you **heat** ice, it **melts**.", "th": "Type 0 — ถ้าทำให้น้ำแข็งร้อน มันจะละลาย (จริงทุกครั้ง)" },
+          { "en": "If you **study** hard, you **will pass** the exam.", "th": "Type 1 — ถ้าเธอตั้งใจเรียน เธอจะสอบผ่าน (มีโอกาสเกิดขึ้นจริง)" },
+          { "en": "If I **had** wings, I **would fly** to school.", "th": "Type 2 — ถ้าฉันมีปีก ฉันจะบินไปโรงเรียน (ความจริงคือไม่มีปีก)" },
+          { "en": "If I **were** you, I **would say** sorry.", "th": "Type 2 — ถ้าฉันเป็นเธอ ฉันจะขอโทษ (ใช้ให้คำแนะนำ)" },
+          { "en": "If he **had woken** up early, he **wouldn't have missed** the bus.", "th": "Type 3 — ถ้าเขาตื่นเช้า เขาคงไม่ตกรถ (ความจริงคือตื่นสายและตกรถไปแล้ว)" }
+        ]
+      },
+      {
+        "icon": "🔍",
+        "title": "วิธีดูว่าเป็นแบบไหน",
+        "list": [
+          "ดูกริยาใน **If-clause** ก่อน: V1 → Type 0 หรือ 1 · V2 → Type 2 · had + V3 → Type 3",
+          "ถ้า If-clause เป็น V1 ให้ดู main clause ต่อ: V1 → **Type 0** · will + V1 → **Type 1**",
+          "ถามตัวเองว่าเรื่องนี้ **เกิดได้จริงไหม** — เกิดได้ → Type 1 · ไม่จริงตอนนี้ → Type 2 · ผ่านไปแล้ว → Type 3"
+        ]
+      },
+      {
+        "icon": "🔁",
+        "title": "unless = if … not",
+        "text": "**unless** แปลว่า “ถ้า…ไม่” หรือ “เว้นแต่” มีความหมายปฏิเสธอยู่ในตัว ประโยคหลัง unless จึงเป็น **บอกเล่า** เสมอ",
+        "examples": [
+          { "en": "**If** you **don't** hurry, you will be late.", "th": "ถ้าเธอไม่รีบ เธอจะสาย" },
+          { "en": "**Unless** you **hurry**, you will be late.", "th": "ความหมายเหมือนประโยคบน" }
+        ]
+      },
+      {
+        "icon": "⚠️",
+        "title": "ระวัง! จุดที่มักผิด",
+        "mistakes": [
+          { "wrong": "If it **will rain**, we will stay home.", "right": "If it **rains**, we will stay home.", "why": "ไม่ใช้ will ใน If-clause — Type 1 ใช้ V1" },
+          { "wrong": "If I **am** you, I would tell her.", "right": "If I **were** you, I would tell her.", "why": "Type 2 เป็นการสมมติ ใช้ were กับทุกประธาน โดยเฉพาะสำนวน If I were you" },
+          { "wrong": "If she had studied, she **would pass**.", "right": "If she had studied, she **would have passed**.", "why": "Type 3 ต้องใช้ would have + V3 คู่กับ had + V3" },
+          { "wrong": "**Unless** you **don't** come, I will be sad.", "right": "**Unless** you **come**, I will be sad.", "why": "unless มีความหมายปฏิเสธอยู่แล้ว ไม่ต้องใส่ don't ซ้ำ" }
+        ]
+      }
+    ],
+    "tip": "จำเป็นคู่: **V1 + V1** (Type 0) · **V1 + will** (Type 1) · **V2 + would** (Type 2) · **had V3 + would have V3** (Type 3) — ยิ่งเป็นเรื่องไม่จริงมากเท่าไร กริยายิ่งถอยไปเป็นอดีตมากขึ้น"
+  },
+  "questions": [
+    {
+      "q": "ประโยค “If you mix red and white, you get pink.” เป็น If-clause แบบใด",
+      "options": ["Type 0", "Type 1", "Type 2", "Type 3"],
+      "answer": 0,
+      "keepOrder": true,
+      "explanation": "If + V1 (mix) และ main clause เป็น V1 (get) เป็นความจริงที่เกิดทุกครั้ง → **Type 0**"
+    },
+    {
+      "q": "ประโยค “If it is sunny tomorrow, we will go to the beach.” เป็น If-clause แบบใด",
+      "options": ["Type 0", "Type 1", "Type 2", "Type 3"],
+      "answer": 1,
+      "keepOrder": true,
+      "explanation": "If + V1 (is) และ main clause เป็น will + V1 เป็นเรื่องที่เกิดขึ้นได้จริงในอนาคต → **Type 1**"
+    },
+    {
+      "q": "ประโยค “If I won the lottery, I would buy a house for my parents.” เป็น If-clause แบบใด",
+      "options": ["Type 0", "Type 1", "Type 2", "Type 3"],
+      "answer": 2,
+      "keepOrder": true,
+      "explanation": "If + V2 (won) และ main clause เป็น would + V1 เป็นการสมมติในปัจจุบัน → **Type 2**"
+    },
+    {
+      "q": "ประโยค “If we had booked the tickets earlier, we would have got better seats.” เป็น If-clause แบบใด",
+      "options": ["Type 0", "Type 1", "Type 2", "Type 3"],
+      "answer": 3,
+      "keepOrder": true,
+      "explanation": "If + had + V3 และ main clause เป็น would have + V3 เป็นการสมมติย้อนอดีต → **Type 3**"
+    },
+    {
+      "q": "ประโยค “If you don't water plants, they die.” เป็น If-clause แบบใด",
+      "options": ["Type 0", "Type 1", "Type 2", "Type 3"],
+      "answer": 0,
+      "keepOrder": true,
+      "explanation": "ทั้งสองส่วนเป็น V1 และเป็นความจริงทั่วไป (ไม่รดน้ำ ต้นไม้ก็ตาย) → **Type 0**"
+    },
+    {
+      "q": "ประโยค “If my dad were here, he would help us.” เป็น If-clause แบบใด",
+      "options": ["Type 0", "Type 1", "Type 2", "Type 3"],
+      "answer": 2,
+      "keepOrder": true,
+      "explanation": "If + were และ would + V1 สมมติว่าพ่ออยู่ที่นี่ (ความจริงคือไม่อยู่) → **Type 2**"
+    },
+    {
+      "q": "ประโยค “If Ploy studies hard, she will get good grades.” เป็น If-clause แบบใด",
+      "options": ["Type 0", "Type 1", "Type 2", "Type 3"],
+      "answer": 1,
+      "keepOrder": true,
+      "explanation": "If + V1 (studies) และ will + V1 เป็นเรื่องที่เกิดขึ้นได้จริง → **Type 1**"
+    },
+    {
+      "q": "ประโยค “If I hadn't eaten so much, I wouldn't have felt sick.” เป็น If-clause แบบใด",
+      "options": ["Type 0", "Type 1", "Type 2", "Type 3"],
+      "answer": 3,
+      "keepOrder": true,
+      "explanation": "If + had (not) + V3 และ would (not) have + V3 เสียดายเรื่องในอดีต → **Type 3**"
+    },
+    {
+      "q": "ประโยคใดเป็น If-clause Type 2",
+      "options": ["If you press this button, the light turns on.", "If you call me, I will answer.", "If I had a dog, I would walk it every day.", "If you had told me, I would have come."],
+      "answer": 2,
+      "explanation": "**If + V2 (had), would + V1 (walk)** เป็นโครงสร้าง Type 2 สมมติว่ามีหมา (ความจริงคือไม่มี)"
+    },
+    {
+      "q": "ประโยคใดเป็นความจริงทั่วไป (Type 0)",
+      "options": ["If you don't sleep enough, you feel tired.", "If you come late, the teacher will be angry.", "If I were taller, I would play basketball.", "If she had asked, I would have helped."],
+      "answer": 0,
+      "explanation": "นอนไม่พอแล้วรู้สึกเหนื่อยเป็นความจริงทั่วไป ใช้ **V1 + V1** → Type 0"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: If you ___ an egg, it breaks.",
+      "options": ["drop", "dropped", "will drop", "had dropped"],
+      "answer": 0,
+      "explanation": "main clause เป็น V1 (breaks) และเป็นความจริงทั่วไป → Type 0 ใช้ If + **V1** (drop)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: If it ___ tomorrow, we will cancel the trip.",
+      "options": ["rain", "rains", "will rain", "rained"],
+      "answer": 1,
+      "explanation": "Type 1 ใช้ If + V1 และ it เป็นเอกพจน์ → **rains** (ห้ามใช้ will ใน If-clause)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: If you study hard tonight, you ___ the test tomorrow.",
+      "options": ["pass", "will pass", "would have passed", "passed"],
+      "answer": 1,
+      "explanation": "เป็นเรื่องที่เกิดได้จริงในอนาคต (tomorrow) → Type 1 ใช้ **will + V1**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: If I ___ a lot of money, I would travel around the world.",
+      "options": ["have", "had", "will have", "has"],
+      "answer": 1,
+      "explanation": "main clause ใช้ would + V1 → Type 2 ใช้ If + **V2** (had)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: If I ___ you, I would see a doctor.",
+      "options": ["am", "will be", "were", "be"],
+      "answer": 2,
+      "explanation": "สำนวนให้คำแนะนำ **If I were you** (ถ้าฉันเป็นเธอ) เป็น Type 2 ใช้ were กับทุกประธาน"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: If she had set an alarm, she ___ late for school yesterday.",
+      "options": ["won't be", "wouldn't be", "wouldn't have been", "isn't"],
+      "answer": 2,
+      "explanation": "If + had + V3 และเป็นเรื่องเมื่อวาน → Type 3 ใช้ **wouldn't have + V3** (been)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: If we ___ the map, we wouldn't have got lost.",
+      "options": ["check", "checked", "had checked", "will check"],
+      "answer": 2,
+      "explanation": "main clause เป็น wouldn't have + V3 → Type 3 ใช้ If + **had + V3** (had checked)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: If Tom ___ his homework, the teacher will be happy.",
+      "options": ["finishes", "finish", "finished", "will finish"],
+      "answer": 0,
+      "explanation": "main clause เป็น will + V1 → Type 1 ใช้ If + V1 และ Tom เป็นเอกพจน์ → **finishes**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Plants die if they ___ enough sunlight.",
+      "options": ["don't get", "won't get", "didn't get", "hadn't got"],
+      "answer": 0,
+      "explanation": "เป็นความจริงทั่วไป main clause เป็น V1 (die) → Type 0 ใช้ V1 → **don't get**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: If I lived near the school, I ___ there every day.",
+      "options": ["walk", "will walk", "would walk", "walked"],
+      "answer": 2,
+      "explanation": "If + V2 (lived) สมมติว่าบ้านอยู่ใกล้โรงเรียน (ความจริงคือไม่ใกล้) → Type 2 ใช้ **would + V1**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: If my phone ___ broken, I would call you.",
+      "options": ["isn't", "weren't", "won't be", "wasn't been"],
+      "answer": 1,
+      "explanation": "main clause เป็น would + V1 → Type 2 ใช้ If + V2 และ verb to be ใช้ **were** → weren't"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: If you ___ me earlier, I would have helped you.",
+      "options": ["ask", "asked", "had asked", "will ask"],
+      "answer": 2,
+      "explanation": "main clause เป็น would have + V3 → Type 3 ใช้ If + **had + V3** (had asked)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: If you mix blue and yellow, you ___ green.",
+      "options": ["get", "got", "would get", "had got"],
+      "answer": 0,
+      "explanation": "การผสมสีเป็นความจริงที่เกิดทุกครั้ง → Type 0 ใช้ **V1** (get)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: If Nok ___ the bus, she will take a taxi.",
+      "options": ["misses", "missed", "will miss", "had missed"],
+      "answer": 0,
+      "explanation": "main clause เป็น will + V1 → Type 1 ใช้ If + V1 และ Nok เป็นเอกพจน์ → **misses**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: What ___ you do if you saw a ghost?",
+      "options": ["will", "would", "do", "did"],
+      "answer": 1,
+      "explanation": "if + V2 (saw) เป็นการสมมติ → Type 2 ใช้ **would** + V1"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: If the weather is nice this weekend, we ___ a picnic.",
+      "options": ["will have", "would have", "had", "had had"],
+      "answer": 0,
+      "explanation": "If + V1 (is) และเป็นเรื่องที่อาจเกิดขึ้นสุดสัปดาห์นี้ → Type 1 ใช้ **will + V1**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: If I had known about the party, I ___.",
+      "options": ["will come", "would come", "would have come", "came"],
+      "answer": 2,
+      "explanation": "If + had + V3 (ปาร์ตี้ผ่านไปแล้ว) → Type 3 ใช้ **would have + V3** (come)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: He would be healthier if he ___ more vegetables.",
+      "options": ["eats", "ate", "will eat", "eating"],
+      "answer": 1,
+      "explanation": "main clause เป็น would + V1 → Type 2 ใช้ if + **V2** (ate)"
+    },
+    {
+      "q": "เลือก main clause ที่เข้ากับ: “If you press this button, ___”",
+      "options": ["the door opens.", "the door would have opened.", "the door had opened.", "the door opened."],
+      "answer": 0,
+      "explanation": "If + V1 (press) บอกสิ่งที่เกิดทุกครั้ง → Type 0 ใช้ **V1** (opens)"
+    },
+    {
+      "q": "เลือก main clause ที่เข้ากับ: “If I were a bird, ___”",
+      "options": ["I will fly to you.", "I would fly to you.", "I flew to you.", "I would have flown to you."],
+      "answer": 1,
+      "explanation": "If I were… เป็นการสมมติ Type 2 ใช้ **would + V1**"
+    },
+    {
+      "q": "เลือก main clause ที่เข้ากับ: “If Joe had trained harder, ___”",
+      "options": ["he will win the race.", "he wins the race.", "he would have won the race.", "he would win the race yesterday."],
+      "answer": 2,
+      "explanation": "If + had + V3 → Type 3 ใช้ **would have + V3** (won)"
+    },
+    {
+      "q": "เลือก main clause ที่เข้ากับ: “If the shop is open tomorrow, ___”",
+      "options": ["I will buy some bread.", "I would have bought some bread.", "I bought some bread.", "I had bought some bread."],
+      "answer": 0,
+      "explanation": "If + V1 (is) กับเรื่องพรุ่งนี้ → Type 1 ใช้ **will + V1**"
+    },
+    {
+      "q": "เลือก If-clause ที่เข้ากับ: “___, I would buy a new bike.”",
+      "options": ["If I have enough money", "If I had enough money", "If I had had enough money", "If I will have enough money"],
+      "answer": 1,
+      "explanation": "main clause เป็น would + V1 → Type 2 ใช้ If + **V2** (had)"
+    },
+    {
+      "q": "เลือก If-clause ที่เข้ากับ: “___, you will feel better.”",
+      "options": ["If you take this medicine", "If you took this medicine", "If you had taken this medicine", "If you will take this medicine"],
+      "answer": 0,
+      "explanation": "main clause เป็น will + V1 → Type 1 ใช้ If + **V1** (take)"
+    },
+    {
+      "q": "เลือก If-clause ที่เข้ากับ: “___, we would have won the match.”",
+      "options": ["If we play better", "If we played better", "If we had played better", "If we will play better"],
+      "answer": 2,
+      "explanation": "main clause เป็น would have + V3 → Type 3 ใช้ If + **had + V3**"
+    },
+    {
+      "q": "เลือก If-clause ที่เข้ากับ: “___, it turns into steam.”",
+      "options": ["If you boil water", "If you boiled water", "If you had boiled water", "If you will boil water"],
+      "answer": 0,
+      "explanation": "น้ำเดือดกลายเป็นไอเป็นความจริงทางวิทยาศาสตร์ → Type 0 ใช้ **V1 + V1**"
+    },
+    {
+      "q": "“Unless” มีความหมายเหมือนข้อใด",
+      "options": ["if", "if … not", "because", "although"],
+      "answer": 1,
+      "explanation": "unless = **if … not** (ถ้า…ไม่ / เว้นแต่)"
+    },
+    {
+      "q": "ข้อใดมีความหมายเหมือน “If you don't hurry, you will miss the bus.”",
+      "options": ["Unless you hurry, you will miss the bus.", "Unless you don't hurry, you will miss the bus.", "If you hurry, you will miss the bus.", "Unless you hurried, you will miss the bus."],
+      "answer": 0,
+      "explanation": "if … not = unless และหลัง unless ใช้ประโยค **บอกเล่า** → Unless you hurry"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: ___ you wear a jacket, you will catch a cold.",
+      "options": ["If", "Unless", "Because", "When"],
+      "answer": 1,
+      "explanation": "ความหมายคือ “ถ้าไม่ใส่เสื้อแจ็กเก็ต จะเป็นหวัด” จึงใช้ **Unless** (= if … not)"
+    },
+    {
+      "q": "เขียน “If she doesn't study, she won't pass.” ใหม่ด้วย unless ข้อใดถูกต้อง",
+      "options": ["Unless she studies, she won't pass.", "Unless she doesn't study, she won't pass.", "Unless she study, she won't pass.", "Unless she studied, she won't pass."],
+      "answer": 0,
+      "explanation": "ตัด doesn't ออกแล้วใช้กริยาบอกเล่าที่ผันตามประธาน → Unless she **studies**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: I won't go to the party unless you ___ with me.",
+      "options": ["come", "don't come", "will come", "came"],
+      "answer": 0,
+      "explanation": "หลัง unless ใช้บอกเล่า และเป็น Type 1 จึงใช้ V1 → unless you **come**"
+    },
+    {
+      "q": "ประโยคใดถูกต้อง",
+      "options": ["Unless it rains, we will play outside.", "Unless it doesn't rain, we will play outside.", "Unless it will rain, we will play outside.", "Unless it rained, we will play outside."],
+      "answer": 0,
+      "explanation": "unless + ประโยคบอกเล่า V1 (Type 1) → **Unless it rains**"
+    },
+    {
+      "q": "ประโยคใดใช้เครื่องหมาย comma ( , ) ถูกต้อง",
+      "options": ["If I see Ben, I will tell him.", "If I see Ben I will, tell him.", "If, I see Ben I will tell him.", "If I, see Ben I will tell him."],
+      "answer": 0,
+      "explanation": "เมื่อ If-clause ขึ้นต้นประโยค ให้ใส่ comma **หลัง If-clause** ก่อน main clause"
+    },
+    {
+      "q": "“If I had a car, I would drive you home.” ความจริงคืออะไร",
+      "options": ["ผู้พูดมีรถ และจะขับไปส่ง", "ผู้พูดไม่มีรถ จึงขับไปส่งไม่ได้", "ผู้พูดเคยมีรถในอดีต", "ผู้พูดจะซื้อรถพรุ่งนี้"],
+      "answer": 1,
+      "explanation": "Type 2 เป็นการสมมติสิ่งที่ **ไม่จริงในปัจจุบัน** ความจริงคือผู้พูดไม่มีรถ"
+    },
+    {
+      "q": "“If Tim had studied, he would have passed the test.” ความจริงคืออะไร",
+      "options": ["Tim ตั้งใจเรียนและสอบผ่าน", "Tim ไม่ได้ตั้งใจเรียนและสอบไม่ผ่าน", "Tim ตั้งใจเรียนแต่สอบไม่ผ่าน", "Tim จะสอบพรุ่งนี้"],
+      "answer": 1,
+      "explanation": "Type 3 สมมติย้อนอดีต **ตรงข้ามกับความจริง** ความจริงคือ Tim ไม่ได้อ่านหนังสือและสอบไม่ผ่าน"
+    },
+    {
+      "q": "สถานการณ์: “พรุ่งนี้อาจมีฝนตก ถ้าตกเราจะดูหนังที่บ้าน” ข้อใดสื่อความหมายได้ถูกต้อง",
+      "options": ["If it rains tomorrow, we will watch a movie at home.", "If it rained tomorrow, we would have watched a movie at home.", "If it had rained, we would watch a movie at home.", "If it will rain tomorrow, we watch a movie at home."],
+      "answer": 0,
+      "explanation": "เป็นเรื่องที่เกิดได้จริงในอนาคต → Type 1: If + V1, **will + V1**"
+    },
+    {
+      "q": "สถานการณ์: เพื่อนปวดฟันมาหลายวัน คุณอยากแนะนำให้ไปหาหมอฟัน ควรพูดข้อใด",
+      "options": ["If I am you, I go to the dentist.", "If I were you, I would go to the dentist.", "If I had been you, I will go to the dentist.", "If I were you, I will go to the dentist."],
+      "answer": 1,
+      "explanation": "การให้คำแนะนำใช้สำนวน **If I were you, I would + V1**"
+    },
+    {
+      "q": "สถานการณ์: เมื่อวานคุณลืมเอาร่มไปและเปียกฝน ข้อใดบอกความเสียดายได้ถูกต้อง",
+      "options": ["If I take my umbrella, I won't get wet.", "If I took my umbrella, I wouldn't get wet.", "If I had taken my umbrella, I wouldn't have got wet.", "If I had taken my umbrella, I won't get wet."],
+      "answer": 2,
+      "explanation": "เสียดายเรื่องที่ผ่านไปแล้ว → Type 3: If + **had + V3**, **wouldn't have + V3**"
+    },
+    {
+      "q": "เรียงประโยคใหม่โดยให้ main clause ขึ้นก่อน: “If you need help, call me.” ข้อใดถูกต้อง",
+      "options": ["Call me if you need help.", "Call me you need help if.", "Call me if, you need help.", "If call me you need help."],
+      "answer": 0,
+      "explanation": "เมื่อ main clause ขึ้นก่อน **ไม่ต้องใส่ comma** → Call me if you need help."
+    },
+    {
+      "q": "ประโยคใดผิดหลักไวยากรณ์",
+      "options": ["If you heat butter, it melts.", "If it will be sunny, we will go swimming.", "If I were rich, I would help poor people.", "If she had called, I would have answered."],
+      "answer": 1,
+      "explanation": "ห้ามใช้ will ใน If-clause ที่ถูกคือ **If it is sunny**, we will go swimming."
+    }
+  ]
+}

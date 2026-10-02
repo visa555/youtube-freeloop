@@ -1,0 +1,369 @@
+{
+  "lesson": {
+    "summary": "ใช้กับสิ่งที่ **เริ่มในอดีตและทำต่อเนื่องมาจนถึงตอนนี้** (อาจยังทำอยู่) เน้นว่า **ทำมานานแค่ไหน** หรือใช้อธิบายผลที่เห็นจากการทำต่อเนื่อง",
+    "sections": [
+      {
+        "icon": "🎯",
+        "title": "ใช้เมื่อไหร่",
+        "list": [
+          "ทำต่อเนื่องมาจนถึงตอนนี้ (ยังทำอยู่) — I **have been waiting** for you **for** an hour.",
+          "เพิ่งหยุดทำ แต่ยังเห็นผลอยู่ — Your eyes are red. **Have** you **been crying**?",
+          "ช่วงนี้ทำอย่างต่อเนื่อง — She **has been working** hard lately."
+        ]
+      },
+      {
+        "icon": "🧱",
+        "title": "โครงสร้าง",
+        "formulas": [
+          { "label": "บอกเล่า", "formula": "I / You / We / They + **have been** + V-ing", "example": "They **have been playing** for two hours." },
+          { "label": "บอกเล่า", "formula": "He / She / It + **has been** + V-ing", "example": "It **has been raining** since morning." },
+          { "label": "ปฏิเสธ", "formula": "ประธาน + **haven't / hasn't been** + V-ing", "example": "I **haven't been sleeping** well." },
+          { "label": "คำถาม", "formula": "**Have / Has** + ประธาน + **been** + V-ing ?", "example": "**Has** he **been studying** all day? — Yes, he has." },
+          { "label": "คำถาม Wh-", "formula": "How long + have / has + ประธาน + been + V-ing ?", "example": "**How long have** you **been learning** English?" }
+        ]
+      },
+      {
+        "icon": "⏰",
+        "title": "คำสังเกต",
+        "chips": ["for …", "since …", "all day", "all morning", "lately", "recently", "How long …?"]
+      },
+      {
+        "icon": "🆚",
+        "title": "Present Perfect กับ Present Perfect Continuous",
+        "table": {
+          "head": ["Present Perfect (have + V3)", "Present Perfect Continuous (have been + V-ing)"],
+          "rows": [
+            ["เน้น **ผลลัพธ์ / จำนวน** ที่ทำเสร็จ", "เน้น **ระยะเวลา / ความต่อเนื่อง** ของการกระทำ"],
+            ["I **have read** three books this week.", "I **have been reading** all afternoon."],
+            ["She **has painted** the room. (ทาเสร็จแล้ว)", "She **has been painting** the room. (ทามาเรื่อย ๆ อาจยังไม่เสร็จ)"]
+          ]
+        },
+        "list": [
+          "กริยาบอกสภาวะ (know, like, have = มี, believe) ไม่ใช้รูปนี้ — ✘ I have been knowing him → ✔ I **have known** him for years."
+        ]
+      },
+      {
+        "icon": "📝",
+        "title": "ตัวอย่าง",
+        "examples": [
+          { "en": "We **have been living** in Khon Kaen **since** 2018.", "th": "พวกเราอาศัยอยู่ขอนแก่นตั้งแต่ปี 2018 (ปัจจุบันยังอยู่)" },
+          { "en": "He's tired because he **has been running**.", "th": "เขาเหนื่อยเพราะเพิ่งวิ่งมา" },
+          { "en": "**How long have** you **been waiting**? — **For** twenty minutes.", "th": "เธอรอมานานเท่าไรแล้ว — ยี่สิบนาที" }
+        ]
+      },
+      {
+        "icon": "⚠️",
+        "title": "ระวัง! จุดที่มักผิด",
+        "mistakes": [
+          { "wrong": "She has **being** working.", "right": "She has **been** working.", "why": "ต้องใช้ been (V3 ของ be) ไม่ใช่ being" },
+          { "wrong": "I have been **wait** for you.", "right": "I have been **waiting** for you.", "why": "หลัง been ต้องเป็น V-ing" },
+          { "wrong": "He **have** been studying.", "right": "He **has** been studying.", "why": "he / she / it ใช้ has" },
+          { "wrong": "I **am waiting** here **for** two hours.", "right": "I **have been waiting** here for two hours.", "why": "ทำต่อเนื่องมาถึงตอนนี้พร้อมบอกระยะเวลา ต้องใช้ have been + V-ing" }
+        ]
+      }
+    ],
+    "tip": "สูตร **have / has + been + V-ing** = “ทำมา…แล้ว (และอาจยังทำอยู่)” — เจอคำถาม **How long …?** มักใช้รูปนี้"
+  },
+  "questions": [
+    {
+      "q": "เติมคำในช่องว่าง: She ___ been playing the piano since 3 p.m.",
+      "options": ["have", "has", "is", "was"],
+      "answer": 1,
+      "explanation": "ประธาน she ใช้ **has** been + V-ing"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: We ___ been waiting for the bus for 30 minutes.",
+      "options": ["has", "have", "are", "is"],
+      "answer": 1,
+      "explanation": "ประธาน we ใช้ **have** been + V-ing"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The workers ___ been fixing the road all week.",
+      "options": ["has", "have", "is", "was"],
+      "answer": 1,
+      "explanation": "The workers เป็นพหูพจน์ ใช้ **have** been"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: It has ___ raining since this morning.",
+      "options": ["be", "been", "being", "was"],
+      "answer": 1,
+      "explanation": "โครงสร้าง has + **been** + V-ing"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: I have been ___ for my keys for ten minutes.",
+      "options": ["look", "looked", "looking", "looks"],
+      "answer": 2,
+      "explanation": "หลัง have been ต้องเป็น **V-ing** → looking"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: How long has he ___ English?",
+      "options": ["learning", "been learning", "be learning", "been learn"],
+      "answer": 1,
+      "explanation": "How long + has + ประธาน + **been + V-ing**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Tom is tired because he ___ football all afternoon.",
+      "options": ["plays", "has been playing", "have been playing", "is play"],
+      "answer": 1,
+      "explanation": "เหนื่อยเพราะเล่นต่อเนื่องมาทั้งบ่าย และ Tom = he → **has been playing**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: They ___ (talk) on the phone for over an hour.",
+      "options": ["are talk", "have been talking", "has been talking", "talking"],
+      "answer": 1,
+      "explanation": "ทำต่อเนื่องมานาน (for over an hour) และ they ใช้ have → **have been talking**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: My little brother ___ (cry) since he woke up.",
+      "options": ["cries", "is crying", "has been crying", "have been crying"],
+      "answer": 2,
+      "explanation": "since = ตั้งแต่อดีตจนถึงตอนนี้ และ my little brother = he → **has been crying**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: You look hot. ___ you ___ (run)?",
+      "options": ["Have / been running", "Has / been running", "Are / been running", "Have / been run"],
+      "answer": 0,
+      "explanation": "ถามสาเหตุจากผลที่เห็น ใช้ **Have** + you + **been running**?"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: We ___ (study) for the exam since Monday.",
+      "options": ["study", "are studying", "have been studying", "has been studying"],
+      "answer": 2,
+      "explanation": "since Monday และ we ใช้ have → **have been studying**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The baby ___ (sleep) for three hours.",
+      "options": ["is sleeping", "has been sleeping", "have been sleeping", "sleeps"],
+      "answer": 1,
+      "explanation": "for three hours = ต่อเนื่องมาถึงตอนนี้ และ the baby = it → **has been sleeping**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Dad ___ (work) in the garden all morning.",
+      "options": ["works", "have been working", "has been working", "is work"],
+      "answer": 2,
+      "explanation": "all morning = ตลอดทั้งเช้า และ Dad = he → **has been working**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: I ___ (feel) sick lately.",
+      "options": ["have been feeling", "has been feeling", "am feel", "feels"],
+      "answer": 0,
+      "explanation": "lately = ช่วงนี้ และประธาน I → **have been feeling**"
+    },
+    {
+      "q": "ข้อใดถูกต้อง",
+      "options": ["She has been read for two hours.", "She has been reading for two hours.", "She have been reading for two hours.", "She has being reading for two hours."],
+      "answer": 1,
+      "explanation": "she + **has been + V-ing** → She has been reading"
+    },
+    {
+      "q": "ข้อใดผิดหลักไวยากรณ์",
+      "options": ["I have been waiting since noon.", "They have been dancing all night.", "He has been watch TV all day.", "It has been snowing for a week."],
+      "answer": 2,
+      "explanation": "หลัง been ต้องเป็น V-ing → He has been **watching** TV all day."
+    },
+    {
+      "q": "คำใดเติมแล้วถูกต้อง: She has been swimming ___ an hour.",
+      "options": ["since", "for", "ago", "yet"],
+      "answer": 1,
+      "explanation": "an hour เป็นระยะเวลา ใช้ **for**"
+    },
+    {
+      "q": "คำใดเติมแล้วถูกต้อง: I have been working here ___ January.",
+      "options": ["for", "since", "ago", "during"],
+      "answer": 1,
+      "explanation": "January เป็นจุดเริ่มต้น ใช้ **since**"
+    },
+    {
+      "q": "คำถามใดใช้ถามระยะเวลาที่ทำต่อเนื่องมา",
+      "options": ["When did you start?", "How long have you been learning Thai?", "What are you doing?", "Where have you been?"],
+      "answer": 1,
+      "explanation": "**How long have you been + V-ing?** = ทำ…มานานเท่าไรแล้ว"
+    },
+    {
+      "q": "“all morning” แปลว่าอะไร",
+      "options": ["ทุกเช้า", "ตลอดทั้งเช้า", "เมื่อเช้านี้", "เช้าพรุ่งนี้"],
+      "answer": 1,
+      "explanation": "all morning = **ตลอดทั้งเช้า** (ทุกเช้า = every morning)"
+    },
+    {
+      "q": "ประโยคปฏิเสธของ “He has been sleeping well.” คือข้อใด",
+      "options": ["He hasn't been sleeping well.", "He haven't been sleeping well.", "He hasn't sleeping well.", "He isn't been sleeping well."],
+      "answer": 0,
+      "explanation": "เติม not หลัง has → **hasn't been** + V-ing"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: They ___ been paying attention in class.",
+      "options": ["hasn't", "haven't", "aren't", "don't"],
+      "answer": 1,
+      "explanation": "they ใช้ have → ปฏิเสธคือ **haven't** been"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Mint hasn't ___ feeling well recently.",
+      "options": ["be", "been", "being", "was"],
+      "answer": 1,
+      "explanation": "hasn't + **been** + V-ing"
+    },
+    {
+      "q": "“has not been” เขียนแบบย่อได้ว่าอะไร",
+      "options": ["hasn't been", "haven't been", "hadn't been", "isn't been"],
+      "answer": 0,
+      "explanation": "has not → **hasn't** แล้วตามด้วย been"
+    },
+    {
+      "q": "เปลี่ยน “You have been waiting long.” เป็นประโยคคำถาม ข้อใดถูกต้อง",
+      "options": ["Have you been waiting long?", "Has you been waiting long?", "Are you been waiting long?", "Have you waiting long?"],
+      "answer": 0,
+      "explanation": "ย้าย have ขึ้นต้น → **Have you been waiting** long?"
+    },
+    {
+      "q": "A: Has it been raining all day?  B: Yes, it ___.",
+      "options": ["is", "does", "has", "have"],
+      "answer": 2,
+      "explanation": "คำถามขึ้นต้นด้วย Has คำตอบสั้นใช้ **has** → Yes, it has."
+    },
+    {
+      "q": "A: Have the kids been playing outside?  B: No, they ___.",
+      "options": ["haven't", "hasn't", "aren't", "didn't"],
+      "answer": 0,
+      "explanation": "คำถามขึ้นต้นด้วย Have และประธาน they → No, they **haven't**."
+    },
+    {
+      "q": "เรียงคำให้เป็นคำถามที่ถูกต้อง: (been / how long / they / have / living here)",
+      "options": ["How long they have been living here?", "How long have they been living here?", "How long have been they living here?", "Have how long they been living here?"],
+      "answer": 1,
+      "explanation": "How long + have + ประธาน + been + V-ing → **How long have they been living here?**"
+    },
+    {
+      "q": "A: ___ have you been doing?  B: I've been cleaning my room.",
+      "options": ["What", "Where", "Who", "How long"],
+      "answer": 0,
+      "explanation": "คำตอบบอกว่าทำอะไรมา จึงถามด้วย **What** have you been doing?"
+    },
+    {
+      "q": "A: How long have you been waiting?  B: ___",
+      "options": ["Since 2 p.m.", "Yes, I have.", "At the bus stop.", "Because I'm early."],
+      "answer": 0,
+      "explanation": "How long ถามระยะเวลา ตอบด้วย **Since 2 p.m.** (ตั้งแต่บ่ายสอง) หรือ For … ก็ได้"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: I ___ three emails this morning.",
+      "options": ["have been writing", "have written", "has written", "am writing"],
+      "answer": 1,
+      "explanation": "บอก **จำนวน** ที่ทำเสร็จ (three emails) ใช้ Present Perfect → **have written**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: I ___ emails all morning. I'm so tired of typing!",
+      "options": ["write", "have been writing", "has been writing", "am write"],
+      "answer": 1,
+      "explanation": "เน้นทำต่อเนื่องตลอดทั้งเช้า และประธาน I → **have been writing**"
+    },
+    {
+      "q": "ข้อใดเน้น “ระยะเวลา” ที่ทำต่อเนื่อง",
+      "options": ["She has painted two pictures.", "She has been painting since lunch.", "She painted a picture yesterday.", "She paints every weekend."],
+      "answer": 1,
+      "explanation": "**has been painting since lunch** = วาดมาต่อเนื่องตั้งแต่กลางวัน เน้นระยะเวลา"
+    },
+    {
+      "q": "ข้อใดเน้น “ผลลัพธ์ที่ทำเสร็จแล้ว”",
+      "options": ["I have been cleaning the kitchen.", "I have cleaned the kitchen. It looks great!", "I have been cleaning all day.", "I am cleaning the kitchen."],
+      "answer": 1,
+      "explanation": "**have cleaned** + It looks great! = ทำเสร็จแล้วและเห็นผลลัพธ์"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: How many pages ___ you ___?",
+      "options": ["have / read", "have / been reading", "has / read", "did / reading"],
+      "answer": 0,
+      "explanation": "How many ถาม **จำนวน** ใช้ Present Perfect → How many pages **have** you **read**?"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: She ___ to the gym twice this week.",
+      "options": ["has been", "has been going", "have been", "is going"],
+      "answer": 0,
+      "explanation": "บอก **จำนวนครั้ง** (twice) ใช้ Present Perfect → She **has been** to the gym twice."
+    },
+    {
+      "q": "ข้อใดถูกต้อง",
+      "options": ["I have been knowing Ben for years.", "I have known Ben for years.", "I am knowing Ben for years.", "I have been know Ben for years."],
+      "answer": 1,
+      "explanation": "know เป็นกริยาบอกสภาวะ ไม่ใช้รูป -ing จึงใช้ Present Perfect → I **have known** Ben for years."
+    },
+    {
+      "q": "ข้อใดถูกต้อง",
+      "options": ["She has had this bike since 2020.", "She has been having this bike since 2020.", "She is having this bike since 2020.", "She has been have this bike since 2020."],
+      "answer": 0,
+      "explanation": "have ที่แปลว่า “มี” เป็นกริยาบอกสภาวะ ไม่ใช้ -ing → She **has had** this bike since 2020."
+    },
+    {
+      "q": "เติมคำในช่องว่าง: We ___ each other since primary school.",
+      "options": ["have been knowing", "have known", "are knowing", "know"],
+      "answer": 1,
+      "explanation": "know ไม่ใช้รูป -ing และมี since จึงใช้ **have known**"
+    },
+    {
+      "q": "สถานการณ์: พื้นเปียกและท้องฟ้ายังมืดครึ้ม ข้อใดอธิบายได้เหมาะสมที่สุด",
+      "options": ["It rains.", "It has been raining.", "It will rain.", "It is rain."],
+      "answer": 1,
+      "explanation": "เห็นผล (พื้นเปียก) จากสิ่งที่ทำต่อเนื่องมา → It **has been raining**."
+    },
+    {
+      "q": "สถานการณ์: เพื่อนเหงื่อท่วมตัวและหายใจหอบ คุณควรถามว่าอะไร",
+      "options": ["Do you run?", "Have you been running?", "Will you run?", "Did you running?"],
+      "answer": 1,
+      "explanation": "ถามสาเหตุจากผลที่เห็นตอนนี้ → **Have you been running?**"
+    },
+    {
+      "q": "“Your hands are dirty. What have you been doing?” ผู้พูดอยากรู้อะไร",
+      "options": ["อีกฝ่ายจะทำอะไรต่อ", "อีกฝ่ายทำอะไรมาจนมือสกปรก", "อีกฝ่ายทำอะไรทุกวัน", "อีกฝ่ายชอบทำอะไร"],
+      "answer": 1,
+      "explanation": "What have you been doing? = **ทำอะไรมา** (จนเห็นผลคือมือสกปรก)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Sorry I'm late. ___ you been waiting long?",
+      "options": ["Has", "Have", "Are", "Did"],
+      "answer": 1,
+      "explanation": "ประธาน you ใช้ **Have** + you + been + V-ing"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The phone ___ ringing for five minutes. Why doesn't anyone answer it?",
+      "options": ["has been", "have been", "is been", "was"],
+      "answer": 0,
+      "explanation": "The phone = it และดังต่อเนื่องมาถึงตอนนี้ → **has been** ringing"
+    },
+    {
+      "q": "เรียงคำให้เป็นประโยคที่ถูกต้อง: (been / she / has / for an hour / singing)",
+      "options": ["She has been singing for an hour.", "She been has singing for an hour.", "She has singing been for an hour.", "Has she been singing for an hour."],
+      "answer": 0,
+      "explanation": "ประธาน + has + been + V-ing → **She has been singing** for an hour."
+    },
+    {
+      "q": "แปล: “ฉันเรียนว่ายน้ำมาสามเดือนแล้ว (และยังเรียนอยู่)”",
+      "options": ["I learned to swim three months ago.", "I have been learning to swim for three months.", "I am learning to swim since three months.", "I will learn to swim for three months."],
+      "answer": 1,
+      "explanation": "ทำต่อเนื่องมาถึงตอนนี้ + ระยะเวลา → **have been learning** … **for** three months"
+    },
+    {
+      "q": "“They have been living in Japan since 2022.” ข้อใดถูกต้อง",
+      "options": ["พวกเขาย้ายออกจากญี่ปุ่นแล้ว", "พวกเขาเริ่มอยู่ญี่ปุ่นปี 2022 และยังอยู่ถึงตอนนี้", "พวกเขาจะย้ายไปญี่ปุ่นปี 2022", "พวกเขาไปเที่ยวญี่ปุ่นปี 2022"],
+      "answer": 1,
+      "explanation": "have been living … since 2022 = เริ่มอยู่ตั้งแต่ปี 2022 **และยังอยู่ถึงตอนนี้**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: My eyes hurt. I ___ at the computer screen all day.",
+      "options": ["look", "have been looking", "has been looking", "am look"],
+      "answer": 1,
+      "explanation": "ปวดตาเพราะจ้องจอมาทั้งวัน ประธาน I → **have been looking**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Lately, Mom and Dad ___ a lot about moving to a new house.",
+      "options": ["has been talking", "have been talking", "talks", "is talking"],
+      "answer": 1,
+      "explanation": "Lately = ช่วงนี้ และ Mom and Dad เป็นพหูพจน์ → **have been talking**"
+    },
+    {
+      "q": "อ่านข้อความ: “Pond has been training for the school marathon since June. He has been running 5 km every morning, and he hasn't been eating junk food.” ข้อใด ไม่ถูกต้อง",
+      "options": ["Pond started training in June.", "Pond runs in the morning.", "Pond has been eating a lot of junk food.", "Pond is preparing for a marathon."],
+      "answer": 2,
+      "explanation": "ข้อความบอกว่า he **hasn't been eating** junk food = ช่วงนี้เขาไม่ได้กินอาหารขยะเลย"
+    }
+  ]
+}

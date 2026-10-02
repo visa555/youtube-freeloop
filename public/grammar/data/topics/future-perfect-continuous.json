@@ -1,0 +1,369 @@
+{
+  "lesson": {
+    "summary": "ใช้บอกว่า **ถึงเวลาหนึ่งในอนาคต จะทำสิ่งนั้นต่อเนื่องมานานเท่าไรแล้ว** เช่น “ถึงเดือนหน้า ฉันจะเรียนภาษาอังกฤษมาครบ 2 ปีแล้ว”",
+    "sections": [
+      {
+        "icon": "🎯",
+        "title": "ใช้เมื่อไหร่",
+        "list": [
+          "เน้น **ระยะเวลา** ที่ทำต่อเนื่องมาจนถึงจุดหนึ่งในอนาคต — **By** 5 p.m., I **will have been working** for eight hours.",
+          "มักมี **for + ระยะเวลา** คู่กับ **by / by the time + จุดเวลา** — By next June, we **will have been living** here **for** ten years."
+        ]
+      },
+      {
+        "icon": "🧱",
+        "title": "โครงสร้าง",
+        "formulas": [
+          { "label": "บอกเล่า", "formula": "ประธาน + **will have been** + V-ing", "example": "She **will have been teaching** for 20 years." },
+          { "label": "ปฏิเสธ", "formula": "ประธาน + **won't have been** + V-ing", "example": "They **won't have been waiting** long." },
+          { "label": "คำถาม", "formula": "**Will** + ประธาน + **have been** + V-ing ?", "example": "**Will** you **have been studying** for 3 hours by 9?" },
+          { "label": "คำถาม Wh-", "formula": "How long + will + ประธาน + have been + V-ing ?", "example": "**How long will** you **have been learning** Thai by next year?" }
+        ]
+      },
+      {
+        "icon": "⏰",
+        "title": "คำสังเกต",
+        "text": "สูตรจำ: **by (จุดเวลา) + for (ระยะเวลา)**",
+        "chips": ["for + ระยะเวลา", "by + เวลา", "by the time …", "by next …", "How long …?"]
+      },
+      {
+        "icon": "🆚",
+        "title": "Future Perfect กับ Future Perfect Continuous",
+        "table": {
+          "head": ["Future Perfect", "Future Perfect Continuous"],
+          "rows": [
+            ["will have + V3", "will have been + V-ing"],
+            ["เน้นว่า **ทำเสร็จ** / ได้จำนวนเท่าไร", "เน้นว่า **ทำต่อเนื่องมานานแค่ไหน**"],
+            ["By noon, I **will have written** 3 letters.", "By noon, I **will have been writing** for 3 hours."]
+          ]
+        },
+        "list": [
+          "กริยาบอกสภาวะ (know, own, have = มี) ไม่ใช้รูปนี้ — By 2030, I **will have known** her for ten years."
+        ]
+      },
+      {
+        "icon": "📝",
+        "title": "ตัวอย่าง",
+        "examples": [
+          { "en": "By the end of this year, I **will have been learning** the piano **for** four years.", "th": "ถึงสิ้นปีนี้ ฉันจะเรียนเปียโนมาครบสี่ปีแล้ว" },
+          { "en": "When Dad gets home, the kids **will have been playing** games for three hours.", "th": "ตอนพ่อกลับถึงบ้าน เด็ก ๆ จะเล่นเกมมาสามชั่วโมงแล้ว" },
+          { "en": "**How long will** you **have been driving** by the time we reach Nan?", "th": "กว่าเราจะถึงน่าน เธอจะขับรถมานานเท่าไรแล้ว" }
+        ]
+      },
+      {
+        "icon": "⚠️",
+        "title": "ระวัง! จุดที่มักผิด",
+        "mistakes": [
+          { "wrong": "By 6, she will have been **cook** for two hours.", "right": "By 6, she will have been **cooking** for two hours.", "why": "หลัง been ต้องเป็น V-ing" },
+          { "wrong": "He will **has** been working here for a year.", "right": "He will **have** been working here for a year.", "why": "หลัง will ใช้ have เสมอ" },
+          { "wrong": "I will have **being** studying for a month.", "right": "I will have **been** studying for a month.", "why": "ต้องใช้ been ไม่ใช่ being" },
+          { "wrong": "By 2030, I will have been **knowing** her for ten years.", "right": "By 2030, I **will have known** her for ten years.", "why": "know เป็นกริยาบอกสภาวะ ไม่ใช้รูป -ing" }
+        ]
+      }
+    ],
+    "tip": "**will have been + V-ing** = “ถึงตอนนั้น จะ…มาแล้ว (นาน X)” — เจอ **by** กับ **for** คู่กัน ให้นึกถึงรูปนี้"
+  },
+  "questions": [
+    {
+      "q": "เติมคำในช่องว่าง: By 5 p.m., I will have ___ working for eight hours.",
+      "options": ["be", "been", "being", "was"],
+      "answer": 1,
+      "explanation": "will have + **been** + V-ing"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: By next month, she ___ been studying English for two years.",
+      "options": ["will has", "will have", "has", "will"],
+      "answer": 1,
+      "explanation": "หลัง will ใช้ have เสมอ → **will have** been studying"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: By noon, they will have been ___ for three hours.",
+      "options": ["wait", "waited", "waiting", "waits"],
+      "answer": 2,
+      "explanation": "will have been + **V-ing** → waiting"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: By 2030, my dad ___ (work) at this company for 25 years.",
+      "options": ["will have been working", "will be working", "has been working", "will have working"],
+      "answer": 0,
+      "explanation": "by 2030 + for 25 years (ทำต่อเนื่องถึงจุดเวลาในอนาคต) → **will have been working**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: By the time the bus arrives, we ___ (stand) here for 40 minutes.",
+      "options": ["will have been standing", "are standing", "stood", "will have stand"],
+      "answer": 0,
+      "explanation": "กว่ารถบัสจะมา จะยืนรอมาแล้ว 40 นาที → **will have been standing**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: By next June, Grandma ___ (live) in this village for 60 years.",
+      "options": ["will have been living", "lives", "will be live", "has been live"],
+      "answer": 0,
+      "explanation": "by next June + for 60 years → **will have been living**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: By 9 p.m., the students ___ (practice) for the show for five hours.",
+      "options": ["will have been practicing", "will practice", "practiced", "will have practice"],
+      "answer": 0,
+      "explanation": "by 9 p.m. + for five hours → **will have been practicing**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: By the end of this year, I ___ (learn) the piano for four years.",
+      "options": ["will have been learning", "learn", "learned", "will learning"],
+      "answer": 0,
+      "explanation": "by the end of this year + for four years → **will have been learning**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: By midnight, it ___ (rain) for 24 hours.",
+      "options": ["will have been raining", "rains", "will raining", "has rain"],
+      "answer": 0,
+      "explanation": "ถึงเที่ยงคืนฝนจะตกต่อเนื่องมาครบ 24 ชั่วโมง → **will have been raining**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: By 3 p.m., the team ___ (play) for two hours.",
+      "options": ["will have been playing", "will have played been", "plays", "is playing"],
+      "answer": 0,
+      "explanation": "by 3 p.m. + for two hours → **will have been playing**"
+    },
+    {
+      "q": "ข้อใดถูกต้อง",
+      "options": ["By 8, he will have been sleep for ten hours.", "By 8, he will have been sleeping for ten hours.", "By 8, he will has been sleeping for ten hours.", "By 8, he will have being sleeping for ten hours."],
+      "answer": 1,
+      "explanation": "will have been + V-ing → **will have been sleeping**"
+    },
+    {
+      "q": "ข้อใดผิดหลักไวยากรณ์",
+      "options": ["By May, we will have been living here for a year.", "By 6, she will have been cooking for two hours.", "By Friday, they will have been work on it for a week.", "By noon, I will have been driving for five hours."],
+      "answer": 2,
+      "explanation": "หลัง been ต้องเป็น V-ing → will have been **working** on it"
+    },
+    {
+      "q": "ประโยคใดเป็น Future Perfect Continuous",
+      "options": ["I will have finished by 5.", "I will have been running for an hour by 5.", "I will be running at 5.", "I have been running for an hour."],
+      "answer": 1,
+      "explanation": "**will have been running** = will have been + V-ing"
+    },
+    {
+      "q": "ประโยคใดเป็น Future Perfect",
+      "options": ["She will have read three books by Friday.", "She will have been reading all week by Friday.", "She will be reading on Friday.", "She reads every Friday."],
+      "answer": 0,
+      "explanation": "**will have read** = will have + V3"
+    },
+    {
+      "q": "ข้อใดเน้น “ระยะเวลาที่ทำต่อเนื่อง” ในอนาคต",
+      "options": ["By 4 p.m., we will have been hiking for six hours.", "By 4 p.m., we will have reached the top.", "At 4 p.m., we will reach the top.", "We hiked for six hours."],
+      "answer": 0,
+      "explanation": "**will have been hiking for six hours** เน้นว่าเดินป่าต่อเนื่องมานาน"
+    },
+    {
+      "q": "ข้อใดเน้น “ผลที่ทำเสร็จแล้ว” ในอนาคต",
+      "options": ["By Sunday, I will have painted the whole fence.", "By Sunday, I will have been painting for three days.", "On Sunday, I will be painting.", "I was painting on Sunday."],
+      "answer": 0,
+      "explanation": "**will have painted the whole fence** = ทาสีรั้วเสร็จทั้งหมดแล้ว (Future Perfect)"
+    },
+    {
+      "q": "ประโยคปฏิเสธของ “She will have been waiting long.” คือข้อใด",
+      "options": ["She won't have been waiting long.", "She will haven't been waiting long.", "She won't has been waiting long.", "She don't will have been waiting long."],
+      "answer": 0,
+      "explanation": "will not → **won't** + have been + V-ing"
+    },
+    {
+      "q": "ข้อใดเป็นรูปย่อของ “They will not have been working.”",
+      "options": ["They won't have been working.", "They willn't have been working.", "They won't been working.", "They'll not been working."],
+      "answer": 0,
+      "explanation": "will not → **won't** และต้องมี have been ครบ"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Don't worry. By the time you arrive, I ___ have been waiting long.",
+      "options": ["won't", "don't", "haven't", "am not"],
+      "answer": 0,
+      "explanation": "ปฏิเสธในอนาคต → **won't** have been waiting"
+    },
+    {
+      "q": "เปลี่ยน “You will have been studying for 3 hours by 9.” เป็นประโยคคำถาม ข้อใดถูกต้อง",
+      "options": ["Will you have been studying for 3 hours by 9?", "Will have you been studying for 3 hours by 9?", "Have you will been studying for 3 hours by 9?", "Will you have studying for 3 hours by 9?"],
+      "answer": 0,
+      "explanation": "Will + ประธาน + have been + V-ing → **Will you have been studying**…?"
+    },
+    {
+      "q": "A: Will he have been working there for ten years by next June?  B: Yes, he ___.",
+      "options": ["has", "will", "does", "is"],
+      "answer": 1,
+      "explanation": "คำถามขึ้นต้นด้วย Will ตอบสั้นด้วย **will** → Yes, he will."
+    },
+    {
+      "q": "เรียงคำให้เป็นคำถามที่ถูกต้อง: (how long / will / have been / you / learning Thai / by next year)",
+      "options": ["How long will you have been learning Thai by next year?", "How long you will have been learning Thai by next year?", "How long will have been you learning Thai by next year?", "Will how long you have been learning Thai by next year?"],
+      "answer": 0,
+      "explanation": "How long + will + ประธาน + have been + V-ing → **How long will you have been learning** Thai…?"
+    },
+    {
+      "q": "A: How long will you have been driving by the time we reach Nan?  B: ___",
+      "options": ["For about ten hours.", "At 10 p.m.", "Yes, I will.", "In Nan."],
+      "answer": 0,
+      "explanation": "How long ถามระยะเวลา → **For about ten hours.**"
+    },
+    {
+      "q": "เรียงคำให้เป็นประโยคที่ถูกต้อง: (will / been / they / have / dancing / for two hours / by 10)",
+      "options": ["They will have been dancing for two hours by 10.", "They will been have dancing for two hours by 10.", "They have will been dancing for two hours by 10.", "They will have dancing been for two hours by 10."],
+      "answer": 0,
+      "explanation": "ประธาน + will + have + been + V-ing → **They will have been dancing**…"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: By next week, I will have been training ___ three months.",
+      "options": ["for", "since", "by", "ago"],
+      "answer": 0,
+      "explanation": "three months เป็นระยะเวลา ใช้ **for**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: ___ the end of the day, she will have been typing for eight hours.",
+      "options": ["By", "For", "Since", "Ago"],
+      "answer": 0,
+      "explanation": "**By** the end of the day = ภายใน / ถึงตอนสิ้นวัน"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: By the time the movie ___, we will have been sitting here for three hours.",
+      "options": ["ends", "will end", "ended", "will have ended"],
+      "answer": 0,
+      "explanation": "หลัง by the time ใช้ **Present Simple** → ends"
+    },
+    {
+      "q": "“ภายในปีหน้า” ตรงกับข้อใด",
+      "options": ["by next year", "since last year", "for a year", "next year ago"],
+      "answer": 0,
+      "explanation": "ภายใน = **by** → by next year"
+    },
+    {
+      "q": "“ภายในห้าโมงเย็น” ตรงกับข้อใด",
+      "options": ["by 5 p.m.", "at 5 p.m. ago", "for 5 p.m.", "since 5 p.m."],
+      "answer": 0,
+      "explanation": "ภายใน = **by** → by 5 p.m."
+    },
+    {
+      "q": "แปล: “ภายในเที่ยงคืน พวกเราจะเดินทางมาครบ 12 ชั่วโมงแล้ว”",
+      "options": ["By midnight, we will have been traveling for 12 hours.", "By midnight, we travel for 12 hours.", "At midnight, we were traveling for 12 hours.", "By midnight, we have been traveling for 12 hours."],
+      "answer": 0,
+      "explanation": "by + จุดเวลาในอนาคต + for + ระยะเวลา → **will have been traveling**"
+    },
+    {
+      "q": "แปล: “ภายในเดือนหน้า เธอจะสอนที่โรงเรียนนี้มาครบ 10 ปีแล้ว”",
+      "options": ["By next month, she will have been teaching at this school for 10 years.", "Next month, she teaches at this school for 10 years.", "By next month, she has taught at this school for 10 years.", "By next month, she will teaching at this school for 10 years."],
+      "answer": 0,
+      "explanation": "ถึงจุดเวลาในอนาคตจะทำต่อเนื่องมาครบ 10 ปี → **will have been teaching**"
+    },
+    {
+      "q": "แปล: “By 7 p.m., the baby will have been sleeping for three hours.”",
+      "options": ["ภายในหนึ่งทุ่ม ลูกจะนอนหลับมาครบสามชั่วโมงแล้ว", "ลูกนอนหลับตอนหนึ่งทุ่มเป็นเวลาสามชั่วโมง", "ลูกจะตื่นตอนหนึ่งทุ่ม", "ลูกนอนหลับทุกวันตอนหนึ่งทุ่ม"],
+      "answer": 0,
+      "explanation": "will have been + V-ing = **ถึงตอนนั้นจะ…มาแล้ว (นานเท่าไร)**"
+    },
+    {
+      "q": "ข้อใดถูกต้อง",
+      "options": ["By 2030, I will have been knowing her for ten years.", "By 2030, I will have known her for ten years.", "By 2030, I will know have her for ten years.", "By 2030, I have been knowing her for ten years."],
+      "answer": 1,
+      "explanation": "know เป็นกริยาบอกสภาวะ ไม่ใช้รูป -ing จึงใช้ Future Perfect → **will have known**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: By next year, they ___ that house for 20 years.",
+      "options": ["will have been owning", "will have owned", "will owning", "have been own"],
+      "answer": 1,
+      "explanation": "own (เป็นเจ้าของ) ไม่ใช้รูป -ing → **will have owned**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: By noon, I ___ five emails. (เน้นจำนวน)",
+      "options": ["will have been writing", "will have written", "will write been", "wrote"],
+      "answer": 1,
+      "explanation": "เน้นจำนวนที่ทำเสร็จ (five emails) ใช้ Future Perfect → **will have written**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: By noon, I ___ emails for three hours. (เน้นระยะเวลา)",
+      "options": ["will have been writing", "will be write", "will write been", "writing"],
+      "answer": 0,
+      "explanation": "เน้นระยะเวลาที่ทำต่อเนื่อง (for three hours) → **will have been writing**"
+    },
+    {
+      "q": "ข้อใดใช้ tense เหมาะสมที่สุด: “ถึงวันศุกร์ ฉันจะอ่านหนังสือเล่มนี้จบแล้ว”",
+      "options": ["By Friday, I will have finished this book.", "By Friday, I will have been finishing this book.", "By Friday, I am finishing this book.", "By Friday, I finished this book."],
+      "answer": 0,
+      "explanation": "เน้นว่าทำเสร็จ (จบแล้ว) ใช้ Future Perfect → **will have finished**"
+    },
+    {
+      "q": "ข้อใดใช้ tense เหมาะสมที่สุด: “ถึงวันศุกร์ ฉันจะอ่านหนังสือเล่มนี้มาครบหนึ่งสัปดาห์แล้ว”",
+      "options": ["By Friday, I will have been reading this book for a week.", "By Friday, I read this book for a week.", "By Friday, I will reading this book for a week.", "By Friday, I have read this book for a week."],
+      "answer": 0,
+      "explanation": "เน้นระยะเวลาที่ทำต่อเนื่อง (ครบหนึ่งสัปดาห์) → **will have been reading** … for a week"
+    },
+    {
+      "q": "หาส่วนที่ผิด: “By 6, she will have been cook for two hours.” ต้องแก้อย่างไร",
+      "options": ["By → At", "will → would", "cook → cooking", "for → since"],
+      "answer": 2,
+      "explanation": "หลัง been ต้องเป็น V-ing → **cooking**"
+    },
+    {
+      "q": "หาส่วนที่ผิด: “He will has been working here for a year by May.” ต้องแก้อย่างไร",
+      "options": ["will → is", "has → have", "working → work", "by → for"],
+      "answer": 1,
+      "explanation": "หลัง will ใช้ **have** เสมอ"
+    },
+    {
+      "q": "หาส่วนที่ผิด: “By next week, I will have being studying for a month.” ต้องแก้อย่างไร",
+      "options": ["By → In", "being → been", "studying → study", "for → since"],
+      "answer": 1,
+      "explanation": "will have + **been** + V-ing ไม่ใช่ being"
+    },
+    {
+      "q": "หาส่วนที่ผิด: “By the time you will arrive, we will have been waiting for an hour.” ต้องแก้อย่างไร",
+      "options": ["By the time → Since", "will arrive → arrive", "will have been → will had been", "for → since"],
+      "answer": 1,
+      "explanation": "หลัง by the time ใช้ Present Simple → you **arrive**"
+    },
+    {
+      "q": "สถานการณ์: Tom เริ่มเล่นเกมตอนบ่ายสอง ถึงห้าโมงเย็นเขาจะเล่นมา 3 ชั่วโมง ข้อใดถูกต้อง",
+      "options": ["By 5 p.m., Tom will have been playing games for three hours.", "At 5 p.m., Tom played games for three hours.", "By 5 p.m., Tom has been playing games for three hours.", "By 5 p.m., Tom will play games for three hours."],
+      "answer": 0,
+      "explanation": "by 5 p.m. (อนาคต) + for three hours → **will have been playing**"
+    },
+    {
+      "q": "สถานการณ์: ร้านนี้เปิดมาตั้งแต่ปี 2010 ถึงปี 2030 จะเปิดมาครบ 20 ปี ข้อใดถูกต้อง",
+      "options": ["By 2030, the shop will have been running for 20 years.", "In 2030, the shop runs for 20 years.", "By 2030, the shop has been running for 20 years.", "By 2030, the shop will running for 20 years."],
+      "answer": 0,
+      "explanation": "ถึงปี 2030 จะดำเนินกิจการต่อเนื่องครบ 20 ปี → **will have been running**"
+    },
+    {
+      "q": "สถานการณ์: คุณเริ่มรอเพื่อนตอน 6 โมง และเพื่อนจะมาตอน 7 โมง ข้อใดถูกต้อง",
+      "options": ["When my friend arrives, I will have been waiting for an hour.", "When my friend will arrive, I wait for an hour.", "When my friend arrives, I am waiting for an hour.", "When my friend arrived, I will have waited for an hour."],
+      "answer": 0,
+      "explanation": "when + Present Simple (arrives) และจะรอต่อเนื่องมาหนึ่งชั่วโมง → **will have been waiting**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: By the time she retires, she ___ nurses for 35 years.",
+      "options": ["will have been training", "trains", "trained", "will train been"],
+      "answer": 0,
+      "explanation": "by the time + Present Simple (retires) และ for 35 years → **will have been training**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: How long ___ you have been living in Bangkok by next year?",
+      "options": ["will", "do", "have", "are"],
+      "answer": 0,
+      "explanation": "How long + **will** + ประธาน + have been + V-ing"
+    },
+    {
+      "q": "อ่านข้อความ: “Coach Dan started teaching swimming in 2010. By 2030, he will have been teaching for 20 years. By then, he will have trained more than 1,000 students.” ข้อใดถูกต้อง",
+      "options": ["Coach Dan started teaching in 2030.", "By 2030, he will have been teaching for 20 years.", "He has trained only 20 students.", "He will start teaching in 2010."],
+      "answer": 1,
+      "explanation": "ข้อความบอกว่า By 2030, he **will have been teaching for 20 years**."
+    },
+    {
+      "q": "อ่านข้อความ: “The marathon started at 6 a.m. By 10 a.m., the runners will have been running for four hours. Most of them will have finished by noon.” ภายใน 10 โมงเช้า นักวิ่งจะวิ่งมานานเท่าไร",
+      "options": ["2 hours", "4 hours", "6 hours", "10 hours"],
+      "answer": 1,
+      "keepOrder": true,
+      "explanation": "By 10 a.m., the runners will have been running for **four hours** (เริ่ม 6 โมงถึง 10 โมง)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: By the end of the trip, we ___ for two weeks.",
+      "options": ["will have been traveling", "will travel", "traveled", "will have travel"],
+      "answer": 0,
+      "explanation": "ถึงตอนจบทริปจะเดินทางต่อเนื่องมาครบสองสัปดาห์ → **will have been traveling**"
+    }
+  ]
+}

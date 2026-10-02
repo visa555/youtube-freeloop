@@ -1,0 +1,109 @@
+{
+  "lesson": {
+    "summary": "ใช้ **modal + have + V3** พูดถึงเรื่องที่ **ผ่านไปแล้ว** เช่น ความเสียดาย (“ควรจะ…”), การเดาว่าเกิดอะไรขึ้น (“คงจะ…แน่ ๆ”, “อาจจะ…”) หรือสิ่งที่ “น่าจะทำได้แต่ไม่ได้ทำ”",
+    "sections": [
+      {
+        "icon": "🧱",
+        "title": "โครงสร้าง",
+        "formulas": [
+          { "label": "บอกเล่า", "formula": "ประธาน + modal + **have + V3**", "example": "You **should have studied** harder." },
+          { "label": "ปฏิเสธ", "formula": "ประธาน + modal + **not have + V3**", "example": "I **shouldn't have eaten** so much." }
+        ],
+        "list": [
+          "ใช้ **have** กับทุกประธาน (ไม่ใช้ has / had)",
+          "รูปย่อ: should've, could've, must've · ฟังคล้าย “should of” แต่ต้องเขียน **have**"
+        ]
+      },
+      {
+        "icon": "🎛️",
+        "title": "ความหมายของแต่ละแบบ",
+        "table": {
+          "head": ["โครงสร้าง", "ความหมาย", "ตัวอย่าง (ความจริง)"],
+          "rows": [
+            ["should have + V3", "ควรจะ… (แต่ไม่ได้ทำ) — เสียดาย / ตำหนิ", "I **should have studied**. (ไม่ได้อ่าน)"],
+            ["shouldn't have + V3", "ไม่ควร… (แต่ทำไปแล้ว)", "You **shouldn't have shouted**. (ตะโกนไปแล้ว)"],
+            ["could have + V3", "น่าจะทำได้ แต่ไม่ได้ทำ", "We **could have won**. (แพ้)"],
+            ["must have + V3", "คงจะ…แน่ ๆ (มั่นใจมาก)", "The ground is wet. It **must have rained**."],
+            ["may / might have + V3", "อาจจะ… (ไม่แน่ใจ)", "She **might have missed** the bus."],
+            ["can't have + V3", "ไม่มีทาง… (เป็นไปไม่ได้)", "He **can't have seen** me. I was at home."],
+            ["would have + V3", "คงจะ…แล้ว (สมมติในอดีต)", "I **would have helped**, but I was busy."]
+          ]
+        }
+      },
+      {
+        "icon": "📏",
+        "title": "ระดับความมั่นใจเวลาเดาเรื่องในอดีต",
+        "list": [
+          "**must have** (เกือบแน่นอนว่าเกิด) > **may / might / could have** (อาจจะเกิด) > **can't have** (แน่ใจว่าไม่เกิด)"
+        ]
+      },
+      {
+        "icon": "📝",
+        "title": "ตัวอย่าง",
+        "examples": [
+          { "en": "I **should have brought** an umbrella.", "th": "ฉันน่าจะเอาร่มมาด้วย (เสียดายที่ไม่ได้เอามา)" },
+          { "en": "Tom isn't answering. He **must have gone** to bed.", "th": "ทอมไม่รับสาย เขาคงเข้านอนไปแล้วแน่ ๆ" },
+          { "en": "She **can't have finished** already. It's 500 pages!", "th": "เธอไม่มีทางอ่านจบแล้วหรอก ตั้ง 500 หน้า!" }
+        ]
+      },
+      {
+        "icon": "⚠️",
+        "title": "ระวัง! จุดที่มักผิด",
+        "mistakes": [
+          { "wrong": "You should have **study**.", "right": "You should have **studied**.", "why": "หลัง have ต้องเป็น V3" },
+          { "wrong": "She should **has** called.", "right": "She should **have** called.", "why": "หลัง modal ใช้ have เสมอ" },
+          { "wrong": "He must **had** left.", "right": "He must **have** left.", "why": "หลัง modal ใช้ have ไม่ใช่ had" },
+          { "wrong": "I should **of** gone.", "right": "I should **have** gone.", "why": "should've ฟังคล้าย should of แต่ต้องเขียน have" }
+        ]
+      }
+    ],
+    "tip": "**modal + have + V3 = เรื่องที่ผ่านไปแล้ว** — should have = เสียดาย · must have = มั่นใจ · might have = ไม่แน่ใจ · can't have = เป็นไปไม่ได้"
+  },
+  "questions": [
+    { "q": "เติมคำในช่องว่าง: I failed the test. I should have ___ harder.", "options": ["study", "studied", "studying", "studies"], "answer": 1, "explanation": "should have + **V3** → studied" },
+    { "q": "เติมคำในช่องว่าง: She should ___ called me earlier.", "options": ["has", "have", "had", "having"], "answer": 1, "explanation": "หลัง modal ใช้ **have** กับทุกประธาน" },
+    { "q": "เติมคำในช่องว่าง: The ground is wet. It must ___ last night.", "options": ["rain", "have rained", "rained", "has rained"], "answer": 1, "explanation": "เดาเรื่องในอดีตแบบมั่นใจ → must **have rained**" },
+    { "q": "เติมคำในช่องว่าง: Ben isn't here yet. He might have ___ the bus.", "options": ["miss", "missed", "missing", "misses"], "answer": 1, "explanation": "might have + **V3** → missed" },
+    { "q": "“You should have told me.” ความจริงคืออะไร", "options": ["อีกฝ่ายบอกแล้ว", "อีกฝ่ายไม่ได้บอก", "อีกฝ่ายจะบอกพรุ่งนี้", "อีกฝ่ายบอกทุกวัน"], "answer": 1, "explanation": "should have + V3 = ควรจะ…แต่ **ไม่ได้ทำ**" },
+    { "q": "“I shouldn't have eaten so much.” ความจริงคืออะไร", "options": ["ผู้พูดกินมากไปแล้ว", "ผู้พูดไม่ได้กินอะไร", "ผู้พูดจะกินมาก", "ผู้พูดกินน้อย"], "answer": 0, "explanation": "shouldn't have + V3 = ไม่ควร…แต่ **ทำไปแล้ว**" },
+    { "q": "“We could have won the game.” ความจริงคืออะไร", "options": ["ทีมชนะ", "ทีมแพ้ (ทั้งที่มีโอกาสชนะ)", "ทีมยังไม่ได้แข่ง", "ทีมชนะทุกเกม"], "answer": 1, "explanation": "could have + V3 = น่าจะทำได้ แต่ **ไม่ได้ทำ** → แพ้" },
+    { "q": "“He must have forgotten my birthday.” ผู้พูดรู้สึกอย่างไร", "options": ["มั่นใจมากว่าเขาลืม", "ไม่แน่ใจเลย", "มั่นใจว่าเขาไม่ลืม", "อยากให้เขาลืม"], "answer": 0, "explanation": "must have = **คงจะ…แน่ ๆ** (มั่นใจมาก)" },
+    { "q": "“She can't have finished the book already. It's 500 pages!” หมายความว่าอย่างไร", "options": ["เธออ่านจบแน่นอน", "ไม่มีทางที่เธอจะอ่านจบแล้ว", "เธอควรอ่านให้จบ", "เธออาจจะอ่านจบ"], "answer": 1, "explanation": "can't have = **เป็นไปไม่ได้**" },
+    { "q": "สถานการณ์: Arm มาถึงโรงเรียนตัวเปียกโชก ข้อใดคาดเดาได้เหมาะสมที่สุด", "options": ["He must have walked in the rain.", "He should have walked in the rain.", "He can't have walked in the rain.", "He must walk in the rain."], "answer": 0, "explanation": "เห็นหลักฐานชัด (ตัวเปียก) → มั่นใจ → **must have walked**" },
+    { "q": "สถานการณ์: ไฟในบ้านของ Joy ปิดหมดและไม่มีใครรับโทรศัพท์ ข้อใดคาดเดาได้เหมาะสม", "options": ["She must have gone out.", "She can't have gone out.", "She should have gone out.", "She must go out."], "answer": 0, "explanation": "หลักฐานบอกว่าไม่อยู่บ้าน → **must have gone out**" },
+    { "q": "สถานการณ์: คุณไม่แน่ใจว่าทำไม Ken ไม่มาประชุมเมื่อวาน อาจจะป่วย ข้อใดเหมาะสม", "options": ["He might have been sick.", "He must be sick yesterday.", "He should have been sick.", "He can't have been sick."], "answer": 0, "explanation": "ไม่แน่ใจ → **might have been**" },
+    { "q": "สถานการณ์: Lisa บอกว่าเห็นคุณที่ห้างเมื่อวาน แต่เมื่อวานคุณอยู่เชียงใหม่ทั้งวัน ข้อใดเหมาะสม", "options": ["She can't have seen me.", "She must have seen me.", "She should have seen me.", "She might see me."], "answer": 0, "explanation": "เป็นไปไม่ได้ → **can't have seen**" },
+    { "q": "สถานการณ์: คุณลืมเอาร่มมาและเปียกฝน รู้สึกเสียดาย ข้อใดเหมาะสม", "options": ["I should have brought an umbrella.", "I must have brought an umbrella.", "I can't have brought an umbrella.", "I should bring an umbrella yesterday."], "answer": 0, "explanation": "เสียดายสิ่งที่ไม่ได้ทำ → **should have brought**" },
+    { "q": "สถานการณ์: เพื่อนพูดจาไม่ดีกับครู คุณคิดว่าเขาไม่ควรทำแบบนั้น ข้อใดเหมาะสม", "options": ["You shouldn't have been rude to the teacher.", "You must have been rude to the teacher.", "You could have been rude to the teacher.", "You shouldn't be rude to the teacher yesterday."], "answer": 0, "explanation": "ไม่ควรแต่ทำไปแล้ว → **shouldn't have been**" },
+    { "q": "สถานการณ์: คุณมีเวลาว่างแต่ไม่ได้ช่วยเพื่อนทำงาน ทั้งที่ช่วยได้ ข้อใดเหมาะสม", "options": ["I could have helped him.", "I must have helped him.", "I can't have helped him.", "I should help him yesterday."], "answer": 0, "explanation": "ทำได้แต่ไม่ได้ทำ → **could have helped**" },
+    { "q": "สถานการณ์: กระเป๋าสตางค์หาย ไม่แน่ใจว่าหล่นที่ไหน อาจหล่นบนรถบัส ข้อใดเหมาะสม", "options": ["I may have dropped it on the bus.", "I must drop it on the bus.", "I should have dropped it on the bus.", "I can't have dropped it on the bus."], "answer": 0, "explanation": "ไม่แน่ใจ → **may have dropped**" },
+    { "q": "should have + V3 ใช้บอกความหมายใด", "options": ["ควรจะทำ แต่ไม่ได้ทำ (เสียดาย)", "คงจะทำแน่ ๆ", "ไม่มีทางทำ", "จะทำในอนาคต"], "answer": 0, "explanation": "should have + V3 = **ควรจะ… แต่ไม่ได้ทำ**" },
+    { "q": "must have + V3 ใช้บอกความหมายใด", "options": ["คงจะ…แน่ ๆ (มั่นใจ)", "ควรจะ…", "อาจจะ… (ไม่แน่ใจ)", "ห้าม…"], "answer": 0, "explanation": "must have + V3 = **คงจะ…แน่ ๆ**" },
+    { "q": "might have + V3 ใช้บอกความหมายใด", "options": ["อาจจะ… (ไม่แน่ใจ)", "ต้อง…", "คงจะ…แน่ ๆ", "ไม่ควร…"], "answer": 0, "explanation": "might have + V3 = **อาจจะ…**" },
+    { "q": "เรียงความมั่นใจว่าเรื่องนั้นเกิดขึ้น จาก “มากที่สุด” ไป “น้อยที่สุด”", "options": ["must have → might have → can't have", "can't have → might have → must have", "might have → must have → can't have", "must have → can't have → might have"], "answer": 0, "keepOrder": true, "explanation": "**must have** (เกือบแน่) > **might have** (อาจจะ) > **can't have** (ไม่มีทาง)" },
+    { "q": "ข้อใดถูกต้อง", "options": ["He must had left.", "He must have left.", "He must has left.", "He must have leave."], "answer": 1, "explanation": "must + **have + V3** (left)" },
+    { "q": "ข้อใดถูกต้อง", "options": ["You should of called me.", "You should have called me.", "You should have call me.", "You should has called me."], "answer": 1, "explanation": "should + **have** + V3 (called)" },
+    { "q": "ข้อใดถูกต้อง", "options": ["They might have gone home.", "They might have went home.", "They might has gone home.", "They might gone home."], "answer": 0, "explanation": "go → went → **gone** · might + have + gone" },
+    { "q": "ข้อใดผิดหลักไวยากรณ์", "options": ["I should have listened.", "She can't have known.", "We could have tried harder.", "He must have forget it."], "answer": 3, "explanation": "หลัง have ต้องเป็น V3 → must have **forgotten**" },
+    { "q": "หาส่วนที่ผิด: “She should have tell the truth.” ต้องแก้อย่างไร", "options": ["should → shall", "have → has", "tell → told", "the truth → truth"], "answer": 2, "explanation": "should have + V3 → **told**" },
+    { "q": "หาส่วนที่ผิด: “They must has finished already.” ต้องแก้อย่างไร", "options": ["must → can", "has → have", "finished → finish", "already → yet"], "answer": 1, "explanation": "หลัง modal ใช้ **have** เสมอ" },
+    { "q": "“should've” ย่อมาจากอะไร", "options": ["should have", "should of", "should give", "should leave"], "answer": 0, "explanation": "'ve = **have**" },
+    { "q": "เติมคำในช่องว่าง: You ___ have left your bag on the bus. Now it's gone!", "options": ["shouldn't", "mustn't", "can't", "needn't"], "answer": 0, "explanation": "ไม่ควรทำแต่ทำไปแล้ว (ลืมกระเป๋า) → **shouldn't** have left" },
+    { "q": "เติมคำในช่องว่าง: I'm not sure where my keys are. I ___ have left them in the car.", "options": ["might", "should", "can't", "mustn't"], "answer": 0, "explanation": "ไม่แน่ใจ → **might** have left" },
+    { "q": "เติมคำในช่องว่าง: Tom got 100% on the test. He ___ have studied very hard.", "options": ["must", "can't", "shouldn't", "mustn't"], "answer": 0, "explanation": "ได้เต็ม → มั่นใจว่าอ่านหนักแน่ ๆ → **must** have studied" },
+    { "q": "เติมคำในช่องว่าง: Nok ___ have cooked this. She can't cook at all!", "options": ["can't", "must", "should", "might"], "answer": 0, "explanation": "ทำอาหารไม่เป็นเลย → เป็นไปไม่ได้ → **can't** have cooked" },
+    { "q": "เติมคำในช่องว่าง: We ___ have taken a taxi. Then we wouldn't have been late.", "options": ["should", "can't", "mustn't", "needn't"], "answer": 0, "explanation": "เสียดายที่ไม่ได้นั่งแท็กซี่ → **should** have taken" },
+    { "q": "เติมคำในช่องว่าง: If I had known, I ___ have helped you.", "options": ["would", "must", "can't", "should not"], "answer": 0, "explanation": "สมมติในอดีต (If Type 3) → **would** have helped" },
+    { "q": "เติมคำในช่องว่าง: I ___ have come to your party, but I was sick.", "options": ["would", "must", "mustn't", "can't"], "answer": 0, "explanation": "คงจะไปแล้ว ถ้าไม่ป่วย → **would** have come" },
+    { "q": "เติมคำในช่องว่าง: Don't worry. You ___ have done anything wrong. It was an accident.", "options": ["can't", "must", "should", "would"], "answer": 0, "explanation": "เป็นอุบัติเหตุ ไม่มีทางที่เธอจะทำผิด → **can't** have done" },
+    { "q": "แปล: “ฉันควรจะตื่นเช้ากว่านี้”", "options": ["I should have got up earlier.", "I must have got up earlier.", "I should get up earlier yesterday.", "I could have get up earlier."], "answer": 0, "explanation": "ควรจะ…(แต่ไม่ได้ทำ) → **should have got up**" },
+    { "q": "แปล: “เขาคงจะลืมแน่ ๆ”", "options": ["He must have forgotten.", "He should have forgotten.", "He can't have forgotten.", "He must forget."], "answer": 0, "explanation": "คงจะ…แน่ ๆ (อดีต) → **must have forgotten**" },
+    { "q": "แปล: “พวกเขาอาจจะหลงทาง”", "options": ["They might have got lost.", "They must have got lost.", "They should have got lost.", "They might got lost."], "answer": 0, "explanation": "อาจจะ (อดีต) → **might have got lost**" },
+    { "q": "แปล: “I could have won the race.”", "options": ["ฉันน่าจะชนะการแข่งขัน (แต่ไม่ชนะ)", "ฉันชนะการแข่งขันแล้ว", "ฉันต้องชนะการแข่งขัน", "ฉันจะชนะการแข่งขัน"], "answer": 0, "explanation": "could have + V3 = **น่าจะทำได้ แต่ไม่ได้ทำ**" },
+    { "q": "อ่านข้อความ: “Jane's phone was dead all day yesterday. She must have forgotten to charge it. She should have checked the battery before leaving home.” ข้อใดถูกต้อง", "options": ["Jane checked her battery.", "Jane probably forgot to charge her phone.", "Jane's phone worked all day.", "Jane charged her phone twice."], "answer": 1, "explanation": "She **must have forgotten** to charge it = เธอคงลืมชาร์จแน่ ๆ" },
+    { "q": "อ่านข้อความ: “The cake is gone. The kids can't have eaten it — they were at school all day. Dad might have taken it to work.” ข้อใดถูกต้อง", "options": ["เด็ก ๆ กินเค้กแน่นอน", "พ่ออาจจะเอาเค้กไปที่ทำงาน", "แม่กินเค้ก", "เค้กยังอยู่"], "answer": 1, "explanation": "Dad **might have taken** it = พ่ออาจจะเอาไป" },
+    { "q": "A: I failed my driving test.  B: Oh no! You ___ practiced more.", "options": ["should have", "must have", "can't have", "might"], "answer": 0, "explanation": "แนะนำย้อนหลัง (เสียดาย) → **should have** practiced" },
+    { "q": "A: Where's Ploy? She's usually here by now.  B: I don't know. She ___ overslept.", "options": ["might have", "should have", "can't have", "shouldn't have"], "answer": 0, "explanation": "ไม่รู้ = ไม่แน่ใจ → **might have** overslept" },
+    { "q": "A: I saw a tiger in the park yesterday!  B: You ___ seen a tiger. There are no tigers in that park.", "options": ["can't have", "must have", "should have", "might"], "answer": 0, "explanation": "ไม่มีเสือในสวนนั้น → เป็นไปไม่ได้ → **can't have** seen" }
+  ]
+}

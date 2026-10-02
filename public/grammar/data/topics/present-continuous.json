@@ -1,0 +1,392 @@
+{
+  "lesson": {
+    "summary": "ใช้พูดถึงสิ่งที่ **กำลังทำอยู่ตอนนี้** หรือช่วงนี้ และใช้บอก **แผนที่นัดหมายไว้แล้ว** ในอนาคตอันใกล้",
+    "sections": [
+      {
+        "icon": "🎯",
+        "title": "ใช้เมื่อไหร่",
+        "list": [
+          "กำลังเกิดขึ้นขณะพูด — Look! The baby **is sleeping**.",
+          "ช่วงนี้ (ชั่วคราว ยังไม่จบ) — I **am reading** a great book these days.",
+          "แผนที่ตกลงไว้แล้วในอนาคตอันใกล้ — We **are visiting** Grandma this weekend."
+        ]
+      },
+      {
+        "icon": "🧱",
+        "title": "โครงสร้าง",
+        "text": "หัวใจคือ **am / is / are + V-ing** ต้องมีครบทั้งสองส่วน",
+        "formulas": [
+          { "label": "บอกเล่า", "formula": "I **am** · He / She / It **is** · You / We / They **are** + **V-ing**", "example": "She **is cooking** dinner." },
+          { "label": "ปฏิเสธ", "formula": "ประธาน + am / is / are + **not** + V-ing", "example": "They **aren't playing** now. (I'm not / isn't / aren't)" },
+          { "label": "คำถาม", "formula": "**Am / Is / Are** + ประธาน + V-ing ?", "example": "**Is** he **sleeping**? — Yes, he is. / No, he isn't." },
+          { "label": "คำถาม Wh-", "formula": "Wh- + am / is / are + ประธาน + V-ing ?", "example": "What **are** you **doing**?" }
+        ]
+      },
+      {
+        "icon": "✏️",
+        "title": "การเติม -ing",
+        "table": {
+          "head": ["คำกริยาลงท้ายด้วย", "วิธีเติม", "ตัวอย่าง"],
+          "rows": [
+            ["คำทั่วไป (รวมคำที่ลงท้าย y)", "เติม **-ing** ได้เลย", "read → reading, play → playing, study → studying"],
+            ["e", "ตัด e แล้วเติม **-ing**", "write → writing, dance → dancing"],
+            ["ee", "เติม **-ing** ได้เลย ไม่ตัด e", "see → seeing, agree → agreeing"],
+            ["ie", "เปลี่ยน ie เป็น y แล้วเติม **-ing**", "lie → lying, die → dying"],
+            ["พยางค์เดียว สระเสียงสั้น 1 ตัว + พยัญชนะ 1 ตัว", "เพิ่มตัวสะกดอีกตัว แล้วเติม **-ing**", "run → running, swim → swimming, sit → sitting"]
+          ]
+        }
+      },
+      {
+        "icon": "⏰",
+        "title": "คำสังเกต",
+        "chips": ["now", "right now", "at the moment", "Look!", "Listen!", "these days", "currently", "this week", "tonight", "this weekend"],
+        "list": [
+          "now, at the moment, Look!, Listen! → **กำลังทำอยู่ตอนนี้**",
+          "tonight, this weekend, next Friday → **แผนในอนาคต** ที่นัดไว้แล้ว"
+        ]
+      },
+      {
+        "icon": "🚫",
+        "title": "กริยาที่ไม่นิยมใช้รูป -ing",
+        "text": "กริยาบอก **ความรู้สึก ความคิด และการเป็นเจ้าของ** มักใช้ Present Simple แม้จะหมายถึงตอนนี้",
+        "chips": ["like", "love", "hate", "want", "need", "know", "understand", "believe", "belong", "have (= มี)"],
+        "examples": [
+          { "en": "I **want** some water now.", "th": "ไม่ใช่ I am wanting" }
+        ]
+      },
+      {
+        "icon": "🆚",
+        "title": "Present Simple กับ Present Continuous",
+        "table": {
+          "head": ["Present Simple", "Present Continuous"],
+          "rows": [
+            ["ทำเป็นประจำ: I **walk** to school every day.", "กำลังทำตอนนี้: I **am walking** to school now."],
+            ["ถาวร: She **lives** in Bangkok.", "ชั่วคราว: She **is living** with her aunt this month."]
+          ]
+        }
+      },
+      {
+        "icon": "📝",
+        "title": "ตัวอย่าง",
+        "examples": [
+          { "en": "Listen! Someone **is playing** the guitar.", "th": "ฟังสิ! มีคนกำลังเล่นกีตาร์" },
+          { "en": "We **aren't watching** TV. We**'re doing** homework.", "th": "พวกเราไม่ได้ดูทีวี พวกเรากำลังทำการบ้าน" },
+          { "en": "**Are** you **coming** to the party tonight?", "th": "คืนนี้เธอจะมางานปาร์ตี้ไหม (แผนในอนาคต)" }
+        ]
+      },
+      {
+        "icon": "⚠️",
+        "title": "ระวัง! จุดที่มักผิด",
+        "mistakes": [
+          { "wrong": "She **cooking** dinner now.", "right": "She **is cooking** dinner now.", "why": "ขาด is — ต้องมีทั้ง be และ V-ing" },
+          { "wrong": "They are **swiming**.", "right": "They are **swimming**.", "why": "swim สระเสียงสั้น + พยัญชนะตัวเดียว ต้องเพิ่ม m อีกตัว" },
+          { "wrong": "I **am knowing** the answer.", "right": "I **know** the answer.", "why": "know เป็นกริยาบอกความรู้ ไม่ใช้รูป -ing" },
+          { "wrong": "**Do** you **watching** TV?", "right": "**Are** you **watching** TV?", "why": "คำถาม Present Continuous ขึ้นต้นด้วย am / is / are" }
+        ]
+      }
+    ],
+    "tip": "สูตรสองท่อน: **be (am / is / are) + V-ing** — ขาดท่อนใดท่อนหนึ่งผิดทันที"
+  },
+  "questions": [
+    {
+      "q": "เติมคำในช่องว่าง: Listen! Someone ___ at the door.",
+      "options": ["knocks", "is knocking", "knocking", "are knocking"],
+      "answer": 1,
+      "explanation": "Listen! บอกว่ากำลังเกิดขึ้นตอนนี้ และ someone เป็นเอกพจน์ → **is knocking**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: I ___ waiting for the bus right now.",
+      "options": ["is", "are", "am", "be"],
+      "answer": 2,
+      "explanation": "ประธาน I ใช้ **am** + V-ing"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: My friends ___ playing volleyball at the moment.",
+      "options": ["is", "am", "are", "was"],
+      "answer": 2,
+      "explanation": "My friends เป็นพหูพจน์ ใช้ **are** + V-ing"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The dog ___ chasing a ball in the garden.",
+      "options": ["are", "is", "am", "be"],
+      "answer": 1,
+      "explanation": "The dog เป็นเอกพจน์ (= it) ใช้ **is** + V-ing"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: You and Ploy ___ talking too loudly.",
+      "options": ["is", "am", "are", "be"],
+      "answer": 2,
+      "explanation": "You and Ploy เป็นพหูพจน์ ใช้ **are**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Look! It ___.",
+      "options": ["rains", "is raining", "raining", "are raining"],
+      "answer": 1,
+      "explanation": "Look! บอกว่ากำลังเกิดขึ้นตอนนี้ → It **is raining**."
+    },
+    {
+      "q": "รูป -ing ของ “write” คือข้อใด",
+      "options": ["writeing", "writing", "writting", "writeng"],
+      "answer": 1,
+      "explanation": "write ลงท้ายด้วย e ให้ตัด e แล้วเติม -ing → **writing**"
+    },
+    {
+      "q": "รูป -ing ของ “run” คือข้อใด",
+      "options": ["runing", "running", "runeing", "runs"],
+      "answer": 1,
+      "explanation": "run พยางค์เดียว สระเสียงสั้น + พยัญชนะตัวเดียว เพิ่ม n อีกตัว → **running**"
+    },
+    {
+      "q": "รูป -ing ของ “lie” (นอน) คือข้อใด",
+      "options": ["lieing", "liing", "lying", "lyeing"],
+      "answer": 2,
+      "explanation": "คำที่ลงท้าย ie เปลี่ยนเป็น y แล้วเติม -ing → **lying**"
+    },
+    {
+      "q": "รูป -ing ของ “study” คือข้อใด",
+      "options": ["studing", "studiing", "studying", "studieing"],
+      "answer": 2,
+      "explanation": "คำที่ลงท้าย y เติม -ing ได้เลย ไม่ต้องเปลี่ยน y → **studying**"
+    },
+    {
+      "q": "รูป -ing ของ “sit” คือข้อใด",
+      "options": ["siting", "sitting", "sitteing", "sits"],
+      "answer": 1,
+      "explanation": "sit พยางค์เดียว สระเสียงสั้น + พยัญชนะตัวเดียว เพิ่ม t อีกตัว → **sitting**"
+    },
+    {
+      "q": "รูป -ing ของ “see” คือข้อใด",
+      "options": ["seing", "seeing", "seeeing", "sing"],
+      "answer": 1,
+      "explanation": "คำที่ลงท้ายด้วย ee **ไม่ต้องตัด e** เติม -ing ได้เลย → seeing"
+    },
+    {
+      "q": "คำใดเติม -ing ไม่ถูกต้อง",
+      "options": ["making", "swimming", "dancing", "comeing"],
+      "answer": 3,
+      "explanation": "come ลงท้ายด้วย e ต้องตัด e ก่อน → **coming**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Mom ___ (cook) dinner in the kitchen now.",
+      "options": ["cooks", "is cooking", "cooking", "are cooking"],
+      "answer": 1,
+      "explanation": "now บอกว่ากำลังทำอยู่ Mom เป็นเอกพจน์ → **is cooking**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The students ___ (take) a test at the moment. Please be quiet.",
+      "options": ["takes", "are taking", "is taking", "taking"],
+      "answer": 1,
+      "explanation": "at the moment = ขณะนี้ และ students เป็นพหูพจน์ → **are taking**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Be careful! The baby ___ (put) a toy in her mouth.",
+      "options": ["puts", "is puting", "is putting", "putting"],
+      "answer": 2,
+      "explanation": "put สระเสียงสั้น + พยัญชนะตัวเดียว ต้องเพิ่ม t → is **putting**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: We ___ (learn) about planets in science class this week.",
+      "options": ["learns", "are learning", "is learning", "learning"],
+      "answer": 1,
+      "explanation": "this week เป็นช่วงเวลาชั่วคราวที่ยังไม่จบ ใช้ Present Continuous → We **are learning**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: I ___ not going to the gym today. I'm too tired.",
+      "options": ["am", "is", "are", "do"],
+      "answer": 0,
+      "explanation": "ประธาน I ใช้ **am** + not + V-ing"
+    },
+    {
+      "q": "ประโยคปฏิเสธของ “He is drawing a picture.” คือข้อใด",
+      "options": ["He not drawing a picture.", "He isn't drawing a picture.", "He doesn't drawing a picture.", "He isn't draw a picture."],
+      "answer": 1,
+      "explanation": "เติม not หลัง is → He **isn't drawing** a picture."
+    },
+    {
+      "q": "เติมคำในช่องว่าง: They ___ watching TV. They are doing their homework.",
+      "options": ["isn't", "aren't", "don't", "not"],
+      "answer": 1,
+      "explanation": "They ใช้ are → ปฏิเสธคือ **aren't**"
+    },
+    {
+      "q": "“I am not” เขียนแบบย่อได้ว่าอะไร",
+      "options": ["I amn't", "I'm not", "I isn't", "I not"],
+      "answer": 1,
+      "explanation": "am not ย่อได้แบบเดียวคือ **I'm not** (ไม่มีคำว่า amn't)"
+    },
+    {
+      "q": "ประโยคใดถูกต้อง",
+      "options": ["She not is sleeping.", "She isn't sleeping.", "She doesn't sleeping.", "She isn't sleep."],
+      "answer": 1,
+      "explanation": "ปฏิเสธใช้ is + not + V-ing → She **isn't sleeping**."
+    },
+    {
+      "q": "ประโยคใดผิดหลักไวยากรณ์",
+      "options": ["We are having lunch now.", "The birds are singing.", "My dad driving to work now.", "I'm listening to music."],
+      "answer": 2,
+      "explanation": "ขาด verb to be ที่ถูกต้องคือ My dad **is driving** to work now."
+    },
+    {
+      "q": "เปลี่ยน “Tom is playing chess.” เป็นประโยคคำถาม ข้อใดถูกต้อง",
+      "options": ["Does Tom playing chess?", "Is Tom playing chess?", "Is Tom play chess?", "Tom is playing chess?"],
+      "answer": 1,
+      "explanation": "ย้าย is ขึ้นต้นประโยค → **Is Tom playing** chess?"
+    },
+    {
+      "q": "A: Are your parents working today?  B: Yes, they ___.",
+      "options": ["do", "are", "is", "working"],
+      "answer": 1,
+      "explanation": "คำถามขึ้นต้นด้วย Are คำตอบสั้นจึงใช้ **are** → Yes, they are."
+    },
+    {
+      "q": "A: Is Mali reading a comic?  B: No, she ___. She's reading a novel.",
+      "options": ["doesn't", "isn't", "aren't", "not"],
+      "answer": 1,
+      "explanation": "คำถามขึ้นต้นด้วย Is และประธาน she → No, she **isn't**."
+    },
+    {
+      "q": "A: What ___ you doing?  B: I'm making a cake.",
+      "options": ["do", "are", "is", "does"],
+      "answer": 1,
+      "explanation": "คำถาม Wh- ของ Present Continuous: What + **are** + you + doing?"
+    },
+    {
+      "q": "A: Where is Ben going?  B: ___",
+      "options": ["He goes to school every day.", "He's going to the library.", "Yes, he is.", "He went home."],
+      "answer": 1,
+      "explanation": "ถามว่ากำลังจะไปไหน ต้องตอบด้วย Present Continuous บอกสถานที่ → He's **going to the library**."
+    },
+    {
+      "q": "เรียงคำให้เป็นคำถามที่ถูกต้อง: (are / why / laughing / you)",
+      "options": ["Why you are laughing?", "Why are you laughing?", "Are why you laughing?", "Why are laughing you?"],
+      "answer": 1,
+      "explanation": "Wh- + are + ประธาน + V-ing → **Why are you laughing?**"
+    },
+    {
+      "q": "ข้อใดเป็นคำถามที่ถูกต้อง",
+      "options": ["Is they coming to the party?", "Are they coming to the party?", "Do they coming to the party?", "Are they come to the party?"],
+      "answer": 1,
+      "explanation": "they ใช้ are และตามด้วย V-ing → **Are they coming** to the party?"
+    },
+    {
+      "q": "คำใดมักใช้กับ Present Continuous",
+      "options": ["every day", "usually", "at the moment", "once a week"],
+      "answer": 2,
+      "explanation": "**at the moment** (ขณะนี้) ใช้กับสิ่งที่กำลังทำอยู่ ส่วนข้ออื่นบอกความถี่ ใช้กับ Present Simple"
+    },
+    {
+      "q": "คำใดมักใช้กับ Present Simple ไม่ใช่ Present Continuous",
+      "options": ["now", "right now", "Look!", "every morning"],
+      "answer": 3,
+      "explanation": "**every morning** บอกกิจวัตรที่ทำเป็นประจำ จึงใช้กับ Present Simple"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: My brother usually ___ to school, but today he ___ the bus.",
+      "options": ["walks / takes", "is walking / is taking", "walks / is taking", "is walking / takes"],
+      "answer": 2,
+      "explanation": "usually = ทำเป็นประจำ ใช้ **walks** ส่วน today = ชั่วคราววันนี้ ใช้ **is taking**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Ken ___ tennis every Saturday.",
+      "options": ["plays", "is playing", "playing", "are playing"],
+      "answer": 0,
+      "explanation": "every Saturday บอกกิจวัตร ใช้ Present Simple → **plays**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Shh! Grandpa ___ in the bedroom.",
+      "options": ["sleeps", "is sleeping", "sleep", "are sleeping"],
+      "answer": 1,
+      "explanation": "Shh! บอกให้เงียบเพราะกำลังนอนอยู่ตอนนี้ → **is sleeping**"
+    },
+    {
+      "q": "ประโยคใดเป็น Present Continuous",
+      "options": ["She speaks three languages.", "She is speaking on the phone now.", "She spoke to me yesterday.", "She will speak tomorrow."],
+      "answer": 1,
+      "explanation": "**is speaking** = is + V-ing และมี now จึงเป็น Present Continuous"
+    },
+    {
+      "q": "เพื่อนโทรมาถามว่า “ตอนนี้ทำอะไรอยู่” ข้อใดตอบได้ถูกต้อง",
+      "options": ["I do my homework.", "I'm doing my homework.", "I did my homework.", "I doing my homework."],
+      "answer": 1,
+      "explanation": "สิ่งที่กำลังทำขณะพูด ใช้ Present Continuous → I**'m doing** my homework."
+    },
+    {
+      "q": "เติมคำในช่องว่าง: What ___ your sister usually ___ on weekends?",
+      "options": ["is / doing", "does / do", "is / do", "does / doing"],
+      "answer": 1,
+      "explanation": "usually บอกกิจวัตร ใช้ Present Simple → What **does** your sister usually **do**?"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Look at those clouds. The sky ___ dark.",
+      "options": ["gets", "is getting", "get", "getting"],
+      "answer": 1,
+      "explanation": "กำลังเปลี่ยนแปลงอยู่ตอนนี้ → The sky **is getting** dark. (ท้องฟ้ากำลังมืดลง)"
+    },
+    {
+      "q": "ประโยคใดถูกต้อง",
+      "options": ["I am wanting a new phone.", "I want a new phone.", "I wanting a new phone.", "I am want a new phone."],
+      "answer": 1,
+      "explanation": "want เป็นกริยาบอกความต้องการ **ไม่ใช้รูป -ing** → I want a new phone."
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Do you ___ what I mean?",
+      "options": ["understanding", "understand", "are understanding", "understands"],
+      "answer": 1,
+      "explanation": "understand เป็นกริยาบอกความเข้าใจ ไม่ใช้รูป -ing จึงใช้ Do you **understand**…?"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: This bag ___ to my sister.",
+      "options": ["is belonging", "belongs", "belonging", "are belonging"],
+      "answer": 1,
+      "explanation": "belong (เป็นของ) บอกความเป็นเจ้าของ ไม่ใช้รูป -ing → This bag **belongs** to my sister."
+    },
+    {
+      "q": "ประโยค “We are flying to Phuket next Friday.” หมายความว่าอย่างไร",
+      "options": ["พวกเรากำลังบินไปภูเก็ตอยู่ตอนนี้", "พวกเรามีแผนจะบินไปภูเก็ตวันศุกร์หน้า", "พวกเราบินไปภูเก็ตทุกวันศุกร์", "พวกเราเคยบินไปภูเก็ต"],
+      "answer": 1,
+      "explanation": "Present Continuous + **next Friday** = แผนที่นัดหมายไว้แล้วในอนาคต"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: I ___ my cousins this weekend. We have already bought the tickets.",
+      "options": ["meet", "am meeting", "met", "meeting"],
+      "answer": 1,
+      "explanation": "แผนที่ตกลงไว้แล้ว (ซื้อตั๋วแล้ว) ใช้ Present Continuous → I **am meeting**"
+    },
+    {
+      "q": "คำบอกเวลาใดแสดงว่าประโยคนี้หมายถึง “อนาคต”: She is having a party ___.",
+      "options": ["now", "at the moment", "tomorrow evening", "right now"],
+      "answer": 2,
+      "explanation": "**tomorrow evening** (พรุ่งนี้เย็น) บอกแผนในอนาคต ส่วนข้ออื่นหมายถึงตอนนี้"
+    },
+    {
+      "q": "อ่านข้อความ: “It's Sunday afternoon. Dad is washing the car, and Mom is reading in the garden. My little brother isn't helping Dad. He's playing games on his tablet.” ใครกำลังเล่นเกม",
+      "options": ["Dad", "Mom", "My little brother", "Nobody"],
+      "answer": 2,
+      "explanation": "ข้อความบอกว่า My little brother … **He's playing games** on his tablet."
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Why ___ the children crying?",
+      "options": ["is", "are", "do", "does"],
+      "answer": 1,
+      "explanation": "the children เป็นพหูพจน์ → Why **are** the children crying?"
+    },
+    {
+      "q": "เรียงคำให้เป็นประโยคที่ถูกต้อง: (not / is / raining / it)",
+      "options": ["It not is raining.", "It is not raining.", "Is it not raining.", "It is raining not."],
+      "answer": 1,
+      "explanation": "ประธาน + is + not + V-ing → **It is not raining.**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Please turn off the TV. Nobody ___ it.",
+      "options": ["watches", "is watching", "are watching", "watching"],
+      "answer": 1,
+      "explanation": "Nobody ใช้แบบเอกพจน์ และหมายถึงตอนนี้ → Nobody **is watching** it."
+    },
+    {
+      "q": "เติมคำในช่องว่าง: These days, more and more people ___ electric cars.",
+      "options": ["buys", "are buying", "is buying", "buying"],
+      "answer": 1,
+      "explanation": "these days บอกแนวโน้มช่วงนี้ และ people เป็นพหูพจน์ → **are buying**"
+    }
+  ]
+}

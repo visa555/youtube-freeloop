@@ -1,0 +1,368 @@
+{
+  "lesson": {
+    "summary": "ใช้พูดถึง **อนาคต** ด้วย will เช่น การตัดสินใจทันที คำสัญญา การคาดเดา และการเสนอช่วยเหลือ — ส่วน **be going to** ใช้กับแผนที่ตั้งใจไว้แล้ว",
+    "sections": [
+      {
+        "icon": "🎯",
+        "title": "ใช้ will เมื่อไหร่",
+        "list": [
+          "ตัดสินใจทันทีขณะพูด — It's hot. I **will open** the window.",
+          "สัญญา — I **will call** you tonight. I promise.",
+          "คาดเดาอนาคต (มักมี I think, probably, maybe) — I think it **will rain** tomorrow.",
+          "เสนอ / ขอความช่วยเหลือ — **Shall** I carry your bag? / **Will** you help me?"
+        ]
+      },
+      {
+        "icon": "🧱",
+        "title": "โครงสร้าง",
+        "text": "will ใช้กับ **ทุกประธาน** และตามด้วย **กริยารูปเดิม (V1)** เสมอ ย่อได้เป็น I'll, she'll, they'll",
+        "formulas": [
+          { "label": "บอกเล่า", "formula": "ประธาน + **will** + V1", "example": "She **will visit** us next week." },
+          { "label": "ปฏิเสธ", "formula": "ประธาน + **won't** (will not) + V1", "example": "I **won't be** late." },
+          { "label": "คำถาม", "formula": "**Will** + ประธาน + V1 ?", "example": "**Will** you **come** to my party? — Yes, I will. / No, I won't." },
+          { "label": "คำถาม Wh-", "formula": "Wh- + will + ประธาน + V1 ?", "example": "What time **will** the bus **arrive**?" }
+        ]
+      },
+      {
+        "icon": "⏰",
+        "title": "คำบอกเวลาในอนาคต",
+        "chips": ["tomorrow", "tonight", "next week", "next year", "soon", "later", "in two days", "this weekend", "in the future", "someday"]
+      },
+      {
+        "icon": "🆚",
+        "title": "will กับ be going to",
+        "text": "be going to = **am / is / are + going to + V1**",
+        "table": {
+          "head": ["will", "be going to"],
+          "rows": [
+            ["ตัดสินใจ **ตอนพูด**: The phone is ringing. I**'ll answer** it.", "แผนที่ **ตัดสินใจไว้แล้ว**: I**'m going to visit** my aunt next week."],
+            ["คาดเดาจาก **ความคิด**: I think Thailand **will win**.", "คาดเดาจาก **สิ่งที่เห็น**: Look at those clouds! It**'s going to rain**."]
+          ]
+        }
+      },
+      {
+        "icon": "📝",
+        "title": "ตัวอย่าง",
+        "examples": [
+          { "en": "Don't worry. I **will help** you with your homework.", "th": "ไม่ต้องห่วง ฉันจะช่วยทำการบ้านให้" },
+          { "en": "My parents **won't let** me go out tonight.", "th": "พ่อแม่จะไม่ยอมให้ฉันออกไปข้างนอกคืนนี้" },
+          { "en": "**Where will** you **stay** in Chiang Mai? — At my uncle's house.", "th": "เธอจะพักที่ไหนในเชียงใหม่ — ที่บ้านลุง" }
+        ]
+      },
+      {
+        "icon": "⚠️",
+        "title": "ระวัง! จุดที่มักผิด",
+        "mistakes": [
+          { "wrong": "She will **goes** to school.", "right": "She will **go** to school.", "why": "หลัง will ใช้ V1 ไม่เติม s" },
+          { "wrong": "I will **to call** you.", "right": "I will **call** you.", "why": "ไม่มี to หลัง will" },
+          { "wrong": "They **don't will** come.", "right": "They **won't** come.", "why": "ปฏิเสธใช้ will not / won't" },
+          { "wrong": "**Do** you will help me?", "right": "**Will** you help me?", "why": "คำถามขึ้นต้นด้วย Will ได้เลย" },
+          { "wrong": "Will you come? — Yes, I **do**.", "right": "Will you come? — Yes, I **will**.", "why": "ถามด้วย Will ตอบสั้นด้วย will / won't" }
+        ]
+      }
+    ],
+    "tip": "**will + V1** ใช้ได้กับทุกประธาน ไม่ผัน ไม่เติม s ไม่มี to — ตอบสั้นก็ใช้ will / won't"
+  },
+  "questions": [
+    {
+      "q": "เติมคำในช่องว่าง: I think it ___ rain tomorrow.",
+      "options": ["is", "will", "does", "was"],
+      "answer": 1,
+      "explanation": "คาดเดาอนาคต (I think … tomorrow) ใช้ **will** + V1"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: She will ___ us next week.",
+      "options": ["visits", "visit", "visited", "visiting"],
+      "answer": 1,
+      "explanation": "หลัง will ใช้กริยารูปเดิม → **visit** (ไม่เติม s แม้ประธานเป็น she)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: They will ___ late. Don't wait for them.",
+      "options": ["be", "are", "is", "been"],
+      "answer": 0,
+      "explanation": "หลัง will ใช้ verb to be รูปเดิมคือ **be**"
+    },
+    {
+      "q": "ประโยคใดถูกต้อง",
+      "options": ["He will goes to the party.", "He will go to the party.", "He wills go to the party.", "He will to go to the party."],
+      "answer": 1,
+      "explanation": "will + V1 → He will **go** (ไม่เติม s และไม่มี to)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง (ใช้ will): We ___ (finish) the project soon.",
+      "options": ["finish", "will finish", "will finished", "finishes"],
+      "answer": 1,
+      "explanation": "soon บอกอนาคต → **will finish**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง (ใช้ will): The shop ___ (open) at 10 a.m. tomorrow.",
+      "options": ["will opens", "will open", "open", "opening"],
+      "answer": 1,
+      "explanation": "will + V1 → **will open**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: My grandparents ___ (be) 70 next year.",
+      "options": ["will be", "will are", "are being", "be"],
+      "answer": 0,
+      "explanation": "next year บอกอนาคต และหลัง will ใช้ **be**"
+    },
+    {
+      "q": "คำบอกเวลาใดใช้กับอนาคต",
+      "options": ["last night", "two days ago", "next month", "yesterday"],
+      "answer": 2,
+      "explanation": "**next month** (เดือนหน้า) บอกอนาคต ส่วนข้ออื่นบอกอดีต"
+    },
+    {
+      "q": "คำบอกเวลาใด ไม่ ใช้กับอนาคต",
+      "options": ["tomorrow", "soon", "in two weeks", "a week ago"],
+      "answer": 3,
+      "explanation": "**a week ago** (หนึ่งสัปดาห์ที่แล้ว) บอกอดีต"
+    },
+    {
+      "q": "“I will” เขียนแบบย่อได้ว่าอะไร",
+      "options": ["I'm", "I'll", "I'd", "I've"],
+      "answer": 1,
+      "explanation": "I will → **I'll**"
+    },
+    {
+      "q": "“will not” เขียนแบบย่อได้ว่าอะไร",
+      "options": ["willn't", "won't", "wont'", "don't"],
+      "answer": 1,
+      "explanation": "will not ย่อเป็น **won't** (รูปพิเศษ ต้องจำ)"
+    },
+    {
+      "q": "ประโยคปฏิเสธของ “She will join the club.” คือข้อใด",
+      "options": ["She won't join the club.", "She doesn't will join the club.", "She won't joins the club.", "She will joins not the club."],
+      "answer": 0,
+      "explanation": "will + not → **won't** + V1 (join)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Don't worry. I ___ tell anyone your secret.",
+      "options": ["don't", "won't", "am not", "didn't"],
+      "answer": 1,
+      "explanation": "สัญญาว่าจะไม่บอกใคร (อนาคต) → **won't** tell"
+    },
+    {
+      "q": "ประโยคใดถูกต้อง",
+      "options": ["They don't will come.", "They won't come.", "They won't to come.", "They not will come."],
+      "answer": 1,
+      "explanation": "ปฏิเสธใช้ **won't + V1** → They won't come."
+    },
+    {
+      "q": "เปลี่ยน “You will help me.” เป็นประโยคคำถาม ข้อใดถูกต้อง",
+      "options": ["Do you will help me?", "Will you help me?", "Will you helps me?", "You will help me?"],
+      "answer": 1,
+      "explanation": "ย้าย will ขึ้นต้นประโยค → **Will you help** me?"
+    },
+    {
+      "q": "A: Will you join the sports day?  B: Yes, I ___.",
+      "options": ["do", "am", "will", "join"],
+      "answer": 2,
+      "explanation": "คำถามขึ้นต้นด้วย Will คำตอบสั้นใช้ **will** → Yes, I will."
+    },
+    {
+      "q": "A: Will your dad drive you to school tomorrow?  B: No, he ___.",
+      "options": ["doesn't", "won't", "isn't", "didn't"],
+      "answer": 1,
+      "explanation": "ตอบปฏิเสธคำถามที่ขึ้นต้นด้วย Will → No, he **won't**."
+    },
+    {
+      "q": "A: Will the guests arrive before six?  B: Yes, they ___.",
+      "options": ["are", "do", "will", "arrive"],
+      "answer": 2,
+      "explanation": "ถามด้วย Will ตอบด้วย **will** → Yes, they will."
+    },
+    {
+      "q": "A: ___ will the concert start?  B: At 7:30.",
+      "options": ["Where", "What time", "Why", "Who"],
+      "answer": 1,
+      "explanation": "คำตอบบอกเวลา (At 7:30) จึงถามด้วย **What time**"
+    },
+    {
+      "q": "A: Where will you stay in Chiang Mai?  B: ___",
+      "options": ["Yes, I will.", "At my uncle's house.", "Because it's cheap.", "For three days."],
+      "answer": 1,
+      "explanation": "Where ถามสถานที่ → **At my uncle's house.**"
+    },
+    {
+      "q": "A: Who will bring the snacks?  B: ___",
+      "options": ["After school.", "Because we're hungry.", "Mint will.", "Yes, she will."],
+      "answer": 2,
+      "explanation": "Who ถามบุคคล → **Mint will.** (มิ้นท์จะเอามา)"
+    },
+    {
+      "q": "A: What will you order?  B: ___",
+      "options": ["Pad thai, please.", "At noon.", "At the food court.", "Yes, I will."],
+      "answer": 0,
+      "explanation": "What ถามสิ่งของ/อาหาร → **Pad thai, please.**"
+    },
+    {
+      "q": "เรียงคำให้เป็นคำถามที่ถูกต้อง: (will / when / arrive / the bus)",
+      "options": ["When will the bus arrive?", "When the bus will arrive?", "Will when the bus arrive?", "When will arrive the bus?"],
+      "answer": 0,
+      "explanation": "Wh- + will + ประธาน + V1 → **When will the bus arrive?**"
+    },
+    {
+      "q": "เรียงคำให้เป็นคำถามที่ถูกต้อง: (will / what / do / you / tomorrow)",
+      "options": ["What will you do tomorrow?", "What you will do tomorrow?", "Will what you do tomorrow?", "What will do you tomorrow?"],
+      "answer": 0,
+      "explanation": "Wh- + will + ประธาน + V1 → **What will you do** tomorrow?"
+    },
+    {
+      "q": "สถานการณ์: กระเป๋าของเพื่อนดูหนักมาก คุณอยากเสนอช่วย ควรพูดว่าอะไร",
+      "options": ["I carry it for you.", "I'll carry it for you.", "I carried it for you.", "I'm carry it for you."],
+      "answer": 1,
+      "explanation": "เสนอช่วยเหลือ / ตัดสินใจทันที ใช้ **will** → I'll carry it for you."
+    },
+    {
+      "q": "สถานการณ์: คุณสัญญากับแม่ว่าจะกลับบ้านก่อนสองทุ่ม ควรพูดว่าอะไร",
+      "options": ["I come home before 8 p.m.", "I'll come home before 8 p.m. I promise.", "I came home before 8 p.m.", "I coming home before 8 p.m."],
+      "answer": 1,
+      "explanation": "คำสัญญาใช้ **will** → I'll come home…"
+    },
+    {
+      "q": "สถานการณ์: โทรศัพท์ดังขึ้น และคุณตัดสินใจรับสายทันที ควรพูดว่าอะไร",
+      "options": ["I'll answer it.", "I answered it.", "I'm going to answer it next week.", "I answer it yesterday."],
+      "answer": 0,
+      "explanation": "ตัดสินใจทันทีขณะพูดใช้ **will** → I'll answer it."
+    },
+    {
+      "q": "เติมคำในช่องว่าง: I'm sure you ___ the test. You studied very hard.",
+      "options": ["pass", "will pass", "passed", "passing"],
+      "answer": 1,
+      "explanation": "คาดเดาอนาคต (I'm sure) → **will pass**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: ___ I open the window for you? (เสนอความช่วยเหลือ)",
+      "options": ["Shall", "Do", "Am", "Did"],
+      "answer": 0,
+      "explanation": "เสนอช่วยเหลืออย่างสุภาพใช้ **Shall I …?** (ให้ฉัน…ไหม)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Look at those dark clouds! It ___ rain.",
+      "options": ["is going to", "will to", "going to", "is go to"],
+      "answer": 0,
+      "explanation": "คาดเดาจากสิ่งที่เห็น (เมฆดำ) ใช้ **is going to** + V1"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: We have bought the tickets. We ___ watch the concert on Saturday.",
+      "options": ["are going", "are going to", "is going to", "going"],
+      "answer": 1,
+      "explanation": "แผนที่ตัดสินใจไว้แล้ว (ซื้อตั๋วแล้ว) และประธาน we → **are going to** + V1"
+    },
+    {
+      "q": "A: We don't have any milk.  B: Oh, I ___ buy some. (ตัดสินใจตอนนั้นทันที)",
+      "options": ["am going to", "'ll", "going to", "did"],
+      "answer": 1,
+      "explanation": "ตัดสินใจทันทีขณะพูดใช้ **will** → I'll buy some. (be going to ใช้กับแผนที่คิดไว้ก่อน)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: My sister ___ going to study in Australia next year.",
+      "options": ["are", "is", "am", "will"],
+      "answer": 1,
+      "explanation": "My sister = she → **is** going to"
+    },
+    {
+      "q": "ประโยคใดถูกต้อง",
+      "options": ["They are going to visit Chiang Rai.", "They are going visit Chiang Rai.", "They going to visit Chiang Rai.", "They is going to visit Chiang Rai."],
+      "answer": 0,
+      "explanation": "they + **are going to** + V1"
+    },
+    {
+      "q": "สถานการณ์: เห็นเด็กกำลังวิ่งเร็วมากบนพื้นเปียก ข้อใดพูดได้ถูกต้อง",
+      "options": ["He will to fall.", "He's going to fall!", "He going to fall!", "He falls tomorrow."],
+      "answer": 1,
+      "explanation": "คาดเดาจากสิ่งที่เห็นตรงหน้า ใช้ **be going to** → He's going to fall!"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: I'm tired. I think I ___ to bed early tonight.",
+      "options": ["go", "will go", "went", "have gone"],
+      "answer": 1,
+      "explanation": "I think + การตัดสินใจเรื่องอนาคต → **will go**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Maybe we ___ a new car next year.",
+      "options": ["buy", "will buy", "bought", "buys"],
+      "answer": 1,
+      "explanation": "Maybe + next year (คาดเดาอนาคต) → **will buy**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Dad ___ angry if you break the vase.",
+      "options": ["will be", "will is", "is be", "be"],
+      "answer": 0,
+      "explanation": "ผลในอนาคต ใช้ will + be → **will be**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: People ___ live on Mars in the future.",
+      "options": ["will", "will be", "are", "do"],
+      "answer": 0,
+      "explanation": "in the future บอกอนาคต → **will** + live"
+    },
+    {
+      "q": "ประโยคใดผิดหลักไวยากรณ์",
+      "options": ["I'll see you later.", "She won't forget your birthday.", "Will they come tomorrow?", "He will plays football tonight."],
+      "answer": 3,
+      "explanation": "หลัง will ใช้ V1 → He will **play** football tonight."
+    },
+    {
+      "q": "ประโยคใดเป็น Future Simple",
+      "options": ["I visited my aunt.", "I will visit my aunt.", "I am visiting my aunt now.", "I visit my aunt every week."],
+      "answer": 1,
+      "explanation": "**will visit** = will + V1 จึงเป็น Future Simple"
+    },
+    {
+      "q": "แปล: “ฉันจะไม่ไปโรงเรียนสายอีกแล้ว”",
+      "options": ["I won't be late for school again.", "I don't late for school again.", "I'm not late for school again.", "I didn't be late for school again."],
+      "answer": 0,
+      "explanation": "สัญญาเรื่องอนาคต (ปฏิเสธ) → I **won't be** late"
+    },
+    {
+      "q": "แปล: “พรุ่งนี้เธอจะว่างไหม”",
+      "options": ["Are you free yesterday?", "Will you be free tomorrow?", "Will you free tomorrow?", "Do you will be free tomorrow?"],
+      "answer": 1,
+      "explanation": "free เป็นคำคุณศัพท์ ต้องมี be → **Will you be free** tomorrow?"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The weather ___ be sunny this weekend, so let's go to the beach.",
+      "options": ["will", "is", "does", "has"],
+      "answer": 0,
+      "explanation": "this weekend เป็นอนาคต → **will** be"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Hurry up, or we ___ the train.",
+      "options": ["miss", "will miss", "missed", "are miss"],
+      "answer": 1,
+      "explanation": "ผลที่จะเกิดในอนาคตถ้าไม่รีบ → **will miss**"
+    },
+    {
+      "q": "A: I can't do this math problem.  B: Don't worry. I ___ you.",
+      "options": ["help", "will help", "helped", "am help"],
+      "answer": 1,
+      "explanation": "เสนอช่วยเหลือทันที → **will help**"
+    },
+    {
+      "q": "เรียงคำให้เป็นประโยคที่ถูกต้อง: (won't / she / the news / believe)",
+      "options": ["She won't believe the news.", "She believe won't the news.", "Won't she believe the news.", "She won't believes the news."],
+      "answer": 0,
+      "explanation": "ประธาน + won't + V1 → **She won't believe** the news."
+    },
+    {
+      "q": "อ่านข้อความ: “Next Saturday, our class will go on a field trip to the science museum. We will leave school at 8 a.m. and come back at 4 p.m. Students won't need to bring lunch.” ข้อใดถูกต้อง",
+      "options": ["The trip is next Sunday.", "Students will bring their own lunch.", "The class will come back at 4 p.m.", "They will visit an art museum."],
+      "answer": 2,
+      "explanation": "ข้อความบอกว่า come back **at 4 p.m.** ส่วนทริปเป็นวันเสาร์ ไม่ต้องเอาข้าวกลางวันไป และเป็นพิพิธภัณฑ์วิทยาศาสตร์"
+    },
+    {
+      "q": "อ่านบทสนทนา: “Mom: Can you help me clean the house this afternoon?  Fah: Sorry, Mom. I'll do my homework first, and then I'll help you.” Fah จะทำอะไรก่อน",
+      "options": ["ทำความสะอาดบ้าน", "ทำการบ้าน", "ไปเที่ยว", "นอนพัก"],
+      "answer": 1,
+      "explanation": "Fah บอกว่า I'll do my **homework first** (จะทำการบ้านก่อน) แล้วค่อยช่วยแม่"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Where ___ you be at 5 p.m. tomorrow?",
+      "options": ["are", "will", "do", "did"],
+      "answer": 1,
+      "explanation": "tomorrow บอกอนาคต → Where **will** you be?"
+    }
+  ]
+}

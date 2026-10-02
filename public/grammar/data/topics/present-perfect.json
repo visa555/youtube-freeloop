@@ -1,0 +1,394 @@
+{
+  "lesson": {
+    "summary": "เชื่อม **อดีตกับปัจจุบัน** — ใช้กับสิ่งที่ **เคยทำ** (ประสบการณ์) สิ่งที่ **เพิ่งทำเสร็จ** และผลยังอยู่ หรือสิ่งที่ **ทำมาตั้งแต่อดีตจนถึงตอนนี้**",
+    "sections": [
+      {
+        "icon": "🎯",
+        "title": "ใช้เมื่อไหร่",
+        "list": [
+          "ประสบการณ์ เคย / ไม่เคย (ไม่บอกเวลาแน่นอน) — I **have been** to Japan twice.",
+          "เพิ่งเกิดขึ้น และผลยังเห็นอยู่ตอนนี้ — Oh no! I **have lost** my key. (ตอนนี้ยังหาไม่เจอ)",
+          "เริ่มในอดีตและยังเป็นอยู่ถึงตอนนี้ — We **have lived** here **for** ten years.",
+          "ระวัง: Tom **has gone** to Japan. = ไปแล้วยังไม่กลับ · Tom **has been** to Japan. = เคยไปและกลับมาแล้ว"
+        ]
+      },
+      {
+        "icon": "🧱",
+        "title": "โครงสร้าง",
+        "formulas": [
+          { "label": "บอกเล่า", "formula": "I / You / We / They + **have** + V3", "example": "They **have finished** the project." },
+          { "label": "บอกเล่า", "formula": "He / She / It + **has** + V3", "example": "She **has visited** Chiang Rai." },
+          { "label": "ปฏิเสธ", "formula": "ประธาน + **haven't / hasn't** + V3", "example": "I **haven't seen** that movie." },
+          { "label": "คำถาม", "formula": "**Have / Has** + ประธาน + V3 ?", "example": "**Has** he **eaten** yet? — Yes, he has. / No, he hasn't." }
+        ],
+        "list": [
+          "รูปย่อ: I've, you've, we've, they've · he's, she's, it's (= he **has**, she **has**) ถ้าตามด้วย V3"
+        ]
+      },
+      {
+        "icon": "🔤",
+        "title": "กริยาช่อง 3 (V3)",
+        "table": {
+          "head": ["แบบ", "ตัวอย่าง (V1 → V2 → V3)"],
+          "rows": [
+            ["กริยาปกติ: V3 เหมือน V2 (เติม -ed)", "play → played → played, study → studied → studied"],
+            ["V2 กับ V3 เหมือนกัน", "buy → bought → bought, make → made → made, have → had → had"],
+            ["เหมือนกันทั้ง 3 ช่อง", "cut → cut → cut, put → put → put, read → read → read"],
+            ["V3 ลงท้าย -en / -n", "eat → ate → **eaten**, write → wrote → **written**, see → saw → **seen**, take → took → **taken**"],
+            ["เปลี่ยนสระ i → a → u", "drink → drank → **drunk**, swim → swam → **swum**, begin → began → **begun**"],
+            ["อื่น ๆ (ต้องจำ)", "go → went → **gone**, be → was/were → **been**, do → did → **done**"]
+          ]
+        }
+      },
+      {
+        "icon": "⏰",
+        "title": "for / since และคำสังเกต",
+        "list": [
+          "**for** + ระยะเวลา (นานเท่าไร): for two hours, for three years, for a long time",
+          "**since** + จุดเริ่มต้น (ตั้งแต่เมื่อไร): since 2020, since Monday, since I was ten",
+          "**ever** (เคย…ไหม) · **never** (ไม่เคย) · **just** (เพิ่งจะ) · **already** (แล้ว) · **yet** (หรือยัง / ยัง ใช้ท้ายประโยคคำถามและปฏิเสธ)"
+        ],
+        "chips": ["for", "since", "ever", "never", "just", "already", "yet", "so far", "recently", "before"]
+      },
+      {
+        "icon": "🆚",
+        "title": "Present Perfect กับ Past Simple",
+        "table": {
+          "head": ["Present Perfect", "Past Simple"],
+          "rows": [
+            ["ไม่บอกเวลาแน่นอน: I **have seen** this movie.", "บอกเวลาแน่นอน: I **saw** this movie **last week**."],
+            ["ยังเกี่ยวกับตอนนี้: She **has lived** here for 5 years. (ยังอยู่)", "จบไปแล้ว: She **lived** here for 5 years. (ย้ายออกแล้ว)"]
+          ]
+        },
+        "text": "ถ้ามี yesterday, last …, … ago, in 2019 ต้องใช้ **Past Simple** เท่านั้น"
+      },
+      {
+        "icon": "📝",
+        "title": "ตัวอย่าง",
+        "examples": [
+          { "en": "**Have** you **ever eaten** durian? — Yes, I **have**.", "th": "เธอเคยกินทุเรียนไหม — เคย" },
+          { "en": "My dad **has worked** at the hospital **since** 2015.", "th": "พ่อทำงานที่โรงพยาบาลตั้งแต่ปี 2015 (ปัจจุบันยังทำอยู่)" },
+          { "en": "We **haven't finished** our project **yet**.", "th": "พวกเรายังทำโครงงานไม่เสร็จ" }
+        ]
+      },
+      {
+        "icon": "⚠️",
+        "title": "ระวัง! จุดที่มักผิด",
+        "mistakes": [
+          { "wrong": "She **have** finished.", "right": "She **has** finished.", "why": "he / she / it ใช้ has" },
+          { "wrong": "I have **saw** it.", "right": "I have **seen** it.", "why": "หลัง have / has ต้องใช้ V3" },
+          { "wrong": "I **have visited** Japan **last year**.", "right": "I **visited** Japan last year.", "why": "มีเวลาในอดีตที่ชัดเจน ต้องใช้ Past Simple" },
+          { "wrong": "We have lived here **since** five years.", "right": "We have lived here **for** five years.", "why": "five years เป็นระยะเวลา ใช้ for" }
+        ]
+      }
+    ],
+    "tip": "**have / has + V3** = “ทำแล้ว / เคยแล้ว และยังเกี่ยวกับตอนนี้” — เห็น for, since, ever, never, just, already, yet ให้นึกถึง Present Perfect"
+  },
+  "questions": [
+    {
+      "q": "เติมคำในช่องว่าง: My sister ___ finished her homework.",
+      "options": ["have", "has", "is", "does"],
+      "answer": 1,
+      "explanation": "My sister = she ใช้ **has** + V3"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: We ___ known each other since kindergarten.",
+      "options": ["has", "have", "are", "did"],
+      "answer": 1,
+      "explanation": "ประธาน we ใช้ **have** + V3 (known)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The students ___ already handed in their reports.",
+      "options": ["has", "have", "is", "does"],
+      "answer": 1,
+      "explanation": "The students เป็นพหูพจน์ ใช้ **have**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Everyone ___ arrived. Let's start the meeting.",
+      "options": ["have", "has", "are", "were"],
+      "answer": 1,
+      "explanation": "Everyone ถือเป็นเอกพจน์ ใช้ **has** + V3"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: I ___ never eaten durian.",
+      "options": ["has", "have", "am", "did"],
+      "answer": 1,
+      "explanation": "ประธาน I ใช้ **have** → I have never eaten = ฉันไม่เคยกิน"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: It ___ rained for three days.",
+      "options": ["have", "has", "is", "was"],
+      "answer": 1,
+      "explanation": "ประธาน it ใช้ **has** + V3"
+    },
+    {
+      "q": "กริยาช่อง 3 (V3) ของ “eat” คือข้อใด",
+      "options": ["ate", "eaten", "eated", "eating"],
+      "answer": 1,
+      "explanation": "eat → ate → **eaten** (ate เป็นช่อง 2)"
+    },
+    {
+      "q": "กริยาช่อง 3 (V3) ของ “write” คือข้อใด",
+      "options": ["wrote", "writed", "written", "writen"],
+      "answer": 2,
+      "explanation": "write → wrote → **written** (มี t สองตัว)"
+    },
+    {
+      "q": "กริยาช่อง 3 (V3) ของ “go” คือข้อใด",
+      "options": ["went", "gone", "goed", "going"],
+      "answer": 1,
+      "explanation": "go → went → **gone**"
+    },
+    {
+      "q": "กริยาช่อง 3 (V3) ของ “drink” คือข้อใด",
+      "options": ["drank", "drinked", "drunk", "drunken"],
+      "answer": 2,
+      "explanation": "drink → drank → **drunk** (เปลี่ยนสระ i → a → u)"
+    },
+    {
+      "q": "กริยาช่อง 3 (V3) ของ “buy” คือข้อใด",
+      "options": ["buyed", "bought", "boughten", "brought"],
+      "answer": 1,
+      "explanation": "buy → bought → **bought** (brought เป็นช่อง 2 และ 3 ของ bring)"
+    },
+    {
+      "q": "กริยาช่อง 3 (V3) ของ “take” คือข้อใด",
+      "options": ["took", "taked", "taken", "tooken"],
+      "answer": 2,
+      "explanation": "take → took → **taken**"
+    },
+    {
+      "q": "กริยาในข้อใดเปลี่ยนเป็น V3 ไม่ถูกต้อง",
+      "options": ["see → seen", "do → done", "speak → spoke", "break → broken"],
+      "answer": 2,
+      "explanation": "speak → spoke → **spoken** (spoke เป็นช่อง 2)"
+    },
+    {
+      "q": "กริยาข้อใดมีรูป V2 และ V3 เหมือนกัน",
+      "options": ["make", "swim", "give", "fly"],
+      "answer": 0,
+      "explanation": "make → made → **made** ส่วน swim → swam → swum, give → gave → given, fly → flew → flown"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Mr. Lee ___ at this school since 2015.",
+      "options": ["teaches", "taught", "has taught", "have taught"],
+      "answer": 2,
+      "explanation": "since 2015 = ตั้งแต่อดีตจนถึงตอนนี้ ใช้ Present Perfect และ Mr. Lee = he → **has taught**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: They ___ in this house for twenty years, and they still love it.",
+      "options": ["live", "lived", "have lived", "has lived"],
+      "answer": 2,
+      "explanation": "ยังอยู่ถึงตอนนี้ (still love it) และมี for → **have lived**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: ___ you ever ___ a snake?",
+      "options": ["Do / touch", "Have / touched", "Has / touched", "Have / touch"],
+      "answer": 1,
+      "explanation": "ถามประสบการณ์ด้วย ever ใช้ **Have** + you + ever + **V3** (touched)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: She has ___ to Korea three times.",
+      "options": ["be", "was", "been", "being"],
+      "answer": 2,
+      "explanation": "has + V3 ของ be คือ **been** → has been to = เคยไป"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: I've ___ this book before. It's really good.",
+      "options": ["read", "readed", "reading", "reads"],
+      "answer": 0,
+      "explanation": "read เหมือนกันทั้ง 3 ช่อง (read → read → **read**) แต่ช่อง 2 และ 3 อ่านว่า “เร้ด”"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The train ___ just ___. Let's get on!",
+      "options": ["has / arrived", "have / arrived", "has / arrive", "is / arrived"],
+      "answer": 0,
+      "explanation": "The train = it ใช้ **has** + just + V3 (**arrived**) = เพิ่งมาถึง"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: How many movies ___ you ___ this month?",
+      "options": ["has / watched", "have / watched", "have / watch", "are / watched"],
+      "answer": 1,
+      "explanation": "this month ยังไม่จบ ใช้ Present Perfect: **have** + you + **watched**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: My parents have ___ married for 15 years.",
+      "options": ["be", "been", "being", "were"],
+      "answer": 1,
+      "explanation": "have + V3 ของ be → have **been** married = แต่งงานกันมา 15 ปี"
+    },
+    {
+      "q": "ประโยคปฏิเสธของ “He has cleaned his room.” คือข้อใด",
+      "options": ["He hasn't cleaned his room.", "He haven't cleaned his room.", "He doesn't cleaned his room.", "He hasn't clean his room."],
+      "answer": 0,
+      "explanation": "เติม not หลัง has → **hasn't** + V3 (cleaned)"
+    },
+    {
+      "q": "“have not” เขียนแบบย่อได้ว่าอะไร",
+      "options": ["haven't", "hasn't", "hadn't", "havn't"],
+      "answer": 0,
+      "explanation": "have not → **haven't** (ตัด o ใน not แล้วใส่ ’)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: We ___ seen Tom since last week. Is he sick?",
+      "options": ["hasn't", "haven't", "didn't", "don't"],
+      "answer": 1,
+      "explanation": "since last week + ประธาน we → **haven't** seen"
+    },
+    {
+      "q": "ในประโยค “She's finished her lunch.” คำว่า She's ย่อมาจากอะไร",
+      "options": ["She is", "She has", "She was", "She does"],
+      "answer": 1,
+      "explanation": "'s ตามด้วย V3 (finished) จึงย่อมาจาก **She has**"
+    },
+    {
+      "q": "เปลี่ยน “They have visited the museum.” เป็นประโยคคำถาม ข้อใดถูกต้อง",
+      "options": ["Did they visited the museum?", "Have they visited the museum?", "Has they visited the museum?", "Have they visit the museum?"],
+      "answer": 1,
+      "explanation": "ย้าย have ขึ้นต้นประโยค → **Have they visited** the museum?"
+    },
+    {
+      "q": "A: Have you finished your homework?  B: Yes, I ___.",
+      "options": ["did", "have", "has", "finished"],
+      "answer": 1,
+      "explanation": "คำถามขึ้นต้นด้วย Have คำตอบสั้นใช้ **have** → Yes, I have."
+    },
+    {
+      "q": "A: Has Nida called you yet?  B: No, she ___.",
+      "options": ["didn't", "haven't", "hasn't", "isn't"],
+      "answer": 2,
+      "explanation": "คำถามขึ้นต้นด้วย Has และประธาน she → No, she **hasn't**."
+    },
+    {
+      "q": "A: How long ___ you known your best friend?  B: For six years.",
+      "options": ["did", "do", "have", "has"],
+      "answer": 2,
+      "explanation": "ถามระยะเวลาตั้งแต่อดีตถึงตอนนี้: How long + **have** + you + known"
+    },
+    {
+      "q": "เรียงคำให้เป็นคำถามที่ถูกต้อง: (ever / you / have / ridden / a horse)",
+      "options": ["Have ever you ridden a horse?", "Have you ever ridden a horse?", "You have ever ridden a horse?", "Have you ridden ever a horse?"],
+      "answer": 1,
+      "explanation": "Have + ประธาน + ever + V3 → **Have you ever ridden** a horse?"
+    },
+    {
+      "q": "เติม for หรือ since: I have studied English ___ six years.",
+      "options": ["for", "since"],
+      "answer": 0,
+      "keepOrder": true,
+      "explanation": "six years เป็นระยะเวลา ใช้ **for**"
+    },
+    {
+      "q": "เติม for หรือ since: She has worked here ___ 2019.",
+      "options": ["for", "since"],
+      "answer": 1,
+      "keepOrder": true,
+      "explanation": "2019 เป็นจุดเริ่มต้น ใช้ **since**"
+    },
+    {
+      "q": "เติม for หรือ since: We have waited ___ two hours.",
+      "options": ["for", "since"],
+      "answer": 0,
+      "keepOrder": true,
+      "explanation": "two hours เป็นระยะเวลา ใช้ **for**"
+    },
+    {
+      "q": "เติม for หรือ since: He hasn't eaten anything ___ breakfast.",
+      "options": ["for", "since"],
+      "answer": 1,
+      "keepOrder": true,
+      "explanation": "breakfast เป็นจุดเริ่มต้น (ตั้งแต่มื้อเช้า) ใช้ **since**"
+    },
+    {
+      "q": "เติม for หรือ since: They have been friends ___ they were children.",
+      "options": ["for", "since"],
+      "answer": 1,
+      "keepOrder": true,
+      "explanation": "they were children เป็นจุดเริ่มต้น (ตั้งแต่ตอนเป็นเด็ก) ใช้ **since**"
+    },
+    {
+      "q": "คำใดใช้ตามหลัง since ได้",
+      "options": ["three days", "a long time", "last Monday", "two weeks"],
+      "answer": 2,
+      "explanation": "**last Monday** เป็นจุดเริ่มต้นของเวลา ส่วนข้ออื่นเป็นระยะเวลา ใช้กับ for"
+    },
+    {
+      "q": "คำใดใช้ตามหลัง for ได้",
+      "options": ["2020", "yesterday", "ten minutes", "my birthday"],
+      "answer": 2,
+      "explanation": "**ten minutes** เป็นระยะเวลา ใช้กับ for ส่วนข้ออื่นเป็นจุดเวลา"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Have you finished your project ___?",
+      "options": ["just", "yet", "since", "for"],
+      "answer": 1,
+      "explanation": "**yet** (หรือยัง) วางท้ายประโยคคำถาม"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: I'm not hungry. I've ___ had lunch.",
+      "options": ["yet", "already", "ever", "since"],
+      "answer": 1,
+      "explanation": "**already** (แล้ว) ใช้ในประโยคบอกเล่า วางระหว่าง have กับ V3"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: I have ___ been on a plane. I'm a little nervous about my first flight.",
+      "options": ["ever", "never", "yet", "already"],
+      "answer": 1,
+      "explanation": "เป็นเที่ยวบินแรก แปลว่าไม่เคยขึ้นเครื่องบิน → I have **never** been on a plane."
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The movie hasn't started ___.",
+      "options": ["already", "yet", "ever", "just"],
+      "answer": 1,
+      "explanation": "ประโยคปฏิเสธใช้ **yet** ท้ายประโยค = ยังไม่…"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Have you ___ seen snow?",
+      "options": ["ever", "yet", "since", "for"],
+      "answer": 0,
+      "explanation": "ถามประสบการณ์ว่า “เคย…ไหม” ใช้ **ever** วางหน้า V3"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: I ___ to Phuket last December.",
+      "options": ["have gone", "have been", "went", "has gone"],
+      "answer": 2,
+      "explanation": "last December เป็นเวลาในอดีตที่ชัดเจน ต้องใช้ Past Simple → **went**"
+    },
+    {
+      "q": "ประโยคใดผิดหลักไวยากรณ์",
+      "options": ["I have seen this film twice.", "She has lived here since 2018.", "We have visited the zoo yesterday.", "They haven't finished yet."],
+      "answer": 2,
+      "explanation": "มี yesterday ต้องใช้ Past Simple → We **visited** the zoo yesterday."
+    },
+    {
+      "q": "เติมคำในช่องว่าง: A: ___ you ever ___ sushi?  B: Yes. I ___ it last month in Tokyo.",
+      "options": ["Have / eaten / ate", "Did / eat / have eaten", "Have / ate / eaten", "Have / eaten / have eaten"],
+      "answer": 0,
+      "explanation": "ถามประสบการณ์ใช้ **Have … eaten** แต่ตอบเวลาชัดเจน (last month) ใช้ Past Simple **ate**"
+    },
+    {
+      "q": "ข้อใดใช้ Present Perfect ได้เหมาะสม",
+      "options": ["I have finished the book last night.", "Have you ever tried Thai boxing?", "She has gone to school yesterday.", "We have met him two days ago."],
+      "answer": 1,
+      "explanation": "ถามประสบการณ์โดยไม่ระบุเวลา ใช้ Present Perfect ได้ ส่วนข้ออื่นมีเวลาในอดีต (last night, yesterday, ago) ต้องใช้ Past Simple"
+    },
+    {
+      "q": "“Dad has gone to the market.” หมายความว่าอย่างไร",
+      "options": ["พ่อเคยไปตลาด", "พ่อไปตลาดแล้วและยังไม่กลับมา", "พ่อจะไปตลาด", "พ่อไม่เคยไปตลาด"],
+      "answer": 1,
+      "explanation": "**has gone to** = ไปแล้วและยังไม่กลับ (ถ้า has been to = เคยไปและกลับมาแล้ว)"
+    },
+    {
+      "q": "A: Where's Jenny?  B: She has ___ to the library. She'll be back soon.",
+      "options": ["been", "gone", "went", "going"],
+      "answer": 1,
+      "explanation": "Jenny ไม่อยู่ตอนนี้และจะกลับมาเร็ว ๆ นี้ → has **gone** to (ไปแล้วยังไม่กลับ)"
+    },
+    {
+      "q": "อ่านข้อความ: “Nong has lived in Chiang Mai since she was five. She has visited Bangkok many times, but she has never been to the sea.” ข้อใดถูกต้อง",
+      "options": ["Nong has never visited Bangkok.", "Nong has seen the sea many times.", "Nong still lives in Chiang Mai.", "Nong moved to Chiang Mai last year."],
+      "answer": 2,
+      "explanation": "has lived … since she was five = อาศัยอยู่ตั้งแต่อายุ 5 ขวบ **จนถึงตอนนี้** จึงยังอยู่เชียงใหม่"
+    }
+  ]
+}

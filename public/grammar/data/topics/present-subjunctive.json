@@ -1,0 +1,90 @@
+{
+  "lesson": {
+    "summary": "Present Subjunctive ใช้หลังคำที่บอก **การแนะนำ เรียกร้อง สั่ง หรือความจำเป็น** โดยกริยาหลัง that ใช้ **รูปเดิม (V1) กับทุกประธาน** — ไม่เติม s และไม่เปลี่ยนตาม tense",
+    "sections": [
+      {
+        "icon": "🧱",
+        "title": "โครงสร้าง",
+        "formulas": [
+          { "label": "หลังกริยา", "formula": "ประธาน + suggest / recommend / insist / demand / ask / require + **that + ประธาน + V1**", "example": "The doctor suggested that Ben **rest** at home." },
+          { "label": "It is + adj", "formula": "It is + important / necessary / essential / vital + **that + ประธาน + V1**", "example": "It is important that every student **be** on time." },
+          { "label": "It is + V3", "formula": "It is + recommended / required / suggested + **that + ประธาน + V1**", "example": "It is required that each visitor **show** an ID card." }
+        ],
+        "list": [
+          "**ไม่เติม s** แม้ประธานเป็นเอกพจน์: She suggested that he **go** home. (ไม่ใช่ goes)",
+          "verb to be ใช้ **be**: I insist that she **be** here.",
+          "ปฏิเสธใช้ **not + V1** (ไม่มี do): We suggest that you **not be** late.",
+          "บางครั้งใช้ **should + V1** แทนได้ ความหมายเท่ากัน: The doctor suggested that she **should rest**."
+        ]
+      },
+      {
+        "icon": "🗂️",
+        "title": "คำที่มักตามด้วย subjunctive",
+        "chips": ["suggest", "recommend", "insist", "demand", "request", "require", "ask", "propose", "important", "necessary", "essential", "vital"]
+      },
+      {
+        "icon": "🙏",
+        "title": "ประโยคอวยพร",
+        "text": "สำนวนอวยพรบางแบบก็ใช้ V1 เช่นกัน",
+        "examples": [
+          { "en": "Long **live** the King!", "th": "ขอทรงพระเจริญ" },
+          { "en": "God **bless** you.", "th": "ขอพระเจ้าคุ้มครอง" },
+          { "en": "May all your dreams **come** true!", "th": "ขอให้ความฝันทุกอย่างเป็นจริง" }
+        ]
+      },
+      {
+        "icon": "⚠️",
+        "title": "ระวัง! จุดที่มักผิด",
+        "mistakes": [
+          { "wrong": "The doctor suggested that she **takes** a rest.", "right": "The doctor suggested that she **take** a rest.", "why": "หลัง suggest that ใช้ V1 ไม่เติม s" },
+          { "wrong": "It is important that he **is** on time.", "right": "It is important that he **be** on time.", "why": "verb to be ใช้ be" },
+          { "wrong": "I recommend that you **don't** eat late.", "right": "I recommend that you **not eat** late.", "why": "ปฏิเสธใช้ not + V1" },
+          { "wrong": "I suggest **you to** get some rest.", "right": "I suggest **that you** get some rest.", "why": "suggest ไม่ใช้โครงสร้าง คน + to V" }
+        ]
+      }
+    ],
+    "tip": "หลัง **suggest, recommend, insist, demand, It is important that …** ให้ใช้ **V1 เปลือย ๆ** กับทุกประธาน (be ก็ใช้ be · ปฏิเสธใช้ not + V1)"
+  },
+  "questions": [
+    { "q": "The doctor suggested that Ben ___ at home.", "options": ["rests", "rest", "rested", "resting"], "answer": 1, "explanation": "หลัง suggest that ใช้ **V1** กับทุกประธาน → rest" },
+    { "q": "My teacher recommends that I ___ this book.", "options": ["read", "reads", "reading", "am reading"], "answer": 0, "explanation": "recommend that + ประธาน + **V1**" },
+    { "q": "The principal requires that every student ___ a name tag.", "options": ["wear", "wears", "wore", "wearing"], "answer": 0, "explanation": "require that + ประธาน + **V1** (ไม่เติม s)" },
+    { "q": "It is important that she ___ on time.", "options": ["is", "be", "was", "being"], "answer": 1, "explanation": "It is important that … ใช้ verb to be รูป **be**" },
+    { "q": "It is necessary that each student ___ the form.", "options": ["completes", "complete", "completed", "completing"], "answer": 1, "explanation": "It is necessary that + ประธาน + **V1**" },
+    { "q": "The lifeguard insisted that every child ___ a life jacket.", "options": ["wear", "wears", "wore", "is wearing"], "answer": 0, "explanation": "insist that + ประธาน + **V1**" },
+    { "q": "I suggest that he ___ a doctor.", "options": ["sees", "see", "saw", "seeing"], "answer": 1, "explanation": "suggest that + he + **see** (ไม่เติม s)" },
+    { "q": "It is essential that the machine ___ checked before use.", "options": ["is", "be", "was", "been"], "answer": 1, "explanation": "It is essential that … → **be** checked" },
+    { "q": "They demanded that the shop ___ their money back.", "options": ["gives", "give", "gave", "giving"], "answer": 1, "explanation": "demand that + ประธาน + **V1** (แม้ประโยคหลักเป็นอดีต)" },
+    { "q": "It is recommended that visitors ___ comfortable shoes.", "options": ["wear", "wears", "wore", "wearing"], "answer": 0, "explanation": "It is recommended that + ประธาน + **V1**" },
+    { "q": "The teacher suggested that we ___ late again.", "options": ["not be", "don't be", "aren't", "not are"], "answer": 0, "explanation": "ปฏิเสธใช้ **not + V1** → not be" },
+    { "q": "Mom insists that my brother ___ his room every Saturday.", "options": ["cleans", "clean", "cleaned", "cleaning"], "answer": 1, "explanation": "insist that + ประธาน + **V1**" },
+    { "q": "It is vital that he ___ this medicine every day.", "options": ["takes", "take", "took", "taking"], "answer": 1, "explanation": "It is vital that + he + **take**" },
+    { "q": "The rules require that all passengers ___ their seatbelts.", "options": ["fasten", "fastens", "fastened", "fastening"], "answer": 0, "explanation": "require that + ประธาน + **V1**" },
+    { "q": "I recommend that she ___ to bed early.", "options": ["goes", "go", "went", "going"], "answer": 1, "explanation": "recommend that + she + **go**" },
+    { "q": "ประโยคใดถูกต้องตามโครงสร้าง subjunctive", "options": ["The doctor suggested that she takes a rest.", "The doctor suggested that she take a rest.", "The doctor suggested that she took a rest.", "The doctor suggested that she taking a rest."], "answer": 1, "explanation": "suggest that + ประธาน + **V1** → take" },
+    { "q": "ประโยคใดถูกต้องตามโครงสร้าง subjunctive", "options": ["It is important that he is honest.", "It is important that he be honest.", "It is important that he was honest.", "It is important that he being honest."], "answer": 1, "explanation": "It is important that … → **be**" },
+    { "q": "ประโยคใดไม่ได้ใช้โครงสร้าง subjunctive (that + ประธาน + V1)", "options": ["I suggest that he study harder.", "It is necessary that she arrive early.", "They insisted that he pays the bill.", "We recommend that you be careful."], "answer": 2, "explanation": "pays เติม s แล้ว ไม่ใช่ V1 → ตามโครงสร้างต้องเป็น that he **pay**" },
+    { "q": "ประโยคใดไม่ได้ใช้โครงสร้าง subjunctive (that + ประธาน + V1)", "options": ["The teacher asked that we be quiet.", "It is essential that everyone attends the meeting.", "I demand that he apologize.", "It is vital that you not miss the bus."], "answer": 1, "explanation": "attends เติม s → ตามโครงสร้างต้องเป็น everyone **attend**" },
+    { "q": "คำใดมักตามด้วยโครงสร้าง that + ประธาน + V1", "options": ["suggest", "enjoy", "finish", "avoid"], "answer": 0, "explanation": "**suggest** (แนะนำ) ตามด้วย that + ประธาน + V1" },
+    { "q": "คำคุณศัพท์ใดใช้ในโครงสร้าง It is ___ that + ประธาน + V1", "options": ["important", "happy", "tired", "blue"], "answer": 0, "explanation": "**important** บอกความจำเป็น/ความสำคัญ" },
+    { "q": "ทำไม “She suggested that he go home.” จึงใช้ go ไม่ใช่ goes", "options": ["เพราะหลัง suggest that ใช้ V1 กับทุกประธาน", "เพราะเป็นอดีต", "เพราะ he เป็นพหูพจน์", "เพราะพิมพ์ผิด"], "answer": 0, "explanation": "เป็นโครงสร้าง subjunctive → **V1 เปลือย** กับทุกประธาน" },
+    { "q": "The doctor recommended that Grandpa ___ salty food.", "options": ["not eat", "doesn't eat", "not eats", "don't eat"], "answer": 0, "explanation": "ปฏิเสธใช้ **not + V1**" },
+    { "q": "It is important that you ___ your password with anyone.", "options": ["not share", "don't share", "not shares", "doesn't share"], "answer": 0, "explanation": "ปฏิเสธใช้ **not + V1** → not share" },
+    { "q": "แปล: “คุณแม่ยืนกรานให้ฉันกินผัก”", "options": ["Mom insisted that I eat vegetables.", "Mom insisted that I ate vegetables.", "Mom insisted that I eats vegetables.", "Mom insisted me eat vegetables."], "answer": 0, "explanation": "insist that + ประธาน + **V1** (eat)" },
+    { "q": "แปล: “เป็นสิ่งจำเป็นที่นักเรียนทุกคนต้องสวมชุดนักเรียน”", "options": ["It is necessary that every student wear a uniform.", "It is necessary every student wearing a uniform.", "It is necessary that every student wore a uniform.", "It necessary that every student wear a uniform."], "answer": 0, "explanation": "It is necessary that + ประธาน + **V1**" },
+    { "q": "แปล: “It is required that every visitor show an ID card.”", "options": ["ผู้มาเยือนทุกคนต้องแสดงบัตรประชาชน (เป็นข้อกำหนด)", "ผู้มาเยือนแสดงบัตรแล้ว", "ผู้มาเยือนไม่ต้องแสดงบัตร", "ผู้มาเยือนจะได้รับบัตร"], "answer": 0, "explanation": "It is required that … = **มีข้อกำหนดว่าต้อง…**" },
+    { "q": "“Long live the King!” แปลว่าอะไร", "options": ["ขอทรงพระเจริญ", "พระราชาอยู่ที่นี่", "พระราชาอายุมาก", "พระราชาเสด็จมา"], "answer": 0, "explanation": "สำนวนอวยพร Long **live** … = ขอให้…มีพระชนมายุยืนนาน" },
+    { "q": "เติมคำในช่องว่าง: God ___ you!", "options": ["bless", "blesses", "blessed", "blessing"], "answer": 0, "explanation": "สำนวนอวยพรใช้ V1 → God **bless** you!" },
+    { "q": "เติมคำในช่องว่าง: May all your dreams ___ true!", "options": ["come", "comes", "came", "coming"], "answer": 0, "explanation": "May + ประธาน + **V1** = ขอให้…" },
+    { "q": "The teacher asked that the students ___ quiet during the exam.", "options": ["be", "are", "were", "being"], "answer": 0, "explanation": "ask that + ประธาน + **be**" },
+    { "q": "It is essential that every child ___ a good education.", "options": ["receive", "receives", "received", "receiving"], "answer": 0, "explanation": "It is essential that + ประธาน + **V1**" },
+    { "q": "My parents suggested that I ___ a part-time job.", "options": ["get", "gets", "got", "getting"], "answer": 0, "explanation": "suggest that + ประธาน + **V1**" },
+    { "q": "It is recommended that you ___ the museum on weekdays.", "options": ["visit", "visits", "visited", "visiting"], "answer": 0, "explanation": "It is recommended that + ประธาน + **V1**" },
+    { "q": "We propose that the meeting ___ until Friday.", "options": ["be postponed", "is postponed", "was postponed", "postponed"], "answer": 0, "explanation": "propose that + ประธาน + **be + V3** (passive แบบ subjunctive)" },
+    { "q": "สถานการณ์: คุณอยากแนะนำเพื่อนว่าควรพักผ่อน ข้อใดถูกต้อง", "options": ["I suggest that you get some rest.", "I suggest that you gets some rest.", "I suggest you to get some rest.", "I suggest that you got some rest."], "answer": 0, "explanation": "suggest **that** + ประธาน + V1 (ไม่ใช้ suggest + คน + to V)" },
+    { "q": "ป้ายในห้องแล็บต้องการบอกว่า “นักเรียนทุกคนต้องสวมแว่นนิรภัย” ข้อใดถูกต้อง", "options": ["It is required that all students wear safety glasses.", "It is required that all students wearing safety glasses.", "It is required all students to wear safety glasses.", "It is require that all students wear safety glasses."], "answer": 0, "explanation": "It is **required** that + ประธาน + V1" },
+    { "q": "ข้อใดใช้ should ได้ถูกต้องและมีความหมายเท่ากับ subjunctive", "options": ["The doctor suggested that she should rest.", "The doctor suggested that she should rests.", "The doctor suggested that she should to rest.", "The doctor suggested that she should rested."], "answer": 0, "explanation": "that + ประธาน + **should + V1** ใช้แทน subjunctive ได้" },
+    { "q": "อ่านข้อความ: “The school recommends that every student bring a water bottle on the trip. It is also important that no one leave the group without permission.” ข้อใดถูกต้อง", "options": ["นักเรียนควรนำขวดน้ำมา", "นักเรียนออกจากกลุ่มได้ตามใจ", "ไม่ต้องนำอะไรมา", "โรงเรียนห้ามนำน้ำมา"], "answer": 0, "explanation": "recommends that every student **bring a water bottle** = แนะนำให้นำขวดน้ำมา" },
+    { "q": "อ่านข้อความ: “The doctor insisted that Mr. Lee stop smoking and that he exercise every day.” หมอยืนกรานให้คุณลีทำอะไร", "options": ["เลิกสูบบุหรี่และออกกำลังกายทุกวัน", "สูบบุหรี่น้อยลง", "พักผ่อนอยู่บ้าน", "กินยาทุกวัน"], "answer": 0, "explanation": "insisted that he **stop smoking** and **exercise every day**" }
+  ]
+}

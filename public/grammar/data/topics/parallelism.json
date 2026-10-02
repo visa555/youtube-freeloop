@@ -1,0 +1,93 @@
+{
+  "lesson": {
+    "summary": "เมื่อเชื่อมหลายสิ่งด้วย **and, or, but, both…and, not only…but also, than** ทุกส่วนต้องอยู่ใน **รูปแบบเดียวกัน** เช่น คำนามคู่คำนาม · V-ing คู่ V-ing · to + V คู่ to + V เรียกว่าโครงสร้างคู่ขนาน (Parallelism)",
+    "sections": [
+      {
+        "icon": "⚖️",
+        "title": "หลักการ",
+        "list": [
+          "ของที่เชื่อมกันต้องเป็น **ชนิดคำเดียวกัน** และ **รูปเดียวกัน**",
+          "คำเชื่อมที่ต้องระวัง: and, or, but, both…and, either…or, neither…nor, not only…but also, than, as…as"
+        ]
+      },
+      {
+        "icon": "📋",
+        "title": "รูปแบบที่พบบ่อย",
+        "table": {
+          "head": ["ขนานกัน", "ตัวอย่างที่ถูกต้อง"],
+          "rows": [
+            ["คำนาม", "She bought **apples**, **bananas**, and **oranges**."],
+            ["คำคุณศัพท์", "The room is **clean**, **bright**, and **quiet**."],
+            ["V-ing", "Mai enjoys **swimming**, **reading**, and **baking** cakes."],
+            ["to + V", "I want **to learn** French and **to travel** to Paris."],
+            ["V1 (หลัง modal / คำสั่ง)", "You should **eat** well and **sleep** early."],
+            ["V2 (เล่าเรื่องในอดีต)", "We **visited** the museum and **had** lunch."],
+            ["adverb", "She spoke **slowly** and **clearly**."]
+          ]
+        }
+      },
+      {
+        "icon": "🔗",
+        "title": "คู่คำเชื่อมและการเปรียบเทียบ",
+        "examples": [
+          { "en": "She is **not only smart but also kind**.", "th": "คำคุณศัพท์ ↔ คำคุณศัพท์" },
+          { "en": "**Both reading and writing** are important.", "th": "V-ing ↔ V-ing" },
+          { "en": "**Taking** the bus is cheaper than **taking** a taxi.", "th": "ทั้งสองข้างของ than เป็น V-ing" }
+        ]
+      },
+      {
+        "icon": "⚠️",
+        "title": "ระวัง! จุดที่มักผิด",
+        "mistakes": [
+          { "wrong": "She likes swimming, reading, and **to cook**.", "right": "She likes swimming, reading, and **cooking**.", "why": "สองคำแรกเป็น V-ing คำสุดท้ายต้องเป็น V-ing ด้วย" },
+          { "wrong": "The hotel was clean, cheap, and **had comfort**.", "right": "The hotel was clean, cheap, and **comfortable**.", "why": "ต้องเป็นคำคุณศัพท์ให้เหมือนกัน" },
+          { "wrong": "He drives fast and **careless**.", "right": "He drives fast and **carelessly**.", "why": "fast เป็น adverb ส่วนที่คู่กันต้องเป็น adverb" },
+          { "wrong": "Walking is better than **to drive**.", "right": "Walking is better than **driving**.", "why": "สองข้างของ than ต้องเป็นรูปเดียวกัน" }
+        ]
+      }
+    ],
+    "tip": "เห็น **and / or / but / than / both…and** ให้ดูสิ่งที่อยู่ **สองข้าง** ของคำเชื่อม แล้วทำให้เป็น **รูปเดียวกัน**"
+  },
+  "questions": [
+    { "q": "เติมคำในช่องว่าง: She likes swimming, reading, and ___.", "options": ["to cook", "cooking", "cooks", "cook"], "answer": 1, "explanation": "swimming, reading เป็น V-ing → **cooking**" },
+    { "q": "เติมคำในช่องว่าง: The new phone is fast, light, and ___.", "options": ["cheap", "cheaply", "it is cheap", "cheapness"], "answer": 0, "explanation": "fast, light เป็นคำคุณศัพท์ → **cheap**" },
+    { "q": "เติมคำในช่องว่าง: My brother wants to become a doctor and ___ people.", "options": ["helping", "to help", "helps", "helped"], "answer": 1, "explanation": "to become ↔ **to help** (to + V คู่กัน)" },
+    { "q": "เติมคำในช่องว่าง: We should eat well and ___ early.", "options": ["sleep", "sleeping", "to sleeping", "slept"], "answer": 0, "explanation": "should eat ↔ (should) **sleep** — V1 คู่กัน" },
+    { "q": "เติมคำในช่องว่าง: She spoke slowly and ___.", "options": ["clear", "clearly", "clearness", "clearer"], "answer": 1, "explanation": "slowly เป็น adverb → **clearly**" },
+    { "q": "เติมคำในช่องว่าง: I bought eggs, milk, and ___.", "options": ["some bread", "baking", "to bake", "fresh"], "answer": 0, "explanation": "eggs, milk เป็นคำนาม → **some bread**" },
+    { "q": "เติมคำในช่องว่าง: Walking to school is better than ___ there.", "options": ["drive", "driving", "to driving", "drove"], "answer": 1, "explanation": "Walking ↔ **driving** (V-ing ทั้งสองข้างของ than)" },
+    { "q": "เติมคำในช่องว่าง: The teacher asked us to read the text and ___ the questions.", "options": ["answer", "answering", "answered", "to answering"], "answer": 0, "explanation": "to read ↔ (to) **answer**" },
+    { "q": "เติมคำในช่องว่าง: He is not only smart but also ___.", "options": ["kind", "kindly", "kindness", "be kind"], "answer": 0, "explanation": "smart ↔ **kind** (คำคุณศัพท์)" },
+    { "q": "เติมคำในช่องว่าง: Both reading and ___ are important skills.", "options": ["write", "writing", "to write", "wrote"], "answer": 1, "explanation": "reading ↔ **writing**" },
+    { "q": "เติมคำในช่องว่าง: You can pay by cash or ___ card.", "options": ["by", "with using", "to use", "paying"], "answer": 0, "explanation": "by cash ↔ **by** card (วลีบุพบทคู่กัน)" },
+    { "q": "เติมคำในช่องว่าง: On weekends, I clean my room, wash my clothes, and ___ my homework.", "options": ["do", "doing", "to do", "did"], "answer": 0, "explanation": "clean, wash (V1) → **do**" },
+    { "q": "เติมคำในช่องว่าง: Yesterday, we visited the museum, had lunch, and ___ shopping.", "options": ["go", "went", "going", "to go"], "answer": 1, "explanation": "visited, had (V2) → **went**" },
+    { "q": "เติมคำในช่องว่าง: The movie was long, boring, and ___.", "options": ["confused", "confusing", "confusion", "confuse"], "answer": 1, "explanation": "คำคุณศัพท์บอกลักษณะของหนัง → **confusing** (น่าสับสน)" },
+    { "q": "เติมคำในช่องว่าง: Learning a language takes time, patience, and ___.", "options": ["practice", "practicing hard", "to practice", "practiced"], "answer": 0, "explanation": "time, patience เป็นคำนาม → **practice**" },
+    { "q": "ข้อใดมีโครงสร้างคู่ขนานถูกต้อง", "options": ["I like hiking, swimming, and to ride bikes.", "I like hiking, swimming, and riding bikes.", "I like to hike, swimming, and riding bikes.", "I like hike, swimming, and riding bikes."], "answer": 1, "explanation": "ทุกส่วนเป็น V-ing → hiking, swimming, **riding**" },
+    { "q": "ข้อใดถูกต้อง", "options": ["The room was clean, bright, and had a big window.", "The room was clean, bright, and quiet.", "The room was clean, brightly, and quiet.", "The room was cleaning, bright, and quiet."], "answer": 1, "explanation": "คำคุณศัพท์ 3 คำ → clean, bright, **quiet**" },
+    { "q": "ข้อใดถูกต้อง", "options": ["He drives fast and carelessly.", "He drives fast and careless.", "He drives fastly and careless.", "He drives fast and with care less."], "answer": 0, "explanation": "fast (adverb) ↔ **carelessly** (adverb)" },
+    { "q": "ข้อใดผิด", "options": ["She sings and dances well.", "They enjoy cooking and eating.", "He wants to study and traveling.", "We need paper, pens, and glue."], "answer": 2, "explanation": "to study ↔ ต้องเป็น (to) **travel** ไม่ใช่ traveling" },
+    { "q": "ข้อใดผิด", "options": ["The test was short but difficult.", "My dog is friendly, active, and smart.", "I prefer reading to watching TV.", "She likes to swim and running."], "answer": 3, "explanation": "to swim ↔ ต้องเป็น (to) **run**" },
+    { "q": "“The food was cheap, tasty, and healthy.” คำที่ขนานกันเป็นชนิดใด", "options": ["คำนาม", "คำคุณศัพท์", "คำกริยา", "คำกริยาวิเศษณ์"], "answer": 1, "explanation": "cheap, tasty, healthy เป็น **คำคุณศัพท์**" },
+    { "q": "“She answered quickly and correctly.” คำที่ขนานกันเป็นชนิดใด", "options": ["คำคุณศัพท์", "คำกริยาวิเศษณ์", "คำนาม", "คำบุพบท"], "answer": 1, "explanation": "quickly, correctly เป็น **คำกริยาวิเศษณ์**" },
+    { "q": "“I enjoy running, cycling, and swimming.” คำที่ขนานกันเป็นรูปใด", "options": ["to + V", "V-ing", "V2", "V3"], "answer": 1, "explanation": "running, cycling, swimming เป็น **V-ing**" },
+    { "q": "แก้ส่วนที่ไฮไลต์ให้ขนาน: My hobbies are reading, painting, and **to play** the guitar.", "options": ["playing", "play", "played", "to playing"], "answer": 0, "explanation": "reading, painting → **playing**" },
+    { "q": "แก้ส่วนที่ไฮไลต์ให้ขนาน: The hotel was clean, comfortable, and **it was cheap**.", "options": ["cheap", "cheaply", "cheapness", "was cheap"], "answer": 0, "explanation": "clean, comfortable → **cheap** (คำคุณศัพท์เดี่ยว)" },
+    { "q": "แก้ส่วนที่ไฮไลต์ให้ขนาน: He likes to read books and **watching** movies.", "options": ["watch", "to watching", "watched", "watches"], "answer": 0, "explanation": "to read ↔ (to) **watch**" },
+    { "q": "แก้ส่วนที่ไฮไลต์ให้ขนาน: She is beautiful, smart, and **has kindness**.", "options": ["kind", "kindly", "kindness", "be kind"], "answer": 0, "explanation": "beautiful, smart → **kind**" },
+    { "q": "แก้ส่วนที่ไฮไลต์ให้ขนาน: Taking the bus is cheaper than **to take** a taxi.", "options": ["taking", "take", "took", "taken"], "answer": 0, "explanation": "Taking ↔ **taking**" },
+    { "q": "แก้ส่วนที่ไฮไลต์ให้ขนาน: The teacher told us to listen carefully and **writing** neatly.", "options": ["write", "to writing", "wrote", "written"], "answer": 0, "explanation": "to listen ↔ (to) **write**" },
+    { "q": "แก้ส่วนที่ไฮไลต์ให้ขนาน: I can't decide whether to stay home or **going** out.", "options": ["go", "to going", "went", "gone"], "answer": 0, "explanation": "to stay ↔ (to) **go**" },
+    { "q": "เติมคำในช่องว่าง: She is good at both singing and ___.", "options": ["dance", "dancing", "to dance", "danced"], "answer": 1, "explanation": "both singing and **dancing**" },
+    { "q": "เติมคำในช่องว่าง: You can either call me or ___ me an email.", "options": ["send", "sending", "to send", "sent"], "answer": 0, "explanation": "either call ↔ or **send**" },
+    { "q": "เติมคำในช่องว่าง: The book is not only interesting but also ___.", "options": ["useful", "usefully", "use", "usefulness"], "answer": 0, "explanation": "interesting ↔ **useful**" },
+    { "q": "เติมคำในช่องว่าง: Neither the bus nor ___ was on time.", "options": ["the train", "trains running", "to train", "training"], "answer": 0, "explanation": "the bus ↔ **the train** (คำนามคู่กัน)" },
+    { "q": "แปล: “การปั่นจักรยานไปโรงเรียนดีต่อสุขภาพมากกว่าการนั่งรถยนต์”", "options": ["Cycling to school is healthier than going by car.", "Cycling to school is healthier than to go by car.", "To cycle to school is healthier than going by car.", "Cycling to school is healthier than go by car."], "answer": 0, "explanation": "Cycling ↔ **going** (V-ing ทั้งสองข้างของ than)" },
+    { "q": "แปล: “ห้องนี้สะอาด สว่าง และเงียบ”", "options": ["This room is clean, bright, and quiet.", "This room is clean, brightly, and quiet.", "This room is clean, bright, and quietly.", "This room is clean, bright, and has quiet."], "answer": 0, "explanation": "คำคุณศัพท์ 3 คำ → clean, bright, **quiet**" },
+    { "q": "แปล: “แม่ขอให้ฉันล้างจานและให้อาหารแมว”", "options": ["Mom asked me to wash the dishes and feed the cat.", "Mom asked me to wash the dishes and feeding the cat.", "Mom asked me washing the dishes and feed the cat.", "Mom asked me to wash the dishes and fed the cat."], "answer": 0, "explanation": "to wash ↔ (to) **feed**" },
+    { "q": "ข้อใดใช้โครงสร้างคู่ขนานได้ดีที่สุด", "options": ["The job requires patience, skill, and being creative.", "The job requires patience, skill, and creativity.", "The job requires patience, skillful, and creativity.", "The job requires being patient, skill, and creativity."], "answer": 1, "explanation": "คำนาม 3 คำ → patience, skill, **creativity**" },
+    { "q": "“To stay healthy, you should eat vegetables, drink water, and exercise every day.” ส่วนที่ขนานกันคือข้อใด", "options": ["eat – drink – exercise", "healthy – vegetables – water", "stay – should – every", "vegetables – healthy – day"], "answer": 0, "explanation": "กริยา V1 หลัง should: **eat, drink, exercise**" },
+    { "q": "ข้อใดผิด", "options": ["I like apples and oranges.", "He is tall and handsome.", "She studied hard and passes the test.", "They laughed and sang."], "answer": 2, "explanation": "studied (V2) ↔ ต้องเป็น **passed** ให้ tense ตรงกัน" }
+  ]
+}

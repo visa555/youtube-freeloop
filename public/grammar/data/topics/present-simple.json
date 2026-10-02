@@ -1,0 +1,378 @@
+{
+  "lesson": {
+    "summary": "ใช้พูดถึงสิ่งที่ทำ **เป็นประจำ** นิสัย และ **ความจริงทั่วไป** เช่น ฉันตื่นนอน 6 โมงทุกวัน หรือ ดวงอาทิตย์ขึ้นทางทิศตะวันออก",
+    "sections": [
+      {
+        "icon": "🎯",
+        "title": "ใช้เมื่อไหร่",
+        "list": [
+          "กิจวัตร สิ่งที่ทำเป็นประจำ — I **walk** to school every day.",
+          "นิสัย ความชอบ — My brother **likes** spicy food.",
+          "ความจริงทั่วไป / ธรรมชาติ — Water **boils** at 100 °C.",
+          "ตารางเวลาที่แน่นอน — The bus **leaves** at 7:30."
+        ]
+      },
+      {
+        "icon": "🧱",
+        "title": "โครงสร้าง",
+        "text": "ดูที่ประธานก่อนเสมอ: **I / You / We / They** (และนามพหูพจน์) ใช้กริยาเดิม ส่วน **He / She / It** (และนามเอกพจน์ 1 สิ่ง) ต้องเติม s/es",
+        "formulas": [
+          { "label": "บอกเล่า", "formula": "I / You / We / They + **V1**", "example": "They **play** football after school." },
+          { "label": "บอกเล่า", "formula": "He / She / It + **V1 + s/es**", "example": "She **plays** the piano." },
+          { "label": "ปฏิเสธ", "formula": "I / You / We / They + **don't** + V1", "example": "We **don't eat** meat." },
+          { "label": "ปฏิเสธ", "formula": "He / She / It + **doesn't** + V1", "example": "He **doesn't like** milk." },
+          { "label": "คำถาม", "formula": "**Do** + I / you / we / they + V1 ?", "example": "**Do** you **speak** Thai? — Yes, I do." },
+          { "label": "คำถาม", "formula": "**Does** + he / she / it + V1 ?", "example": "**Does** she **walk** to school? — No, she doesn't." }
+        ]
+      },
+      {
+        "icon": "✏️",
+        "title": "การเติม s / es ที่กริยา",
+        "table": {
+          "head": ["คำกริยาลงท้ายด้วย", "วิธีเติม", "ตัวอย่าง"],
+          "rows": [
+            ["คำทั่วไป", "เติม **-s**", "read → reads, eat → eats"],
+            ["s, ss, sh, ch, x, o", "เติม **-es**", "miss → misses, wash → washes, watch → watches, fix → fixes, go → goes"],
+            ["พยัญชนะ + y", "เปลี่ยน y เป็น i แล้วเติม **-es**", "study → studies, cry → cries"],
+            ["สระ + y", "เติม **-s** ได้เลย", "play → plays, buy → buys"],
+            ["have (คำพิเศษ)", "เปลี่ยนเป็น **has**", "She **has** a cat."]
+          ]
+        }
+      },
+      {
+        "icon": "⏰",
+        "title": "คำบอกความถี่และคำสังเกต",
+        "text": "Adverbs of frequency เรียงจากบ่อยที่สุดไปน้อยที่สุด",
+        "chips": ["always 100%", "usually 90%", "often 70%", "sometimes 50%", "rarely 10%", "never 0%"],
+        "list": [
+          "วาง **หน้ากริยาแท้** — She **always gets** up early.",
+          "แต่วาง **หลัง verb to be** — He **is always** late.",
+          "คำสังเกตอื่น ๆ: every day, every week, on Mondays, once a week (สัปดาห์ละครั้ง), twice a month (เดือนละ 2 ครั้ง)"
+        ]
+      },
+      {
+        "icon": "📝",
+        "title": "ตัวอย่าง",
+        "examples": [
+          { "en": "My mom **gets** up at five every morning.", "th": "แม่ของฉันตื่นนอนตอนตีห้าทุกเช้า" },
+          { "en": "Cats **don't like** water.", "th": "แมวไม่ชอบน้ำ" },
+          { "en": "**Does** your school **start** at eight?", "th": "โรงเรียนของเธอเริ่มเรียนแปดโมงหรือเปล่า" },
+          { "en": "Where **do** you **live**? — I **live** in Chon Buri.", "th": "เธออาศัยอยู่ที่ไหน — ฉันอยู่ชลบุรี" }
+        ]
+      },
+      {
+        "icon": "⚠️",
+        "title": "ระวัง! จุดที่มักผิด",
+        "mistakes": [
+          { "wrong": "He **go** to school by bus.", "right": "He **goes** to school by bus.", "why": "ประธานเอกพจน์ (he) ต้องเติม s/es ที่กริยา" },
+          { "wrong": "She doesn't **likes** fish.", "right": "She doesn't **like** fish.", "why": "มี doesn't แล้ว กริยากลับเป็นรูปเดิม ไม่ต้องเติม s ซ้ำ" },
+          { "wrong": "**Do** your father work here?", "right": "**Does** your father work here?", "why": "your father = he จึงต้องใช้ Does" },
+          { "wrong": "I **am play** games every day.", "right": "I **play** games every day.", "why": "Present Simple ไม่ต้องมี am / is / are นำหน้ากริยา" }
+        ]
+      }
+    ],
+    "tip": "ประธาน he / she / it ต้องมี **s** อยู่ที่ไหนสักแห่งเสมอ — ประโยคบอกเล่า s อยู่ที่กริยา (plays) ส่วนปฏิเสธและคำถาม s ย้ายไปอยู่ที่ **does / doesn't** แล้วกริยาไม่ต้องเติมอีก"
+  },
+  "questions": [
+    {
+      "q": "เติมคำในช่องว่าง: My sister ___ her teeth twice a day.",
+      "options": ["brush", "brushs", "brushes", "brushing"],
+      "answer": 2,
+      "explanation": "My sister เป็นประธานเอกพจน์ ต้องเติม s/es และ brush ลงท้ายด้วย sh จึงเติม **-es** เป็น brushes"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: We ___ English on Mondays and Wednesdays.",
+      "options": ["studies", "study", "studys", "studying"],
+      "answer": 1,
+      "explanation": "We เป็นประธานพหูพจน์ ใช้กริยาช่อง 1 รูปเดิม **study** ไม่ต้องเติม s"
+    },
+    {
+      "q": "รูป Present Simple ของ “watch” เมื่อประธานเป็น he คือข้อใด",
+      "options": ["watchs", "watches", "watchies", "watch"],
+      "answer": 1,
+      "explanation": "watch ลงท้ายด้วย ch ต้องเติม **-es** → He watches TV."
+    },
+    {
+      "q": "รูป Present Simple ของ “fly” เมื่อประธานเป็น a bird คือข้อใด",
+      "options": ["flys", "flyes", "flies", "flied"],
+      "answer": 2,
+      "explanation": "fly ลงท้ายด้วยพยัญชนะ (l) + y ต้องเปลี่ยน y เป็น i แล้วเติม -es → **flies**"
+    },
+    {
+      "q": "รูป Present Simple ของ “enjoy” เมื่อประธานเป็น she คือข้อใด",
+      "options": ["enjoies", "enjoyes", "enjoys", "enjoyed"],
+      "answer": 2,
+      "explanation": "enjoy ลงท้ายด้วยสระ (o) + y เติม **-s** ได้เลย ไม่ต้องเปลี่ยน y เป็น i"
+    },
+    {
+      "q": "รูป Present Simple ของ “go” เมื่อประธานเป็น Tom คือข้อใด",
+      "options": ["gos", "goes", "goies", "went"],
+      "answer": 1,
+      "explanation": "go ลงท้ายด้วย o ต้องเติม **-es** → goes (do ก็เช่นกัน → does)"
+    },
+    {
+      "q": "คำกริยาในข้อใดเติม s/es ไม่ถูกต้อง",
+      "options": ["misses", "fixes", "carries", "haves"],
+      "answer": 3,
+      "explanation": "have เมื่อใช้กับประธานเอกพจน์ต้องเปลี่ยนเป็น **has** ไม่ใช่ haves ส่วนข้ออื่นถูกต้อง: miss → misses, fix → fixes, carry → carries"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Our cat ___ a long tail.",
+      "options": ["have", "has", "haves", "having"],
+      "answer": 1,
+      "explanation": "Our cat เป็นเอกพจน์ (= it) กริยา have ต้องเปลี่ยนเป็น **has**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The students ___ their uniforms on Fridays.",
+      "options": ["wears", "wear", "wearing", "is wear"],
+      "answer": 1,
+      "explanation": "The students เป็นพหูพจน์ (= they) ใช้กริยารูปเดิม **wear** ไม่เติม s"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Water ___ at 0 °C.",
+      "options": ["freeze", "freezes", "is freeze", "freezing"],
+      "answer": 1,
+      "explanation": "เป็นความจริงทางธรรมชาติ ใช้ Present Simple และ water เป็นนามนับไม่ได้ ใช้แบบเอกพจน์ จึงเติม s → **freezes**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: My parents ___ coffee every morning.",
+      "options": ["drinks", "drink", "drinking", "is drink"],
+      "answer": 1,
+      "explanation": "My parents (พ่อและแม่) เป็นพหูพจน์ ใช้กริยารูปเดิม **drink**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Ben and I ___ to the same school.",
+      "options": ["goes", "go", "going", "is go"],
+      "answer": 1,
+      "explanation": "Ben and I = we (พหูพจน์) ใช้กริยารูปเดิม **go**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Everybody in my class ___ a smartphone.",
+      "options": ["have", "has", "having", "are have"],
+      "answer": 1,
+      "explanation": "Everybody (ทุกคน) ถือเป็น **เอกพจน์** ในภาษาอังกฤษ จึงใช้ has"
+    },
+    {
+      "q": "ข้อใดวาง always ได้ถูกตำแหน่ง",
+      "options": ["She always gets up at six.", "She gets always up at six.", "She gets up always at six.", "She always get up at six."],
+      "answer": 0,
+      "explanation": "คำบอกความถี่วาง **หน้ากริยาแท้** (gets) และประธาน she ต้องใช้ gets ที่เติม s"
+    },
+    {
+      "q": "ข้อใดวาง usually ได้ถูกตำแหน่ง",
+      "options": ["Tom usually is late for class.", "Tom is usually late for class.", "Tom is late usually for class.", "Tom is late for usually class."],
+      "answer": 1,
+      "explanation": "ถ้าในประโยคมี verb to be (is) ให้วางคำบอกความถี่ **หลัง verb to be** → is usually"
+    },
+    {
+      "q": "“Mali ___ eats vegetables. She hates them.” ควรเติมคำใด",
+      "options": ["always", "usually", "often", "never"],
+      "answer": 3,
+      "explanation": "She hates them (เธอเกลียดผัก) จึงไม่เคยกินเลย ใช้ **never** (0%)"
+    },
+    {
+      "q": "คำใดแสดงความถี่ “มากที่สุด”",
+      "options": ["sometimes", "often", "always", "rarely"],
+      "answer": 2,
+      "explanation": "**always** = เสมอ (100%) มากกว่า often (บ่อย), sometimes (บางครั้ง) และ rarely (แทบไม่)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: I go to the cinema ___ a month. (เดือนละ 2 ครั้ง)",
+      "options": ["once", "twice", "two", "second"],
+      "answer": 1,
+      "explanation": "สองครั้ง = **twice** ส่วน once = หนึ่งครั้ง → twice a month = เดือนละ 2 ครั้ง"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: My dad ___ like horror films.",
+      "options": ["don't", "doesn't", "isn't", "not"],
+      "answer": 1,
+      "explanation": "My dad = he (เอกพจน์) ประโยคปฏิเสธใช้ **doesn't** + กริยารูปเดิม"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: They ___ live in Bangkok. They live in Chiang Mai.",
+      "options": ["doesn't", "don't", "aren't", "not"],
+      "answer": 1,
+      "explanation": "ประธาน they ประโยคปฏิเสธใช้ **don't** + กริยารูปเดิม (live)"
+    },
+    {
+      "q": "ประโยคปฏิเสธของ “Nina speaks Japanese.” คือข้อใด",
+      "options": ["Nina don't speak Japanese.", "Nina doesn't speaks Japanese.", "Nina doesn't speak Japanese.", "Nina isn't speak Japanese."],
+      "answer": 2,
+      "explanation": "Nina = she ใช้ doesn't แล้วกริยากลับเป็นรูปเดิม → doesn't **speak** (ไม่ใช่ speaks)"
+    },
+    {
+      "q": "ประโยคปฏิเสธของ “The shop opens on Sundays.” คือข้อใด",
+      "options": ["The shop doesn't open on Sundays.", "The shop don't open on Sundays.", "The shop doesn't opens on Sundays.", "The shop not opens on Sundays."],
+      "answer": 0,
+      "explanation": "The shop = it ใช้ **doesn't + open** (กริยารูปเดิม)"
+    },
+    {
+      "q": "ประโยคใดถูกต้อง",
+      "options": ["My friends doesn't play tennis.", "My friends don't play tennis.", "My friends don't plays tennis.", "My friends not play tennis."],
+      "answer": 1,
+      "explanation": "My friends เป็นพหูพจน์ ใช้ **don't + play**"
+    },
+    {
+      "q": "ประโยคใดผิดหลักไวยากรณ์",
+      "options": ["The sun rises in the east.", "Kate teaches math at my school.", "My brother study very hard.", "We have lunch at noon."],
+      "answer": 2,
+      "explanation": "My brother = he ต้องใช้ **studies** (study ลงท้ายพยัญชนะ + y เปลี่ยน y เป็น ies)"
+    },
+    {
+      "q": "ประโยคใดถูกต้อง",
+      "options": ["The baby cry at night.", "The baby cries at night.", "The baby crys at night.", "The baby cryes at night."],
+      "answer": 1,
+      "explanation": "The baby = it ต้องเติม s และ cry ลงท้ายพยัญชนะ + y จึงเปลี่ยนเป็น **cries**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: ___ your brother play the guitar?",
+      "options": ["Do", "Does", "Is", "Are"],
+      "answer": 1,
+      "explanation": "your brother = he ประโยคคำถามใช้ **Does** + ประธาน + กริยารูปเดิม"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: ___ you and your sister walk to school?",
+      "options": ["Does", "Do", "Are", "Is"],
+      "answer": 1,
+      "explanation": "you and your sister เป็นพหูพจน์ ใช้ **Do**"
+    },
+    {
+      "q": "เปลี่ยน “She reads comics.” เป็นประโยคคำถาม ข้อใดถูกต้อง",
+      "options": ["Does she reads comics?", "Do she read comics?", "Does she read comics?", "Is she read comics?"],
+      "answer": 2,
+      "explanation": "คำถามของ she ใช้ **Does + she + read** (กริยากลับเป็นรูปเดิม เพราะ does มี s แล้ว)"
+    },
+    {
+      "q": "เปลี่ยน “They like pizza.” เป็นประโยคคำถาม ข้อใดถูกต้อง",
+      "options": ["Do they like pizza?", "Does they like pizza?", "Do they likes pizza?", "Are they like pizza?"],
+      "answer": 0,
+      "explanation": "ประธาน they ใช้ **Do** + they + like"
+    },
+    {
+      "q": "A: Does your mother cook dinner every day?  B: Yes, she ___.",
+      "options": ["do", "does", "is", "cooks"],
+      "answer": 1,
+      "explanation": "คำถามขึ้นต้นด้วย Does คำตอบสั้นจึงใช้ **does** → Yes, she does."
+    },
+    {
+      "q": "A: Do your friends live near you?  B: No, they ___.",
+      "options": ["doesn't", "aren't", "don't", "not"],
+      "answer": 2,
+      "explanation": "คำถามขึ้นต้นด้วย Do และประธาน they คำตอบปฏิเสธคือ No, they **don't**."
+    },
+    {
+      "q": "A: Do you like cats?  B: ___ I prefer dogs.",
+      "options": ["Yes, I do.", "No, I don't.", "Yes, I am.", "No, I'm not."],
+      "answer": 1,
+      "explanation": "B บอกว่าชอบหมามากกว่า จึงตอบปฏิเสธ และคำถามใช้ Do คำตอบจึงเป็น **No, I don't.**"
+    },
+    {
+      "q": "A: ___ does the train leave?  B: At 8:15.",
+      "options": ["Where", "What time", "Who", "Why"],
+      "answer": 1,
+      "explanation": "คำตอบบอกเวลา (At 8:15) จึงถามด้วย **What time** (กี่โมง)"
+    },
+    {
+      "q": "A: ___ do you live?  B: I live in Khon Kaen.",
+      "options": ["Where", "When", "How", "Which"],
+      "answer": 0,
+      "explanation": "คำตอบบอกสถานที่ (in Khon Kaen) จึงถามด้วย **Where** (ที่ไหน)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Where ___ your uncle work?",
+      "options": ["do", "does", "is", "are"],
+      "answer": 1,
+      "explanation": "your uncle = he คำถาม Wh- ใช้ Wh- + **does** + ประธาน + กริยารูปเดิม"
+    },
+    {
+      "q": "ข้อใดเป็นคำถามที่ถูกต้อง",
+      "options": ["What time you get up?", "What time do you get up?", "What time does you get up?", "What time you do get up?"],
+      "answer": 1,
+      "explanation": "โครงสร้าง Wh- + **do** + you + กริยารูปเดิม → What time do you get up?"
+    },
+    {
+      "q": "เรียงคำให้เป็นประโยคที่ถูกต้อง: (often / to / music / listens / Jane)",
+      "options": ["Jane listens often to music.", "Jane often listens to music.", "Often Jane to music listens.", "Jane listens to often music."],
+      "answer": 1,
+      "explanation": "คำบอกความถี่ (often) วาง **หน้ากริยาแท้** (listens) → Jane often listens to music."
+    },
+    {
+      "q": "เรียงคำให้เป็นคำถามที่ถูกต้อง: (does / where / live / Peter)",
+      "options": ["Where Peter does live?", "Where does Peter live?", "Does where Peter live?", "Where does live Peter?"],
+      "answer": 1,
+      "explanation": "โครงสร้าง Wh- + does + ประธาน + กริยา → **Where does Peter live?**"
+    },
+    {
+      "q": "เรียงคำให้เป็นประโยคที่ถูกต้อง: (not / do / we / homework / on Sundays / do)",
+      "options": ["We do not do homework on Sundays.", "We not do do homework on Sundays.", "We do homework not do on Sundays.", "Do we not do homework on Sundays."],
+      "answer": 0,
+      "explanation": "do ตัวแรกเป็นกริยาช่วยสำหรับปฏิเสธ (**do not**) ส่วน do ตัวหลังเป็นกริยาแท้ แปลว่า “ทำ”"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Mr. Somchai is my teacher. ___ teaches science.",
+      "options": ["She", "He", "It", "They"],
+      "answer": 1,
+      "explanation": "Mr. Somchai เป็นผู้ชาย 1 คน ใช้สรรพนาม **He**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Mint and Fah are my friends. ___ sit next to me.",
+      "options": ["She", "We", "They", "It"],
+      "answer": 2,
+      "explanation": "Mint and Fah มีสองคน (ไม่รวมผู้พูด) ใช้สรรพนาม **They**"
+    },
+    {
+      "q": "ประโยคใดเป็น “ความจริงทั่วไป” ที่ใช้ Present Simple",
+      "options": ["The earth goes around the sun.", "I am reading a book now.", "We went to the zoo yesterday.", "They will visit us tomorrow."],
+      "answer": 0,
+      "explanation": "โลกหมุนรอบดวงอาทิตย์เป็น **ความจริงทางธรรมชาติ** จึงใช้ Present Simple (goes)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The school bus ___ at 7:00 every morning.",
+      "options": ["arrive", "arrives", "arriving", "is arrive"],
+      "answer": 1,
+      "explanation": "The school bus = it และเป็นตารางเวลาประจำ ใช้ **arrives**"
+    },
+    {
+      "q": "อ่านข้อความ: “Ploy is a student. She gets up at 6:00. She usually rides her bike to school, but on rainy days her dad drives her there.” วันที่ฝนตก Ploy ไปโรงเรียนอย่างไร",
+      "options": ["She rides her bike.", "She walks.", "Her dad drives her.", "She takes a bus."],
+      "answer": 2,
+      "explanation": "ข้อความบอกว่า on rainy days her dad **drives** her there = วันที่ฝนตกพ่อขับรถไปส่ง"
+    },
+    {
+      "q": "ต้องการบอกเพื่อนว่า “ฉันชอบเล่นแบดมินตัน” ข้อใดถูกต้อง",
+      "options": ["I am liking badminton.", "I like playing badminton.", "I likes playing badminton.", "I liked badminton tomorrow."],
+      "answer": 1,
+      "explanation": "ความชอบเป็นเรื่องทั่วไป ใช้ Present Simple และประธาน I ใช้ **like** ไม่เติม s"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: It ___ a lot in Thailand in September.",
+      "options": ["rain", "rains", "raining", "is rain"],
+      "answer": 1,
+      "explanation": "เป็นเรื่องทั่วไปของสภาพอากาศ ประธาน it ใช้ **rains**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: ___ Kim and Leo play badminton after school?",
+      "options": ["Does", "Is", "Do", "Are"],
+      "answer": 2,
+      "explanation": "Kim and Leo = they (พหูพจน์) ใช้ **Do**"
+    },
+    {
+      "q": "ต้องการบอกว่า Pim ดูทีวีตอนเย็น “บางครั้ง” ข้อใดถูกต้อง: Pim ___ TV in the evening.",
+      "options": ["sometimes watch", "sometimes watches", "watches sometimes", "is sometimes watch"],
+      "answer": 1,
+      "explanation": "sometimes วางหน้ากริยาแท้ และ Pim = she ต้องใช้ **watches**"
+    },
+    {
+      "q": "A: What does your mother do?  B: ___",
+      "options": ["She's a nurse.", "She cooks now.", "Yes, she does.", "She is at home."],
+      "answer": 0,
+      "explanation": "What does … do? เป็นคำถาม **ถามอาชีพ** จึงตอบว่า She's a nurse. (เธอเป็นพยาบาล)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Lisa ___ her homework before dinner.",
+      "options": ["do", "does", "dos", "doing"],
+      "answer": 1,
+      "explanation": "Lisa = she และ do ลงท้ายด้วย o จึงเติม -es → **does**"
+    }
+  ]
+}

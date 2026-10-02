@@ -1,0 +1,384 @@
+{
+  "lesson": {
+    "summary": "Reported Speech คือการ **เล่าคำพูดของคนอื่นต่อ** โดยไม่ยกคำพูดมาตรง ๆ ต้องปรับ 3 อย่าง: **สรรพนาม**, **tense (ถอยไปอดีต 1 ขั้น)** และ **คำบอกเวลา / สถานที่**",
+    "sections": [
+      {
+        "icon": "🔄",
+        "title": "Direct กับ Reported",
+        "examples": [
+          { "en": "Direct: Tom said, “**I am** tired.”", "th": "ยกคำพูดมาตรง ๆ ในเครื่องหมายคำพูด" },
+          { "en": "Reported: Tom said (that) **he was** tired.", "th": "เล่าต่อ: ทอมบอกว่าเขาเหนื่อย" }
+        ]
+      },
+      {
+        "icon": "👤",
+        "title": "เปลี่ยนสรรพนาม",
+        "text": "เปลี่ยนให้ตรงกับ **ผู้พูดเดิม** และ **ผู้ฟัง** ในมุมมองของคนที่เล่าต่อ",
+        "list": [
+          "Mali said, “**I** love **my** cat.” → Mali said that **she** loved **her** cat.",
+          "Ben told me, “**You** are late.” → Ben told me that **I** was late."
+        ]
+      },
+      {
+        "icon": "⏪",
+        "title": "ถอย tense 1 ขั้น",
+        "table": {
+          "head": ["Direct", "Reported"],
+          "rows": [
+            ["Present Simple: am / is / are, V1", "Past Simple: was / were, V2"],
+            ["Present Continuous: is doing", "Past Continuous: was doing"],
+            ["Present Perfect: has done", "Past Perfect: had done"],
+            ["Past Simple: did", "Past Perfect: had done"],
+            ["will", "would"],
+            ["can", "could"],
+            ["must", "had to"]
+          ]
+        },
+        "text": "ถ้าเป็นความจริงทั่วไป ไม่ต้องถอยก็ได้: She said the sun **rises** in the east."
+      },
+      {
+        "icon": "⏰",
+        "title": "เปลี่ยนคำบอกเวลาและสถานที่",
+        "table": {
+          "head": ["Direct", "Reported"],
+          "rows": [
+            ["now", "then"],
+            ["today / tonight", "that day / that night"],
+            ["yesterday", "the day before / the previous day"],
+            ["tomorrow", "the next day / the following day"],
+            ["next week", "the following week"],
+            ["last week", "the week before"],
+            ["… ago", "… before"],
+            ["here / this / these", "there / that / those"]
+          ]
+        }
+      },
+      {
+        "icon": "🧱",
+        "title": "รูปแบบหลัก",
+        "formulas": [
+          { "label": "บอกเล่า", "formula": "S + **said (that)** + ประโยค · S + **told + คน** + (that) + ประโยค", "example": "She said, “I'm busy.” → She **said that** she **was** busy." },
+          { "label": "คำถาม Yes/No", "formula": "S + asked (+ คน) + **if / whether** + ประธาน + กริยา", "example": "“Are you hungry?” → He **asked if** I **was** hungry." },
+          { "label": "คำถาม Wh-", "formula": "S + asked + **Wh-** + ประธาน + กริยา", "example": "“Where do you live?” → She **asked where** I **lived**." },
+          { "label": "คำสั่ง / ขอร้อง", "formula": "S + told / asked + คน + **(not) to** + V1", "example": "“Close the door.” → He **told me to close** the door." }
+        ],
+        "list": [
+          "คำถามที่เล่าต่อ **ไม่สลับ** ประธานกับกริยา ไม่ใช้ do / did และไม่มีเครื่องหมาย ?"
+        ]
+      },
+      {
+        "icon": "⚠️",
+        "title": "ระวัง! จุดที่มักผิด",
+        "mistakes": [
+          { "wrong": "She **said me** that she was busy.", "right": "She **told me** that she was busy.", "why": "said ไม่ตามด้วยคน ส่วน told ต้องมีคนตามหลัง" },
+          { "wrong": "He asked where **did I live**.", "right": "He asked where **I lived**.", "why": "คำถามที่เล่าต่อเรียงแบบประโยคบอกเล่า" },
+          { "wrong": "He asked **that** I was hungry.", "right": "He asked **if** I was hungry.", "why": "คำถาม Yes/No ใช้ if / whether" },
+          { "wrong": "She told me **don't touch** it.", "right": "She told me **not to touch** it.", "why": "คำสั่งปฏิเสธใช้ not to + V1" }
+        ]
+      }
+    ],
+    "tip": "เล่าต่อ = **ถอย 1 ก้าว** ทั้ง tense และเวลา (is → was, will → would, tomorrow → the next day) และคำถามให้เรียง **ประธาน + กริยา** ตามปกติ"
+  },
+  "questions": [
+    {
+      "q": "Ann said, “I am hungry.” → Ann said that ___ hungry.",
+      "options": ["I am", "she was", "she is", "I was"],
+      "answer": 1,
+      "explanation": "I (ผู้พูด) → **she** และ am → **was**"
+    },
+    {
+      "q": "Tom said, “I like football.” → Tom said that he ___ football.",
+      "options": ["like", "liked", "is liking", "has liked"],
+      "answer": 1,
+      "explanation": "Present Simple ถอยเป็น Past Simple → **liked**"
+    },
+    {
+      "q": "Mom said, “I am cooking dinner.” → Mom said that she ___ dinner.",
+      "options": ["am cooking", "was cooking", "were cooking", "cook"],
+      "answer": 1,
+      "explanation": "Present Continuous ถอยเป็น Past Continuous และ she ใช้ was → **was cooking**"
+    },
+    {
+      "q": "Ben said, “I have finished my homework.” → Ben said that he ___ his homework.",
+      "options": ["have finished", "had finished", "finish", "was finish"],
+      "answer": 1,
+      "explanation": "Present Perfect ถอยเป็น Past Perfect → **had finished**"
+    },
+    {
+      "q": "Jane said, “I saw a snake.” → Jane said that she ___ a snake.",
+      "options": ["has seen", "had seen", "sees", "see"],
+      "answer": 1,
+      "explanation": "Past Simple ถอยเป็น Past Perfect → **had seen**"
+    },
+    {
+      "q": "Kim said, “I will call you.” → Kim said that she ___ call me.",
+      "options": ["would", "wills", "is going", "does"],
+      "answer": 0,
+      "explanation": "will ถอยเป็น **would**"
+    },
+    {
+      "q": "Dad said, “I can fix it.” → Dad said that he ___ fix it.",
+      "options": ["could", "cans", "is able", "coulds"],
+      "answer": 0,
+      "explanation": "can ถอยเป็น **could**"
+    },
+    {
+      "q": "The teacher said, “You must be quiet.” → The teacher said that we ___ be quiet.",
+      "options": ["had to", "musted", "have to been", "has"],
+      "answer": 0,
+      "explanation": "must ถอยเป็น **had to**"
+    },
+    {
+      "q": "เมื่อเปลี่ยนเป็น Reported Speech “am / is” มักเปลี่ยนเป็นอะไร",
+      "options": ["was", "were", "been", "has been"],
+      "answer": 0,
+      "explanation": "Present → Past: am / is → **was** (are → were)"
+    },
+    {
+      "q": "เมื่อเปลี่ยนเป็น Reported Speech “will” เปลี่ยนเป็นอะไร",
+      "options": ["would", "should", "could", "shall"],
+      "answer": 0,
+      "explanation": "will → **would**"
+    },
+    {
+      "q": "เมื่อเปลี่ยนเป็น Reported Speech Present Perfect (have / has + V3) เปลี่ยนเป็นอะไร",
+      "options": ["Past Simple", "Past Perfect (had + V3)", "Past Continuous", "ไม่เปลี่ยน"],
+      "answer": 1,
+      "explanation": "has done → **had done** (Past Perfect)"
+    },
+    {
+      "q": "Mali said to me, “I love your dress.” → Mali told me that she loved ___ dress.",
+      "options": ["your", "my", "her", "their"],
+      "answer": 1,
+      "explanation": "“your” ในคำพูดเดิมหมายถึงผู้ฟัง ซึ่งคือ “ฉัน” ที่เล่าต่อ → **my** dress"
+    },
+    {
+      "q": "Tom said, “My sister is a nurse.” → Tom said that ___ sister was a nurse.",
+      "options": ["my", "his", "her", "your"],
+      "answer": 1,
+      "explanation": "My ของ Tom → **his**"
+    },
+    {
+      "q": "The kids said, “We are ready.” → The kids said that ___ were ready.",
+      "options": ["we", "they", "us", "them"],
+      "answer": 1,
+      "explanation": "We ของเด็ก ๆ → **they** (ตำแหน่งประธาน)"
+    },
+    {
+      "q": "Ben told Nok, “I will help you.” → Ben told Nok that he would help ___.",
+      "options": ["you", "her", "him", "me"],
+      "answer": 1,
+      "explanation": "you ในคำพูดเดิมคือ Nok (ผู้หญิง) ตำแหน่งกรรม → **her**"
+    },
+    {
+      "q": "เมื่อเปลี่ยนเป็น Reported Speech “tomorrow” เปลี่ยนเป็นอะไร",
+      "options": ["yesterday", "the next day", "today", "that day"],
+      "answer": 1,
+      "explanation": "tomorrow → **the next day** (หรือ the following day)"
+    },
+    {
+      "q": "“yesterday” เปลี่ยนเป็นอะไร",
+      "options": ["the day before", "the next day", "that day", "tomorrow"],
+      "answer": 0,
+      "explanation": "yesterday → **the day before** (หรือ the previous day)"
+    },
+    {
+      "q": "“here” เปลี่ยนเป็นอะไร",
+      "options": ["there", "where", "this", "that place here"],
+      "answer": 0,
+      "explanation": "here → **there**"
+    },
+    {
+      "q": "“now” เปลี่ยนเป็นอะไร",
+      "options": ["then", "that", "later", "soon"],
+      "answer": 0,
+      "explanation": "now → **then**"
+    },
+    {
+      "q": "“next week” เปลี่ยนเป็นอะไร",
+      "options": ["last week", "the following week", "the week before", "this week"],
+      "answer": 1,
+      "explanation": "next week → **the following week**"
+    },
+    {
+      "q": "Pim said, “I am busy today.” → Pim said that she was busy ___.",
+      "options": ["today", "that day", "yesterday", "the next day"],
+      "answer": 1,
+      "explanation": "today → **that day**"
+    },
+    {
+      "q": "He said, “I met her two days ago.” → He said that he had met her two days ___.",
+      "options": ["ago", "before", "after", "later"],
+      "answer": 1,
+      "explanation": "ago → **before**"
+    },
+    {
+      "q": "เปลี่ยนเป็น Reported Speech: She said, “I am tired.”",
+      "options": ["She said that she was tired.", "She said that I am tired.", "She said me that she was tired.", "She told that she was tired."],
+      "answer": 0,
+      "explanation": "I → she · am → was · said ไม่ต้องมีคนตามหลัง"
+    },
+    {
+      "q": "เปลี่ยนเป็น Reported Speech: Nick said, “I will go to Japan next year.”",
+      "options": ["Nick said that he would go to Japan the following year.", "Nick said that I would go to Japan the following year.", "Nick said me that he would go to Japan the following year.", "Nick told that he would go to Japan the following year."],
+      "answer": 0,
+      "explanation": "I → he · will → would · next year → the following year"
+    },
+    {
+      "q": "เปลี่ยนเป็น Reported Speech: Mom told me, “You can watch TV now.”",
+      "options": ["Mom told me that I could watch TV then.", "Mom told me that you can watch TV now.", "Mom told that I could watch TV then.", "Mom said me that I could watch TV then."],
+      "answer": 0,
+      "explanation": "You (ผู้ฟัง = ฉัน) → I · can → could · now → then · told ต้องมีคนตามหลัง"
+    },
+    {
+      "q": "said กับ told ต่างกันอย่างไร",
+      "options": ["said ต้องมีคนตามหลัง · told ไม่ต้อง", "told ต้องมีคน (กรรม) ตามหลัง · said ไม่ต้อง", "ใช้แทนกันได้ทุกกรณี", "told ใช้กับคำถามเท่านั้น"],
+      "answer": 1,
+      "explanation": "**told + คน** (told me, told him) ส่วน **said** ไม่ตามด้วยคน (said that…)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: She ___ me that she was moving to Phuket.",
+      "options": ["said", "told", "asked", "spoke"],
+      "answer": 1,
+      "explanation": "มีคน (me) ตามหลัง ใช้ **told**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: He ___ that the movie was boring.",
+      "options": ["said", "told", "asked", "talked"],
+      "answer": 0,
+      "explanation": "ไม่มีคนตามหลัง ใช้ **said** that…"
+    },
+    {
+      "q": "เปลี่ยนเป็น Reported Speech: He asked me, “Are you hungry?”",
+      "options": ["He asked me if I was hungry.", "He asked me if was I hungry.", "He asked me are you hungry.", "He asked me that I was hungry."],
+      "answer": 0,
+      "explanation": "คำถาม Yes/No → asked + **if** + ประธาน + กริยา (ไม่สลับ)"
+    },
+    {
+      "q": "เปลี่ยนเป็น Reported Speech: She asked, “Do you like cats?”",
+      "options": ["She asked if I liked cats.", "She asked if did I like cats.", "She asked do I like cats.", "She asked that I liked cats."],
+      "answer": 0,
+      "explanation": "ตัด do ออก ใช้ **if** + I + liked (ถอย tense)"
+    },
+    {
+      "q": "เปลี่ยนเป็น Reported Speech: Dad asked, “Have you done your homework?”",
+      "options": ["Dad asked if I had done my homework.", "Dad asked if had I done my homework.", "Dad asked have I done my homework.", "Dad asked if I have done your homework."],
+      "answer": 0,
+      "explanation": "if + ประธาน + **had done** · your → my"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The teacher asked ___ we had any questions.",
+      "options": ["if", "that", "what", "to"],
+      "answer": 0,
+      "explanation": "เล่าคำถาม Yes/No ใช้ **if** (หรือ whether)"
+    },
+    {
+      "q": "เปลี่ยนเป็น Reported Speech: He asked, “Where do you live?”",
+      "options": ["He asked where I lived.", "He asked where did I live.", "He asked where do I live.", "He asked if where I lived."],
+      "answer": 0,
+      "explanation": "Wh- + ประธาน + กริยา (ไม่สลับ ไม่ใช้ do) → asked **where I lived**"
+    },
+    {
+      "q": "เปลี่ยนเป็น Reported Speech: She asked me, “What are you doing?”",
+      "options": ["She asked me what I was doing.", "She asked me what was I doing.", "She asked me what I am doing?", "She asked me if what I was doing."],
+      "answer": 0,
+      "explanation": "Wh- + ประธาน + กริยา → **what I was doing** (ไม่มี ?)"
+    },
+    {
+      "q": "เปลี่ยนเป็น Reported Speech: Tom asked, “When will the bus come?”",
+      "options": ["Tom asked when the bus would come.", "Tom asked when would the bus come.", "Tom asked when the bus will come?", "Tom asked if when the bus would come."],
+      "answer": 0,
+      "explanation": "Wh- + ประธาน + กริยา และ will → would → **when the bus would come**"
+    },
+    {
+      "q": "เปลี่ยนเป็น Reported Speech: Mom asked, “Why did you cry?”",
+      "options": ["Mom asked why I had cried.", "Mom asked why did I cry.", "Mom asked why I did cry.", "Mom asked that why I had cried."],
+      "answer": 0,
+      "explanation": "ตัด did ออก ถอย Past Simple เป็น Past Perfect → **why I had cried**"
+    },
+    {
+      "q": "ข้อใดผิดหลักไวยากรณ์",
+      "options": ["She asked where I was going.", "He asked if I was okay.", "They asked what time did the show start.", "I asked how old she was."],
+      "answer": 2,
+      "explanation": "คำถามที่เล่าต่อไม่ใช้ did และไม่สลับ → asked what time **the show started**"
+    },
+    {
+      "q": "เปลี่ยนเป็น Reported Speech: The teacher said to us, “Open your books.”",
+      "options": ["The teacher told us to open our books.", "The teacher told us open our books.", "The teacher said us to open our books.", "The teacher told us that open your books."],
+      "answer": 0,
+      "explanation": "คำสั่ง → told + คน + **to + V1** และ your → our"
+    },
+    {
+      "q": "เปลี่ยนเป็น Reported Speech: Mom said to me, “Don't touch the stove.”",
+      "options": ["Mom told me not to touch the stove.", "Mom told me don't touch the stove.", "Mom told me to not touching the stove.", "Mom said me not to touch the stove."],
+      "answer": 0,
+      "explanation": "คำสั่งปฏิเสธ → told + คน + **not to + V1**"
+    },
+    {
+      "q": "เปลี่ยนเป็น Reported Speech: The doctor said to Grandpa, “Get more rest.”",
+      "options": ["The doctor told Grandpa to get more rest.", "The doctor told Grandpa get more rest.", "The doctor said Grandpa to get more rest.", "The doctor told to Grandpa getting more rest."],
+      "answer": 0,
+      "explanation": "told + คน + **to + V1** → told Grandpa to get more rest"
+    },
+    {
+      "q": "เปลี่ยนเป็น Reported Speech: Ken said to me, “Please help me.”",
+      "options": ["Ken asked me to help him.", "Ken asked me help him.", "Ken asked me to help me.", "Ken asked me helping him."],
+      "answer": 0,
+      "explanation": "คำขอร้อง → asked + คน + to + V1 และ me (Ken) → **him**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The guard told us ___ take photos inside the museum.",
+      "options": ["not to", "don't", "no", "to not to"],
+      "answer": 0,
+      "explanation": "คำสั่งห้าม → told + คน + **not to** + V1"
+    },
+    {
+      "q": "แปล: “ครูบอกว่าการสอบจะเริ่มในวันถัดไป”",
+      "options": ["The teacher said that the exam would start the next day.", "The teacher said that the exam would started the next day.", "The teacher told that the exam would start the next day.", "The teacher said the exam starts yesterday."],
+      "answer": 0,
+      "explanation": "said that + **would + V1** + the next day"
+    },
+    {
+      "q": "แปล: “แม่ถามว่าฉันหิวไหม”",
+      "options": ["Mom asked if I was hungry.", "Mom asked was I hungry?", "Mom said if I was hungry.", "Mom asked that I hungry."],
+      "answer": 0,
+      "explanation": "เล่าคำถาม Yes/No → asked **if** + ประธาน + กริยา"
+    },
+    {
+      "q": "Direct speech ของ “She told me that she was leaving.” น่าจะเป็นข้อใด",
+      "options": ["She said to me, “I am leaving.”", "She said to me, “You are leaving.”", "She said to me, “I left.”", "She said to me, “Leave!”"],
+      "answer": 0,
+      "explanation": "she → **I** และ was leaving → **am leaving** (ย้อนกลับเป็นคำพูดเดิม)"
+    },
+    {
+      "q": "Direct speech ของ “He asked me where I worked.” น่าจะเป็นข้อใด",
+      "options": ["He asked me, “Where do you work?”", "He asked me, “Where do I work?”", "He asked me, “Where did he work?”", "He asked me, “Do you work?”"],
+      "answer": 0,
+      "explanation": "I (ผู้ฟัง) → **you** · worked → **do … work**"
+    },
+    {
+      "q": "เปลี่ยนเป็น Reported Speech: Lisa said, “I can't come here tomorrow.”",
+      "options": ["Lisa said that she couldn't come there the next day.", "Lisa said that I can't come here tomorrow.", "Lisa told that she couldn't come there the next day.", "Lisa said she can't came there the next day."],
+      "answer": 0,
+      "explanation": "I → she · can't → couldn't · here → there · tomorrow → the next day"
+    },
+    {
+      "q": "ข้อใดผิดหลักไวยากรณ์",
+      "options": ["He said that he was tired.", "She told me that she was busy.", "They said us that they were late.", "I told him that I was sorry."],
+      "answer": 2,
+      "explanation": "said ไม่ตามด้วยคน → They **told us** that… (หรือ They said that…)"
+    },
+    {
+      "q": "อ่านข้อความ: “Yesterday my friend Joe called me. He said that he had lost his phone and asked if I could help him find it. I told him to check his school bag.” ข้อใดถูกต้อง",
+      "options": ["Joe found his phone.", "Joe asked for help.", "I lost my phone.", "Joe told me to check my bag."],
+      "answer": 1,
+      "explanation": "Joe **asked if I could help him** = ขอให้ช่วย ส่วนคนที่บอกให้ไปดูในกระเป๋าคือ “ฉัน”"
+    },
+    {
+      "q": "อ่านข้อความ: “The librarian told the students not to eat in the library. She also said that the library would close at five.” ข้อใดถูกต้อง",
+      "options": ["นักเรียนกินอาหารในห้องสมุดได้", "ห้องสมุดจะปิดตอนห้าโมง", "บรรณารักษ์บอกให้นักเรียนกินอาหาร", "ห้องสมุดเปิดถึงสองทุ่ม"],
+      "answer": 1,
+      "explanation": "She said that the library **would close at five**."
+    }
+  ]
+}

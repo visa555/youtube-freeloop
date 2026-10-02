@@ -1,0 +1,342 @@
+{
+  "lesson": {
+    "summary": "คำบุพบท (Preposition) ใช้ **เชื่อมคำนามกับส่วนอื่นของประโยค** เพื่อบอก **เวลา สถานที่ ตำแหน่ง ทิศทาง** เช่น in, on, at, under, between และต้องตามด้วย **คำนาม / สรรพนามรูปกรรม / V-ing**",
+    "sections": [
+      {
+        "icon": "⏰",
+        "title": "in / on / at กับเวลา",
+        "text": "จำง่าย: **at** = จุดเวลา · **on** = วัน · **in** = ช่วงเวลาที่ยาวกว่า",
+        "table": {
+          "head": ["คำ", "ใช้กับ", "ตัวอย่าง"],
+          "rows": [
+            ["**at**", "เวลาที่เป็นจุด", "at 8 o'clock, at noon, at night"],
+            ["**on**", "วัน / วันที่ / วันพิเศษ", "on Monday, on May 6th, on my birthday"],
+            ["**in**", "เดือน / ปี / ฤดู / ช่วงของวัน", "in April, in 2016, in summer, in the morning"]
+          ]
+        }
+      },
+      {
+        "icon": "📍",
+        "title": "in / on / at กับสถานที่",
+        "table": {
+          "head": ["คำ", "ใช้กับ", "ตัวอย่าง"],
+          "rows": [
+            ["**in**", "อยู่ข้างใน / พื้นที่ใหญ่", "in the box, in the room, in Japan"],
+            ["**on**", "อยู่บนพื้นผิว", "on the table, on the wall, on the floor"],
+            ["**at**", "ตำแหน่งที่เป็นจุด", "at home, at school, at the bus stop"]
+          ]
+        }
+      },
+      {
+        "icon": "📦",
+        "title": "บุพบทบอกตำแหน่ง",
+        "chips": ["under (ใต้)", "above (เหนือ)", "below (ต่ำกว่า)", "behind (ข้างหลัง)", "in front of (ข้างหน้า)", "next to / beside (ข้าง ๆ)", "between (ระหว่างสองสิ่ง)", "near (ใกล้)", "opposite (ตรงข้าม)", "inside / outside (ข้างใน / ข้างนอก)"]
+      },
+      {
+        "icon": "⏳",
+        "title": "บุพบทบอกเวลาอื่น ๆ",
+        "list": [
+          "**before / after** (ก่อน / หลัง): before lunch, after school",
+          "**during** (ระหว่าง): during the meeting",
+          "**from … to / until** (ตั้งแต่ … ถึง): from 9 a.m. to 5 p.m. · until midnight",
+          "**for** (เป็นเวลา) / **since** (ตั้งแต่): for two hours · since 2020",
+          "**within** (ภายใน): within 3 hours"
+        ]
+      },
+      {
+        "icon": "🧩",
+        "title": "บุพบทในประโยค",
+        "list": [
+          "ตามด้วย **คำนาม / สรรพนามรูปกรรม / V-ing**: with **him** · before **leaving** · thank you for **helping**",
+          "ขึ้นต้นประโยคได้ (มี comma): **On Saturday,** I will go to the museum.",
+          "ขยายคำนามได้: The girl **in the red dress** is my friend.",
+          "บางคำมีบุพบทประจำ: good **at**, interested **in**, afraid **of**, listen **to**"
+        ]
+      },
+      {
+        "icon": "⚠️",
+        "title": "ระวัง! จุดที่มักผิด",
+        "mistakes": [
+          { "wrong": "**in** Monday", "right": "**on** Monday", "why": "วันใช้ on" },
+          { "wrong": "**on** 7 o'clock", "right": "**at** 7 o'clock", "why": "จุดเวลาใช้ at" },
+          { "wrong": "**at** the morning", "right": "**in** the morning", "why": "ช่วงของวันใช้ in (แต่ at night)" },
+          { "wrong": "This is for **she**.", "right": "This is for **her**.", "why": "หลังบุพบทใช้สรรพนามรูปกรรม" },
+          { "wrong": "Thank you for **help** me.", "right": "Thank you for **helping** me.", "why": "กริยาหลังบุพบทต้องเป็น V-ing" }
+        ]
+      }
+    ],
+    "tip": "**at** จุดเวลา / จุดที่ · **on** วัน / บนพื้นผิว · **in** ช่วงยาว / ข้างใน — และถ้ามีกริยาตามหลังบุพบท ต้องเติม **-ing**"
+  },
+  "questions": [
+    {
+      "q": "เติมคำในช่องว่าง: The class starts ___ 8:30.",
+      "options": ["in", "on", "at", "during"],
+      "answer": 2,
+      "explanation": "เวลาที่เป็นจุด (8:30) ใช้ **at**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: My birthday is ___ June.",
+      "options": ["in", "on", "at", "for"],
+      "answer": 0,
+      "explanation": "เดือนใช้ **in**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: We have English ___ Tuesdays.",
+      "options": ["in", "on", "at", "for"],
+      "answer": 1,
+      "explanation": "วันใช้ **on**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: She was born ___ 2012.",
+      "options": ["in", "on", "at", "for"],
+      "answer": 0,
+      "explanation": "ปีใช้ **in**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: I usually read ___ night.",
+      "options": ["in", "on", "at", "for"],
+      "answer": 2,
+      "explanation": "สำนวน **at night** (ตอนกลางคืน) ต่างจาก in the morning / afternoon / evening"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: It's very hot ___ summer.",
+      "options": ["in", "on", "at", "for"],
+      "answer": 0,
+      "explanation": "ฤดูใช้ **in**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: We exchange gifts ___ New Year's Day.",
+      "options": ["in", "on", "at", "for"],
+      "answer": 1,
+      "explanation": "วันพิเศษ (…Day) ใช้ **on**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: I go jogging ___ the morning.",
+      "options": ["in", "on", "at", "for"],
+      "answer": 0,
+      "explanation": "ช่วงของวันใช้ **in** the morning"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The concert is ___ March 15th.",
+      "options": ["in", "on", "at", "for"],
+      "answer": 1,
+      "explanation": "วันที่ใช้ **on** (ถ้ามีแค่เดือนใช้ in March)"
+    },
+    {
+      "q": "ข้อใดใช้ in / on / at กับเวลาถูกต้องทั้งหมด",
+      "options": ["at Monday, in 5 p.m., on May", "on Monday, at 5 p.m., in May", "in Monday, on 5 p.m., at May", "on Monday, in 5 p.m., at May"],
+      "answer": 1,
+      "explanation": "วัน → **on** · จุดเวลา → **at** · เดือน → **in**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The keys are ___ the table.",
+      "options": ["in", "on", "at", "between"],
+      "answer": 1,
+      "explanation": "วางอยู่บนพื้นผิวโต๊ะ ใช้ **on**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: My dad is ___ home now.",
+      "options": ["in", "on", "at", "to"],
+      "answer": 2,
+      "explanation": "สำนวน **at home** (อยู่บ้าน)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: There is some milk ___ the fridge.",
+      "options": ["in", "on", "at", "under"],
+      "answer": 0,
+      "explanation": "อยู่ข้างในตู้เย็น ใช้ **in**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Ken lives ___ Chiang Mai.",
+      "options": ["in", "on", "at", "to"],
+      "answer": 0,
+      "explanation": "เมือง / จังหวัด / ประเทศ ใช้ **in**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Please wait for me ___ the bus stop.",
+      "options": ["in", "on", "at", "to"],
+      "answer": 2,
+      "explanation": "ตำแหน่งที่เป็นจุด ใช้ **at** the bus stop"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: There is a clock ___ the wall.",
+      "options": ["in", "on", "at", "under"],
+      "answer": 1,
+      "explanation": "ติดอยู่บนพื้นผิวผนัง ใช้ **on** the wall"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The cat is hiding ___ the bed. (ใต้)",
+      "options": ["under", "above", "on", "behind"],
+      "answer": 0,
+      "explanation": "ใต้ = **under**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The bank is ___ the post office and the school. (ระหว่าง)",
+      "options": ["between", "among", "next", "behind"],
+      "answer": 0,
+      "explanation": "ระหว่างสองสิ่ง ใช้ **between** … and …"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Our car is parked ___ the building. (ข้างหลัง)",
+      "options": ["in front of", "behind", "above", "inside"],
+      "answer": 1,
+      "explanation": "ข้างหลัง = **behind**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: There is a picture ___ the sofa. (เหนือ)",
+      "options": ["above", "under", "between", "in"],
+      "answer": 0,
+      "explanation": "เหนือ = **above**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Sit ___ me. I want to talk to you. (ข้าง ๆ)",
+      "options": ["next to", "between", "under", "above"],
+      "answer": 0,
+      "explanation": "ข้าง ๆ = **next to** (หรือ beside)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The school is ___ the hospital. They face each other. (ตรงข้าม)",
+      "options": ["opposite", "behind", "inside", "under"],
+      "answer": 0,
+      "explanation": "หันหน้าเข้าหากัน = **opposite** (ตรงข้าม)"
+    },
+    {
+      "q": "“in front of” แปลว่าอะไร",
+      "options": ["ข้างหลัง", "ข้างหน้า", "ข้างใน", "ข้างบน"],
+      "answer": 1,
+      "explanation": "in front of = **ข้างหน้า**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Please turn off your phone ___ the movie.",
+      "options": ["during", "between", "since", "at"],
+      "answer": 0,
+      "explanation": "ระหว่าง (ช่วงเวลาที่หนังฉาย) = **during**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The shop is open ___ 9 a.m. to 6 p.m.",
+      "options": ["from", "since", "at", "between"],
+      "answer": 0,
+      "explanation": "**from** … to … = ตั้งแต่ … ถึง …"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Wash your hands ___ eating.",
+      "options": ["before", "between", "during", "until"],
+      "answer": 0,
+      "explanation": "ล้างมือ **ก่อน** กินข้าว → before eating (หลังบุพบทใช้ V-ing)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: I waited for you ___ midnight.",
+      "options": ["until", "since", "between", "during"],
+      "answer": 0,
+      "explanation": "รอ **จนถึง** เที่ยงคืน → until"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: You must finish the test ___ two hours.",
+      "options": ["within", "since", "from", "between"],
+      "answer": 0,
+      "explanation": "**within** = ภายใน (ระยะเวลา)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: I have lived here ___ 2019.",
+      "options": ["for", "since", "from", "during"],
+      "answer": 1,
+      "explanation": "จุดเริ่มต้นของเวลา + Present Perfect ใช้ **since**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Thank you for ___ me.",
+      "options": ["help", "helping", "helped", "to help"],
+      "answer": 1,
+      "explanation": "หลังบุพบท for กริยาต้องเป็น V-ing → **helping**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: She left without ___ goodbye.",
+      "options": ["say", "saying", "said", "to say"],
+      "answer": 1,
+      "explanation": "หลังบุพบท without ใช้ V-ing → **saying**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: This letter is for ___.",
+      "options": ["she", "her", "hers", "herself"],
+      "answer": 1,
+      "explanation": "หลังบุพบทใช้สรรพนามรูปกรรม → for **her**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Can you come with ___?",
+      "options": ["we", "us", "our", "ours"],
+      "answer": 1,
+      "explanation": "หลังบุพบท with ใช้รูปกรรม → **us**"
+    },
+    {
+      "q": "ข้อใดเขียนได้ถูกต้อง",
+      "options": ["On Saturday, I will visit the museum.", "On Saturday I will, visit the museum.", "Saturday on, I will visit the museum.", "I will visit on the museum Saturday."],
+      "answer": 0,
+      "explanation": "วลีบุพบทขึ้นต้นประโยคได้ แล้วใส่ comma → **On Saturday,** I will…"
+    },
+    {
+      "q": "แปล: “เด็กผู้ชายที่ใส่หมวกสีแดงคือน้องชายของฉัน”",
+      "options": ["The boy in the red cap is my brother.", "The boy is in the red cap my brother.", "In the red cap the boy is my brother.", "The boy my brother is in the red cap."],
+      "answer": 0,
+      "explanation": "วลีบุพบท **in the red cap** ขยายคำนาม the boy โดยวางต่อหลังคำนามทันที"
+    },
+    {
+      "q": "ในประโยค “The book on the desk is mine.” วลี “on the desk” ทำหน้าที่อะไร",
+      "options": ["บอกเวลา", "ขยายคำนาม the book", "เป็นกริยา", "เป็นกรรม"],
+      "answer": 1,
+      "explanation": "on the desk บอกว่าเป็นหนังสือเล่มไหน จึง **ขยายคำนาม** the book"
+    },
+    {
+      "q": "ข้อใดผิดหลักไวยากรณ์",
+      "options": ["She is good at drawing.", "We arrived at the airport early.", "I'll meet you on 6 o'clock.", "They live in a big house."],
+      "answer": 2,
+      "explanation": "จุดเวลาใช้ at → I'll meet you **at** 6 o'clock."
+    },
+    {
+      "q": "ข้อใดผิดหลักไวยากรณ์",
+      "options": ["I'm interested in science.", "He is good at football.", "She is afraid from spiders.", "We are proud of you."],
+      "answer": 2,
+      "explanation": "กลัว = afraid **of** → She is afraid of spiders."
+    },
+    {
+      "q": "เติมคำในช่องว่าง: I'm interested ___ learning Chinese.",
+      "options": ["in", "on", "at", "of"],
+      "answer": 0,
+      "explanation": "สนใจ = interested **in**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: He is afraid ___ the dark.",
+      "options": ["of", "in", "at", "with"],
+      "answer": 0,
+      "explanation": "กลัว = afraid **of**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Sorry, I'm not good ___ singing.",
+      "options": ["in", "on", "at", "of"],
+      "answer": 2,
+      "explanation": "เก่ง = good **at**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Let's go ___ the park.",
+      "options": ["to", "at", "in", "on"],
+      "answer": 0,
+      "explanation": "ทิศทางการเคลื่อนที่ไปยังสถานที่ ใช้ go **to**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Put the books ___ the box, please.",
+      "options": ["into", "at", "from", "since"],
+      "answer": 0,
+      "explanation": "เคลื่อนเข้าไปข้างใน = **into**"
+    },
+    {
+      "q": "อ่านข้อความ: “My bedroom is small. My bed is next to the window, and there is a desk in front of the bed. My cat often sleeps under the desk.” แมวมักจะนอนที่ไหน",
+      "options": ["บนเตียง", "ใต้โต๊ะ", "ข้างหน้าต่าง", "หน้าเตียง"],
+      "answer": 1,
+      "explanation": "My cat often sleeps **under the desk** = ใต้โต๊ะ"
+    },
+    {
+      "q": "อ่านข้อความ: “The library is open from Monday to Friday. It opens at 8 a.m. and closes at 6 p.m. It is closed on weekends.” ข้อใดถูกต้อง",
+      "options": ["The library is open on Saturdays.", "The library opens at 6 p.m.", "The library is closed on Sundays.", "The library opens in the afternoon."],
+      "answer": 2,
+      "explanation": "It is closed **on weekends** (เสาร์–อาทิตย์) จึงปิดวันอาทิตย์ด้วย"
+    }
+  ]
+}

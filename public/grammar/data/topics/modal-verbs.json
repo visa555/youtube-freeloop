@@ -1,0 +1,114 @@
+{
+  "lesson": {
+    "summary": "Modal verbs คือกริยาช่วยที่เติม **ความหมายพิเศษ** ให้กริยาหลัก เช่น ความสามารถ การขออนุญาต คำแนะนำ ความจำเป็น ความเป็นไปได้ — ตามด้วย **V1 เสมอ** และไม่เติม s",
+    "sections": [
+      {
+        "icon": "🎛️",
+        "title": "ความหมายของแต่ละตัว",
+        "table": {
+          "head": ["Modal", "ความหมาย", "ตัวอย่าง"],
+          "rows": [
+            ["can / could", "สามารถ (could = อดีต หรือสุภาพกว่า)", "She **can** speak Chinese. / I **could** swim at five."],
+            ["may / might", "อาจจะ / ขออนุญาต (may)", "It **may** rain later."],
+            ["must", "ต้อง (ผู้พูดกำหนด) / คงจะ (แน่ใจ)", "You **must** wear a helmet."],
+            ["have to", "ต้อง (กฎ / สถานการณ์บังคับ)", "I **have to** get up at 6."],
+            ["should", "ควร", "You **should** see a doctor."],
+            ["will / would", "จะ / ใช้ขอร้องหรือเสนออย่างสุภาพ", "**Would** you like some tea?"],
+            ["shall", "ใช้เสนอหรือชวน (กับ I, we)", "**Shall** we go?"]
+          ]
+        }
+      },
+      {
+        "icon": "🧱",
+        "title": "โครงสร้าง",
+        "formulas": [
+          { "label": "บอกเล่า", "formula": "ประธาน + modal + **V1**", "example": "He **can swim**." },
+          { "label": "ปฏิเสธ", "formula": "ประธาน + modal + **not** + V1", "example": "You **shouldn't eat** too much sugar." },
+          { "label": "คำถาม", "formula": "**Modal** + ประธาน + V1 ?", "example": "**Can** you **help** me?" }
+        ],
+        "list": [
+          "รูปย่อปฏิเสธ: can't, couldn't, mustn't, shouldn't, won't, wouldn't"
+        ]
+      },
+      {
+        "icon": "🙋",
+        "title": "ขออนุญาต / ขอร้อง",
+        "table": {
+          "head": ["ระดับ", "ขออนุญาต", "ขอให้ช่วย"],
+          "rows": [
+            ["กันเอง", "**Can** I borrow your pen?", "**Can** you help me?"],
+            ["สุภาพ", "**Could / May** I use your phone?", "**Could / Would** you open the door?"]
+          ]
+        }
+      },
+      {
+        "icon": "⚖️",
+        "title": "mustn't กับ don't have to",
+        "list": [
+          "**mustn't** = **ห้าม**: You mustn't smoke here.",
+          "**don't have to** = **ไม่จำเป็นต้อง** (จะทำหรือไม่ก็ได้): You don't have to come.",
+          "อดีตของ must / have to คือ **had to**: I had to wait for an hour."
+        ]
+      },
+      {
+        "icon": "⚠️",
+        "title": "ระวัง! จุดที่มักผิด",
+        "mistakes": [
+          { "wrong": "She can **speaks** English.", "right": "She can **speak** English.", "why": "หลัง modal ใช้ V1" },
+          { "wrong": "You should **to go**.", "right": "You should **go**.", "why": "ไม่มี to หลัง modal (ยกเว้น have to)" },
+          { "wrong": "He **musts** go.", "right": "He **must** go.", "why": "modal ไม่เติม s" },
+          { "wrong": "**Do you can** swim?", "right": "**Can you** swim?", "why": "คำถามยก modal ขึ้นหน้าประธาน ไม่ใช้ do" },
+          { "wrong": "It's free. You **mustn't** pay.", "right": "It's free. You **don't have to** pay.", "why": "ต้องการบอกว่าไม่จำเป็น ไม่ใช่ห้าม" }
+        ]
+      }
+    ],
+    "tip": "Modal + **V1** เสมอ · ไม่เติม s · ไม่มี to (ยกเว้น have to) · คำถามยก modal ขึ้นหน้าประธาน — และระวัง **mustn't (ห้าม) ≠ don't have to (ไม่จำเป็น)**"
+  },
+  "questions": [
+    { "q": "เติมคำในช่องว่าง: She can ___ three languages.", "options": ["speak", "speaks", "to speak", "speaking"], "answer": 0, "explanation": "หลัง can ใช้ V1 → **speak**" },
+    { "q": "เติมคำในช่องว่าง: You look sick. You ___ see a doctor.", "options": ["should", "shouldn't", "can't", "mustn't"], "answer": 0, "explanation": "ให้คำแนะนำ → **should** (ควร)" },
+    { "q": "เติมคำในช่องว่าง: Students ___ wear uniforms at school. It's a rule.", "options": ["must", "might", "could", "would"], "answer": 0, "explanation": "เป็นกฎ = ต้อง → **must**" },
+    { "q": "เติมคำในช่องว่าง: Take an umbrella. It ___ rain later.", "options": ["may", "must", "should", "can't"], "answer": 0, "explanation": "อาจจะ (ไม่แน่ใจ) → **may**" },
+    { "q": "เติมคำในช่องว่าง: When I was six, I ___ ride a bike.", "options": ["can", "could", "must", "should"], "answer": 1, "explanation": "ความสามารถในอดีต → **could**" },
+    { "q": "เติมคำในช่องว่าง: ___ I use your phone, please? (สุภาพ)", "options": ["May", "Must", "Should", "Will"], "answer": 0, "explanation": "ขออนุญาตอย่างสุภาพ → **May** I …?" },
+    { "q": "เติมคำในช่องว่าง: ___ you open the window, please?", "options": ["Could", "May", "Must", "Shall"], "answer": 0, "explanation": "ขอให้อีกฝ่ายช่วยอย่างสุภาพ → **Could** you …? (May you ใช้ไม่ได้)" },
+    { "q": "เติมคำในช่องว่าง: ___ we go to the movies tonight? (ชวน)", "options": ["Shall", "Must", "May", "Do"], "answer": 0, "explanation": "ชวนหรือเสนอ → **Shall** we …?" },
+    { "q": "เติมคำในช่องว่าง: ___ you like some tea?", "options": ["Would", "Will", "Do", "Shall"], "answer": 0, "explanation": "เสนออย่างสุภาพ → **Would** you like …?" },
+    { "q": "เติมคำในช่องว่าง: You ___ smoke in the hospital. It's not allowed.", "options": ["mustn't", "don't have to", "can", "must"], "answer": 0, "explanation": "ไม่อนุญาต = ห้าม → **mustn't**" },
+    { "q": "เติมคำในช่องว่าง: Tomorrow is a holiday. We ___ go to school.", "options": ["mustn't", "don't have to", "can't", "shouldn't"], "answer": 1, "explanation": "วันหยุด = ไม่จำเป็นต้องไป → **don't have to**" },
+    { "q": "“You don't have to bring food.” หมายความว่าอย่างไร", "options": ["ห้ามนำอาหารมา", "ไม่จำเป็นต้องนำอาหารมา", "ต้องนำอาหารมา", "ควรนำอาหารมา"], "answer": 1, "explanation": "don't have to = **ไม่จำเป็นต้อง**" },
+    { "q": "“You mustn't touch the paintings.” หมายความว่าอย่างไร", "options": ["ห้ามแตะภาพวาด", "ไม่จำเป็นต้องแตะภาพวาด", "ควรแตะภาพวาด", "อาจแตะภาพวาดได้"], "answer": 0, "explanation": "mustn't = **ห้าม**" },
+    { "q": "เติมคำในช่องว่าง: Yesterday I ___ wait for the bus for an hour.", "options": ["must", "had to", "have to", "musted"], "answer": 1, "explanation": "อดีตของ must / have to คือ **had to**" },
+    { "q": "เติมคำในช่องว่าง: He ___ come to the party because he was sick.", "options": ["can't", "couldn't", "mustn't", "won't"], "answer": 1, "explanation": "เรื่องในอดีต (was sick) → **couldn't** (ไม่สามารถ)" },
+    { "q": "ข้อใดถูกต้อง", "options": ["He cans swim.", "He can swims.", "He can swim.", "He can to swim."], "answer": 2, "explanation": "modal ไม่เติม s และตามด้วย V1 → He **can swim**." },
+    { "q": "ข้อใดถูกต้อง", "options": ["You should to rest.", "You should rest.", "You should resting.", "You shoulds rest."], "answer": 1, "explanation": "should + V1 → **should rest**" },
+    { "q": "ข้อใดถูกต้อง", "options": ["Do you can play chess?", "Can you play chess?", "Can you plays chess?", "Can you to play chess?"], "answer": 1, "explanation": "ยก can ขึ้นหน้าประธาน + V1 → **Can you play** chess?" },
+    { "q": "ประโยคปฏิเสธของ “She can drive.” คือข้อใด", "options": ["She can't drive.", "She doesn't can drive.", "She can't drives.", "She not can drive."], "answer": 0, "explanation": "can + not → **can't** + V1" },
+    { "q": "ประโยคปฏิเสธของ “You should eat fast food.” คือข้อใด", "options": ["You shouldn't eat fast food.", "You don't should eat fast food.", "You should don't eat fast food.", "You shouldn't eats fast food."], "answer": 0, "explanation": "should + not → **shouldn't** + V1" },
+    { "q": "ประโยคคำถามของ “I may come in.” คือข้อใด", "options": ["May I come in?", "Do I may come in?", "May I to come in?", "I may come in?"], "answer": 0, "explanation": "ยก may ขึ้นหน้าประธาน → **May I come in?**" },
+    { "q": "เติมคำในช่องว่าง: ___ you help me carry this box?", "options": ["Can", "Must", "Should", "May"], "answer": 0, "explanation": "ขอให้ช่วย → **Can** you …?" },
+    { "q": "เติมคำในช่องว่าง: I'm not sure. He ___ be at home. (อาจจะ)", "options": ["might", "must", "has to", "should"], "answer": 0, "explanation": "ไม่แน่ใจ → **might** (อาจจะ)" },
+    { "q": "เติมคำในช่องว่าง: The lights are on. Someone ___ be at home. (แน่ใจว่า)", "options": ["must", "mustn't", "can", "needn't"], "answer": 0, "explanation": "คาดเดาแบบมั่นใจ → **must** be (คงจะต้อง…แน่ ๆ)" },
+    { "q": "เติมคำในช่องว่าง: That ___ be Tom. He is in Japan now. (เป็นไปไม่ได้)", "options": ["can't", "must", "should", "may"], "answer": 0, "explanation": "เป็นไปไม่ได้ → **can't** be" },
+    { "q": "เติมคำในช่องว่าง: I ___ finish this report today. My boss needs it.", "options": ["have to", "don't have to", "mustn't", "may"], "answer": 0, "explanation": "สถานการณ์บังคับ (หัวหน้าต้องใช้) → **have to**" },
+    { "q": "เติมคำในช่องว่าง: She ___ get up early on Sundays. She can sleep late.", "options": ["doesn't have to", "mustn't", "has to", "must"], "answer": 0, "explanation": "นอนตื่นสายได้ = ไม่จำเป็นต้องตื่นเช้า → **doesn't have to**" },
+    { "q": "Modal ใดใช้ให้คำแนะนำ", "options": ["should", "can", "may", "will"], "answer": 0, "explanation": "**should** = ควร" },
+    { "q": "Modal ใดบอกความสามารถในอดีต", "options": ["could", "can", "might", "shall"], "answer": 0, "explanation": "**could** = สามารถ (อดีต)" },
+    { "q": "แปล: “เธอสามารถว่ายน้ำได้เร็วมาก”", "options": ["She can swim very fast.", "She can swims very fast.", "She cans swim very fast.", "She could swims very fast."], "answer": 0, "explanation": "can + V1 → She **can swim** very fast." },
+    { "q": "แปล: “เราไม่ควรทิ้งขยะบนถนน”", "options": ["We shouldn't throw rubbish on the road.", "We don't should throw rubbish on the road.", "We should not to throw rubbish on the road.", "We mustn't to throw rubbish on the road."], "answer": 0, "explanation": "ไม่ควร = **shouldn't** + V1" },
+    { "q": "แปล: “ฉันขอยืมปากกาหน่อยได้ไหมคะ” (สุภาพ)", "options": ["Could I borrow your pen?", "Must I borrow your pen?", "Should I borrow your pen?", "Do I could borrow your pen?"], "answer": 0, "explanation": "ขออนุญาตสุภาพ → **Could I** …?" },
+    { "q": "แปล: “คุณไม่จำเป็นต้องจ่ายเงิน มันฟรี”", "options": ["You don't have to pay. It's free.", "You mustn't pay. It's free.", "You can't pay. It's free.", "You shouldn't to pay. It's free."], "answer": 0, "explanation": "ไม่จำเป็นต้อง = **don't have to**" },
+    { "q": "ป้ายในห้องสมุดต้องการบอกว่า “ห้ามคุยเสียงดัง” ข้อใดเหมาะสม", "options": ["You mustn't talk loudly.", "You don't have to talk loudly.", "You might talk loudly.", "You could talk loudly."], "answer": 0, "explanation": "ห้าม = **mustn't**" },
+    { "q": "สถานการณ์: เพื่อนปวดหัว คุณอยากแนะนำให้พักผ่อน ควรพูดว่าอะไร", "options": ["You should get some rest.", "You must to get some rest.", "You can't get some rest.", "You might got some rest."], "answer": 0, "explanation": "ให้คำแนะนำ → **should** + V1" },
+    { "q": "สถานการณ์: คุณอยากเสนอว่าจะช่วยถือกระเป๋าให้คุณครู ควรพูดว่าอะไร", "options": ["Shall I carry your bag?", "Must I carry your bag?", "Do I carry your bag?", "Should you carry my bag?"], "answer": 0, "explanation": "เสนอความช่วยเหลือ → **Shall I** …?" },
+    { "q": "ข้อใดผิดหลักไวยากรณ์", "options": ["You must wear a seatbelt.", "She might come later.", "He musts finish his work.", "They can speak Thai."], "answer": 2, "explanation": "modal ไม่เติม s → He **must** finish" },
+    { "q": "ข้อใดผิดหลักไวยากรณ์", "options": ["Could you help me?", "May I sit here?", "Will you to close the door?", "Should we wait?"], "answer": 2, "explanation": "หลัง will ไม่มี to → Will you **close** the door?" },
+    { "q": "A: Can you come to my party?  B: Sorry, I ___. I have to study.", "options": ["can't", "don't", "mustn't", "won't be"], "answer": 0, "explanation": "ถามด้วย Can ตอบปฏิเสธ → I **can't**." },
+    { "q": "A: May I go to the restroom?  B: Yes, you ___.", "options": ["may", "do", "are", "must"], "answer": 0, "explanation": "ถามด้วย May ตอบด้วย **may**" },
+    { "q": "A: Must I wear a tie?  B: No, you ___. It's a casual party.", "options": ["mustn't", "don't have to", "can't", "shouldn't"], "answer": 1, "explanation": "งานสบาย ๆ = ไม่จำเป็นต้องผูกเนกไท → **don't have to** (mustn't = ห้าม)" },
+    { "q": "เติมคำในช่องว่าง: You ___ be 18 to drive a car in Thailand.", "options": ["have to", "don't have to", "may", "could"], "answer": 0, "explanation": "เป็นกฎหมาย = ต้อง → **have to**" },
+    { "q": "เติมคำในช่องว่าง: Mint ___ play the piano well, but she can't sing.", "options": ["can", "must", "should", "has to"], "answer": 0, "explanation": "ความสามารถ → **can**" },
+    { "q": "“I couldn't sleep last night.” แปลว่าอะไร", "options": ["เมื่อคืนฉันนอนไม่หลับ", "คืนนี้ฉันจะไม่นอน", "ฉันไม่ควรนอนเมื่อคืน", "ฉันต้องนอนเมื่อคืน"], "answer": 0, "explanation": "couldn't = **ไม่สามารถ** (อดีต) → นอนไม่หลับ" },
+    { "q": "อ่านกฎของสระว่ายน้ำ: “You must take a shower before swimming. You mustn't run near the pool. Children under 10 have to swim with an adult. You don't have to bring a towel; we have free towels.” ข้อใดถูกต้อง", "options": ["ต้องนำผ้าเช็ดตัวมาเอง", "เด็กอายุ 8 ขวบว่ายน้ำคนเดียวได้", "ห้ามวิ่งใกล้สระ", "ไม่ต้องอาบน้ำก่อนลงสระ"], "answer": 2, "explanation": "You **mustn't run** near the pool = ห้ามวิ่งใกล้สระ" }
+  ]
+}

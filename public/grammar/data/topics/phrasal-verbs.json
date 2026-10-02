@@ -1,0 +1,134 @@
+{
+  "lesson": {
+    "summary": "Phrasal verb คือ **กริยา + คำเล็ก ๆ (up, on, off, out, in, down …)** ที่รวมกันแล้วได้ **ความหมายใหม่** แปลตรงตัวไม่ได้ ต้องจำเป็นก้อน เช่น give (ให้) + up = **ยอมแพ้**",
+    "sections": [
+      {
+        "icon": "⬆️",
+        "title": "กลุ่ม up",
+        "table": {
+          "head": ["Phrasal verb", "ความหมาย"],
+          "rows": [
+            ["wake up / get up", "ตื่นนอน / ลุกจากเตียง"],
+            ["stand up", "ยืนขึ้น"],
+            ["give up", "ยอมแพ้ / เลิก"],
+            ["grow up", "เติบโต"],
+            ["pick up", "หยิบขึ้นมา / ไปรับ (คน)"],
+            ["clean up", "ทำความสะอาด"],
+            ["set up", "ติดตั้ง / กาง / ก่อตั้ง"],
+            ["look up", "ค้นหา (คำศัพท์ ข้อมูล)"]
+          ]
+        }
+      },
+      {
+        "icon": "🔛",
+        "title": "กลุ่ม on / off",
+        "table": {
+          "head": ["Phrasal verb", "ความหมาย"],
+          "rows": [
+            ["turn on / turn off", "เปิด / ปิด (ไฟ เครื่องใช้ไฟฟ้า)"],
+            ["put on / take off", "สวมใส่ / ถอดออก"],
+            ["take off", "(เครื่องบิน) ขึ้นบิน"],
+            ["get on / get off", "ขึ้น / ลง (รถเมล์ รถไฟ เครื่องบิน)"],
+            ["go on / carry on", "ทำต่อไป"],
+            ["hold on", "รอสักครู่"],
+            ["put off", "เลื่อนออกไป"],
+            ["take on", "รับ (งาน หน้าที่) เพิ่ม"]
+          ]
+        }
+      },
+      {
+        "icon": "↔️",
+        "title": "อื่น ๆ ที่ควรรู้",
+        "table": {
+          "head": ["Phrasal verb", "ความหมาย"],
+          "rows": [
+            ["find out", "ค้นพบ / หาคำตอบ"],
+            ["look for / look after", "มองหา / ดูแล"],
+            ["look forward to + V-ing", "ตั้งตารอ"],
+            ["look out", "ระวัง!"],
+            ["come across", "บังเอิญเจอ (ของ)"],
+            ["run into", "บังเอิญเจอ (คน)"],
+            ["fill in / hand in", "กรอก (แบบฟอร์ม) / ส่ง (งาน)"],
+            ["turn down", "ปฏิเสธ / ลดเสียง"],
+            ["put up with", "ทนกับ"],
+            ["give back", "คืน"],
+            ["put away", "เก็บเข้าที่"],
+            ["run out of", "…หมด"]
+          ]
+        }
+      },
+      {
+        "icon": "🧩",
+        "title": "ตำแหน่งของกรรม",
+        "list": [
+          "ส่วนใหญ่วางกรรม (คำนาม) ได้ 2 แบบ: turn **off the light** = turn **the light** off",
+          "ถ้ากรรมเป็น **สรรพนาม** (it, them, him) ต้องวาง **ตรงกลาง**: turn **it** off (ไม่ใช่ turn off it)",
+          "บางคำแยกไม่ได้ กรรมต้องอยู่ท้ายเสมอ: look **after** her, run **into** him, come **across** it"
+        ]
+      },
+      {
+        "icon": "⚠️",
+        "title": "ระวัง! จุดที่มักผิด",
+        "mistakes": [
+          { "wrong": "Please turn off **it**.", "right": "Please turn **it** off.", "why": "สรรพนามต้องอยู่ตรงกลาง" },
+          { "wrong": "I'm looking forward to **see** you.", "right": "I'm looking forward to **seeing** you.", "why": "to ในที่นี้เป็นบุพบท ตามด้วย V-ing" },
+          { "wrong": "She looks after **for** her brother.", "right": "She looks after her brother.", "why": "look after ตามด้วยกรรมได้เลย" },
+          { "wrong": "We ran out **milk**.", "right": "We ran out **of** milk.", "why": "run out of ต้องมี of" }
+        ]
+      }
+    ],
+    "tip": "Phrasal verb ต้อง **จำเป็นก้อน** และถ้ากรรมเป็น it / them / him ให้ **แทรกไว้ตรงกลาง** (pick **it** up)"
+  },
+  "questions": [
+    { "q": "เติมคำในช่องว่าง: I usually ___ at 6 a.m. (ตื่นนอน)", "options": ["wake up", "give up", "grow up", "stand up"], "answer": 0, "explanation": "**wake up** = ตื่นนอน" },
+    { "q": "เติมคำในช่องว่าง: Don't ___! You can do it.", "options": ["give up", "get up", "pick up", "set up"], "answer": 0, "explanation": "**give up** = ยอมแพ้" },
+    { "q": "เติมคำในช่องว่าง: I want to be a pilot when I ___.", "options": ["grow up", "give up", "wake up", "clean up"], "answer": 0, "explanation": "**grow up** = โตขึ้น" },
+    { "q": "เติมคำในช่องว่าง: Can you ___ me ___ from school at 4? (ไปรับ)", "options": ["pick / up", "set / up", "give / up", "look / up"], "answer": 0, "explanation": "**pick** someone **up** = ไปรับ" },
+    { "q": "เติมคำในช่องว่าง: Please ___ your room before Grandma arrives.", "options": ["clean up", "grow up", "give up", "get up"], "answer": 0, "explanation": "**clean up** = ทำความสะอาด" },
+    { "q": "เติมคำในช่องว่าง: We need to ___ the tent before dark.", "options": ["set up", "give up", "wake up", "grow up"], "answer": 0, "explanation": "**set up** = กาง / ติดตั้ง" },
+    { "q": "เติมคำในช่องว่าง: The room is too dark. Can you ___ the lamp?", "options": ["turn on", "turn off", "take off", "put off"], "answer": 0, "explanation": "**turn on** = เปิด (ไฟ)" },
+    { "q": "เติมคำในช่องว่าง: It's raining. ___ your raincoat.", "options": ["Put on", "Take off", "Turn on", "Get off"], "answer": 0, "explanation": "**put on** = สวมใส่" },
+    { "q": "เติมคำในช่องว่าง: We have to ___ the bus at the next stop. (ลง)", "options": ["get off", "get on", "take off", "put off"], "answer": 0, "explanation": "**get off** = ลง (จากรถ)" },
+    { "q": "เติมคำในช่องว่าง: Hurry! ___ the train before the doors close. (ขึ้น)", "options": ["Get on", "Get off", "Take on", "Put on"], "answer": 0, "explanation": "**get on** = ขึ้น (รถไฟ / รถเมล์)" },
+    { "q": "เติมคำในช่องว่าง: The plane will ___ in ten minutes. (ขึ้นบิน)", "options": ["take off", "put off", "get off", "turn off"], "answer": 0, "explanation": "**take off** = เครื่องบินขึ้น" },
+    { "q": "เติมคำในช่องว่าง: ___ on, please. I'll get my teacher. (รอสักครู่)", "options": ["Hold", "Carry", "Put", "Turn"], "answer": 0, "explanation": "**hold on** = รอสักครู่" },
+    { "q": "เติมคำในช่องว่าง: Don't stop. Please ___ with your story.", "options": ["go on", "get on", "put on", "take on"], "answer": 0, "explanation": "**go on** = ทำต่อไป" },
+    { "q": "เติมคำในช่องว่าง: You need a password to ___ to the website.", "options": ["log in", "look in", "fill in", "hand in"], "answer": 0, "explanation": "**log in** = เข้าสู่ระบบ" },
+    { "q": "เติมคำในช่องว่าง: The school trip was ___ because of the storm.", "options": ["put off", "put on", "taken off", "turned on"], "answer": 0, "explanation": "**put off** = เลื่อนออกไป" },
+    { "q": "เติมคำในช่องว่าง: She is very busy because she ___ too many projects.", "options": ["took on", "took off", "put on", "got on"], "answer": 0, "explanation": "**take on** = รับงานเพิ่ม" },
+    { "q": "เติมคำในช่องว่าง: I'm ___ my glasses. Have you seen them?", "options": ["looking for", "looking after", "looking up", "looking forward"], "answer": 0, "explanation": "**look for** = มองหา" },
+    { "q": "เติมคำในช่องว่าง: Grandma ___ my little sister while Mom is at work.", "options": ["looks after", "looks for", "looks up", "looks into"], "answer": 0, "explanation": "**look after** = ดูแล" },
+    { "q": "เติมคำในช่องว่าง: I'm looking forward to ___ you soon.", "options": ["see", "seeing", "saw", "seen"], "answer": 1, "explanation": "look forward **to** + **V-ing**" },
+    { "q": "เติมคำในช่องว่าง: I ___ some old coins in Grandpa's drawer. (บังเอิญเจอ)", "options": ["came across", "came up", "came on", "came off"], "answer": 0, "explanation": "**come across** = บังเอิญเจอ (สิ่งของ)" },
+    { "q": "เติมคำในช่องว่าง: I ___ my old teacher at the mall yesterday. (บังเอิญเจอ)", "options": ["ran into", "ran out", "ran off", "ran over"], "answer": 0, "explanation": "**run into** = บังเอิญเจอ (คน)" },
+    { "q": "เติมคำในช่องว่าง: Please ___ this form with your name and address.", "options": ["fill in", "hand in", "log in", "look in"], "answer": 0, "explanation": "**fill in** = กรอก (แบบฟอร์ม)" },
+    { "q": "เติมคำในช่องว่าง: All students must ___ their projects next Monday.", "options": ["hand in", "fill in", "give up", "put away"], "answer": 0, "explanation": "**hand in** = ส่ง (งาน)" },
+    { "q": "เติมคำในช่องว่าง: Can you ___ the music? It's too loud.", "options": ["turn down", "turn up", "turn on", "turn into"], "answer": 0, "explanation": "**turn down** = ลดเสียง" },
+    { "q": "เติมคำในช่องว่าง: Ben ___ the invitation because he was busy.", "options": ["turned down", "turned up", "turned on", "turned off"], "answer": 0, "explanation": "**turn down** = ปฏิเสธ (คำเชิญ ข้อเสนอ)" },
+    { "q": "เติมคำในช่องว่าง: How can you ___ such a messy roommate?", "options": ["put up with", "put off", "put on", "put away"], "answer": 0, "explanation": "**put up with** = ทนกับ" },
+    { "q": "เติมคำในช่องว่าง: We've ___ milk. Can you buy some?", "options": ["run out of", "run into", "run over", "run away"], "answer": 0, "explanation": "**run out of** = …หมด" },
+    { "q": "เติมคำในช่องว่าง: Please ___ your toys when you finish playing.", "options": ["put away", "put on", "put off", "put up"], "answer": 0, "explanation": "**put away** = เก็บเข้าที่" },
+    { "q": "เติมคำในช่องว่าง: Can you ___ my umbrella when you finish using it?", "options": ["give back", "give up", "give in", "give out"], "answer": 0, "explanation": "**give back** = คืน" },
+    { "q": "เติมคำในช่องว่าง: Let's ___ why the computer isn't working.", "options": ["find out", "find up", "find off", "find on"], "answer": 0, "explanation": "**find out** = หาคำตอบ / ค้นพบ" },
+    { "q": "เติมคำในช่องว่าง: If you don't know the word, ___ in the dictionary.", "options": ["look it up", "look up it", "look after it", "look it after"], "answer": 0, "explanation": "look up + สรรพนาม → **look it up** (it อยู่ตรงกลาง)" },
+    { "q": "“give up” แปลว่าอะไร", "options": ["ยอมแพ้ / เลิก", "ให้ของขวัญ", "ลุกขึ้น", "ยกขึ้น"], "answer": 0, "explanation": "give up = **ยอมแพ้ / เลิก**" },
+    { "q": "“look forward to” แปลว่าอะไร", "options": ["ตั้งตารอ", "มองไปข้างหน้า", "ดูแล", "มองหา"], "answer": 0, "explanation": "look forward to = **ตั้งตารอ**" },
+    { "q": "“run out of” แปลว่าอะไร", "options": ["…หมด", "วิ่งออกไป", "วิ่งหนี", "บังเอิญเจอ"], "answer": 0, "explanation": "run out of = **(ของ) หมด**" },
+    { "q": "“put up with” แปลว่าอะไร", "options": ["ทนกับ", "ติดตั้ง", "เก็บ", "สวมใส่"], "answer": 0, "explanation": "put up with = **ทนกับ**" },
+    { "q": "“take off” ในประโยค “Take off your shoes.” แปลว่าอะไร", "options": ["ถอด", "ขึ้นบิน", "ลา", "รับ"], "answer": 0, "explanation": "take off + เสื้อผ้า / รองเท้า = **ถอด**" },
+    { "q": "“take off” ในประโยค “The plane took off on time.” แปลว่าอะไร", "options": ["ขึ้นบิน", "ถอด", "ลงจอด", "ยกเลิก"], "answer": 0, "explanation": "เครื่องบิน + take off = **ขึ้นบิน**" },
+    { "q": "ข้อใดถูกต้อง", "options": ["Please turn off it.", "Please turn it off.", "Please it turn off.", "Please turn of it."], "answer": 1, "explanation": "สรรพนามอยู่ตรงกลาง → turn **it** off" },
+    { "q": "ข้อใดถูกต้อง", "options": ["Pick up them, please.", "Pick them up, please.", "Pick up they, please.", "Pick they up, please."], "answer": 1, "explanation": "สรรพนามรูปกรรม (them) อยู่ตรงกลาง → pick **them** up" },
+    { "q": "ข้อใดผิด", "options": ["Put your coat on.", "Put on your coat.", "Put it on.", "Put on it."], "answer": 3, "explanation": "สรรพนามต้องอยู่ตรงกลาง → Put **it** on." },
+    { "q": "ข้อใดถูกต้อง", "options": ["She looks her brother after.", "She looks after her brother.", "She looks after for her brother.", "She after looks her brother."], "answer": 1, "explanation": "look after แยกไม่ได้ และไม่ต้องมี for" },
+    { "q": "คำว่า “continue” มีความหมายเหมือน phrasal verb ใด", "options": ["go on", "go off", "give up", "put off"], "answer": 0, "explanation": "continue = **go on** (ทำต่อไป)" },
+    { "q": "คำว่า “postpone” มีความหมายเหมือน phrasal verb ใด", "options": ["put off", "put on", "take on", "turn up"], "answer": 0, "explanation": "postpone = **put off** (เลื่อนออกไป)" },
+    { "q": "คำว่า “discover” มีความหมายเหมือน phrasal verb ใด", "options": ["find out", "look after", "give back", "turn down"], "answer": 0, "explanation": "discover = **find out**" },
+    { "q": "คำว่า “refuse” (ปฏิเสธข้อเสนอ) มีความหมายเหมือน phrasal verb ใด", "options": ["turn down", "turn up", "turn on", "turn over"], "answer": 0, "explanation": "refuse = **turn down**" },
+    { "q": "คำว่า “return” (คืนของ) มีความหมายเหมือน phrasal verb ใด", "options": ["give back", "give up", "look back", "put up"], "answer": 0, "explanation": "return (คืน) = **give back**" },
+    { "q": "แปล: “ฉันโตมาที่เชียงราย”", "options": ["I grew up in Chiang Rai.", "I gave up in Chiang Rai.", "I grew on in Chiang Rai.", "I got up in Chiang Rai."], "answer": 0, "explanation": "เติบโต = **grow up** → grew up" },
+    { "q": "แปล: “ระวัง! รถกำลังมา”", "options": ["Look out! A car is coming.", "Look after! A car is coming.", "Look up! A car is coming.", "Look for! A car is coming."], "answer": 0, "explanation": "ระวัง! = **Look out!**" },
+    { "q": "อ่านข้อความ: “This morning, Joe woke up late. He got up quickly, put on his uniform and ran to the bus stop. But the bus had already left, so he had to wait for the next one.” ข้อใดถูกต้อง", "options": ["Joe ตื่นเช้ามาก", "Joe ใส่ชุดนักเรียนแล้ววิ่งไปป้ายรถเมล์", "Joe ขึ้นรถเมล์คันแรกทัน", "Joe ไม่ได้ไปโรงเรียน"], "answer": 1, "explanation": "**put on his uniform and ran to the bus stop** = ใส่ชุดนักเรียนแล้ววิ่งไปป้ายรถเมล์" },
+    { "q": "อ่านข้อความ: “Mali ran out of paper while she was printing her report. She looked for more in the drawer but couldn't find any, so she asked her dad to pick some up on his way home.” ข้อใดถูกต้อง", "options": ["Mali มีกระดาษเหลือเยอะ", "Mali ขอให้พ่อซื้อกระดาษกลับมาให้", "Mali เจอกระดาษในลิ้นชัก", "Mali ส่งรายงานแล้ว"], "answer": 1, "explanation": "asked her dad to **pick some up** on his way home = ขอให้พ่อซื้อติดมือกลับมา" }
+  ]
+}

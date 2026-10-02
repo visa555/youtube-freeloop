@@ -1,0 +1,108 @@
+{
+  "lesson": {
+    "summary": "Question tag คือคำถามสั้น ๆ **ท้ายประโยค** ใช้ขอการยืนยัน (…ใช่ไหม / …ไม่ใช่เหรอ) หลักคือ **บอกเล่า → tag ปฏิเสธ · ปฏิเสธ → tag บอกเล่า** โดยใช้กริยาช่วยตัวเดียวกับประโยคหลัก",
+    "sections": [
+      {
+        "icon": "🧱",
+        "title": "โครงสร้าง",
+        "formulas": [
+          { "label": "หลักบอกเล่า", "formula": "ประโยคบอกเล่า, **กริยาช่วย + n't** + สรรพนาม ?", "example": "She **is** a doctor, **isn't she**?" },
+          { "label": "หลักปฏิเสธ", "formula": "ประโยคปฏิเสธ, **กริยาช่วย** + สรรพนาม ?", "example": "They **can't** swim, **can they**?" }
+        ],
+        "list": [
+          "tag ใช้ **สรรพนาม** เสมอ: Tom → he · my mom → she · the kids → they",
+          "tag ปฏิเสธใช้ **รูปย่อ**: isn't, don't, can't (ไม่ใช่ is not)"
+        ]
+      },
+      {
+        "icon": "🔎",
+        "title": "หากริยาช่วยในประโยคหลัก",
+        "table": {
+          "head": ["ประโยคหลักมี", "tag ใช้", "ตัวอย่าง"],
+          "rows": [
+            ["verb to be", "am / is / are / was / were", "It **was** cold, **wasn't it**?"],
+            ["กริยาช่วย", "have, will, can, should …", "You **have** finished, **haven't you**?"],
+            ["กริยาแท้อย่างเดียว (Present)", "do / does", "He **likes** tea, **doesn't he**?"],
+            ["กริยาแท้อย่างเดียว (Past)", "did", "They **went** home, **didn't they**?"]
+          ]
+        }
+      },
+      {
+        "icon": "⭐",
+        "title": "แบบพิเศษที่ต้องจำ",
+        "table": {
+          "head": ["ประโยคหลัก", "tag", "ตัวอย่าง"],
+          "rows": [
+            ["I am …", "**aren't I**", "I'm late, aren't I?"],
+            ["Let's …", "**shall we**", "Let's go, shall we?"],
+            ["คำสั่ง / ขอร้อง", "**will you**", "Close the door, will you?"],
+            ["This / That …", "… **it**", "This is yours, isn't it?"],
+            ["These / Those …", "… **they**", "Those are new, aren't they?"],
+            ["Everyone / Nobody …", "… **they**", "Everyone is here, aren't they?"],
+            ["There is / are …", "… **there**", "There is a bank here, isn't there?"],
+            ["never / nothing / nobody (ความหมายปฏิเสธ)", "tag **บอกเล่า**", "She never cries, does she?"]
+          ]
+        }
+      },
+      {
+        "icon": "⚠️",
+        "title": "ระวัง! จุดที่มักผิด",
+        "mistakes": [
+          { "wrong": "She likes music, **isn't she**?", "right": "She likes music, **doesn't she**?", "why": "ประโยคหลักมีกริยาแท้ likes ไม่มี be จึงใช้ does" },
+          { "wrong": "Tom is your brother, isn't **Tom**?", "right": "Tom is your brother, isn't **he**?", "why": "tag ใช้สรรพนามเสมอ" },
+          { "wrong": "You can swim, **can you**?", "right": "You can swim, **can't you**?", "why": "ประโยคบอกเล่า tag ต้องเป็นปฏิเสธ" },
+          { "wrong": "I'm right, **amn't I**?", "right": "I'm right, **aren't I**?", "why": "I am ใช้ tag พิเศษ aren't I" },
+          { "wrong": "He never lies, **doesn't he**?", "right": "He never lies, **does he**?", "why": "never มีความหมายปฏิเสธแล้ว tag จึงเป็นบอกเล่า" }
+        ]
+      }
+    ],
+    "tip": "สูตร **กลับขั้ว**: บอกเล่า ↔ ปฏิเสธ · ใช้ **กริยาช่วยตัวเดิม** (ถ้าไม่มีให้ใช้ do / does / did) · ปิดท้ายด้วย **สรรพนาม**"
+  },
+  "questions": [
+    { "q": "She is a doctor, ___?", "options": ["is she", "isn't she", "doesn't she", "wasn't she"], "answer": 1, "explanation": "บอกเล่า (is) → tag ปฏิเสธ **isn't she**" },
+    { "q": "They can't swim, ___?", "options": ["can they", "can't they", "do they", "are they"], "answer": 0, "explanation": "ปฏิเสธ (can't) → tag บอกเล่า **can they**" },
+    { "q": "You have finished, ___?", "options": ["have you", "haven't you", "didn't you", "don't you"], "answer": 1, "explanation": "กริยาช่วย have → **haven't you**" },
+    { "q": "He likes tea, ___?", "options": ["isn't he", "doesn't he", "does he", "likes he"], "answer": 1, "explanation": "กริยาแท้ likes (Present, he) → **doesn't he**" },
+    { "q": "They went home, ___?", "options": ["didn't they", "don't they", "did they", "weren't they"], "answer": 0, "explanation": "กริยาแท้ went (Past) → **didn't they**" },
+    { "q": "It was cold yesterday, ___?", "options": ["wasn't it", "isn't it", "didn't it", "was it"], "answer": 0, "explanation": "verb to be was → **wasn't it**" },
+    { "q": "You won't be late, ___?", "options": ["won't you", "will you", "do you", "are you"], "answer": 1, "explanation": "ปฏิเสธ (won't) → tag บอกเล่า **will you**" },
+    { "q": "Mali doesn't eat meat, ___?", "options": ["does she", "doesn't she", "is she", "does Mali"], "answer": 0, "explanation": "ปฏิเสธ (doesn't) → **does she** (ใช้สรรพนาม)" },
+    { "q": "Your parents are teachers, ___?", "options": ["aren't they", "are they", "don't they", "aren't your parents"], "answer": 0, "explanation": "are → **aren't they**" },
+    { "q": "Ben has visited Japan, ___?", "options": ["hasn't he", "doesn't he", "didn't he", "isn't he"], "answer": 0, "explanation": "กริยาช่วย has (Present Perfect) → **hasn't he**" },
+    { "q": "We should leave now, ___?", "options": ["should we", "shouldn't we", "don't we", "aren't we"], "answer": 1, "explanation": "should → **shouldn't we**" },
+    { "q": "Your sister made this cake, ___?", "options": ["didn't she", "doesn't she", "did she", "wasn't she"], "answer": 0, "explanation": "กริยาแท้ made (Past) → **didn't she**" },
+    { "q": "The kids were playing outside, ___?", "options": ["weren't they", "wasn't it", "didn't they", "were they"], "answer": 0, "explanation": "were → **weren't they** (the kids → they)" },
+    { "q": "You didn't call me, ___?", "options": ["did you", "didn't you", "do you", "were you"], "answer": 0, "explanation": "ปฏิเสธ (didn't) → **did you**" },
+    { "q": "Nok isn't coming, ___?", "options": ["is she", "isn't she", "does she", "is Nok"], "answer": 0, "explanation": "ปฏิเสธ (isn't) → **is she**" },
+    { "q": "It will rain tomorrow, ___?", "options": ["won't it", "will it", "doesn't it", "isn't it"], "answer": 0, "explanation": "will → **won't it**" },
+    { "q": "I'm late, ___?", "options": ["amn't I", "aren't I", "am I", "isn't I"], "answer": 1, "explanation": "I am ใช้ tag พิเศษ **aren't I**" },
+    { "q": "Let's go to the beach, ___?", "options": ["will we", "shall we", "don't we", "let's we"], "answer": 1, "explanation": "Let's … ใช้ **shall we**" },
+    { "q": "Close the window, ___?", "options": ["will you", "don't you", "do you", "shall we"], "answer": 0, "explanation": "ประโยคคำสั่ง / ขอร้อง ใช้ **will you**" },
+    { "q": "This is your bag, ___?", "options": ["isn't this", "isn't it", "is it", "doesn't it"], "answer": 1, "explanation": "This → **it** → isn't it" },
+    { "q": "Those shoes are new, ___?", "options": ["aren't those", "aren't they", "are they", "don't they"], "answer": 1, "explanation": "Those … → **they** → aren't they" },
+    { "q": "Everyone is here, ___?", "options": ["isn't everyone", "aren't they", "is he", "aren't we"], "answer": 1, "explanation": "Everyone ใน tag ใช้ **they** → aren't they" },
+    { "q": "Nobody called me, ___?", "options": ["did they", "didn't they", "did nobody", "didn't he"], "answer": 0, "explanation": "Nobody มีความหมายปฏิเสธ tag จึงเป็นบอกเล่า และใช้ they → **did they**" },
+    { "q": "She never cries, ___?", "options": ["doesn't she", "does she", "is she", "never she"], "answer": 1, "explanation": "never มีความหมายปฏิเสธ → tag บอกเล่า **does she**" },
+    { "q": "There is a bank near here, ___?", "options": ["isn't there", "isn't it", "is there", "doesn't it"], "answer": 0, "explanation": "There is … → **isn't there**" },
+    { "q": "Don't be late, ___?", "options": ["will you", "do you", "are you", "shall we"], "answer": 0, "explanation": "ประโยคคำสั่ง (แม้เป็นปฏิเสธ) ใช้ **will you**" },
+    { "q": "Nothing is impossible, ___?", "options": ["isn't it", "is it", "is nothing", "aren't they"], "answer": 1, "explanation": "Nothing มีความหมายปฏิเสธ → tag บอกเล่า และใช้ it → **is it**" },
+    { "q": "ในประโยค “Tom can drive, can't he?” ส่วนใดคือ question tag", "options": ["Tom can drive", "can't he", "Tom", "drive"], "answer": 1, "explanation": "ส่วนท้ายหลัง comma คือ tag → **can't he**" },
+    { "q": "ประโยคหลักของ “You haven't seen my keys, have you?” เป็นแบบใด", "options": ["บอกเล่า", "ปฏิเสธ", "คำสั่ง", "อุทาน"], "answer": 1, "keepOrder": true, "explanation": "haven't เป็นปฏิเสธ จึงมี tag บอกเล่า have you" },
+    { "q": "ถ้าประโยคหลักเป็นบอกเล่า question tag จะต้องเป็นแบบใด", "options": ["บอกเล่า", "ปฏิเสธ", "เหมือนประโยคหลักทุกคำ", "ไม่ต้องมีสรรพนาม"], "answer": 1, "explanation": "กลับขั้ว: บอกเล่า → tag **ปฏิเสธ**" },
+    { "q": "ประโยค “My dad works in a bank.” ต้องใช้ question tag ใด", "options": ["does he", "doesn't he", "isn't he", "works he"], "answer": 1, "explanation": "กริยาแท้ works (Present, he) บอกเล่า → **doesn't he**" },
+    { "q": "ข้อใดถูกต้อง", "options": ["She likes music, isn't she?", "She likes music, doesn't she?", "She likes music, doesn't her?", "She likes music, does she?"], "answer": 1, "explanation": "likes → does · บอกเล่า → ปฏิเสธ · สรรพนามประธาน she → **doesn't she**" },
+    { "q": "ข้อใดผิด", "options": ["You can swim, can't you?", "He was here, wasn't he?", "They play golf, don't they?", "Tom is your brother, isn't Tom?"], "answer": 3, "explanation": "tag ต้องใช้สรรพนาม → isn't **he**?" },
+    { "q": "ข้อใดผิด", "options": ["We are friends, aren't we?", "She won't forget, will she?", "He can't come, can't he?", "It isn't hot, is it?"], "answer": 2, "explanation": "ปฏิเสธ (can't) → tag บอกเล่า **can he**?" },
+    { "q": "ข้อใดถูกต้อง", "options": ["Let's eat, shall we?", "Let's eat, will you?", "Let's eat, don't we?", "Let's eat, aren't we?"], "answer": 0, "explanation": "Let's … ใช้ **shall we**" },
+    { "q": "Mr. Lee teaches math, ___?", "options": ["doesn't he", "isn't he", "does he", "don't he"], "answer": 0, "explanation": "teaches → **doesn't he**" },
+    { "q": "The film was boring, ___?", "options": ["wasn't it", "didn't it", "was it", "wasn't the film"], "answer": 0, "explanation": "was → **wasn't it** (the film → it)" },
+    { "q": "You've been to Chiang Rai, ___?", "options": ["haven't you", "didn't you", "have you", "aren't you"], "answer": 0, "explanation": "You've = You have → **haven't you**" },
+    { "q": "They aren't from Korea, ___?", "options": ["are they", "aren't they", "do they", "were they"], "answer": 0, "explanation": "ปฏิเสธ (aren't) → **are they**" },
+    { "q": "Fah could speak French, ___?", "options": ["couldn't she", "could she", "can't she", "didn't she"], "answer": 0, "explanation": "could → **couldn't she**" },
+    { "q": "Pass me the salt, ___?", "options": ["will you", "do you", "shall we", "don't you"], "answer": 0, "explanation": "ประโยคขอร้อง ใช้ **will you**" },
+    { "q": "These are your books, ___?", "options": ["aren't these", "aren't they", "are they", "don't they"], "answer": 1, "explanation": "These → **they** → aren't they" },
+    { "q": "สถานการณ์: คุณคิดว่าเพื่อนเป็นคนเชียงใหม่ แต่อยากยืนยัน ควรถามว่าอะไร", "options": ["You are from Chiang Mai, aren't you?", "You are from Chiang Mai, are you?", "You aren't from Chiang Mai, aren't you?", "Are you from Chiang Mai, aren't you?"], "answer": 0, "explanation": "บอกเล่า + tag ปฏิเสธ → **…, aren't you?**" },
+    { "q": "แปล: “อากาศดีจังเลย ว่าไหม”", "options": ["The weather is nice, isn't it?", "The weather is nice, is it?", "The weather is nice, doesn't it?", "The weather nice, isn't it?"], "answer": 0, "explanation": "is → **isn't it** (the weather → it)" },
+    { "q": "อ่านบทสนทนา: “A: You're coming to my party, aren't you?  B: Of course! I wouldn't miss it.” B จะไปงานปาร์ตี้ไหม", "options": ["ไป", "ไม่ไป", "ยังไม่แน่ใจ", "ไปไม่ได้เพราะป่วย"], "answer": 0, "explanation": "Of course! I wouldn't miss it. = แน่นอน ไม่พลาดแน่ → **ไป**" }
+  ]
+}

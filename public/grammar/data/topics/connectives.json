@@ -1,0 +1,322 @@
+{
+  "lesson": {
+    "summary": "คำเชื่อมความ (Connectives / Linking words) ใช้เชื่อมประโยคหรือความคิดให้ต่อเนื่อง โดยบอก **ความสัมพันธ์** เช่น เหตุผล ผลลัพธ์ ความขัดแย้ง จุดประสงค์ และการเพิ่มเติม — ต้องดูด้วยว่าคำเชื่อมนั้น **ตามด้วยประโยค หรือ คำนาม**",
+    "sections": [
+      {
+        "icon": "🗂️",
+        "title": "แบ่งตามความสัมพันธ์",
+        "table": {
+          "head": ["ความสัมพันธ์", "+ ประโยค (ประธาน + กริยา)", "+ คำนาม / V-ing / V1"],
+          "rows": [
+            ["เหตุผล", "because, since, as", "**because of**, **due to** + คำนาม"],
+            ["ผลลัพธ์", "so · **therefore**, **as a result**, **hence** (ขึ้นประโยคใหม่)", "—"],
+            ["ความขัดแย้ง", "although, even though, but · **however** (ขึ้นประโยคใหม่)", "**despite**, **in spite of** + คำนาม / V-ing"],
+            ["จุดประสงค์", "**so that** + ประโยค (มักมี can / could)", "**to**, **in order to** + V1"],
+            ["เพิ่มเติม", "and · **moreover**, **in addition** (ขึ้นประโยคใหม่)", "**as well as** + คำนาม"]
+          ]
+        }
+      },
+      {
+        "icon": "🔁",
+        "title": "เขียนใหม่ให้ความหมายเท่าเดิม",
+        "examples": [
+          { "en": "**Because** it rained, the match was cancelled. = **Because of** the rain, the match was cancelled.", "th": "เหตุผล: because + ประโยค · because of + คำนาม" },
+          { "en": "**Although** he was ill, he went to work. = **Despite** his illness / **Despite being** ill, he went to work.", "th": "ความขัดแย้ง: although + ประโยค · despite + คำนาม / V-ing" },
+          { "en": "I saved money **so that** I **could** buy a bike. = I saved money **to buy** a bike.", "th": "จุดประสงค์: so that + ประโยค · to + V1" }
+        ]
+      },
+      {
+        "icon": "✍️",
+        "title": "เครื่องหมายวรรคตอน",
+        "list": [
+          "**However, Therefore, As a result, Moreover** มักขึ้นต้นประโยคใหม่ แล้วตามด้วย comma: It was late. **However,** we kept working.",
+          "**but, so** อยู่กลางประโยค มี comma ข้างหน้า: It was late, **but** we kept working."
+        ]
+      },
+      {
+        "icon": "⚠️",
+        "title": "ระวัง! จุดที่มักผิด",
+        "mistakes": [
+          { "wrong": "**Because of** it was raining, we stayed home.", "right": "**Because** it was raining, we stayed home.", "why": "because of ตามด้วยคำนาม (because of the rain) ไม่ใช่ประโยค" },
+          { "wrong": "**Despite** it was cold, we swam.", "right": "**Although** it was cold, we swam.", "why": "despite ตามด้วยคำนาม (despite the cold)" },
+          { "wrong": "**Although** she was tired, **but** she helped me.", "right": "**Although** she was tired, she helped me.", "why": "although กับ but ห้ามใช้คู่กัน" },
+          { "wrong": "I study hard **for pass** the exam.", "right": "I study hard **to pass** the exam.", "why": "บอกจุดประสงค์ด้วยกริยาใช้ to + V1" },
+          { "wrong": "It rained, **however** we went out.", "right": "It rained. **However,** we went out.", "why": "however ขึ้นต้นประโยคใหม่และตามด้วย comma" }
+        ]
+      }
+    ],
+    "tip": "ก่อนเลือกคำเชื่อม ถาม 2 ข้อ: **1) ความสัมพันธ์คืออะไร** (เหตุ / ผล / ขัดแย้ง / จุดประสงค์) **2) ข้างหลังเป็นประโยคหรือคำนาม** — because, although + ประโยค · because of, despite + คำนาม"
+  },
+  "questions": [
+    {
+      "q": "เติมคำในช่องว่าง: The match was cancelled ___ the heavy rain.",
+      "options": ["because", "because of", "although", "so"],
+      "answer": 1,
+      "explanation": "ข้างหลังเป็นคำนาม (the heavy rain) → **because of**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The match was cancelled ___ it rained heavily.",
+      "options": ["because", "because of", "due to", "despite"],
+      "answer": 0,
+      "explanation": "ข้างหลังเป็นประโยค (it rained) → **because**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The flight was delayed ___ the storm.",
+      "options": ["due to", "because", "although", "so that"],
+      "answer": 0,
+      "explanation": "บอกเหตุผล + คำนาม (the storm) → **due to**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: ___ she was tired, she finished her homework.",
+      "options": ["Although", "Despite", "Because of", "So"],
+      "answer": 0,
+      "explanation": "ความขัดแย้ง + ประโยค (she was tired) → **Although**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: ___ the traffic jam, we arrived on time.",
+      "options": ["Although", "Despite", "Because", "So that"],
+      "answer": 1,
+      "explanation": "ความขัดแย้ง + คำนาม (the traffic jam) → **Despite**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: In spite of ___ sick, he went to school.",
+      "options": ["be", "being", "was", "is"],
+      "answer": 1,
+      "explanation": "in spite of ตามด้วยคำนามหรือ V-ing → **being** sick"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: I went to the library ___ borrow some books.",
+      "options": ["to", "for", "so", "because"],
+      "answer": 0,
+      "explanation": "บอกจุดประสงค์ + กริยา → **to** + V1"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: She saved money ___ she could buy a new phone.",
+      "options": ["so that", "because", "although", "due to"],
+      "answer": 0,
+      "explanation": "บอกจุดประสงค์ + ประโยคที่มี could → **so that**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: He woke up early in order ___ catch the first bus.",
+      "options": ["to", "for", "that", "so"],
+      "answer": 0,
+      "explanation": "in order **to** + V1 = เพื่อที่จะ"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: It was very late. ___, we kept working.",
+      "options": ["However", "Because", "Although", "Despite"],
+      "answer": 0,
+      "explanation": "ขัดแย้งกับประโยคก่อนหน้า และขึ้นประโยคใหม่ตามด้วย comma → **However,**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Ben didn't study. ___, he failed the test.",
+      "options": ["As a result", "However", "Although", "Despite"],
+      "answer": 0,
+      "explanation": "สอบตกเป็นผลจากการไม่อ่านหนังสือ → **As a result,** (ผลลัพธ์)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The road was icy. ___, many accidents happened.",
+      "options": ["Therefore", "However", "Although", "In spite of"],
+      "answer": 0,
+      "explanation": "อุบัติเหตุเป็นผลจากถนนลื่น → **Therefore,** (ดังนั้น)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: This phone has a great camera. ___, it has a long battery life.",
+      "options": ["Moreover", "However", "Therefore", "Although"],
+      "answer": 0,
+      "explanation": "เพิ่มข้อดีอีกข้อ → **Moreover,** (ยิ่งไปกว่านั้น)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: She speaks English ___ Japanese.",
+      "options": ["as well as", "in spite of", "because of", "so that"],
+      "answer": 0,
+      "explanation": "เพิ่มเติม + คำนาม → **as well as** (และ…ด้วย)"
+    },
+    {
+      "q": "คำเชื่อม “so that” บอกความสัมพันธ์แบบใด",
+      "options": ["จุดประสงค์", "เหตุผล", "ความขัดแย้ง", "การเพิ่มเติม"],
+      "answer": 0,
+      "explanation": "so that = **เพื่อที่จะ** (จุดประสงค์)"
+    },
+    {
+      "q": "คำเชื่อม “despite” บอกความสัมพันธ์แบบใด",
+      "options": ["จุดประสงค์", "เหตุผล", "ความขัดแย้ง", "ผลลัพธ์"],
+      "answer": 2,
+      "explanation": "despite = **ถึงแม้จะมี…** (ความขัดแย้ง)"
+    },
+    {
+      "q": "คำเชื่อม “therefore” บอกความสัมพันธ์แบบใด",
+      "options": ["ผลลัพธ์", "เหตุผล", "ความขัดแย้ง", "จุดประสงค์"],
+      "answer": 0,
+      "explanation": "therefore = **ดังนั้น** (ผลลัพธ์)"
+    },
+    {
+      "q": "คำเชื่อม “due to” บอกความสัมพันธ์แบบใด",
+      "options": ["เหตุผล", "ผลลัพธ์", "ความขัดแย้ง", "การเพิ่มเติม"],
+      "answer": 0,
+      "explanation": "due to = **เนื่องจาก** (เหตุผล)"
+    },
+    {
+      "q": "คำเชื่อมใดตามด้วย “คำนาม” ไม่ใช่ประโยค",
+      "options": ["although", "because", "despite", "so that"],
+      "answer": 2,
+      "explanation": "**despite** + คำนาม / V-ing ส่วนข้ออื่นตามด้วยประโยค"
+    },
+    {
+      "q": "คำเชื่อมใดตามด้วย “ประโยค (ประธาน + กริยา)”",
+      "options": ["because of", "due to", "although", "in spite of"],
+      "answer": 2,
+      "explanation": "**although** + ประโยค ส่วนข้ออื่นตามด้วยคำนาม"
+    },
+    {
+      "q": "ข้อใดมีความหมายเหมือน “Because it was raining, we stayed inside.”",
+      "options": ["Because of the rain, we stayed inside.", "Because of it was raining, we stayed inside.", "Despite the rain, we stayed inside.", "Although the rain, we stayed inside."],
+      "answer": 0,
+      "explanation": "เปลี่ยนประโยค (it was raining) เป็นคำนาม (the rain) แล้วใช้ **because of**"
+    },
+    {
+      "q": "ข้อใดมีความหมายเหมือน “Although he was ill, he went to work.”",
+      "options": ["Despite his illness, he went to work.", "Despite he was ill, he went to work.", "Because of his illness, he went to work.", "Although his illness, he went to work."],
+      "answer": 0,
+      "explanation": "despite + คำนาม (his illness) ความหมายขัดแย้งเหมือน although"
+    },
+    {
+      "q": "ข้อใดมีความหมายเหมือน “I study hard so that I can pass the exam.”",
+      "options": ["I study hard to pass the exam.", "I study hard because I passed the exam.", "I study hard although I pass the exam.", "I study hard for pass the exam."],
+      "answer": 0,
+      "explanation": "จุดประสงค์: so that + ประโยค = **to + V1**"
+    },
+    {
+      "q": "ข้อใดมีความหมายเหมือน “It was cold, but we went swimming.”",
+      "options": ["Although it was cold, we went swimming.", "Because it was cold, we went swimming.", "It was cold, so we went swimming.", "Despite it was cold, we went swimming."],
+      "answer": 0,
+      "explanation": "but (แต่) = **although** (ถึงแม้ว่า) โดยไม่ต้องมี but"
+    },
+    {
+      "q": "ข้อใดมีความหมายเหมือน “The bus was late. As a result, I missed the class.”",
+      "options": ["I missed the class because the bus was late.", "I missed the class although the bus was late.", "The bus was late so that I missed the class.", "Despite the bus was late, I missed the class."],
+      "answer": 0,
+      "explanation": "รถมาสายเป็น **เหตุ** ที่ทำให้ไม่ทันเรียน → because the bus was late"
+    },
+    {
+      "q": "ข้อใดผิดหลักไวยากรณ์",
+      "options": ["Because of the noise, I couldn't sleep.", "Because the room was noisy, I couldn't sleep.", "Because of the room was noisy, I couldn't sleep.", "The room was noisy, so I couldn't sleep."],
+      "answer": 2,
+      "explanation": "because of ตามด้วยประโยคไม่ได้ ต้องใช้ **because** the room was noisy"
+    },
+    {
+      "q": "ข้อใดผิดหลักไวยากรณ์",
+      "options": ["Despite the rain, they played outside.", "Despite it rained, they played outside.", "Although it rained, they played outside.", "In spite of the rain, they played outside."],
+      "answer": 1,
+      "explanation": "despite ตามด้วยประโยคไม่ได้ ต้องใช้ despite **the rain** หรือ although it rained"
+    },
+    {
+      "q": "ข้อใดผิดหลักไวยากรณ์",
+      "options": ["Although she was busy, she helped me.", "She was busy, but she helped me.", "Although she was busy, but she helped me.", "She was busy. However, she helped me."],
+      "answer": 2,
+      "explanation": "although กับ but **ห้ามใช้คู่กัน**"
+    },
+    {
+      "q": "ข้อใดใช้ However ถูกต้อง",
+      "options": ["It was expensive. However, I bought it.", "It was expensive, however I bought it.", "However it was expensive, I bought it.", "It was expensive however, I bought it."],
+      "answer": 0,
+      "explanation": "However ขึ้นต้นประโยคใหม่และตามด้วย comma → **However,** I bought it."
+    },
+    {
+      "q": "ข้อใดใช้ to ถูกต้อง",
+      "options": ["I went to the market for buy some fruit.", "I went to the market to buy some fruit.", "I went to the market to buying some fruit.", "I went to the market so buy some fruit."],
+      "answer": 1,
+      "explanation": "บอกจุดประสงค์ใช้ **to + V1** → to buy"
+    },
+    {
+      "q": "รวมประโยคด้วย “so that”: “Mom spoke slowly.” + “Grandpa could understand her.”",
+      "options": ["Mom spoke slowly so that Grandpa could understand her.", "Mom spoke slowly because Grandpa could understand her.", "So that Mom spoke slowly, Grandpa could understand her.", "Mom spoke slowly so that Grandpa understand her could."],
+      "answer": 0,
+      "explanation": "การกระทำ + **so that** + จุดประสงค์ (มี could)"
+    },
+    {
+      "q": "รวมประโยคด้วย “because of”: “The road was closed.” + “An accident.”",
+      "options": ["The road was closed because of an accident.", "The road was closed because of there was an accident.", "Because an accident, the road was closed.", "The road was closed because of accident happened."],
+      "answer": 0,
+      "explanation": "because of + คำนาม (**an accident**)"
+    },
+    {
+      "q": "รวมประโยคด้วย “although”: “The movie was long.” + “We enjoyed it.”",
+      "options": ["Although the movie was long, we enjoyed it.", "Although the movie was long, but we enjoyed it.", "Although the long movie, we enjoyed it.", "Although, the movie was long we enjoyed it."],
+      "answer": 0,
+      "explanation": "although + ประโยค + comma + ประโยคหลัก (ไม่มี but)"
+    },
+    {
+      "q": "รวมประโยคด้วย “despite”: “Heavy traffic.” + “We arrived on time.”",
+      "options": ["Despite the heavy traffic, we arrived on time.", "Despite there was heavy traffic, we arrived on time.", "Despite of the heavy traffic, we arrived on time.", "Despite heavy traffic, but we arrived on time."],
+      "answer": 0,
+      "explanation": "despite + คำนาม (ไม่มี of และไม่ใช้คู่กับ but)"
+    },
+    {
+      "q": "รวมประโยคด้วย “therefore”: “The tickets sold out.” + “We watched the show online.”",
+      "options": ["The tickets sold out. Therefore, we watched the show online.", "Therefore the tickets sold out, we watched the show online.", "The tickets sold out therefore we, watched the show online.", "Therefore, the tickets sold out. We watched the show online."],
+      "answer": 0,
+      "explanation": "เหตุ + **Therefore,** + ผล (ดูออนไลน์เพราะบัตรหมด)"
+    },
+    {
+      "q": "รวมประโยคด้วย “to”: “I will get up early.” + “I want to see the sunrise.”",
+      "options": ["I will get up early to see the sunrise.", "I will get up early to seeing the sunrise.", "I will get up early for see the sunrise.", "To I will get up early see the sunrise."],
+      "answer": 0,
+      "explanation": "การกระทำ + **to + V1** (จุดประสงค์)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: ___ his hard work, he didn't win the prize.",
+      "options": ["Despite", "Because of", "Although", "So"],
+      "answer": 0,
+      "explanation": "ขยันแต่ไม่ได้รางวัล (ขัดแย้ง) + คำนาม his hard work → **Despite**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: She wore a coat ___ she wouldn't feel cold.",
+      "options": ["so that", "because of", "despite", "however"],
+      "answer": 0,
+      "explanation": "ใส่เสื้อโค้ท **เพื่อที่** จะไม่หนาว → so that"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The shop is closed today ___ it is a public holiday.",
+      "options": ["because", "because of", "despite", "so that"],
+      "answer": 0,
+      "explanation": "เหตุผล + ประโยค (it is a public holiday) → **because**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The streets were flooded ___ the heavy rain.",
+      "options": ["because", "because of", "although", "so"],
+      "answer": 1,
+      "explanation": "เหตุผล + คำนาม → **because of**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Tom is good at math. ___, he is also good at sports.",
+      "options": ["In addition", "However", "Although", "Despite"],
+      "answer": 0,
+      "explanation": "เพิ่มเติมข้อมูล → **In addition,** (นอกจากนี้)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: We were short of time. ___, we took a taxi.",
+      "options": ["Therefore", "However", "Despite", "Although"],
+      "answer": 0,
+      "explanation": "เวลาไม่พอ **ดังนั้น** จึงนั่งแท็กซี่ → Therefore,"
+    },
+    {
+      "q": "“even though” มีความหมายใกล้เคียงกับคำใด",
+      "options": ["although", "because", "so", "therefore"],
+      "answer": 0,
+      "explanation": "even though = **although** (ถึงแม้ว่า) แต่น้ำหนักมากกว่า"
+    },
+    {
+      "q": "อ่านข้อความ: “Although Somsak was nervous, he gave a great speech. As a result, he won first prize. Moreover, his teacher asked him to join the national contest.” ข้อใดถูกต้อง",
+      "options": ["Somsak wasn't nervous at all.", "Somsak won first prize because of his great speech.", "Somsak lost the contest.", "His teacher didn't like the speech."],
+      "answer": 1,
+      "explanation": "As a result บอกว่ารางวัลที่ 1 เป็น **ผลจาก** การพูดที่ยอดเยี่ยม"
+    },
+    {
+      "q": "อ่านข้อความ: “Due to the storm, the school closed early. Students went home at noon so that they could arrive before the heavy rain.” ทำไมนักเรียนกลับบ้านตอนเที่ยง",
+      "options": ["เพื่อไปดูพายุ", "เพื่อให้ถึงบ้านก่อนฝนตกหนัก", "เพราะครูไม่มา", "เพราะเป็นวันหยุด"],
+      "answer": 1,
+      "explanation": "so that they could **arrive before the heavy rain** = เพื่อให้ถึงบ้านก่อนฝนตกหนัก"
+    }
+  ]
+}

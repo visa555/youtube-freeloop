@@ -1,0 +1,369 @@
+{
+  "lesson": {
+    "summary": "ใช้บอกว่า **กำลังทำอะไรอยู่ ณ เวลาหนึ่งในอดีต** และใช้คู่กับ Past Simple เพื่อเล่าว่า **กำลังทำอยู่แล้วมีอีกเหตุการณ์แทรกเข้ามา**",
+    "sections": [
+      {
+        "icon": "🎯",
+        "title": "ใช้เมื่อไหร่",
+        "list": [
+          "กำลังทำอยู่ ณ เวลาที่ระบุในอดีต — At 8 p.m. last night, I **was doing** my homework.",
+          "กำลังทำอยู่แล้วมีเหตุการณ์แทรก — I **was taking** a shower **when** the phone **rang**.",
+          "สองเหตุการณ์เกิดพร้อมกัน — **While** Mom **was cooking**, Dad **was washing** the car."
+        ]
+      },
+      {
+        "icon": "🧱",
+        "title": "โครงสร้าง",
+        "formulas": [
+          { "label": "บอกเล่า", "formula": "I / He / She / It + **was** + V-ing", "example": "She **was reading** at 9 p.m." },
+          { "label": "บอกเล่า", "formula": "You / We / They + **were** + V-ing", "example": "They **were playing** football." },
+          { "label": "ปฏิเสธ", "formula": "ประธาน + **wasn't / weren't** + V-ing", "example": "We **weren't listening**." },
+          { "label": "คำถาม", "formula": "**Was / Were** + ประธาน + V-ing ?", "example": "**Were** you **sleeping**? — Yes, I was. / No, I wasn't." }
+        ]
+      },
+      {
+        "icon": "🔗",
+        "title": "when กับ while",
+        "table": {
+          "head": ["คำ", "มักตามด้วย", "ตัวอย่าง"],
+          "rows": [
+            ["**when** (เมื่อ)", "เหตุการณ์สั้น ๆ ที่แทรกเข้ามา → Past Simple", "I was walking home **when** it **started** to rain."],
+            ["**while** (ขณะที่)", "เหตุการณ์ที่กำลังดำเนินอยู่ → Past Continuous", "**While** I **was walking** home, it started to rain."]
+          ]
+        },
+        "list": [
+          "เหตุการณ์ยาว (กำลังทำ) = **Past Continuous** · เหตุการณ์สั้นที่แทรก = **Past Simple**",
+          "ถ้า when / while ขึ้นต้นประโยค ให้ใส่ comma ( , ) ก่อนประโยคหลัง"
+        ]
+      },
+      {
+        "icon": "⏰",
+        "title": "คำสังเกต",
+        "chips": ["at 7 p.m. yesterday", "at this time last week", "all day yesterday", "when …", "while …"]
+      },
+      {
+        "icon": "📝",
+        "title": "ตัวอย่าง",
+        "examples": [
+          { "en": "At noon yesterday, we **were having** lunch.", "th": "เมื่อวานตอนเที่ยง พวกเรากำลังกินข้าวกลางวัน" },
+          { "en": "She **was sleeping when** the earthquake **happened**.", "th": "เธอกำลังนอนหลับตอนที่เกิดแผ่นดินไหว" },
+          { "en": "**Were** they **studying** at 10 p.m.? — No, they **weren't**.", "th": "ตอนสี่ทุ่มพวกเขากำลังอ่านหนังสืออยู่หรือเปล่า — เปล่า" }
+        ]
+      },
+      {
+        "icon": "⚠️",
+        "title": "ระวัง! จุดที่มักผิด",
+        "mistakes": [
+          { "wrong": "They **was** watching TV.", "right": "They **were** watching TV.", "why": "they ใช้ were" },
+          { "wrong": "I was sleeping when the alarm **was ringing**.", "right": "I was sleeping when the alarm **rang**.", "why": "เหตุการณ์สั้นที่แทรกเข้ามาใช้ Past Simple" },
+          { "wrong": "She was **cook** dinner.", "right": "She was **cooking** dinner.", "why": "หลัง was / were ต้องเป็น V-ing" },
+          { "wrong": "**Did** you **sleeping** at 10 p.m.?", "right": "**Were** you **sleeping** at 10 p.m.?", "why": "คำถาม Past Continuous ขึ้นต้นด้วย was / were" }
+        ]
+      }
+    ],
+    "tip": "นึกภาพหนัง: **Past Continuous = ฉากที่กำลังดำเนินอยู่** ส่วน **Past Simple = เหตุการณ์ที่โผล่เข้ามาขัด** — when + เหตุการณ์สั้น, while + เหตุการณ์ยาว"
+  },
+  "questions": [
+    {
+      "q": "เติมคำในช่องว่าง: At 7 p.m. yesterday, I ___ having dinner.",
+      "options": ["was", "were", "am", "did"],
+      "answer": 0,
+      "explanation": "เวลาในอดีต (yesterday) และประธาน I → **was** + V-ing"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The children ___ playing in the park when it started to rain.",
+      "options": ["was", "were", "are", "did"],
+      "answer": 1,
+      "explanation": "The children เป็นพหูพจน์ → **were** playing"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: My cat ___ sleeping on the sofa all afternoon.",
+      "options": ["were", "was", "is being", "did"],
+      "answer": 1,
+      "explanation": "My cat เป็นเอกพจน์ → **was** sleeping"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: You and Jane ___ talking during the movie.",
+      "options": ["was", "were", "is", "did"],
+      "answer": 1,
+      "explanation": "You and Jane เป็นพหูพจน์ → **were**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: What ___ you doing at 10 o'clock last night?",
+      "options": ["was", "were", "did", "are"],
+      "answer": 1,
+      "explanation": "ถามว่ากำลังทำอะไร ณ เวลาในอดีต ประธาน you → What **were** you doing?"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: ___ your brother studying when you got home?",
+      "options": ["Were", "Was", "Did", "Is"],
+      "answer": 1,
+      "explanation": "your brother เป็นเอกพจน์ → **Was** your brother studying?"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: At this time yesterday, we ___ (fly) to Chiang Mai.",
+      "options": ["flew", "were flying", "was flying", "are flying"],
+      "answer": 1,
+      "explanation": "at this time yesterday = ณ เวลานี้เมื่อวาน (กำลังทำอยู่) และ we → **were flying**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: She ___ (write) a letter when the lights went out.",
+      "options": ["wrote", "was writing", "were writing", "writes"],
+      "answer": 1,
+      "explanation": "กำลังเขียนอยู่แล้วไฟดับแทรกเข้ามา → **was writing**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The teacher ___ (explain) the lesson, but some students weren't listening.",
+      "options": ["was explaining", "were explaining", "explains", "explain"],
+      "answer": 0,
+      "explanation": "สองเหตุการณ์เกิดพร้อมกันในอดีต The teacher เป็นเอกพจน์ → **was explaining**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: I saw Tim at the mall. He ___ (buy) new shoes.",
+      "options": ["buys", "was buying", "were buying", "is buying"],
+      "answer": 1,
+      "explanation": "ตอนที่เห็น เขากำลังซื้อรองเท้าอยู่ → **was buying**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: It ___ heavily when we arrived in Sapporo, so we couldn't see the mountains.",
+      "options": ["is snowing", "was snowing", "were snowing", "snows"],
+      "answer": 1,
+      "explanation": "หิมะกำลังตกอยู่ตอนที่เราไปถึง และ it ใช้ was → **was snowing**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Mom ___ (sit) in the garden at 4 p.m.",
+      "options": ["was siting", "was sitting", "were sitting", "is sitting"],
+      "answer": 1,
+      "explanation": "sit ต้องเพิ่ม t ก่อนเติม -ing และ Mom ใช้ was → **was sitting**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The boys ___ (swim) in the river all morning.",
+      "options": ["was swimming", "were swimming", "were swiming", "are swimming"],
+      "answer": 1,
+      "explanation": "The boys เป็นพหูพจน์ใช้ were และ swim ต้องเพิ่ม m → **were swimming**"
+    },
+    {
+      "q": "ข้อใดถูกต้อง",
+      "options": ["They were dance at the party.", "They were dancing at the party.", "They was dancing at the party.", "They dancing at the party."],
+      "answer": 1,
+      "explanation": "they + **were + V-ing** → They were dancing"
+    },
+    {
+      "q": "ประโยคปฏิเสธของ “I was listening to the radio.” คือข้อใด",
+      "options": ["I wasn't listening to the radio.", "I weren't listening to the radio.", "I didn't listening to the radio.", "I wasn't listen to the radio."],
+      "answer": 0,
+      "explanation": "เติม not หลัง was → I **wasn't listening**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: We ___ paying attention, so we missed the important part.",
+      "options": ["wasn't", "weren't", "didn't", "don't"],
+      "answer": 1,
+      "explanation": "we ใช้ were → ปฏิเสธคือ **weren't** + V-ing"
+    },
+    {
+      "q": "“were not” เขียนแบบย่อได้ว่าอะไร",
+      "options": ["wasn't", "weren't", "werent", "wern't"],
+      "answer": 1,
+      "explanation": "were not → **weren't**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Sorry, I didn't hear you. I ___ listening.",
+      "options": ["weren't", "wasn't", "didn't", "am not"],
+      "answer": 1,
+      "explanation": "ประธาน I ในอดีตใช้ was → **wasn't** listening"
+    },
+    {
+      "q": "เปลี่ยน “She was crying.” เป็นประโยคคำถาม ข้อใดถูกต้อง",
+      "options": ["Did she crying?", "Was she crying?", "Were she crying?", "Was she cry?"],
+      "answer": 1,
+      "explanation": "ย้าย was ขึ้นต้นประโยค → **Was she crying?**"
+    },
+    {
+      "q": "A: Were you sleeping when I called?  B: Yes, I ___.",
+      "options": ["did", "was", "were", "am"],
+      "answer": 1,
+      "explanation": "ตอบด้วยประธาน I จึงใช้ **was** → Yes, I was."
+    },
+    {
+      "q": "A: Was it raining when you left?  B: No, it ___.",
+      "options": ["didn't", "wasn't", "weren't", "isn't"],
+      "answer": 1,
+      "explanation": "คำถามขึ้นต้นด้วย Was และประธาน it → No, it **wasn't**."
+    },
+    {
+      "q": "A: What were they doing at noon?  B: ___",
+      "options": ["They have lunch.", "They were having lunch.", "They had having lunch.", "Yes, they were."],
+      "answer": 1,
+      "explanation": "ถามว่ากำลังทำอะไรในอดีต ตอบด้วย Past Continuous → They **were having** lunch."
+    },
+    {
+      "q": "A: ___ was Nok talking to?  B: Her teacher.",
+      "options": ["What", "Who", "Where", "When"],
+      "answer": 1,
+      "explanation": "คำตอบเป็นบุคคล (Her teacher) จึงถามด้วย **Who**"
+    },
+    {
+      "q": "เรียงคำให้เป็นคำถามที่ถูกต้อง: (you / were / where / going)",
+      "options": ["Where you were going?", "Where were you going?", "Were where you going?", "Where were going you?"],
+      "answer": 1,
+      "explanation": "Wh- + were + ประธาน + V-ing → **Where were you going?**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: I ___ TV when my friend ___.",
+      "options": ["watched / was calling", "was watching / called", "was watching / was calling", "watched / call"],
+      "answer": 1,
+      "explanation": "กำลังดูทีวีอยู่ (ยาว) แล้วเพื่อนโทรมา (สั้น แทรก) → **was watching / called**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: While she ___ her bike, she ___ a wallet on the road.",
+      "options": ["rode / was finding", "was riding / found", "was riding / was finding", "rides / found"],
+      "answer": 1,
+      "explanation": "while + เหตุการณ์ยาว (**was riding**) และการเจอกระเป๋าเป็นเหตุการณ์สั้น (**found**)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Ben ___ his arm while he ___ basketball.",
+      "options": ["broke / was playing", "was breaking / played", "breaks / was playing", "was breaking / was playing"],
+      "answer": 0,
+      "explanation": "กำลังเล่นบาสอยู่ (ยาว) แล้วแขนหัก (สั้น) → **broke / was playing**"
+    },
+    {
+      "q": "ข้อใดเป็น Past Continuous",
+      "options": ["She cooked dinner.", "She was cooking dinner.", "She cooks dinner.", "She has cooked dinner."],
+      "answer": 1,
+      "explanation": "**was cooking** = was + V-ing จึงเป็น Past Continuous"
+    },
+    {
+      "q": "“We were having a picnic when it started to rain.” เหตุการณ์ใด “แทรกเข้ามา”",
+      "options": ["We were having a picnic", "it started to rain", "ทั้งสองเหตุการณ์เกิดพร้อมกัน", "ไม่มีเหตุการณ์แทรก"],
+      "answer": 1,
+      "explanation": "ฝนเริ่มตก (**started** – Past Simple) เป็นเหตุการณ์สั้นที่แทรกเข้ามาระหว่างที่กำลังปิกนิก"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Yesterday I ___ up at 6, ___ breakfast and ___ to school.",
+      "options": ["was getting / was having / was going", "got / had / went", "got / was having / went", "was getting / had / was going"],
+      "answer": 1,
+      "explanation": "เหตุการณ์ที่เกิด **ต่อกันเป็นลำดับ** ใช้ Past Simple ทั้งหมด → got / had / went"
+    },
+    {
+      "q": "ประโยคใดผิดหลักไวยากรณ์",
+      "options": ["I was reading when he came in.", "While we were eating, the doorbell rang.", "She was walking home when she was seeing a dog.", "They were sleeping at midnight."],
+      "answer": 2,
+      "explanation": "การเห็น (see) เป็นเหตุการณ์สั้นที่แทรก ใช้ Past Simple → when she **saw** a dog"
+    },
+    {
+      "q": "สถานการณ์: ตอนที่ไฟดับ คุณกำลังอาบน้ำอยู่ ข้อใดถูกต้อง",
+      "options": ["I took a shower when the lights went out.", "I was taking a shower when the lights went out.", "I was taking a shower when the lights were going out.", "I take a shower when the lights went out."],
+      "answer": 1,
+      "explanation": "กำลังอาบน้ำ (ยาว) **was taking** แล้วไฟดับ (สั้น) **went out**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: While I ___ for the bus, I met an old friend.",
+      "options": ["waits", "was waiting", "am waiting", "wait"],
+      "answer": 1,
+      "explanation": "while + เหตุการณ์ที่กำลังดำเนินอยู่ในอดีต → **was waiting**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: I was doing my homework when my sister ___ into my room.",
+      "options": ["was running", "ran", "runs", "run"],
+      "answer": 1,
+      "explanation": "when + เหตุการณ์สั้นที่แทรกเข้ามา ใช้ Past Simple → **ran**"
+    },
+    {
+      "q": "เติม when หรือ while: Everyone stood up ___ the principal walked in.",
+      "options": ["when", "while"],
+      "answer": 0,
+      "keepOrder": true,
+      "explanation": "ผู้อำนวยการเดินเข้ามาเป็นเหตุการณ์สั้น (Past Simple) จึงใช้ **when**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: ___ Dad was washing the car, Mom was cooking lunch.",
+      "options": ["While", "Because", "So", "But"],
+      "answer": 0,
+      "explanation": "สองเหตุการณ์เกิดพร้อมกัน ใช้ **While** (ขณะที่)"
+    },
+    {
+      "q": "เลือกคำเชื่อมที่เหมาะสม: I cut my finger ___ I was chopping vegetables.",
+      "options": ["while", "so", "but", "or"],
+      "answer": 0,
+      "explanation": "นิ้วโดนมีดบาด **ขณะที่** กำลังหั่นผัก → **while**"
+    },
+    {
+      "q": "“while” มีความหมายว่าอะไร",
+      "options": ["เพราะว่า", "ขณะที่", "หลังจากที่", "ถ้า"],
+      "answer": 1,
+      "explanation": "while = **ขณะที่** ใช้กับเหตุการณ์ที่กำลังดำเนินอยู่"
+    },
+    {
+      "q": "รวมประโยค “I was crossing the street.” กับ “A car honked at me.” ข้อใดถูกต้อง",
+      "options": ["While I was crossing the street, a car honked at me.", "While I crossed the street, a car was honking at me.", "When I was crossing the street a car honk at me.", "I crossed the street while a car honked me."],
+      "answer": 0,
+      "explanation": "while + เหตุการณ์ยาว (**was crossing**) + comma + เหตุการณ์สั้น (**honked**)"
+    },
+    {
+      "q": "รวมประโยค “She was sleeping.” กับ “The storm began.” ข้อใดถูกต้อง",
+      "options": ["She was sleeping when the storm began.", "She slept when the storm was beginning.", "She was sleeping while the storm began.", "She sleeping when the storm began."],
+      "answer": 0,
+      "explanation": "เหตุการณ์ยาว (**was sleeping**) + when + เหตุการณ์สั้น (**began**)"
+    },
+    {
+      "q": "ข้อใดใช้เครื่องหมาย comma ( , ) ถูกต้อง",
+      "options": ["While we were playing, the teacher came in.", "While we were playing the teacher, came in.", "While, we were playing the teacher came in.", "While we, were playing the teacher came in."],
+      "answer": 0,
+      "explanation": "เมื่อ While-clause ขึ้นต้น ให้ใส่ comma **หลัง While-clause** ก่อนประโยคหลัก"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: At this time last week, we ___ on the beach in Krabi.",
+      "options": ["are relaxing", "were relaxing", "was relaxing", "relaxing"],
+      "answer": 1,
+      "explanation": "at this time last week = ณ เวลานี้สัปดาห์ที่แล้ว และ we → **were relaxing**"
+    },
+    {
+      "q": "อ่านข้อความ: “Last night at 9 p.m., everyone in my family was busy. Dad was fixing the fan, Mom was ironing clothes, and my sister was chatting with her friends online.” ใครกำลังรีดผ้า",
+      "options": ["Dad", "Mom", "My sister", "Nobody"],
+      "answer": 1,
+      "explanation": "ข้อความบอกว่า Mom **was ironing** clothes (แม่กำลังรีดผ้า)"
+    },
+    {
+      "q": "อ่านข้อความ: “When I arrived at the party, Mew was singing, and Tom and Jack were dancing. Nobody was eating because the food wasn't ready.” ทำไมไม่มีใครกินอาหาร",
+      "options": ["Because they were dancing.", "Because the food wasn't ready.", "Because Mew was singing.", "Because they weren't hungry."],
+      "answer": 1,
+      "explanation": "ข้อความบอกว่า Nobody was eating **because the food wasn't ready**."
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The phone rang three times while I ___ a bath.",
+      "options": ["has", "was having", "were having", "have"],
+      "answer": 1,
+      "explanation": "while + เหตุการณ์ที่กำลังดำเนินอยู่ ประธาน I → **was having**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: What were you doing when the earthquake ___?",
+      "options": ["was happening", "happened", "happens", "happen"],
+      "answer": 1,
+      "explanation": "แผ่นดินไหวเป็นเหตุการณ์ที่แทรกเข้ามา ใช้ Past Simple → **happened**"
+    },
+    {
+      "q": "ครูถามว่าทำไมไม่ได้ยินเสียงกริ่ง ข้อใดตอบได้เหมาะสม",
+      "options": ["I listen to music.", "I was listening to music with my earphones.", "I will listen to music.", "I have listened to music."],
+      "answer": 1,
+      "explanation": "ตอนที่กริ่งดัง กำลังฟังเพลงอยู่ → I **was listening** to music."
+    },
+    {
+      "q": "ข้อใดแปลว่า “เมื่อวานตอนบ่ายสามโมง ฉันกำลังเล่นแบดมินตันอยู่”",
+      "options": ["I played badminton at 3 p.m. yesterday.", "I was playing badminton at 3 p.m. yesterday.", "I am playing badminton at 3 p.m. yesterday.", "I have played badminton at 3 p.m. yesterday."],
+      "answer": 1,
+      "explanation": "“กำลัง…อยู่” ณ เวลาในอดีต ใช้ **was playing**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The students ___ when the teacher came back.",
+      "options": ["were laughing", "was laughing", "laughing", "laugh"],
+      "answer": 0,
+      "explanation": "กำลังหัวเราะอยู่ตอนที่ครูกลับมา และ students เป็นพหูพจน์ → **were laughing**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: I ___ my keys while I was jogging in the park.",
+      "options": ["was losing", "lost", "lose", "were losing"],
+      "answer": 1,
+      "explanation": "การทำกุญแจหายเป็นเหตุการณ์สั้น ใช้ Past Simple → **lost**"
+    }
+  ]
+}

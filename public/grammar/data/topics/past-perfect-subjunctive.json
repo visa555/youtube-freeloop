@@ -1,0 +1,94 @@
+{
+  "lesson": {
+    "summary": "Past Perfect Subjunctive ใช้ **had + V3** เพื่อพูดถึงสิ่งที่ **ไม่ได้เกิดขึ้นจริงในอดีต** — เสียดาย (wish / If only), สมมติย้อนอดีต (If Type 3) หรือ “ราวกับว่าเคย…” (as if)",
+    "sections": [
+      {
+        "icon": "🧱",
+        "title": "โครงสร้างที่ใช้",
+        "table": {
+          "head": ["โครงสร้าง", "ความหมาย", "ตัวอย่าง"],
+          "rows": [
+            ["wish + **had + V3**", "เสียดายเรื่องในอดีต", "I wish I **had brought** my charger."],
+            ["If only + **had + V3**", "เสียดายมาก ๆ", "**If only** we **had left** earlier!"],
+            ["If + **had + V3**, would have + V3", "สมมติย้อนอดีต", "If she **had studied**, she **would have passed**."],
+            ["as if / as though + **had + V3**", "ราวกับว่าเคย… (แต่ไม่ได้เป็นอย่างนั้น)", "He looked **as if** he **had seen** a ghost."],
+            ["**Had** + ประธาน + V3 (ตัด If)", "= If … had …", "**Had** I known, I would have helped."]
+          ]
+        }
+      },
+      {
+        "icon": "🔁",
+        "title": "จากความจริงในอดีต",
+        "text": "ความจริงกับประโยค **ตรงข้ามกัน** (บอกเล่า ↔ ปฏิเสธ)",
+        "examples": [
+          { "en": "I **didn't** bring a jacket. → I wish I **had brought** a jacket.", "th": "ไม่ได้เอามา → เสียดาย" },
+          { "en": "She **ate** too much cake. → She wishes she **hadn't eaten** so much cake.", "th": "กินไปแล้ว → อยากให้ไม่ได้กิน" }
+        ]
+      },
+      {
+        "icon": "🆚",
+        "title": "Past กับ Past Perfect Subjunctive",
+        "table": {
+          "head": ["Past Subjunctive (V2)", "Past Perfect Subjunctive (had + V3)"],
+          "rows": [
+            ["ไม่จริง **ตอนนี้**", "ไม่จริงใน **อดีต**"],
+            ["I wish I **knew** the answer. (ตอนนี้ไม่รู้)", "I wish I **had known** the answer. (ตอนนั้นไม่รู้)"]
+          ]
+        }
+      },
+      {
+        "icon": "⚠️",
+        "title": "ระวัง! จุดที่มักผิด",
+        "mistakes": [
+          { "wrong": "I wish I **didn't forget** my keys yesterday.", "right": "I wish I **hadn't forgotten** my keys yesterday.", "why": "เรื่องในอดีตใช้ had + V3" },
+          { "wrong": "If I **had knew**, I would have come.", "right": "If I **had known**, I would have come.", "why": "หลัง had ต้องเป็น V3" },
+          { "wrong": "If she had studied, she **would pass**.", "right": "If she had studied, she **would have passed**.", "why": "Type 3 ใช้ would have + V3" },
+          { "wrong": "I wish I **would have gone**.", "right": "I wish I **had gone**.", "why": "หลัง wish ไม่ใช้ would have" }
+        ]
+      }
+    ],
+    "tip": "เสียดายอดีต / สมมติย้อนอดีต = **had + V3** · ความจริงตรงข้ามกับประโยคเสมอ · คู่กับ **would have + V3** ในประโยค If"
+  },
+  "questions": [
+    { "q": "I didn't bring my charger. I wish I ___ it.", "options": ["brought", "had brought", "bring", "would bring"], "answer": 1, "explanation": "เสียดายอดีต → wish + **had + V3**" },
+    { "q": "Mint didn't say sorry to her friend. She wishes she ___ sorry.", "options": ["said", "had said", "says", "would say"], "answer": 1, "explanation": "อดีต → **had said**" },
+    { "q": "We didn't check the weather. We wish we ___ the weather.", "options": ["checked", "had checked", "check", "have checked"], "answer": 1, "explanation": "อดีต → **had checked**" },
+    { "q": "I spent all my money. I wish I ___ all my money.", "options": ["didn't spend", "hadn't spent", "don't spend", "haven't spent"], "answer": 1, "explanation": "ใช้เงินหมดไปแล้ว → wish + **hadn't spent**" },
+    { "q": "If I ___ about the party, I would have come.", "options": ["knew", "had known", "know", "would know"], "answer": 1, "explanation": "If Type 3 → If + **had + V3**" },
+    { "q": "If she had studied harder, she ___ the exam.", "options": ["would pass", "would have passed", "will pass", "passed"], "answer": 1, "explanation": "คู่กับ had + V3 → **would have + V3**" },
+    { "q": "He looked as if he ___ a ghost.", "options": ["would see", "had seen", "sees", "has seen"], "answer": 1, "explanation": "ราวกับว่าเคยเห็นมา → as if + **had seen**" },
+    { "q": "If only we ___ earlier! We missed the train.", "options": ["left", "had left", "leave", "would leave"], "answer": 1, "explanation": "เสียดายอดีต → If only + **had left**" },
+    { "q": "___ I known, I would have helped you.", "options": ["Had", "Have", "If", "Did"], "answer": 0, "explanation": "**Had** I known = If I had known" },
+    { "q": "She talks about Paris as if she ___ there, but she has never been.", "options": ["has been", "had been", "is", "goes"], "answer": 1, "explanation": "ราวกับว่าเคยไป (แต่ไม่เคย) → as if + **had been**" },
+    { "q": "They sold their old house. Now they wish they ___ it.", "options": ["didn't sell", "hadn't sold", "don't sell", "won't sell"], "answer": 1, "explanation": "ขายไปแล้ว → wish + **hadn't sold**" },
+    { "q": "If it ___ yesterday, we would have gone to the beach.", "options": ["didn't rain", "hadn't rained", "doesn't rain", "won't rain"], "answer": 1, "explanation": "If Type 3 → **hadn't rained**" },
+    { "q": "I felt very tired during the hike. I wish I ___ more water.", "options": ["drank", "had drunk", "drink", "have drunk"], "answer": 1, "explanation": "drink → drank → **drunk** · wish + had drunk" },
+    { "q": "“I wish I had listened to my teacher.” ความจริงคืออะไร", "options": ["ผู้พูดฟังครู", "ผู้พูดไม่ได้ฟังครู", "ผู้พูดจะฟังครู", "ครูไม่ได้พูด"], "answer": 1, "explanation": "ตรงข้ามกับความจริง → **ไม่ได้ฟังครู**" },
+    { "q": "“If Tom had left on time, he wouldn't have been late.” ความจริงคืออะไร", "options": ["Tom ออกจากบ้านตรงเวลาและไม่สาย", "Tom ออกจากบ้านช้าและมาสาย", "Tom ไม่ได้ไปไหน", "Tom จะออกจากบ้านพรุ่งนี้"], "answer": 1, "explanation": "If Type 3 ตรงข้ามกับความจริง → **ออกช้าและสาย**" },
+    { "q": "“She wishes she hadn't eaten so much cake.” ความจริงคืออะไร", "options": ["เธอกินเค้กเยอะไปแล้ว", "เธอไม่ได้กินเค้ก", "เธออยากกินเค้กเพิ่ม", "เธอจะกินเค้กพรุ่งนี้"], "answer": 0, "explanation": "hadn't eaten ตรงข้ามกับความจริง → **กินไปเยอะแล้ว**" },
+    { "q": "“Had I known” มีความหมายเหมือนข้อใด", "options": ["If I had known", "If I know", "I had to know", "When I know"], "answer": 0, "explanation": "สลับ Had ขึ้นหน้าแทน If → **If I had known**" },
+    { "q": "Past Perfect Subjunctive ใช้พูดถึงเรื่องเวลาใด", "options": ["อดีตที่ไม่ได้เกิดขึ้นจริง", "ปัจจุบันที่ไม่จริง", "อนาคตที่เป็นไปได้", "ความจริงทั่วไป"], "answer": 0, "explanation": "had + V3 = **อดีตที่ไม่ได้เป็นจริง**" },
+    { "q": "I don't know the answer now. I wish I ___ it.", "options": ["knew", "had known", "know", "have known"], "answer": 0, "explanation": "ปัจจุบัน (now) → wish + **V2** (knew)" },
+    { "q": "I didn't know the answer in yesterday's test. I wish I ___ it.", "options": ["knew", "had known", "know", "will know"], "answer": 1, "explanation": "อดีต (yesterday) → wish + **had known**" },
+    { "q": "ข้อใดแสดงความเสียดาย “ในอดีต”", "options": ["I wish I were rich.", "I wish I had saved more money.", "I wish I could fly.", "I wish it would stop raining."], "answer": 1, "explanation": "**had saved** = had + V3 → อดีต" },
+    { "q": "ข้อใดแสดงความปรารถนา “ในปัจจุบัน”", "options": ["I wish I had gone to the party.", "I wish I hadn't said that.", "I wish I lived by the sea.", "I wish I had studied harder."], "answer": 2, "explanation": "**lived** = V2 → ปัจจุบันที่ไม่จริง" },
+    { "q": "ข้อใดผิด", "options": ["I wish I had gone.", "If I had known, I would have come.", "I wish I would have gone.", "If only she had called."], "answer": 2, "explanation": "หลัง wish ไม่ใช้ would have → I wish I **had gone**." },
+    { "q": "หาส่วนที่ผิด: “If I had knew about the test, I would have studied.” ต้องแก้อย่างไร", "options": ["had → have", "knew → known", "would → will", "studied → study"], "answer": 1, "explanation": "had + V3 → **known**" },
+    { "q": "หาส่วนที่ผิด: “If she had asked me, I would help her.” ต้องแก้อย่างไร", "options": ["had → has", "asked → ask", "would help → would have helped", "her → she"], "answer": 2, "explanation": "Type 3 → **would have helped**" },
+    { "q": "ข้อใดถูกต้อง", "options": ["I wish I didn't forget my keys yesterday.", "I wish I hadn't forgotten my keys yesterday.", "I wish I don't forget my keys yesterday.", "I wish I won't forget my keys yesterday."], "answer": 1, "explanation": "อดีต (yesterday) → **hadn't forgotten**" },
+    { "q": "ความจริง: I didn't bring a jacket. ข้อใดเป็นประโยค wish ที่ถูกต้อง", "options": ["I wish I had brought a jacket.", "I wish I brought a jacket.", "I wish I hadn't brought a jacket.", "I wish I bring a jacket."], "answer": 0, "explanation": "ไม่ได้เอามา → wish + **had brought**" },
+    { "q": "ความจริง: He failed because he didn't practice. ข้อใดถูกต้อง", "options": ["If he had practiced, he wouldn't have failed.", "If he practiced, he wouldn't fail.", "If he had practiced, he wouldn't fail yesterday.", "If he has practiced, he won't fail."], "answer": 0, "explanation": "สมมติย้อนอดีต → If + **had practiced**, **wouldn't have failed**" },
+    { "q": "ความจริง: They didn't take a map, so they got lost. ข้อใดถูกต้อง", "options": ["If they had taken a map, they wouldn't have got lost.", "If they took a map, they won't get lost.", "If they had taken a map, they would have got lost.", "If they take a map, they wouldn't have got lost."], "answer": 0, "explanation": "ตรงข้ามกับความจริงทั้งสองส่วน → had taken / **wouldn't** have got lost" },
+    { "q": "ความจริง: Ann shouted at her sister. ข้อใดถูกต้อง", "options": ["Ann wishes she hadn't shouted at her sister.", "Ann wishes she had shouted at her sister.", "Ann wishes she didn't shout at her sister now.", "Ann wishes she won't shout at her sister."], "answer": 0, "explanation": "ตะโกนไปแล้ว → wish + **hadn't shouted**" },
+    { "q": "แปล: “ฉันเสียดายที่ไม่ได้ไปคอนเสิร์ตเมื่อคืน”", "options": ["I wish I had gone to the concert last night.", "I wish I went to the concert last night.", "I wish I go to the concert last night.", "I wish I would go to the concert last night."], "answer": 0, "explanation": "เสียดายอดีต → wish + **had gone**" },
+    { "q": "แปล: “ถ้าฉันรู้ ฉันคงช่วยเธอไปแล้ว”", "options": ["If I had known, I would have helped you.", "If I knew, I would have helped you.", "If I had known, I will help you.", "If I know, I would help you."], "answer": 0, "explanation": "If + had known, **would have helped**" },
+    { "q": "แปล: “เขาพูดราวกับว่าเขาเคยไปญี่ปุ่นมาแล้ว”", "options": ["He talks as if he had been to Japan.", "He talks as if he goes to Japan.", "He talks if he had been to Japan.", "He talks as he had been to Japan."], "answer": 0, "explanation": "ราวกับว่าเคย… → **as if** + had been" },
+    { "q": "แปล: “ถ้าเพียงแต่ฉันตั้งใจเรียนมากกว่านี้!”", "options": ["If only I had studied harder!", "If only I study harder!", "If only I will study harder!", "If only I studying harder!"], "answer": 0, "explanation": "If only + **had studied** (เสียดายอดีต)" },
+    { "q": "สถานการณ์: คุณลืมวันเกิดเพื่อนเมื่อวาน รู้สึกผิด ควรพูดว่าอะไร", "options": ["I wish I hadn't forgotten my friend's birthday.", "I wish I didn't forget my friend's birthday.", "I wish I don't forget my friend's birthday.", "I hope I hadn't forgotten my friend's birthday."], "answer": 0, "explanation": "เสียดายอดีต → wish + **hadn't forgotten**" },
+    { "q": "สถานการณ์: ทีมแพ้เพราะผู้เล่นตัวหลักป่วยไม่ได้ลงแข่ง ข้อใดเหมาะสม", "options": ["If he had played, we might have won.", "If he plays, we will win yesterday.", "If he played, we won.", "If he had played, we win."], "answer": 0, "explanation": "สมมติย้อนอดีต → If + had played, **might have won**" },
+    { "q": "Had she ___ the bus, she would have been on time.", "options": ["caught", "catch", "catching", "catches"], "answer": 0, "explanation": "Had + ประธาน + **V3** (caught)" },
+    { "q": "My dad wishes he ___ English when he was young.", "options": ["learned", "had learned", "learns", "would learn"], "answer": 1, "explanation": "when he was young = อดีต → **had learned**" },
+    { "q": "อ่านข้อความ: “Pete didn't charge his phone, so he couldn't call for help when his bike broke. ‘If only I had charged my phone!’ he thought.” ข้อใดถูกต้อง", "options": ["Pete ชาร์จโทรศัพท์แล้ว", "Pete เสียดายที่ไม่ได้ชาร์จโทรศัพท์", "จักรยานของ Pete ไม่เสีย", "Pete โทรขอความช่วยเหลือได้"], "answer": 1, "explanation": "If only I **had charged** my phone = เสียดายที่ไม่ได้ชาร์จ" },
+    { "q": "อ่านข้อความ: “If the team had trained harder, they would have won the final. Now the coach wishes he had planned the practice better.” ข้อใดถูกต้อง", "options": ["ทีมชนะการแข่งขันนัดชิง", "ทีมแพ้ในนัดชิง", "โค้ชพอใจกับการซ้อม", "ทีมซ้อมหนักมาก"], "answer": 1, "explanation": "If Type 3 ตรงข้ามกับความจริง → ทีม **ไม่ได้ชนะ** (แพ้)" }
+  ]
+}

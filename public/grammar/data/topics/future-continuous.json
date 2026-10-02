@@ -1,0 +1,364 @@
+{
+  "lesson": {
+    "summary": "ใช้บอกว่า **จะกำลังทำอะไรอยู่ ณ เวลาหนึ่งในอนาคต** เช่น “พรุ่งนี้เวลานี้ ฉันจะกำลังนั่งเครื่องบินอยู่”",
+    "sections": [
+      {
+        "icon": "🎯",
+        "title": "ใช้เมื่อไหร่",
+        "list": [
+          "จะกำลังทำอยู่ ณ จุดเวลาในอนาคต — At 9 a.m. tomorrow, I **will be taking** a test.",
+          "จะกำลังทำอยู่ตอนที่อีกเหตุการณ์เกิดขึ้น — When you arrive, we **will be waiting** for you.",
+          "ถามแผนของอีกฝ่ายอย่างสุภาพ — **Will** you **be using** the computer tonight?"
+        ]
+      },
+      {
+        "icon": "🧱",
+        "title": "โครงสร้าง",
+        "text": "ใช้ **will be** กับทุกประธาน (be ไม่เปลี่ยนเป็น am / is / are)",
+        "formulas": [
+          { "label": "บอกเล่า", "formula": "ประธาน + **will be** + V-ing", "example": "She **will be sleeping** at midnight." },
+          { "label": "ปฏิเสธ", "formula": "ประธาน + **won't be** + V-ing", "example": "We **won't be working** on Sunday." },
+          { "label": "คำถาม", "formula": "**Will** + ประธาน + **be** + V-ing ?", "example": "**Will** you **be studying** at 8? — Yes, I will. / No, I won't." }
+        ]
+      },
+      {
+        "icon": "⏰",
+        "title": "คำบอกเวลา",
+        "chips": ["at this time tomorrow", "this time next week", "at 8 p.m. tonight", "at noon tomorrow", "when you arrive", "all day tomorrow"]
+      },
+      {
+        "icon": "🆚",
+        "title": "Future Simple กับ Future Continuous",
+        "table": {
+          "head": ["Future Simple", "Future Continuous"],
+          "rows": [
+            ["**will + V1** — บอกว่าเหตุการณ์จะเกิดขึ้น", "**will be + V-ing** — บอกว่าจะ **กำลัง** ทำอยู่ ณ เวลานั้น"],
+            ["I **will watch** the match tonight.", "At 8 p.m., I **will be watching** the match."]
+          ]
+        }
+      },
+      {
+        "icon": "📝",
+        "title": "ตัวอย่าง",
+        "examples": [
+          { "en": "This time next week, we **will be relaxing** on the beach.", "th": "เวลานี้สัปดาห์หน้า พวกเราจะกำลังพักผ่อนอยู่ที่ชายหาด" },
+          { "en": "Don't call me at 9. I **will be doing** my homework.", "th": "อย่าโทรหาฉันตอนสามทุ่มนะ ตอนนั้นฉันจะกำลังทำการบ้าน" },
+          { "en": "**Will** you **be using** your bike tomorrow? — No, I **won't**.", "th": "พรุ่งนี้เธอจะใช้จักรยานไหม — ไม่ใช้" }
+        ]
+      },
+      {
+        "icon": "⚠️",
+        "title": "ระวัง! จุดที่มักผิด",
+        "mistakes": [
+          { "wrong": "I will **playing** tennis at 5.", "right": "I will **be playing** tennis at 5.", "why": "ขาด be — ต้องเป็น will be + V-ing" },
+          { "wrong": "She will be **cook** dinner.", "right": "She will be **cooking** dinner.", "why": "หลัง be ต้องเป็น V-ing" },
+          { "wrong": "They **will are** studying.", "right": "They **will be** studying.", "why": "หลัง will ใช้ be เสมอ" },
+          { "wrong": "Will you **are** working tomorrow?", "right": "Will you **be** working tomorrow?", "why": "คำถามก็ใช้ be ตามหลังประธาน" }
+        ]
+      }
+    ],
+    "tip": "**will + be + V-ing** = “จะกำลัง…” — นึกภาพกดหยุดเวลาไว้ที่จุดหนึ่งในอนาคต แล้วดูว่าตอนนั้นกำลังทำอะไรอยู่"
+  },
+  "questions": [
+    {
+      "q": "เติมคำในช่องว่าง: At this time tomorrow, I ___ on the beach.",
+      "options": ["lie", "will be lying", "lay", "is lie"],
+      "answer": 1,
+      "explanation": "at this time tomorrow = ณ เวลานี้พรุ่งนี้ (จะกำลังทำ) → **will be lying**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Don't call me at 8 p.m. I ___ dinner.",
+      "options": ["have", "will be having", "had", "am have"],
+      "answer": 1,
+      "explanation": "ตอนสองทุ่มจะกำลังกินข้าวเย็นอยู่ → **will be having**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: She will be ___ to London this time next week.",
+      "options": ["fly", "flying", "flew", "flown"],
+      "answer": 1,
+      "explanation": "will be + **V-ing** → flying"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: They will ___ working late tonight.",
+      "options": ["be", "are", "being", "been"],
+      "answer": 0,
+      "explanation": "will + **be** + V-ing"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: We ___ (wait) for you at the station.",
+      "options": ["will waiting", "will be waiting", "will be wait", "are wait"],
+      "answer": 1,
+      "explanation": "will be + V-ing → **will be waiting**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: At noon tomorrow, the students ___ (take) their final exam.",
+      "options": ["take", "will be taking", "took", "are take"],
+      "answer": 1,
+      "explanation": "ณ จุดเวลาในอนาคต (at noon tomorrow) จะกำลังสอบอยู่ → **will be taking**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: This time next year, my brother ___ (study) at university.",
+      "options": ["studies", "will be studying", "will studying", "studied"],
+      "answer": 1,
+      "explanation": "this time next year = เวลานี้ปีหน้า → **will be studying**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: When you get home, I ___ (cook) dinner.",
+      "options": ["will be cooking", "cooked", "am cook", "cooks"],
+      "answer": 0,
+      "explanation": "ตอนที่เธอกลับถึงบ้าน (อนาคต) ฉันจะกำลังทำอาหารอยู่ → **will be cooking**"
+    },
+    {
+      "q": "ข้อใดถูกต้อง",
+      "options": ["I will be play games at 9.", "I will be playing games at 9.", "I will playing games at 9.", "I be will playing games at 9."],
+      "answer": 1,
+      "explanation": "will + be + V-ing → I **will be playing**"
+    },
+    {
+      "q": "ข้อใดผิดหลักไวยากรณ์",
+      "options": ["She will be working all day tomorrow.", "We will be traveling next week.", "They will are sleeping at midnight.", "He will be studying tonight."],
+      "answer": 2,
+      "explanation": "หลัง will ใช้ be ไม่ใช่ are → They **will be** sleeping"
+    },
+    {
+      "q": "ประโยคใดเป็น Future Continuous",
+      "options": ["I will call you later.", "I will be calling you later.", "I am calling you now.", "I called you later."],
+      "answer": 1,
+      "explanation": "**will be calling** = will be + V-ing"
+    },
+    {
+      "q": "ประโยคใดเป็น Future Simple",
+      "options": ["She will be dancing at the party.", "She will dance at the party.", "She is dancing at the party.", "She was dancing at the party."],
+      "answer": 1,
+      "explanation": "**will dance** = will + V1 จึงเป็น Future Simple"
+    },
+    {
+      "q": "“At 7 p.m. tomorrow, I will be watching a movie.” หมายความว่าอย่างไร",
+      "options": ["ฉันดูหนังเมื่อวานตอนหนึ่งทุ่ม", "พรุ่งนี้ตอนหนึ่งทุ่มฉันจะกำลังดูหนังอยู่", "ฉันดูหนังทุกวันตอนหนึ่งทุ่ม", "ตอนนี้ฉันกำลังดูหนัง"],
+      "answer": 1,
+      "explanation": "will be + V-ing = **จะกำลัง** ทำอยู่ ณ เวลานั้นในอนาคต"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: It's cold. I ___ the window. (ตัดสินใจตอนนี้ทันที)",
+      "options": ["will close", "will be closing", "closed", "am close"],
+      "answer": 0,
+      "explanation": "ตัดสินใจทันทีขณะพูด ใช้ Future Simple → **will close**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Tomorrow at 10 a.m., Dad ___ a meeting, so he can't pick you up.",
+      "options": ["will be having", "has", "had", "will have had"],
+      "answer": 0,
+      "explanation": "ณ เวลานั้นพ่อจะกำลังประชุมอยู่ → **will be having** a meeting"
+    },
+    {
+      "q": "ประโยคปฏิเสธของ “We will be playing football.” คือข้อใด",
+      "options": ["We won't be playing football.", "We will be not playing football.", "We don't will be playing football.", "We won't playing football."],
+      "answer": 0,
+      "explanation": "will not → **won't** แล้วตามด้วย be + V-ing"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: I ___ be using my laptop tonight, so you can borrow it.",
+      "options": ["won't", "don't", "am not", "wasn't"],
+      "answer": 0,
+      "explanation": "คืนนี้จะไม่ได้ใช้ → **won't** be using"
+    },
+    {
+      "q": "ข้อใดเป็นรูปย่อของ “She will not be working.”",
+      "options": ["She won't be working.", "She willn't be working.", "She'll not working.", "She won't working."],
+      "answer": 0,
+      "explanation": "will not → **won't** และต้องมี be → She won't be working."
+    },
+    {
+      "q": "เติมคำในช่องว่าง: They won't be ___ at home this weekend. They're going camping.",
+      "options": ["stay", "staying", "stayed", "stays"],
+      "answer": 1,
+      "explanation": "won't be + **V-ing** → staying"
+    },
+    {
+      "q": "เปลี่ยน “You will be using the car tonight.” เป็นประโยคคำถาม ข้อใดถูกต้อง",
+      "options": ["Will you be using the car tonight?", "Will you using the car tonight?", "Are you will be using the car tonight?", "Will be you using the car tonight?"],
+      "answer": 0,
+      "explanation": "Will + ประธาน + be + V-ing → **Will you be using** the car tonight?"
+    },
+    {
+      "q": "A: Will you be studying at 8 p.m.?  B: Yes, I ___.",
+      "options": ["am", "will", "do", "be"],
+      "answer": 1,
+      "explanation": "คำถามขึ้นต้นด้วย Will ตอบสั้นด้วย **will** → Yes, I will."
+    },
+    {
+      "q": "A: Will Ken be working on Sunday?  B: No, he ___.",
+      "options": ["isn't", "won't", "doesn't", "wasn't"],
+      "answer": 1,
+      "explanation": "ตอบปฏิเสธคำถามที่ขึ้นต้นด้วย Will → No, he **won't**."
+    },
+    {
+      "q": "A: What will you be doing at this time next week?  B: ___",
+      "options": ["I will be relaxing in Phuket.", "I relaxed in Phuket.", "Yes, I will.", "I am relax in Phuket."],
+      "answer": 0,
+      "explanation": "ถามว่าจะกำลังทำอะไร ตอบด้วย Future Continuous → I **will be relaxing** in Phuket."
+    },
+    {
+      "q": "เรียงคำให้เป็นคำถามที่ถูกต้อง: (be / will / where / staying / you)",
+      "options": ["Where will you be staying?", "Where you will be staying?", "Where will be you staying?", "Will where you be staying?"],
+      "answer": 0,
+      "explanation": "Wh- + will + ประธาน + be + V-ing → **Where will you be staying?**"
+    },
+    {
+      "q": "เรียงคำให้เป็นประโยคที่ถูกต้อง: (will / at 6 a.m. / jogging / be / Mom)",
+      "options": ["Mom will be jogging at 6 a.m.", "Mom be will jogging at 6 a.m.", "Mom will jogging be at 6 a.m.", "Will Mom be jogging at 6 a.m."],
+      "answer": 0,
+      "explanation": "ประธาน + will + be + V-ing → **Mom will be jogging** at 6 a.m."
+    },
+    {
+      "q": "ข้อใดเป็นคำถามที่สุภาพเพื่อถามแผนของอีกฝ่าย",
+      "options": ["Will you be using the printer this afternoon?", "You use the printer this afternoon!", "Do you used the printer this afternoon?", "Using the printer this afternoon?"],
+      "answer": 0,
+      "explanation": "**Will you be + V-ing …?** ใช้ถามแผนของอีกฝ่ายอย่างสุภาพ"
+    },
+    {
+      "q": "คำบอกเวลาใดเหมาะกับ Future Continuous มากที่สุด",
+      "options": ["yesterday", "at this time tomorrow", "every day", "last week"],
+      "answer": 1,
+      "explanation": "**at this time tomorrow** ระบุจุดเวลาในอนาคต เหมาะกับ will be + V-ing"
+    },
+    {
+      "q": "“this time next week” แปลว่าอะไร",
+      "options": ["เวลานี้สัปดาห์ที่แล้ว", "เวลานี้สัปดาห์หน้า", "ทุกสัปดาห์", "สัปดาห์นี้"],
+      "answer": 1,
+      "explanation": "this time next week = **เวลานี้สัปดาห์หน้า**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: ___, I will be sitting in my new classroom.",
+      "options": ["Last Monday", "At 8 a.m. next Monday", "Every Monday", "Yesterday"],
+      "answer": 1,
+      "explanation": "Future Continuous ต้องใช้กับจุดเวลาในอนาคต → **At 8 a.m. next Monday**"
+    },
+    {
+      "q": "สถานการณ์: พรุ่งนี้ 9 โมงเช้าคุณต้องนั่งเครื่องบินไปเชียงใหม่ เพื่อนถามว่าพรุ่งนี้ 9 โมงทำอะไร ข้อใดตอบได้ถูกต้อง",
+      "options": ["I fly to Chiang Mai.", "I'll be flying to Chiang Mai.", "I flew to Chiang Mai.", "I have flown to Chiang Mai."],
+      "answer": 1,
+      "explanation": "ตอนนั้นจะกำลังบินอยู่ → I**'ll be flying**"
+    },
+    {
+      "q": "สถานการณ์: เพื่อนจะมาบ้านตอนหกโมงเย็น แต่ตอนนั้นคุณจะกำลังทำการบ้าน ข้อใดถูกต้อง",
+      "options": ["When you come, I'll be doing my homework.", "When you will come, I do my homework.", "When you come, I did my homework.", "When you came, I'll be doing my homework."],
+      "answer": 0,
+      "explanation": "when + Present Simple (come) ส่วนสิ่งที่จะกำลังทำใช้ **will be doing**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: When you arrive, the guests ___.",
+      "options": ["will be eating", "eat", "ate", "are eaten"],
+      "answer": 0,
+      "explanation": "ตอนที่เธอมาถึง แขกจะกำลังกินอยู่ → **will be eating**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Please be quiet after 10 p.m. The baby ___.",
+      "options": ["sleeps", "will be sleeping", "slept", "will be sleep"],
+      "answer": 1,
+      "explanation": "หลังสี่ทุ่มลูกจะกำลังนอนหลับอยู่ → **will be sleeping**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: In 2040, people ___ flying cars.",
+      "options": ["drive", "will be driving", "drove", "are drive"],
+      "answer": 1,
+      "explanation": "ในปี 2040 (อนาคต) ผู้คนจะกำลังขับรถบินได้ → **will be driving**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: I can't meet you at 3 p.m. I ___ in the library.",
+      "options": ["will be studying", "studied", "study", "am study"],
+      "answer": 0,
+      "explanation": "ตอนบ่ายสามจะกำลังอ่านหนังสืออยู่ → **will be studying**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Don't come at 7. We ___ the house then.",
+      "options": ["will be cleaning", "cleaned", "clean", "are clean"],
+      "answer": 0,
+      "explanation": "ตอนหนึ่งทุ่มจะกำลังทำความสะอาดบ้าน → **will be cleaning**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: This time tomorrow, Nida ___ her grandparents in Lampang.",
+      "options": ["visits", "will be visiting", "visited", "is visit"],
+      "answer": 1,
+      "explanation": "this time tomorrow → **will be visiting**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: At midnight tonight, everyone ___ the fireworks.",
+      "options": ["will be watching", "watched", "watches", "is watch"],
+      "answer": 0,
+      "explanation": "ตอนเที่ยงคืนคืนนี้ทุกคนจะกำลังดูพลุ → **will be watching**"
+    },
+    {
+      "q": "แปล: “พรุ่งนี้ตอนเที่ยง ฉันจะกำลังกินข้าวกลางวันกับเพื่อนอยู่”",
+      "options": ["At noon tomorrow, I will be having lunch with my friends.", "At noon tomorrow, I had lunch with my friends.", "At noon tomorrow, I am have lunch with my friends.", "At noon yesterday, I will be having lunch with my friends."],
+      "answer": 0,
+      "explanation": "จะกำลัง… ณ เวลาในอนาคต → At noon tomorrow, I **will be having** lunch"
+    },
+    {
+      "q": "แปล: “คืนนี้ตอนสามทุ่ม เธอจะกำลังทำงานอยู่ไหม”",
+      "options": ["Will you be working at 9 p.m. tonight?", "Are you work at 9 p.m. tonight?", "Did you work at 9 p.m. tonight?", "Will you working at 9 p.m. tonight?"],
+      "answer": 0,
+      "explanation": "Will + ประธาน + be + V-ing → **Will you be working** at 9 p.m. tonight?"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Will you ___ the meeting tomorrow afternoon?",
+      "options": ["be attending", "attending", "be attend", "attended"],
+      "answer": 0,
+      "explanation": "Will + you + **be + V-ing** → be attending"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The team ___ practicing all day tomorrow.",
+      "options": ["will be", "will", "is be", "be"],
+      "answer": 0,
+      "explanation": "all day tomorrow → **will be** practicing"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Next month, we ___ in a new house.",
+      "options": ["will be living", "lived", "are live", "live"],
+      "answer": 0,
+      "explanation": "เดือนหน้าจะกำลังอาศัยอยู่ในบ้านใหม่ → **will be living**"
+    },
+    {
+      "q": "ข้อใดมีความหมายว่า “จะกำลัง…” ในอนาคต",
+      "options": ["He will be reading.", "He will read.", "He was reading.", "He is reading."],
+      "answer": 0,
+      "explanation": "**will be reading** = จะกำลังอ่าน"
+    },
+    {
+      "q": "หาส่วนที่ผิด: “She will being driving to work at 8.” ต้องแก้อย่างไร",
+      "options": ["will → would", "being → be", "driving → drive", "at → in"],
+      "answer": 1,
+      "explanation": "โครงสร้างคือ will + **be** + V-ing ไม่ใช่ being"
+    },
+    {
+      "q": "หาส่วนที่ผิด: “I will be wait for you at the gate.” ต้องแก้อย่างไร",
+      "options": ["will → am", "be → being", "wait → waiting", "at → on"],
+      "answer": 2,
+      "explanation": "หลัง will be ต้องเป็น V-ing → will be **waiting**"
+    },
+    {
+      "q": "หาส่วนที่ผิด: “Will they be come to the party?” ต้องแก้อย่างไร",
+      "options": ["Will → Do", "be → are", "come → coming", "to → at"],
+      "answer": 2,
+      "explanation": "Will + ประธาน + be + V-ing → be **coming**"
+    },
+    {
+      "q": "อ่านข้อความ: “Tomorrow will be a busy day for Jim. At 9 a.m., he will be taking a math test. At noon, he will be eating lunch with his team. At 4 p.m., he will be playing in a football match.” พรุ่งนี้ตอนเที่ยง Jim จะกำลังทำอะไร",
+      "options": ["Taking a math test.", "Eating lunch with his team.", "Playing football.", "Sleeping."],
+      "answer": 1,
+      "explanation": "ข้อความบอกว่า At noon, he will be **eating lunch with his team**."
+    },
+    {
+      "q": "อ่านบทสนทนา: “Mom: Can I call you at 10 tonight?  Pim: Please don't. I'll be sleeping. I have to get up early tomorrow.” ทำไม Pim ไม่อยากให้แม่โทรตอนสี่ทุ่ม",
+      "options": ["เพราะ Pim จะกำลังทำการบ้าน", "เพราะ Pim จะกำลังนอนหลับ", "เพราะ Pim ไม่อยู่บ้าน", "เพราะ Pim ไม่ชอบคุยโทรศัพท์"],
+      "answer": 1,
+      "explanation": "Pim บอกว่า I'll **be sleeping** = ตอนนั้นจะกำลังนอนหลับ"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: At 5 p.m., the shops ___ closing.",
+      "options": ["will be", "will", "are be", "be"],
+      "answer": 0,
+      "explanation": "ตอนห้าโมงเย็นร้านจะกำลังปิด → **will be** closing"
+    }
+  ]
+}

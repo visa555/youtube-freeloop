@@ -1,0 +1,107 @@
+{
+  "lesson": {
+    "summary": "**กริยาต้องสอดคล้องกับประธาน** — ประธานเอกพจน์ใช้กริยาเอกพจน์ (is, was, has, V+s) ประธานพหูพจน์ใช้กริยาพหูพจน์ (are, were, have, V1) ส่วนที่ยากคือการหา **ประธานตัวจริง**",
+    "sections": [
+      {
+        "icon": "🧱",
+        "title": "หลักพื้นฐาน",
+        "table": {
+          "head": ["ประธาน", "กริยา", "ตัวอย่าง"],
+          "rows": [
+            ["เอกพจน์ (he, she, it, 1 คน / 1 สิ่ง)", "is / was / has / V+s", "My brother **plays** football."],
+            ["พหูพจน์ (we, they, 2 ขึ้นไป)", "are / were / have / V1", "My brothers **play** football."]
+          ]
+        }
+      },
+      {
+        "icon": "🔎",
+        "title": "หาประธานตัวจริง",
+        "list": [
+          "ข้ามวลีที่คั่นกลาง (of…, in…, with…): The box **of chocolates** **is** on the table.",
+          "**One of** + นามพหูพจน์ → เอกพจน์: **One** of my friends **lives** in Japan.",
+          "**A and B** → พหูพจน์: Tom **and** Jerry **are** friends.",
+          "**V-ing / to + V** เป็นประธาน → เอกพจน์: **Swimming is** good exercise."
+        ]
+      },
+      {
+        "icon": "1️⃣",
+        "title": "ใช้กริยาเอกพจน์เสมอ",
+        "chips": ["each", "every", "everyone / everybody", "someone / somebody", "nobody / nothing", "anyone", "นามนับไม่ได้ (water, money, news, information)", "เงิน / เวลา / ระยะทาง (Ten dollars is …)", "วิชาที่ลงท้าย -ics (mathematics)"]
+      },
+      {
+        "icon": "👥",
+        "title": "กรณีพิเศษ",
+        "table": {
+          "head": ["ประธาน", "กริยาตาม", "ตัวอย่าง"],
+          "rows": [
+            ["either … or / neither … nor", "คำที่อยู่ **ใกล้กริยา**", "Neither Tom nor his **sisters are** here."],
+            ["some of / all of / most of + …", "คำนาม **หลัง of**", "Some of the **cake is** gone. / Some of the **cakes are** gone."],
+            ["a number of + นามพหูพจน์", "พหูพจน์", "A number of students **are** absent."],
+            ["the number of + นามพหูพจน์", "เอกพจน์", "The number of students **is** 40."],
+            ["There is / There are", "คำนาม **หลัง** be", "There **is** a pen. / There **are** two pens."],
+            ["glasses, jeans, scissors", "พหูพจน์", "My glasses **are** broken."]
+          ]
+        }
+      },
+      {
+        "icon": "⚠️",
+        "title": "ระวัง! จุดที่มักผิด",
+        "mistakes": [
+          { "wrong": "The box of chocolates **are** on the table.", "right": "The box of chocolates **is** on the table.", "why": "ประธานตัวจริงคือ box (เอกพจน์)" },
+          { "wrong": "One of my friends **live** in Japan.", "right": "One of my friends **lives** in Japan.", "why": "one of … ใช้กริยาเอกพจน์" },
+          { "wrong": "Everyone **have** a book.", "right": "Everyone **has** a book.", "why": "everyone เป็นเอกพจน์" },
+          { "wrong": "There **is** many people.", "right": "There **are** many people.", "why": "ดูคำนามหลัง be (people – พหูพจน์)" },
+          { "wrong": "The news **are** good.", "right": "The news **is** good.", "why": "news นับไม่ได้ ใช้กริยาเอกพจน์" }
+        ]
+      }
+    ],
+    "tip": "หาประธานตัวจริงก่อน (ข้ามวลี of…, in…, with…) แล้วถามว่า **1 หรือหลาย** — each / every / one of / -one / -body / นามนับไม่ได้ = **เอกพจน์**"
+  },
+  "questions": [
+    { "q": "เติมคำในช่องว่าง: The box of chocolates ___ on the table.", "options": ["is", "are", "were", "have"], "answer": 0, "explanation": "ประธานตัวจริงคือ **box** (เอกพจน์) ส่วน of chocolates เป็นวลีขยาย" },
+    { "q": "เติมคำในช่องว่าง: The students in my class ___ very friendly.", "options": ["is", "are", "was", "has"], "answer": 1, "explanation": "ประธานตัวจริงคือ **students** (พหูพจน์)" },
+    { "q": "เติมคำในช่องว่าง: One of my friends ___ in Japan.", "options": ["live", "lives", "living", "are living"], "answer": 1, "explanation": "**One** of … เป็นเอกพจน์ → lives" },
+    { "q": "เติมคำในช่องว่าง: Everyone ___ a book.", "options": ["have", "has", "are having", "were"], "answer": 1, "explanation": "everyone เป็นเอกพจน์ → **has**" },
+    { "q": "เติมคำในช่องว่าง: Each student ___ a locker.", "options": ["have", "has", "are", "were"], "answer": 1, "explanation": "each + นามเอกพจน์ → **has**" },
+    { "q": "เติมคำในช่องว่าง: Tom and Jerry ___ best friends.", "options": ["is", "are", "was", "has"], "answer": 1, "explanation": "A **and** B = พหูพจน์ → **are**" },
+    { "q": "เติมคำในช่องว่าง: Swimming ___ good exercise.", "options": ["is", "are", "were", "have"], "answer": 0, "explanation": "V-ing เป็นประธาน ถือเป็นเอกพจน์ → **is**" },
+    { "q": "เติมคำในช่องว่าง: There ___ many people at the concert.", "options": ["is", "are", "was", "has"], "answer": 1, "explanation": "คำนามหลัง be คือ people (พหูพจน์) → There **are**" },
+    { "q": "เติมคำในช่องว่าง: There ___ a cat under the table.", "options": ["is", "are", "were", "have"], "answer": 0, "explanation": "a cat เอกพจน์ → There **is**" },
+    { "q": "เติมคำในช่องว่าง: The news ___ very good today.", "options": ["is", "are", "were", "have"], "answer": 0, "explanation": "news นับไม่ได้ (แม้ลงท้ายด้วย s) → **is**" },
+    { "q": "เติมคำในช่องว่าง: My glasses ___ broken.", "options": ["is", "are", "was", "has"], "answer": 1, "explanation": "glasses (แว่นตา) เป็นพหูพจน์เสมอ → **are**" },
+    { "q": "เติมคำในช่องว่าง: Nobody ___ the answer.", "options": ["know", "knows", "are knowing", "have known"], "answer": 1, "explanation": "nobody เป็นเอกพจน์ → **knows**" },
+    { "q": "เติมคำในช่องว่าง: Ten dollars ___ too much for this pen.", "options": ["is", "are", "were", "have"], "answer": 0, "explanation": "จำนวนเงินมองเป็นก้อนเดียว → **is**" },
+    { "q": "เติมคำในช่องว่าง: Neither Tom nor his sisters ___ here.", "options": ["is", "are", "was", "has"], "answer": 1, "explanation": "neither … nor ให้ดูคำที่ใกล้กริยา → sisters (พหูพจน์) → **are**" },
+    { "q": "เติมคำในช่องว่าง: Neither his sisters nor Tom ___ here.", "options": ["is", "are", "were", "have"], "answer": 0, "explanation": "คำที่ใกล้กริยาคือ Tom (เอกพจน์) → **is**" },
+    { "q": "เติมคำในช่องว่าง: Either my dad or my brothers ___ going to pick me up.", "options": ["is", "are", "was", "has"], "answer": 1, "explanation": "คำที่ใกล้กริยาคือ brothers (พหูพจน์) → **are**" },
+    { "q": "เติมคำในช่องว่าง: Some of the cake ___ gone.", "options": ["is", "are", "were", "have"], "answer": 0, "explanation": "ดูคำนามหลัง of → cake (เอกพจน์ / ก้อนเดียว) → **is**" },
+    { "q": "เติมคำในช่องว่าง: Some of the cookies ___ gone.", "options": ["is", "are", "was", "has"], "answer": 1, "explanation": "คำนามหลัง of คือ cookies (พหูพจน์) → **are**" },
+    { "q": "เติมคำในช่องว่าง: All of the water ___ dirty.", "options": ["is", "are", "were", "have"], "answer": 0, "explanation": "water นับไม่ได้ → **is**" },
+    { "q": "เติมคำในช่องว่าง: Most of my classmates ___ to school by bus.", "options": ["go", "goes", "is going", "has gone"], "answer": 0, "explanation": "คำนามหลัง of คือ classmates (พหูพจน์) → **go**" },
+    { "q": "เติมคำในช่องว่าง: A number of students ___ absent today.", "options": ["is", "are", "was", "has"], "answer": 1, "explanation": "**a number of** = หลาย… → พหูพจน์ → are" },
+    { "q": "เติมคำในช่องว่าง: The number of students in our class ___ 40.", "options": ["is", "are", "were", "have"], "answer": 0, "explanation": "**the number of** = จำนวน (ตัวเลขเดียว) → เอกพจน์ → is" },
+    { "q": "เติมคำในช่องว่าง: The teacher, with her students, ___ going on a trip.", "options": ["is", "are", "were", "have"], "answer": 0, "explanation": "ประธานตัวจริงคือ the teacher ส่วน with her students เป็นวลีเสริม → **is**" },
+    { "q": "เติมคำในช่องว่าง: The information you gave me ___ very useful.", "options": ["was", "were", "are", "have been"], "answer": 0, "explanation": "information นับไม่ได้ → กริยาเอกพจน์ **was**" },
+    { "q": "เติมคำในช่องว่าง: My father and my uncle ___ doctors.", "options": ["is", "are", "was", "has"], "answer": 1, "explanation": "A and B → **are**" },
+    { "q": "เติมคำในช่องว่าง: Every boy and girl ___ a gift.", "options": ["get", "gets", "are getting", "have got"], "answer": 1, "explanation": "every … (แม้มี and) ใช้กริยาเอกพจน์ → **gets**" },
+    { "q": "เติมคำในช่องว่าง: Mathematics ___ my favorite subject.", "options": ["is", "are", "were", "have"], "answer": 0, "explanation": "ชื่อวิชาลงท้าย -ics เป็นเอกพจน์ → **is**" },
+    { "q": "เติมคำในช่องว่าง: The children ___ playing in the garden.", "options": ["is", "are", "was", "has"], "answer": 1, "explanation": "children เป็นพหูพจน์ของ child → **are**" },
+    { "q": "เติมคำในช่องว่าง: Reading books ___ me relax.", "options": ["help", "helps", "are helping", "have helped"], "answer": 1, "explanation": "ประธานคือ Reading (V-ing) ถือเป็นเอกพจน์ → **helps**" },
+    { "q": "เติมคำในช่องว่าง: The keys to the car ___ on the shelf.", "options": ["is", "are", "was", "has"], "answer": 1, "explanation": "ประธานตัวจริงคือ keys (พหูพจน์) → **are**" },
+    { "q": "เติมคำในช่องว่าง: Somebody ___ left the door open.", "options": ["has", "have", "are", "were"], "answer": 0, "explanation": "somebody เป็นเอกพจน์ → **has** left" },
+    { "q": "ประธานตัวจริงในประโยค “The color of the flowers is beautiful.” คือคำใด", "options": ["color", "flowers", "beautiful", "the"], "answer": 0, "explanation": "of the flowers เป็นวลีขยาย ประธานคือ **color** จึงใช้ is" },
+    { "q": "ประธานตัวจริงในประโยค “The boys with the red caps are my cousins.” คือคำใด", "options": ["boys", "caps", "cousins", "red"], "answer": 0, "explanation": "with the red caps เป็นวลีขยาย ประธานคือ **boys**" },
+    { "q": "คำใดเป็นประธานเอกพจน์", "options": ["the children", "everybody", "my parents", "these books"], "answer": 1, "explanation": "**everybody** ใช้กริยาเอกพจน์" },
+    { "q": "คำใดเป็นประธานพหูพจน์", "options": ["each student", "the news", "Ann and Bee", "one of them"], "answer": 2, "explanation": "**Ann and Bee** (2 คน) เป็นพหูพจน์" },
+    { "q": "ข้อใดผิด", "options": ["The book on the shelves is mine.", "One of the girls sings well.", "Everyone are happy today.", "There are two dogs outside."], "answer": 2, "explanation": "everyone เป็นเอกพจน์ → Everyone **is** happy" },
+    { "q": "ข้อใดผิด", "options": ["My shoes are new.", "The money is on the table.", "Each of the boys has a bike.", "The list of names are long."], "answer": 3, "explanation": "ประธานคือ list (เอกพจน์) → The list of names **is** long." },
+    { "q": "ข้อใดถูกต้อง", "options": ["There is three apples.", "There are three apples.", "There be three apples.", "There have three apples."], "answer": 1, "explanation": "three apples พหูพจน์ → There **are**" },
+    { "q": "ข้อใดถูกต้อง", "options": ["The students in this school wears uniforms.", "The students in this school wear uniforms.", "The student in this school wear uniforms.", "The students in this school is wearing uniforms."], "answer": 1, "explanation": "students พหูพจน์ → **wear**" },
+    { "q": "แปล: “นักเรียนทุกคนต้องสวมชุดนักเรียน”", "options": ["Every student has to wear a uniform.", "Every students have to wear a uniform.", "Every student have to wear a uniform.", "Every students has to wear a uniform."], "answer": 0, "explanation": "every + นามเอกพจน์ (student) + กริยาเอกพจน์ (**has**)" },
+    { "q": "แปล: “เพื่อนคนหนึ่งของฉันเล่นกีตาร์เก่ง”", "options": ["One of my friends plays the guitar well.", "One of my friend plays the guitar well.", "One of my friends play the guitar well.", "One my friends plays the guitar well."], "answer": 0, "explanation": "One of + นามพหูพจน์ (friends) + กริยาเอกพจน์ (**plays**)" },
+    { "q": "แปล: “ข้อมูลนี้ไม่ถูกต้อง”", "options": ["This information is not correct.", "This information are not correct.", "These information are not correct.", "This informations is not correct."], "answer": 0, "explanation": "information นับไม่ได้ → This information **is**" },
+    { "q": "เติมคำในช่องว่าง: Your advice ___ always helpful.", "options": ["is", "are", "were", "have"], "answer": 0, "explanation": "advice นับไม่ได้ → **is**" },
+    { "q": "เติมคำในช่องว่าง: Both Mint and her brother ___ good at math.", "options": ["is", "are", "was", "has"], "answer": 1, "explanation": "Both … and … = พหูพจน์ → **are**" },
+    { "q": "อ่านข้อความ: “There are 30 students in my class. Each of them has a laptop. One of my classmates, Ken, is from Japan, and everyone likes him.” ข้อใดถูกต้อง", "options": ["Only Ken has a laptop.", "Every student has a laptop.", "There is one student from Korea.", "Nobody likes Ken."], "answer": 1, "explanation": "Each of them **has a laptop** = นักเรียนทุกคนมีแล็ปท็อป" }
+  ]
+}

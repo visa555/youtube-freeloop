@@ -1,0 +1,373 @@
+{
+  "lesson": {
+    "summary": "ใช้บอกเหตุการณ์ที่ **เกิดขึ้นก่อน** อีกเหตุการณ์หนึ่งในอดีต — เป็น “อดีตของอดีต” มักใช้คู่กับ Past Simple",
+    "sections": [
+      {
+        "icon": "🎯",
+        "title": "ใช้เมื่อไหร่",
+        "list": [
+          "มีเหตุการณ์ 2 อย่างในอดีต อันที่เกิด **ก่อน** ใช้ Past Perfect — When we arrived, the movie **had** already **started**.",
+          "เหตุการณ์ที่เกิดก่อนเวลาหนึ่งในอดีต — By 2020, she **had moved** to Bangkok."
+        ]
+      },
+      {
+        "icon": "🧱",
+        "title": "โครงสร้าง",
+        "text": "**had** ใช้ได้กับทุกประธาน และ I'd / she'd / they'd = I **had** / she **had** / they **had** (เมื่อตามด้วย V3)",
+        "formulas": [
+          { "label": "บอกเล่า", "formula": "ประธาน + **had** + V3", "example": "I **had finished** my homework." },
+          { "label": "ปฏิเสธ", "formula": "ประธาน + **hadn't** + V3", "example": "She **hadn't eaten** breakfast." },
+          { "label": "คำถาม", "formula": "**Had** + ประธาน + V3 ?", "example": "**Had** you **met** him before? — Yes, I had. / No, I hadn't." }
+        ]
+      },
+      {
+        "icon": "⏱️",
+        "title": "ลำดับเหตุการณ์",
+        "table": {
+          "head": ["เกิดก่อน (Past Perfect)", "เกิดทีหลัง (Past Simple)"],
+          "rows": [
+            ["The train **had left**", "when I **got** to the station."],
+            ["She **had cleaned** the house", "before her parents **came** home."],
+            ["After he **had finished** dinner,", "he **watched** TV."]
+          ]
+        },
+        "list": [
+          "**before** + Past Simple → อีกส่วนใช้ Past Perfect: Before I **went** to bed, I **had brushed** my teeth.",
+          "**after** + Past Perfect → อีกส่วนใช้ Past Simple: After I **had brushed** my teeth, I **went** to bed.",
+          "**by the time** + Past Simple → อีกส่วนใช้ Past Perfect: By the time we **arrived**, the shop **had closed**."
+        ]
+      },
+      {
+        "icon": "⏰",
+        "title": "คำสังเกต",
+        "chips": ["before", "after", "by the time", "when", "already", "just", "never … before"]
+      },
+      {
+        "icon": "📝",
+        "title": "ตัวอย่าง",
+        "examples": [
+          { "en": "I **had never seen** snow **before** I **went** to Japan.", "th": "ฉันไม่เคยเห็นหิมะเลยก่อนไปญี่ปุ่น" },
+          { "en": "When Mom got home, we **had** already **cooked** dinner.", "th": "ตอนแม่กลับถึงบ้าน พวกเราทำอาหารเย็นเสร็จแล้ว" },
+          { "en": "**Had** you **finished** the test when the bell rang? — No, I **hadn't**.", "th": "ตอนกริ่งดัง เธอทำข้อสอบเสร็จหรือยัง — ยังไม่เสร็จ" }
+        ]
+      },
+      {
+        "icon": "⚠️",
+        "title": "ระวัง! จุดที่มักผิด",
+        "mistakes": [
+          { "wrong": "When I arrived, the bus **left**.", "right": "When I arrived, the bus **had left**.", "why": "รถออกไปก่อนฉันมาถึง ต้องใช้ had + V3 (ถ้าใช้ left จะหมายความว่ารถออกตอนที่ฉันมาถึงพอดี)" },
+          { "wrong": "She had **went** home.", "right": "She had **gone** home.", "why": "หลัง had ต้องใช้ V3" },
+          { "wrong": "They **has** eaten before we came.", "right": "They **had** eaten before we came.", "why": "เหตุการณ์ในอดีตใช้ had กับทุกประธาน" },
+          { "wrong": "**Did** you **had seen** it before?", "right": "**Had** you **seen** it before?", "why": "คำถามขึ้นต้นด้วย Had ไม่ใช้ did" }
+        ]
+      }
+    ],
+    "tip": "เรียงเหตุการณ์ก่อน–หลังให้ได้ก่อน: อันที่เกิด **ก่อน = had + V3** · อันที่เกิด **ทีหลัง = V2**"
+  },
+  "questions": [
+    {
+      "q": "เติมคำในช่องว่าง: When we got to the cinema, the film ___ already started.",
+      "options": ["has", "had", "have", "was"],
+      "answer": 1,
+      "explanation": "หนังเริ่มก่อนที่เราไปถึง (เกิดก่อน) → **had** started"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: She was hungry because she ___ eaten all day.",
+      "options": ["hasn't", "hadn't", "didn't", "wasn't"],
+      "answer": 1,
+      "explanation": "ไม่ได้กินมาทั้งวันก่อนจะรู้สึกหิว (อดีตของอดีต) → **hadn't** eaten"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: By the time the police arrived, the thief ___.",
+      "options": ["escaped", "had escaped", "has escaped", "escapes"],
+      "answer": 1,
+      "explanation": "by the time + Past Simple → อีกส่วนใช้ Past Perfect: **had escaped** (หนีไปก่อนตำรวจมา)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: I ___ never seen the sea before I went to Hua Hin.",
+      "options": ["have", "had", "has", "did"],
+      "answer": 1,
+      "explanation": "ไม่เคยเห็นทะเล **ก่อน** ไปหัวหิน (อดีต) → **had** never seen"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The house was clean because Mom ___ it.",
+      "options": ["cleans", "had cleaned", "has cleaned", "was clean"],
+      "answer": 1,
+      "explanation": "แม่ทำความสะอาดก่อน บ้านจึงสะอาด (ในอดีต) → **had cleaned**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: After they ___ lunch, they went back to work.",
+      "options": ["had had", "have had", "has had", "had have"],
+      "answer": 0,
+      "explanation": "after + Past Perfect: had + V3 ของ have คือ had → **had had** (ไม่ใช่การพิมพ์ซ้ำ)"
+    },
+    {
+      "q": "เลือก V3 ที่ถูกต้อง: He had ___ (forget) his password.",
+      "options": ["forgot", "forgotten", "forgetted", "forget"],
+      "answer": 1,
+      "explanation": "forget → forgot → **forgotten**"
+    },
+    {
+      "q": "เลือก V3 ที่ถูกต้อง: Ann had ___ (lose) her ticket, so she couldn't get on the train.",
+      "options": ["lose", "lost", "losed", "losing"],
+      "answer": 1,
+      "explanation": "lose → lost → **lost**"
+    },
+    {
+      "q": "เลือก V3 ที่ถูกต้อง: They had ___ (go) home before the storm started.",
+      "options": ["went", "gone", "go", "going"],
+      "answer": 1,
+      "explanation": "go → went → **gone** (went เป็นช่อง 2)"
+    },
+    {
+      "q": "เลือก V3 ที่ถูกต้อง: I didn't recognize him because he had ___ (grow) a beard.",
+      "options": ["grew", "grown", "growed", "grow"],
+      "answer": 1,
+      "explanation": "grow → grew → **grown**"
+    },
+    {
+      "q": "ประโยคใดเป็น Past Perfect",
+      "options": ["I had finished my work.", "I finished my work.", "I have finished my work.", "I was finishing my work."],
+      "answer": 0,
+      "explanation": "**had finished** = had + V3 จึงเป็น Past Perfect"
+    },
+    {
+      "q": "ข้อใดถูกต้อง",
+      "options": ["She had wrote the letter.", "She had written the letter.", "She has wrote the letter.", "She had write the letter."],
+      "answer": 1,
+      "explanation": "had + V3 ของ write คือ **written**"
+    },
+    {
+      "q": "ประโยคปฏิเสธของ “They had heard the news.” คือข้อใด",
+      "options": ["They hadn't heard the news.", "They didn't had heard the news.", "They hasn't heard the news.", "They hadn't hear the news."],
+      "answer": 0,
+      "explanation": "เติม not หลัง had → **hadn't** + V3"
+    },
+    {
+      "q": "“had not” เขียนแบบย่อได้ว่าอะไร",
+      "options": ["hadn't", "hasn't", "haven't", "hadnt'"],
+      "answer": 0,
+      "explanation": "had not → **hadn't**"
+    },
+    {
+      "q": "ในประโยค “I'd already eaten.” คำว่า I'd ย่อมาจากอะไร",
+      "options": ["I would", "I had", "I did", "I have"],
+      "answer": 1,
+      "explanation": "'d ตามด้วย V3 (eaten) จึงย่อมาจาก **I had**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Tom felt nervous because he ___ flown on a plane before.",
+      "options": ["didn't", "hasn't", "hadn't", "wasn't"],
+      "answer": 2,
+      "explanation": "ไม่เคยขึ้นเครื่องบินมาก่อน ณ ตอนนั้นในอดีต → **hadn't** flown"
+    },
+    {
+      "q": "เปลี่ยน “You had met her before.” เป็นประโยคคำถาม ข้อใดถูกต้อง",
+      "options": ["Did you had met her before?", "Had you met her before?", "Have you met her before?", "Had you meet her before?"],
+      "answer": 1,
+      "explanation": "ย้าย had ขึ้นต้นประโยค → **Had you met** her before?"
+    },
+    {
+      "q": "A: Had the class started when you arrived?  B: Yes, it ___.",
+      "options": ["did", "has", "had", "was"],
+      "answer": 2,
+      "explanation": "คำถามขึ้นต้นด้วย Had คำตอบสั้นใช้ **had** → Yes, it had."
+    },
+    {
+      "q": "A: Had they finished the test?  B: No, they ___.",
+      "options": ["didn't", "hadn't", "haven't", "weren't"],
+      "answer": 1,
+      "explanation": "ตอบปฏิเสธคำถามที่ขึ้นต้นด้วย Had → No, they **hadn't**."
+    },
+    {
+      "q": "เรียงคำให้เป็นคำถามที่ถูกต้อง: (before / had / visited / she / Japan)",
+      "options": ["Had she visited Japan before?", "She had visited Japan before?", "Had visited she Japan before?", "Had she visit Japan before?"],
+      "answer": 0,
+      "explanation": "Had + ประธาน + V3 → **Had she visited** Japan before?"
+    },
+    {
+      "q": "“When I got home, my brother had eaten all the cookies.” เหตุการณ์ใดเกิดก่อน",
+      "options": ["ฉันกลับถึงบ้าน", "น้องชายกินคุกกี้หมด", "เกิดพร้อมกัน", "บอกไม่ได้"],
+      "answer": 1,
+      "explanation": "had eaten (Past Perfect) = เกิด **ก่อน** — น้องกินคุกกี้หมดก่อนที่ฉันจะกลับถึงบ้าน"
+    },
+    {
+      "q": "“The bus had left before I reached the bus stop.” ข้อใดถูกต้อง",
+      "options": ["ฉันขึ้นรถบัสทัน", "รถบัสออกไปก่อนฉันถึงป้าย", "ฉันถึงป้ายก่อนรถบัสออก", "รถบัสยังไม่มา"],
+      "answer": 1,
+      "explanation": "had left = รถออกไป **ก่อน** ที่ฉันจะถึงป้าย จึงขึ้นไม่ทัน"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: When I opened the fridge, I saw that someone ___ my cake.",
+      "options": ["eat", "had eaten", "has eaten", "eats"],
+      "answer": 1,
+      "explanation": "มีคนกินเค้กไปก่อนที่ฉันจะเปิดตู้เย็น → **had eaten**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Before she ___ to bed, she had locked all the doors.",
+      "options": ["goes", "went", "had gone", "has gone"],
+      "answer": 1,
+      "explanation": "before + Past Simple (เหตุการณ์ที่เกิดทีหลัง) → **went**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: After the guests had left, we ___ the dishes.",
+      "options": ["washed", "had washed", "have washed", "wash"],
+      "answer": 0,
+      "explanation": "after + Past Perfect แล้วอีกส่วน (เกิดทีหลัง) ใช้ Past Simple → **washed**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: By the time I woke up, my parents ___ to work.",
+      "options": ["went", "had gone", "have gone", "go"],
+      "answer": 1,
+      "explanation": "พ่อแม่ไปทำงานก่อนที่ฉันจะตื่น → **had gone**"
+    },
+    {
+      "q": "ประโยคใดเรียงลำดับเวลาได้ถูกต้อง",
+      "options": ["I had brushed my teeth after I went to bed.", "I went to bed after I had brushed my teeth.", "I had went to bed before I brushed my teeth.", "I go to bed after I had brushed my teeth."],
+      "answer": 1,
+      "explanation": "แปรงฟันก่อน (**had brushed**) แล้วจึงเข้านอน (**went**)"
+    },
+    {
+      "q": "เติม before หรือ after: ___ he had saved enough money, he bought a new bike.",
+      "options": ["Before", "After"],
+      "answer": 1,
+      "keepOrder": true,
+      "explanation": "เก็บเงินพอก่อน แล้วจึงซื้อจักรยาน → **After** he had saved…"
+    },
+    {
+      "q": "เติม before หรือ after: She had studied French ___ she moved to Paris.",
+      "options": ["before", "after"],
+      "answer": 0,
+      "keepOrder": true,
+      "explanation": "เรียนภาษาฝรั่งเศส (had studied) ก่อนย้ายไปปารีส → **before**"
+    },
+    {
+      "q": "เติม before หรือ after: ___ we had finished the project, we celebrated.",
+      "options": ["Before", "After"],
+      "answer": 1,
+      "keepOrder": true,
+      "explanation": "ทำโครงงานเสร็จก่อน แล้วจึงฉลอง → **After**"
+    },
+    {
+      "q": "เติม before หรือ after: The game had ended ___ we turned on the TV.",
+      "options": ["before", "after"],
+      "answer": 0,
+      "keepOrder": true,
+      "explanation": "เกมจบ (had ended) ก่อนที่เราจะเปิดทีวี → **before**"
+    },
+    {
+      "q": "รวมประโยค “I finished my homework.” (เกิดก่อน) กับ “I played games.” ข้อใดถูกต้อง",
+      "options": ["After I had finished my homework, I played games.", "After I played games, I had finished my homework.", "Before I had finished my homework, I played games.", "After I finish my homework, I had played games."],
+      "answer": 0,
+      "explanation": "after + **had finished** (เกิดก่อน) แล้ว **played** (เกิดทีหลัง)"
+    },
+    {
+      "q": "รวมประโยค “The concert started.” (เกิดก่อน) กับ “We arrived.” ข้อใดถูกต้อง",
+      "options": ["When we arrived, the concert had started.", "When we had arrived, the concert started.", "When we arrive, the concert had started.", "The concert had started after we arrived."],
+      "answer": 0,
+      "explanation": "คอนเสิร์ตเริ่มก่อน → **had started** ส่วนเราไปถึงทีหลัง → **arrived**"
+    },
+    {
+      "q": "ประโยคใดผิดหลักไวยากรณ์",
+      "options": ["She had already left when I called.", "They had never seen snow before that trip.", "We had went to the store before it closed.", "He hadn't finished when the bell rang."],
+      "answer": 2,
+      "explanation": "หลัง had ต้องใช้ V3 → We had **gone** to the store"
+    },
+    {
+      "q": "สถานการณ์: คุณไปถึงร้าน แต่ร้านปิดไปก่อนแล้ว ข้อใดถูกต้อง",
+      "options": ["When I got to the shop, it closed.", "When I got to the shop, it had closed.", "When I had got to the shop, it closed.", "When I get to the shop, it had closed."],
+      "answer": 1,
+      "explanation": "ร้านปิดก่อนเราไปถึง → it **had closed**"
+    },
+    {
+      "q": "สถานการณ์: Nina ไม่หิวตอนกินข้าวเย็น เพราะกินขนมมาก่อนแล้ว ข้อใดถูกต้อง",
+      "options": ["Nina wasn't hungry at dinner because she had eaten snacks.", "Nina hadn't been hungry at dinner because she ate snacks.", "Nina isn't hungry at dinner because she had eaten snacks.", "Nina wasn't hungry at dinner because she has eaten snacks."],
+      "answer": 0,
+      "explanation": "กินขนมก่อน (**had eaten**) ตอนกินข้าวเย็นจึงไม่หิว (**wasn't**)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: I ___ my wallet at home, so I couldn't pay for lunch.",
+      "options": ["had left", "have left", "leave", "was leaving"],
+      "answer": 0,
+      "explanation": "ลืมกระเป๋าไว้ที่บ้านก่อนจะจ่ายเงินไม่ได้ (อดีตของอดีต) → **had left**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The ground was wet. It ___ during the night.",
+      "options": ["has rained", "had rained", "rains", "is raining"],
+      "answer": 1,
+      "explanation": "ฝนตกตอนกลางคืนก่อนที่พื้นจะเปียก (was wet) → **had rained**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Jane ___ the movie before, so she knew the ending.",
+      "options": ["has seen", "had seen", "sees", "was seeing"],
+      "answer": 1,
+      "explanation": "ดูมาก่อนแล้ว จึงรู้ตอนจบ (knew – อดีต) → **had seen**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: When I met Ken, he ___ in Japan for five years.",
+      "options": ["lived", "had lived", "has lived", "lives"],
+      "answer": 1,
+      "explanation": "ก่อนเจอกัน Ken อยู่ญี่ปุ่นมาแล้ว 5 ปี → **had lived**"
+    },
+    {
+      "q": "แปล: “ก่อนที่ฉันจะมาถึง พวกเขาก็ทานข้าวเสร็จแล้ว”",
+      "options": ["Before I arrived, they had finished dinner.", "Before I had arrived, they finished dinner.", "Before I arrive, they have finished dinner.", "After I arrived, they had finished dinner."],
+      "answer": 0,
+      "explanation": "before + Past Simple (**arrived**) และเหตุการณ์ที่เกิดก่อนใช้ **had finished**"
+    },
+    {
+      "q": "ข้อใดใช้ Past Perfect ได้เหมาะสม",
+      "options": ["I had eaten breakfast every morning.", "She had already gone home when I called her.", "We had will go tomorrow.", "They had playing football."],
+      "answer": 1,
+      "explanation": "เธอกลับบ้านไปก่อนที่ฉันจะโทรหา → **had already gone** ใช้ได้เหมาะสม"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The teacher was angry because we ___ our homework.",
+      "options": ["don't do", "hadn't done", "haven't done", "not done"],
+      "answer": 1,
+      "explanation": "ไม่ได้ทำการบ้านมาก่อนครูจะโกรธ → **hadn't done**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: He ___ just left when I arrived.",
+      "options": ["has", "had", "have", "was"],
+      "answer": 1,
+      "explanation": "เขาเพิ่งออกไปก่อนฉันมาถึง → **had** just left"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: How long ___ you known her before you became friends?",
+      "options": ["have", "had", "did", "were"],
+      "answer": 1,
+      "explanation": "ระยะเวลาก่อนเหตุการณ์ในอดีต (became friends) → How long **had** you known…"
+    },
+    {
+      "q": "เรียงคำให้เป็นประโยคที่ถูกต้อง: (already / the train / had / left)",
+      "options": ["The train had already left.", "The train left had already.", "Already the train left had.", "The train had already leave."],
+      "answer": 0,
+      "explanation": "ประธาน + had + already + V3 → **The train had already left.**"
+    },
+    {
+      "q": "อ่านข้อความ: “When Lek arrived at the station, the train had already left. She had missed it by five minutes because she had forgotten her phone at home and gone back to get it.” ทำไม Lek ตกรถไฟ",
+      "options": ["The train was late.", "She had gone back home to get her phone.", "She didn't want to go.", "She arrived very early."],
+      "answer": 1,
+      "explanation": "Lek ลืมโทรศัพท์ไว้ที่บ้านและ **กลับไปเอา** (had gone back to get it) จึงมาไม่ทัน"
+    },
+    {
+      "q": "“I had never tried mango sticky rice until I came to Thailand.” ข้อใดถูกต้อง",
+      "options": ["ผู้พูดกินข้าวเหนียวมะม่วงบ่อยก่อนมาไทย", "ผู้พูดได้ลองข้าวเหนียวมะม่วงครั้งแรกเมื่อมาไทย", "ผู้พูดไม่เคยกินข้าวเหนียวมะม่วงเลย", "ผู้พูดจะมาไทยเพื่อกินข้าวเหนียวมะม่วง"],
+      "answer": 1,
+      "explanation": "had never tried … until I came = ไม่เคยลองเลย **จนกระทั่ง** มาไทย จึงได้ลองครั้งแรกที่ไทย"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: By the end of the day yesterday, we ___ all the boxes.",
+      "options": ["had packed", "have packed", "pack", "were packed"],
+      "answer": 0,
+      "explanation": "by the end of the day yesterday = ทำเสร็จก่อนจุดเวลาหนึ่งในอดีต → **had packed**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Everyone ___ asleep by the time Dad came home.",
+      "options": ["has fallen", "had fallen", "falls", "had fell"],
+      "answer": 1,
+      "explanation": "ทุกคนหลับไปก่อนพ่อกลับบ้าน และ V3 ของ fall คือ fallen → **had fallen**"
+    }
+  ]
+}

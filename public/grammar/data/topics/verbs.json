@@ -1,0 +1,360 @@
+{
+  "lesson": {
+    "summary": "คำกริยา (Verb) บอก **การกระทำหรือสภาวะ** ของประธาน ทุกประโยคต้องมี **กริยาแท้อย่างน้อย 1 ตัว** และต้องรู้ว่ากริยานั้น **ต้องมีกรรม** หรือไม่",
+    "sections": [
+      {
+        "icon": "🧩",
+        "title": "ชนิดของคำกริยา",
+        "table": {
+          "head": ["ชนิด", "หน้าที่", "ตัวอย่าง"],
+          "rows": [
+            ["Action verb", "บอกการกระทำ", "She **writes** a letter."],
+            ["Verb to be", "เป็น / อยู่ / คือ", "He **is** a doctor."],
+            ["Linking verb", "เชื่อมประธานกับคำคุณศัพท์", "The cake **smells** good."],
+            ["Helping verb (กริยาช่วย)", "ช่วยกริยาหลัก", "I **can** swim. / She **has** finished."]
+          ]
+        }
+      },
+      {
+        "icon": "🎯",
+        "title": "ต้องมีกรรม หรือ ไม่ต้องมีกรรม",
+        "table": {
+          "head": ["Transitive (ต้องมีกรรม)", "Intransitive (ไม่ต้องมีกรรม)"],
+          "rows": [
+            ["She **solved** the puzzle. (ขาด the puzzle ไม่ได้)", "The baby **cried**. (จบได้เลย)"],
+            ["buy, make, fix, borrow, discuss", "arrive, laugh, sleep, cry, happen"]
+          ]
+        },
+        "list": [
+          "กริยาที่ไม่ต้องมีกรรม ถ้าจะมีคำนามตามต้องใช้บุพบท: laugh **at** the joke · arrive **at** school · happen **to** someone",
+          "กริยาบางคำตามด้วยกรรมได้เลย ห้ามเติมบุพบท: discuss the plan (ไม่ใช่ discuss about)"
+        ]
+      },
+      {
+        "icon": "🔗",
+        "title": "Linking verbs",
+        "text": "ตามด้วย **คำคุณศัพท์** (ไม่ใช่ -ly): The music **sounds great**. / You **look tired**.",
+        "chips": ["be", "look (ดู)", "feel (รู้สึก/สัมผัส)", "taste (มีรส)", "smell (มีกลิ่น)", "sound (ฟังดู)", "seem (ดูเหมือน)", "become / get (กลายเป็น)"]
+      },
+      {
+        "icon": "🎛️",
+        "title": "กริยาช่วย Modal",
+        "formulas": [
+          { "label": "โครงสร้าง", "formula": "ประธาน + can / could / will / should / must / may + **V1**", "example": "She **can swim**. (ไม่ใช่ can swims / can to swim)" }
+        ]
+      },
+      {
+        "icon": "🧲",
+        "title": "Phrasal verbs ที่ใช้บ่อย",
+        "table": {
+          "head": ["Phrasal verb", "ความหมาย"],
+          "rows": [
+            ["give up", "ยอมแพ้"],
+            ["turn on / turn off", "เปิด / ปิด (ไฟ เครื่องใช้ไฟฟ้า)"],
+            ["look after", "ดูแล"],
+            ["look up", "ค้นหา (คำศัพท์ ข้อมูล)"],
+            ["find out", "ค้นพบ / หาคำตอบ"],
+            ["put on / take off", "สวมใส่ / ถอดออก (take off ยังแปลว่าเครื่องบินขึ้นได้ด้วย)"],
+            ["put off", "เลื่อนออกไป"],
+            ["hand in", "ส่ง (การบ้าน เอกสาร)"],
+            ["wake up / get up", "ตื่นนอน / ลุกจากเตียง"]
+          ]
+        }
+      },
+      {
+        "icon": "🏗️",
+        "title": "โครงสร้างประโยคพื้นฐาน",
+        "formulas": [
+          { "label": "S + V", "formula": "ประธาน + กริยา", "example": "Birds **fly**." },
+          { "label": "S + V + O", "formula": "ประธาน + กริยา + กรรม", "example": "I **like** music." },
+          { "label": "S + be / linking + N / Adj", "formula": "ประธาน + be / linking verb + นาม / คุณศัพท์", "example": "She **is** a nurse. / He **looks** happy." },
+          { "label": "S + V + O + O", "formula": "ประธาน + กริยา + กรรม 2 ตัว", "example": "Mom **gave** me a gift." }
+        ]
+      },
+      {
+        "icon": "⚠️",
+        "title": "ระวัง! จุดที่มักผิด",
+        "mistakes": [
+          { "wrong": "She can **sings**.", "right": "She can **sing**.", "why": "หลัง modal ใช้ V1" },
+          { "wrong": "He **laughed the joke**.", "right": "He **laughed at** the joke.", "why": "laugh ไม่ต้องมีกรรม ต้องใช้ at ก่อนคำนาม" },
+          { "wrong": "They **discussed about** the plan.", "right": "They **discussed** the plan.", "why": "discuss ตามด้วยกรรมได้เลย" },
+          { "wrong": "My friend **very kind**.", "right": "My friend **is** very kind.", "why": "ประโยคต้องมีกริยาแท้ — คำคุณศัพท์ต้องมี be" },
+          { "wrong": "You should **to rest**.", "right": "You should **rest**.", "why": "ไม่มี to หลัง should" }
+        ]
+      }
+    ],
+    "tip": "ทุกประโยคต้องมี **ประธาน + กริยาแท้** — ถ้ามีแค่คำคุณศัพท์อย่าลืม **verb to be** และหลัง can / should / must ให้ใช้ **V1** เสมอ"
+  },
+  "questions": [
+    {
+      "q": "ประโยคใดสมบูรณ์",
+      "options": ["She solved.", "She solved the puzzle.", "She the puzzle.", "Solved the puzzle she."],
+      "answer": 1,
+      "explanation": "solve (แก้) ต้องมีกรรมบอกว่าแก้อะไร → She solved **the puzzle**."
+    },
+    {
+      "q": "ประโยคใดถูกต้อง",
+      "options": ["The bus has arrived.", "The bus has arrived the school.", "The bus arrived the school.", "The bus arrive."],
+      "answer": 0,
+      "explanation": "arrive ไม่ต้องมีกรรม ถ้าจะบอกสถานที่ต้องใช้ arrived **at** the school"
+    },
+    {
+      "q": "ประโยคใดผิดหลักไวยากรณ์",
+      "options": ["The children are laughing.", "The children are laughing at the clown.", "The children are laughing the clown.", "The children laughed loudly."],
+      "answer": 2,
+      "explanation": "laugh ไม่ต้องมีกรรม ต้องใช้ laughing **at** the clown"
+    },
+    {
+      "q": "ประโยคใดถูกต้อง",
+      "options": ["We will discuss about the problem.", "We will discuss the problem.", "We will discuss on the problem.", "We will discussing the problem."],
+      "answer": 1,
+      "explanation": "discuss ตามด้วยกรรมได้เลย ไม่ต้องมี about → discuss **the problem**"
+    },
+    {
+      "q": "คำกริยาใดไม่ต้องมีกรรม",
+      "options": ["buy", "sleep", "fix", "make"],
+      "answer": 1,
+      "explanation": "**sleep** จบประโยคได้เลย เช่น The baby is sleeping. ส่วนข้ออื่นต้องบอกว่าซื้อ/ซ่อม/ทำอะไร"
+    },
+    {
+      "q": "คำกริยาใดต้องมีกรรม",
+      "options": ["happen", "arrive", "borrow", "cry"],
+      "answer": 2,
+      "explanation": "**borrow** (ยืม) ต้องบอกว่ายืมอะไร เช่น borrow a pen"
+    },
+    {
+      "q": "ประโยคใดไม่สมบูรณ์",
+      "options": ["Mom is cooking.", "He borrowed.", "Birds fly.", "The baby is sleeping."],
+      "answer": 1,
+      "explanation": "borrow ต้องมีกรรม → He borrowed **an umbrella**."
+    },
+    {
+      "q": "ประโยคใดถูกต้อง",
+      "options": ["Something happened the car.", "Something happened to the car.", "It happened me yesterday.", "The accident happened the street."],
+      "answer": 1,
+      "explanation": "happen ไม่ต้องมีกรรม ต้องใช้ happened **to** the car"
+    },
+    {
+      "q": "เติม linking verb: This cake ___ delicious. (มีกลิ่น)",
+      "options": ["smells", "sounds", "hears", "listens"],
+      "answer": 0,
+      "explanation": "มีกลิ่น = **smells** + คำคุณศัพท์"
+    },
+    {
+      "q": "เติม linking verb: Your plan ___ interesting. (ฟังดู)",
+      "options": ["sounds", "tastes", "smells", "feels"],
+      "answer": 0,
+      "explanation": "ฟังดู = **sounds**"
+    },
+    {
+      "q": "เติม linking verb: The blanket ___ soft. (สัมผัสแล้ว)",
+      "options": ["feels", "sounds", "tastes", "smells"],
+      "answer": 0,
+      "explanation": "สัมผัสแล้วรู้สึก = **feels**"
+    },
+    {
+      "q": "เติม linking verb: You ___ tired. You should rest. (ดูเหมือน)",
+      "options": ["look", "taste", "smell", "sound"],
+      "answer": 0,
+      "explanation": "ดูเหมือน = **look**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The weather ___ colder in December.",
+      "options": ["gets", "get", "getting", "to get"],
+      "answer": 0,
+      "explanation": "get = กลายเป็น และ the weather เป็นเอกพจน์ → **gets** colder"
+    },
+    {
+      "q": "ข้อใดถูกต้อง",
+      "options": ["The soup tastes well.", "The soup tastes good.", "The soup taste good.", "The soup tastes goodly."],
+      "answer": 1,
+      "explanation": "หลัง linking verb ใช้คำคุณศัพท์ → tastes **good** และ the soup เป็นเอกพจน์จึงเติม s"
+    },
+    {
+      "q": "ข้อใดถูกต้อง",
+      "options": ["She can sings very well.", "She can sing very well.", "She cans sing very well.", "She can to sing very well."],
+      "answer": 1,
+      "explanation": "หลัง can ใช้ V1 และ can ไม่เติม s → She can **sing**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: You should ___ more water.",
+      "options": ["drink", "drinks", "to drink", "drinking"],
+      "answer": 0,
+      "explanation": "หลัง should ใช้ V1 → should **drink**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Students must ___ uniforms at school.",
+      "options": ["wear", "wears", "wearing", "to wear"],
+      "answer": 0,
+      "explanation": "หลัง must ใช้ V1 → must **wear**"
+    },
+    {
+      "q": "แก้ประโยค “He will goes to the market.” ให้ถูกต้อง",
+      "options": ["He will go to the market.", "He wills go to the market.", "He will going to the market.", "He will to go to the market."],
+      "answer": 0,
+      "explanation": "หลัง will ใช้ V1 → He will **go**"
+    },
+    {
+      "q": "ข้อใดผิดหลักไวยากรณ์",
+      "options": ["I can play the guitar.", "You must finish your work.", "She may comes late.", "We should help each other."],
+      "answer": 2,
+      "explanation": "หลัง may ใช้ V1 → She may **come** late."
+    },
+    {
+      "q": "เติม phrasal verb: I can't see anything. Please ___ the lamp.",
+      "options": ["turn on", "turn off", "give up", "hand in"],
+      "answer": 0,
+      "explanation": "มองไม่เห็น ต้องเปิดไฟ → **turn on**"
+    },
+    {
+      "q": "เติม phrasal verb: The race is long, but never ___!",
+      "options": ["give up", "look up", "take off", "turn on"],
+      "answer": 0,
+      "explanation": "**give up** = ยอมแพ้ → never give up = อย่ายอมแพ้"
+    },
+    {
+      "q": "เติม phrasal verb: Who will ___ your dog when you go on holiday?",
+      "options": ["look after", "look up", "find out", "put off"],
+      "answer": 0,
+      "explanation": "**look after** = ดูแล"
+    },
+    {
+      "q": "เติม phrasal verb: I don't know this word. I'll ___ in the dictionary.",
+      "options": ["look it up", "look after it", "give it up", "turn it off"],
+      "answer": 0,
+      "explanation": "**look up** = ค้นหาคำศัพท์ → look it up in the dictionary"
+    },
+    {
+      "q": "เติม phrasal verb: It's cold outside. ___ your coat.",
+      "options": ["Put on", "Take off", "Turn off", "Hand in"],
+      "answer": 0,
+      "explanation": "อากาศหนาว ควรสวมเสื้อโค้ท → **Put on** (สวมใส่)"
+    },
+    {
+      "q": "เติม phrasal verb: Please ___ your shoes before you enter the temple.",
+      "options": ["take off", "put on", "turn on", "look after"],
+      "answer": 0,
+      "explanation": "ถอดรองเท้าก่อนเข้าวัด → **take off**"
+    },
+    {
+      "q": "เติม phrasal verb: The football match was ___ because of the heavy rain.",
+      "options": ["put off", "given up", "looked up", "turned on"],
+      "answer": 0,
+      "explanation": "**put off** = เลื่อนออกไป (ฝนตกหนักจึงเลื่อนการแข่งขัน)"
+    },
+    {
+      "q": "เติม phrasal verb: Please ___ your reports by Friday.",
+      "options": ["hand in", "take off", "give up", "look after"],
+      "answer": 0,
+      "explanation": "**hand in** = ส่ง (งาน/รายงาน)"
+    },
+    {
+      "q": "“find out” แปลว่าอะไร",
+      "options": ["ค้นพบ / หาคำตอบ", "ยอมแพ้", "ดูแล", "เลื่อนออกไป"],
+      "answer": 0,
+      "explanation": "find out = **ค้นพบ / หาคำตอบ** เช่น find out why the computer is slow"
+    },
+    {
+      "q": "คำกริยาแท้ในประโยค “My little sister often draws pictures of cats.” คือคำใด",
+      "options": ["little", "often", "draws", "pictures"],
+      "answer": 2,
+      "explanation": "**draws** (วาด) เป็นการกระทำของประธาน my little sister"
+    },
+    {
+      "q": "คำกริยาแท้ในประโยค “The students in my class are very friendly.” คือคำใด",
+      "options": ["students", "class", "are", "friendly"],
+      "answer": 2,
+      "explanation": "**are** เป็น verb to be ที่เชื่อมประธานกับคำคุณศัพท์ friendly"
+    },
+    {
+      "q": "คำกริยาแท้ในประโยค “Swimming in the sea makes me happy.” คือคำใด",
+      "options": ["Swimming", "makes", "happy", "sea"],
+      "answer": 1,
+      "explanation": "Swimming เป็นคำนาม (Gerund) ทำหน้าที่ประธาน กริยาแท้คือ **makes**"
+    },
+    {
+      "q": "คำกริยาหลักในประโยค “Tom can speak three languages.” คือคำใด",
+      "options": ["can", "speak", "three", "languages"],
+      "answer": 1,
+      "explanation": "can เป็นกริยาช่วย กริยาหลักคือ **speak**"
+    },
+    {
+      "q": "ข้อใดเป็นประโยคที่สมบูรณ์",
+      "options": ["My teacher very kind.", "My teacher is very kind.", "My teacher kind very.", "Very kind my teacher."],
+      "answer": 1,
+      "explanation": "ต้องมีกริยาแท้ → My teacher **is** very kind."
+    },
+    {
+      "q": "เรียงคำให้เป็นประโยคที่ถูกต้อง: (a nurse / is / my aunt)",
+      "options": ["My aunt is a nurse.", "My aunt a nurse is.", "Is my aunt a nurse.", "A nurse my aunt is."],
+      "answer": 0,
+      "explanation": "ประธาน + be + คำนาม → **My aunt is a nurse.**"
+    },
+    {
+      "q": "เรียงคำให้เป็นประโยคที่ถูกต้อง: (me / gave / a gift / Dad)",
+      "options": ["Dad gave me a gift.", "Dad gave a gift me.", "Me gave Dad a gift.", "Dad me gave a gift."],
+      "answer": 0,
+      "explanation": "ประธาน + กริยา + กรรม (คน) + กรรม (สิ่งของ) → **Dad gave me a gift.**"
+    },
+    {
+      "q": "ประโยคใดเป็นโครงสร้าง S + V (ไม่มีกรรม)",
+      "options": ["The sun rises.", "I love you.", "She bought a book.", "They play football."],
+      "answer": 0,
+      "explanation": "**The sun rises.** มีแค่ประธาน + กริยา ส่วนข้ออื่นมีกรรม (you, a book, football)"
+    },
+    {
+      "q": "คำที่ไฮไลต์ในข้อใดเป็นกริยาช่วย",
+      "options": ["I **have** a dog.", "I **have** finished my work.", "They **have** two cars.", "We **have** lunch at noon."],
+      "answer": 1,
+      "explanation": "have + V3 (finished) เป็น **กริยาช่วย** ของ Present Perfect ส่วนข้ออื่น have เป็นกริยาหลัก (มี / กิน)"
+    },
+    {
+      "q": "คำที่ไฮไลต์ในข้อใดเป็นกริยาหลัก",
+      "options": ["She **does** her homework every day.", "**Does** she like milk?", "She **doesn't** eat meat.", "I **do** not know."],
+      "answer": 0,
+      "explanation": "does her homework = **ทำ** การบ้าน จึงเป็นกริยาหลัก ส่วนข้ออื่นเป็นกริยาช่วยสร้างคำถาม/ปฏิเสธ"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The baby ___ every night.",
+      "options": ["cry", "cries", "crying", "to cry"],
+      "answer": 1,
+      "explanation": "ประธานเอกพจน์ + every night → **cries**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: He ___ a doctor.",
+      "options": ["is", "are", "am", "be"],
+      "answer": 0,
+      "explanation": "ประธาน he ใช้ verb to be **is**"
+    },
+    {
+      "q": "ประโยคใดผิดหลักไวยากรณ์",
+      "options": ["The door opened slowly.", "The door opened the key.", "I opened the door with a key.", "Please open the door."],
+      "answer": 1,
+      "explanation": "ประตูเปิดกุญแจไม่ได้ ที่ถูกคือ I opened the door **with** a key."
+    },
+    {
+      "q": "เติมคำในช่องว่าง: She became ___ after she won the contest.",
+      "options": ["famous", "fame", "famously", "fames"],
+      "answer": 0,
+      "explanation": "become เป็น linking verb ตามด้วยคำคุณศัพท์ → became **famous**"
+    },
+    {
+      "q": "ข้อใดใช้กริยาได้ถูกต้อง",
+      "options": ["We listened the music.", "We listened to the music.", "We heard to the music.", "We listened music."],
+      "answer": 1,
+      "explanation": "listen ต้องใช้ **to** ก่อนสิ่งที่ฟัง → listened to the music"
+    },
+    {
+      "q": "แปล: “ฉันยอมแพ้ไม่ได้”",
+      "options": ["I can't give up.", "I can't give in up.", "I can't to give up.", "I can't gave up."],
+      "answer": 0,
+      "explanation": "can't + V1 → I can't **give up**."
+    },
+    {
+      "q": "อ่านข้อความ: “Every morning, Nok wakes up at six. She takes a shower, puts on her uniform and walks to school.” Nok ทำอะไรหลังอาบน้ำ",
+      "options": ["She wakes up.", "She puts on her uniform.", "She eats lunch.", "She takes a bus."],
+      "answer": 1,
+      "explanation": "takes a shower แล้ว **puts on her uniform** (สวมชุดนักเรียน)"
+    }
+  ]
+}

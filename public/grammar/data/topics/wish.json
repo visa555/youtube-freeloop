@@ -1,0 +1,97 @@
+{
+  "lesson": {
+    "summary": "wish ใช้บอก **ความปรารถนาที่ไม่ตรงกับความจริง** — อยากให้ตอนนี้ต่างไป, เสียดายเรื่องในอดีต หรืออยากให้บางอย่างเปลี่ยน กริยาหลัง wish จะ **ถอยไปเป็นอดีต 1 ขั้น** เสมอ",
+    "sections": [
+      {
+        "icon": "🧱",
+        "title": "โครงสร้าง wish",
+        "table": {
+          "head": ["ความหมาย", "โครงสร้าง", "ตัวอย่าง (ความจริง)"],
+          "rows": [
+            ["อยากให้ **ตอนนี้** ต่างไป", "wish + **V2** (be → **were**)", "I wish I **had** a dog. (ไม่มีหมา)"],
+            ["อยากมี **ความสามารถ**", "wish + **could** + V1", "I wish I **could** swim. (ว่ายไม่เป็น)"],
+            ["**เสียดาย** เรื่องในอดีต", "wish + **had + V3**", "I wish I **had studied** harder. (ไม่ได้ตั้งใจเรียน)"],
+            ["อยากให้ **คนอื่น / สิ่งอื่น** เปลี่ยน (มักรำคาญ)", "wish + ประธาน + **would** + V1", "I wish it **would stop** raining."]
+          ]
+        }
+      },
+      {
+        "icon": "🔁",
+        "title": "จากความจริงเป็นประโยค wish",
+        "text": "ความจริงกับประโยค wish **ตรงข้ามกันเสมอ** (บอกเล่า ↔ ปฏิเสธ) และกริยาถอย 1 ขั้น",
+        "examples": [
+          { "en": "I **don't** have a car. → I wish I **had** a car.", "th": "ตอนนี้ไม่มี → อยากมี" },
+          { "en": "She **isn't** tall. → She wishes she **were** taller.", "th": "verb to be ใช้ were กับทุกประธาน" },
+          { "en": "I **didn't** go to the party. → I wish I **had gone** to the party.", "th": "อดีต → had + V3" }
+        ]
+      },
+      {
+        "icon": "💡",
+        "title": "If only และ hope",
+        "list": [
+          "**If only** = I wish แต่เน้นความรู้สึกมากกว่า: **If only** I **had** more time!",
+          "เรื่องที่ **เป็นไปได้จริง** ใช้ **hope** ไม่ใช้ wish: I **hope** you pass the exam. (ไม่ใช่ I wish you pass)"
+        ]
+      },
+      {
+        "icon": "⚠️",
+        "title": "ระวัง! จุดที่มักผิด",
+        "mistakes": [
+          { "wrong": "I wish I **have** a bike.", "right": "I wish I **had** a bike.", "why": "เรื่องปัจจุบันหลัง wish ใช้ V2" },
+          { "wrong": "I wish I **studied** harder last year.", "right": "I wish I **had studied** harder last year.", "why": "เรื่องในอดีตใช้ had + V3" },
+          { "wrong": "I wish I **can** fly.", "right": "I wish I **could** fly.", "why": "can ถอยเป็น could" },
+          { "wrong": "I wish I **would be** rich.", "right": "I wish I **were** rich.", "why": "ไม่ใช้ I wish I would กับตัวเอง" },
+          { "wrong": "I **wish** you pass the test tomorrow.", "right": "I **hope** you pass the test tomorrow.", "why": "เรื่องที่เป็นไปได้จริงใช้ hope" }
+        ]
+      }
+    ],
+    "tip": "wish = **ตรงข้ามกับความจริง + ถอย tense 1 ขั้น** (ตอนนี้ → V2 / were · อดีต → had + V3) — ถ้าเป็นเรื่องที่เป็นไปได้จริงให้ใช้ **hope**"
+  },
+  "questions": [
+    { "q": "I don't have a car. I wish I ___ a car.", "options": ["have", "had", "will have", "having"], "answer": 1, "explanation": "เรื่องปัจจุบันที่ไม่จริง → wish + **V2** (had)" },
+    { "q": "I'm not tall. I wish I ___ taller.", "options": ["am", "were", "will be", "be"], "answer": 1, "explanation": "verb to be หลัง wish ใช้ **were**" },
+    { "q": "I can't swim. I wish I ___ swim.", "options": ["can", "could", "will", "am"], "answer": 1, "explanation": "ความสามารถ → wish + **could** + V1" },
+    { "q": "I didn't study for the test. I wish I ___ for the test.", "options": ["studied", "had studied", "study", "have studied"], "answer": 1, "explanation": "เสียดายเรื่องในอดีต → **had + V3**" },
+    { "q": "I ate too much. I wish I ___ so much.", "options": ["didn't eat", "hadn't eaten", "don't eat", "won't eat"], "answer": 1, "explanation": "กินไปแล้ว (อดีต) → wish + **hadn't eaten**" },
+    { "q": "It's raining again. I wish it ___ raining.", "options": ["stops", "would stop", "will stop", "has stopped"], "answer": 1, "explanation": "อยากให้สิ่งอื่นเปลี่ยน → wish + **would** + V1" },
+    { "q": "My brother keeps playing loud music. I wish he ___ quieter.", "options": ["is", "would be", "will be", "has been"], "answer": 1, "explanation": "รำคาญและอยากให้คนอื่นเปลี่ยน → **would be**" },
+    { "q": "She lives far from school. She wishes she ___ closer.", "options": ["lives", "lived", "will live", "has lived"], "answer": 1, "explanation": "ปัจจุบันที่ไม่จริง → **lived**" },
+    { "q": "We missed the bus. We wish we ___ earlier.", "options": ["left", "had left", "leave", "would leave"], "answer": 1, "explanation": "เสียดายอดีต → **had left**" },
+    { "q": "I don't know her phone number. I wish I ___ it.", "options": ["know", "knew", "will know", "known"], "answer": 1, "explanation": "ตอนนี้ไม่รู้ → wish + **knew**" },
+    { "q": "Tom isn't here. I wish Tom ___ here now.", "options": ["is", "were", "will be", "has been"], "answer": 1, "explanation": "verb to be → **were**" },
+    { "q": "I lost my phone yesterday. I wish I ___ it.", "options": ["didn't lose", "hadn't lost", "don't lose", "won't lose"], "answer": 1, "explanation": "เสียดายอดีต → **hadn't lost**" },
+    { "q": "ความจริง: I don't have a pet. ข้อใดเป็นประโยค wish ที่ถูกต้อง", "options": ["I wish I had a pet.", "I wish I have a pet.", "I wish I didn't have a pet.", "I wish I will have a pet."], "answer": 0, "explanation": "ไม่มี → อยากมี: wish + **had**" },
+    { "q": "ความจริง: I can't speak French. ข้อใดเป็นประโยค wish ที่ถูกต้อง", "options": ["I wish I could speak French.", "I wish I can speak French.", "I wish I couldn't speak French.", "I wish I spoke not French."], "answer": 0, "explanation": "can't → wish + **could**" },
+    { "q": "ความจริง: I didn't take any photos. ข้อใดเป็นประโยค wish ที่ถูกต้อง", "options": ["I wish I had taken some photos.", "I wish I took some photos.", "I wish I have taken some photos.", "I wish I hadn't taken some photos."], "answer": 0, "explanation": "ไม่ได้ถ่าย (อดีต) → wish + **had taken**" },
+    { "q": "ความจริง: She told a lie. ข้อใดเป็นประโยค wish ที่ถูกต้อง", "options": ["She wishes she hadn't told a lie.", "She wishes she had told a lie.", "She wishes she doesn't tell a lie.", "She wishes she won't tell a lie."], "answer": 0, "explanation": "โกหกไปแล้ว → wish + **hadn't told** (ตรงข้ามกับความจริง)" },
+    { "q": "ความจริง: My house is small. ข้อใดเป็นประโยค wish ที่ถูกต้อง", "options": ["I wish my house were bigger.", "I wish my house is bigger.", "I wish my house was smaller.", "I wish my house will be bigger."], "answer": 0, "explanation": "บ้านเล็ก → อยากให้ใหญ่กว่านี้: wish + **were** bigger" },
+    { "q": "ความจริงของ “I wish I knew the answer.” คืออะไร", "options": ["ผู้พูดรู้คำตอบ", "ผู้พูดไม่รู้คำตอบ", "ผู้พูดเคยรู้คำตอบ", "ผู้พูดจะรู้คำตอบพรุ่งนี้"], "answer": 1, "explanation": "wish ตรงข้ามกับความจริง → ผู้พูด **ไม่รู้** คำตอบ" },
+    { "q": "ความจริงของ “I wish I hadn't shouted at my friend.” คืออะไร", "options": ["ผู้พูดตะโกนใส่เพื่อนไปแล้ว", "ผู้พูดไม่ได้ตะโกนใส่เพื่อน", "ผู้พูดจะตะโกนใส่เพื่อน", "เพื่อนตะโกนใส่ผู้พูด"], "answer": 0, "explanation": "hadn't shouted ตรงข้ามกับความจริง → **ตะโกนไปแล้ว** และเสียใจ" },
+    { "q": "ความจริงของ “She wishes she could drive.” คืออะไร", "options": ["เธอขับรถเป็น", "เธอขับรถไม่เป็น", "เธอขับรถทุกวัน", "เธอไม่อยากขับรถ"], "answer": 1, "explanation": "wish + could → ตอนนี้ **ทำไม่ได้**" },
+    { "q": "“I wish I had brought my umbrella.” ผู้พูดรู้สึกอย่างไร", "options": ["ดีใจที่เอาร่มมา", "เสียดายที่ไม่ได้เอาร่มมา", "อยากซื้อร่มใหม่", "ไม่ชอบร่ม"], "answer": 1, "explanation": "wish + had + V3 = **เสียดาย** สิ่งที่ไม่ได้ทำในอดีต" },
+    { "q": "wish + had + V3 ใช้กับเรื่องเวลาใด", "options": ["ปัจจุบัน", "อดีต", "อนาคต", "ทุกเวลา"], "answer": 1, "explanation": "had + V3 = **อดีต** (เสียดาย)" },
+    { "q": "wish + V2 ใช้กับเรื่องเวลาใด", "options": ["ปัจจุบัน", "อดีต", "อนาคต"], "answer": 0, "explanation": "แม้ใช้ V2 แต่หมายถึง **ปัจจุบัน** ที่ไม่เป็นจริง" },
+    { "q": "ข้อใดใช้ wish กับเรื่องในอดีตได้ถูกต้อง", "options": ["I wish I went to the concert last night.", "I wish I had gone to the concert last night.", "I wish I go to the concert last night.", "I wish I would go to the concert last night."], "answer": 1, "explanation": "last night = อดีต → **had gone**" },
+    { "q": "เติมคำในช่องว่าง: I ___ you pass the exam tomorrow. Good luck!", "options": ["wish", "hope", "would", "had"], "answer": 1, "explanation": "เป็นเรื่องที่เป็นไปได้จริง → **hope**" },
+    { "q": "เติมคำในช่องว่าง: I ___ I were a bird.", "options": ["hope", "wish", "want", "think"], "answer": 1, "explanation": "เป็นนกไม่ได้จริง (สมมติ) → **wish** + were" },
+    { "q": "ข้อใดถูกต้อง", "options": ["I hope I had more money.", "I wish I had more money.", "I wish I have more money.", "I hope I were rich."], "answer": 1, "explanation": "ไม่ตรงกับความจริงตอนนี้ → **wish + V2**" },
+    { "q": "“I hope it will be sunny tomorrow.” ต่างจาก “I wish it were sunny.” อย่างไร", "options": ["hope = เป็นไปได้จริง · wish = ไม่ตรงกับความจริงตอนนี้", "ความหมายเหมือนกัน", "hope ใช้กับอดีตเท่านั้น", "wish ใช้กับอนาคตเท่านั้น"], "answer": 0, "explanation": "**hope** ใช้กับสิ่งที่อาจเกิดขึ้นจริง ส่วน **wish** ใช้กับสิ่งที่ไม่เป็นจริง (ตอนนี้ฝนตก)" },
+    { "q": "“If only I had more time!” มีความหมายใกล้เคียงกับข้อใด", "options": ["I wish I had more time.", "I have a lot of time.", "I will have more time.", "I had more time yesterday."], "answer": 0, "explanation": "If only = **I wish** (แต่เน้นมากกว่า)" },
+    { "q": "เติมคำในช่องว่าง: If only I ___ his advice. Now I'm in trouble.", "options": ["took", "had taken", "take", "would take"], "answer": 1, "explanation": "เสียดายเรื่องที่ผ่านไปแล้ว → If only + **had taken**" },
+    { "q": "ข้อใดผิด", "options": ["I wish I had a bigger room.", "I wish I can play the guitar.", "I wish I had listened to you.", "I wish it would stop raining."], "answer": 1, "explanation": "หลัง wish ต้องถอย can → **could**" },
+    { "q": "ข้อใดผิด", "options": ["She wishes she were taller.", "We wish we had more free time.", "They wish they have a car.", "He wishes he could cook."], "answer": 2, "explanation": "ปัจจุบันหลัง wish ใช้ V2 → They wish they **had** a car." },
+    { "q": "หาส่วนที่ผิด: “I wish I would be rich.” ต้องแก้อย่างไร", "options": ["wish → hope", "would be → were", "rich → richer", "I → me"], "answer": 1, "explanation": "ไม่ใช้ I wish I would → I wish I **were** rich." },
+    { "q": "แปล: “ฉันอยากมีเวลาว่างมากกว่านี้”", "options": ["I wish I had more free time.", "I wish I have more free time.", "I hope I had more free time.", "I wish I will have more free time."], "answer": 0, "explanation": "ปัจจุบันที่ไม่จริง → wish + **had**" },
+    { "q": "แปล: “เราเสียดายที่ไม่ได้ซื้อตั๋วล่วงหน้า”", "options": ["We wish we had bought the tickets in advance.", "We wish we bought the tickets in advance.", "We wish we buy the tickets in advance.", "We hope we had bought the tickets in advance."], "answer": 0, "explanation": "เสียดายอดีต → wish + **had bought**" },
+    { "q": "แปล: “ฉันอยากให้เพื่อนบ้านเลิกส่งเสียงดังเสียที”", "options": ["I wish my neighbors would stop making noise.", "I wish my neighbors stop making noise.", "I wish my neighbors will stop making noise.", "I hope my neighbors would stop making noise."], "answer": 0, "explanation": "อยากให้คนอื่นเปลี่ยน (รำคาญ) → wish + **would** + V1" },
+    { "q": "แปล: “เขาอยากว่ายน้ำเป็น”", "options": ["He wishes he could swim.", "He wishes he can swim.", "He wish he could swim.", "He wishes he swims."], "answer": 0, "explanation": "he → **wishes** และความสามารถ → **could** swim" },
+    { "q": "สถานการณ์: คุณลืมการบ้านไว้ที่บ้านจนครูดุ ควรพูดว่าอะไร", "options": ["I wish I hadn't forgotten my homework.", "I wish I didn't forget my homework.", "I wish I don't forget my homework.", "I hope I hadn't forgotten my homework."], "answer": 0, "explanation": "เสียดายเรื่องที่เกิดไปแล้ว → wish + **hadn't forgotten**" },
+    { "q": "สถานการณ์: คุณอยากมีพี่น้อง แต่เป็นลูกคนเดียว ควรพูดว่าอะไร", "options": ["I wish I had a brother or sister.", "I wish I have a brother or sister.", "I wish I had had a brother or sister yesterday.", "I hope I had a brother or sister."], "answer": 0, "explanation": "ปัจจุบันที่ไม่จริง → wish + **had**" },
+    { "q": "สถานการณ์: เพื่อนชอบมาสายทุกครั้ง คุณรำคาญ ควรพูดว่าอะไร", "options": ["I wish you would come on time.", "I wish you come on time.", "I wish you will come on time.", "I hope you came on time."], "answer": 0, "explanation": "อยากให้อีกฝ่ายเปลี่ยนพฤติกรรม → wish + you **would** + V1" },
+    { "q": "สถานการณ์: วันนี้อากาศร้อนมาก ควรพูดว่าอะไร", "options": ["I wish it were cooler today.", "I wish it is cooler today.", "I wish it will be cooler today.", "I wish it had been cooler tomorrow."], "answer": 0, "explanation": "ปัจจุบันที่ไม่จริง → wish + it **were** cooler" },
+    { "q": "เติมคำในช่องว่าง: My sister wishes she ___ more patient.", "options": ["is", "were", "will be", "has been"], "answer": 1, "explanation": "verb to be หลัง wish → **were**" },
+    { "q": "เติมคำในช่องว่าง: Ben wishes he ___ the last question correctly. He lost one point.", "options": ["answered", "had answered", "answers", "would answer"], "answer": 1, "explanation": "ทำข้อสอบไปแล้ว (อดีต) → **had answered**" },
+    { "q": "อ่านข้อความ: “Nida lives in a small apartment in the city. She wishes she lived in the countryside, and she wishes she had a big garden.” ข้อใดถูกต้อง", "options": ["Nida lives in the countryside.", "Nida has a big garden.", "Nida lives in a city apartment.", "Nida doesn't like gardens."], "answer": 2, "explanation": "ข้อความบอกว่าอยู่ in a small apartment in the city ส่วนประโยค wish ตรงข้ามกับความจริง" },
+    { "q": "อ่านข้อความ: “Last weekend, Max stayed up late playing games. On Monday, he was very tired in class. ‘I wish I had gone to bed earlier,’ he said.” ข้อใดถูกต้อง", "options": ["Max went to bed early.", "Max regrets staying up late.", "Max was not tired.", "Max didn't play games."], "answer": 1, "explanation": "I wish I had gone to bed earlier = **เสียดายที่นอนดึก**" }
+  ]
+}

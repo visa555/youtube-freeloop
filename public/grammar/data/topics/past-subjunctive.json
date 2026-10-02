@@ -1,0 +1,95 @@
+{
+  "lesson": {
+    "summary": "Past Subjunctive ใช้ **กริยาช่อง 2 (be → were)** เพื่อพูดถึงสิ่งที่ **ไม่จริงในปัจจุบัน** หรือ “ควรทำได้แล้ว” พบในโครงสร้าง **wish, If (Type 2), as if / as though, It's time, would rather** — แม้ใช้ V2 แต่ **ความหมายเป็นปัจจุบัน**",
+    "sections": [
+      {
+        "icon": "🧱",
+        "title": "โครงสร้างที่ใช้ Past Subjunctive",
+        "table": {
+          "head": ["โครงสร้าง", "ความหมาย", "ตัวอย่าง"],
+          "rows": [
+            ["wish + **V2 / were**", "อยากให้ตอนนี้ต่างไป", "I wish I **lived** closer to school."],
+            ["If + **V2 / were**, would + V1", "สมมติสิ่งที่ไม่จริงตอนนี้", "If I **were** you, I would rest."],
+            ["as if / as though + **V2 / were**", "ราวกับว่า (แต่ไม่จริง)", "He talks **as if** he **knew** everything."],
+            ["It's (high / about) time + ประธาน + **V2**", "ถึงเวลาที่ควร…แล้ว (ช้าไปแล้ว)", "It's time we **left**."],
+            ["would rather + ประธาน + **V2**", "อยากให้ (คนอื่น) …มากกว่า", "I'd rather you **stayed** here."]
+          ]
+        },
+        "list": [
+          "verb to be ใช้ **were** กับทุกประธาน (ในภาษาพูดอาจได้ยิน was)"
+        ]
+      },
+      {
+        "icon": "⏰",
+        "title": "It's time",
+        "list": [
+          "It's time + ประธาน + **V2** = ถึงเวลาแล้วที่ควร… (เน้นว่าช้าไปแล้ว)",
+          "It's **high** time / It's **about** time = เน้นมากขึ้นว่าช้ามากแล้ว",
+          "It's time **to + V1** = ถึงเวลา… (ไม่มีประธาน): It's time **to go**."
+        ]
+      },
+      {
+        "icon": "🔁",
+        "title": "จากความจริงเป็นประโยค",
+        "examples": [
+          { "en": "I live far from work. → I wish I **lived** near work.", "th": "ความจริงกับประโยคตรงข้ามกัน" },
+          { "en": "He isn't the boss. → He acts **as if** he **were** the boss.", "th": "ทำตัวราวกับเป็นหัวหน้า (แต่ไม่ใช่)" },
+          { "en": "We should leave now. → **It's time** we **left**.", "th": "ถึงเวลาที่ควรไปแล้ว" }
+        ]
+      },
+      {
+        "icon": "⚠️",
+        "title": "ระวัง! จุดที่มักผิด",
+        "mistakes": [
+          { "wrong": "It's time we **go** home.", "right": "It's time we **went** home.", "why": "It's time + ประธาน + V2" },
+          { "wrong": "I wish I **live** near the sea.", "right": "I wish I **lived** near the sea.", "why": "wish + V2 สำหรับปัจจุบัน" },
+          { "wrong": "She acts as if she **is** a queen.", "right": "She acts as if she **were** a queen.", "why": "เป็นเรื่องที่ไม่จริง ใช้ were" },
+          { "wrong": "I'd rather you **don't** smoke here.", "right": "I'd rather you **didn't** smoke here.", "why": "would rather + ประธาน + V2 (ปฏิเสธใช้ didn't)" }
+        ]
+      }
+    ],
+    "tip": "**V2 / were** ใน wish, if, as if, it's time, would rather = **ไม่จริงตอนนี้** ไม่ใช่อดีต"
+  },
+  "questions": [
+    { "q": "I live far from school. I wish I ___ closer.", "options": ["live", "lived", "will live", "living"], "answer": 1, "explanation": "wish + **V2** (ปัจจุบันที่ไม่จริง)" },
+    { "q": "If I ___ you, I would take the job.", "options": ["am", "were", "will be", "be"], "answer": 1, "explanation": "If I **were** you (สมมติ) ใช้ were กับทุกประธาน" },
+    { "q": "He talks as if he ___ everything, but he doesn't.", "options": ["know", "knew", "will know", "known"], "answer": 1, "explanation": "as if + **V2** = ราวกับว่ารู้ (แต่ไม่จริง)" },
+    { "q": "It's time we ___ home. It's very late.", "options": ["go", "went", "will go", "going"], "answer": 1, "explanation": "It's time + ประธาน + **V2**" },
+    { "q": "It's high time you ___ your room. It's a mess!", "options": ["clean", "cleaned", "will clean", "cleaning"], "answer": 1, "explanation": "It's high time + ประธาน + **V2** = ควรทำตั้งนานแล้ว" },
+    { "q": "It's about time the rain ___. We've been inside all day.", "options": ["stop", "stopped", "stops", "stopping"], "answer": 1, "explanation": "It's about time + ประธาน + **V2**" },
+    { "q": "I'd rather you ___ here with me.", "options": ["stay", "stayed", "will stay", "staying"], "answer": 1, "explanation": "would rather + ประธาน (คนอื่น) + **V2**" },
+    { "q": "She acts as though she ___ the boss, but she isn't.", "options": ["is", "were", "will be", "be"], "answer": 1, "explanation": "as though + **were** (ไม่จริง)" },
+    { "q": "We don't have much money. We wish we ___ more.", "options": ["have", "had", "will have", "having"], "answer": 1, "explanation": "wish + **had** (ปัจจุบันที่ไม่จริง)" },
+    { "q": "It's nine o'clock. It's time the kids ___ their teeth.", "options": ["brush", "brushed", "brushes", "brushing"], "answer": 1, "explanation": "It's time + ประธาน + **V2**" },
+    { "q": "I'd rather you ___ smoke in the house.", "options": ["don't", "didn't", "won't", "not"], "answer": 1, "explanation": "would rather + ประธาน + V2 → ปฏิเสธใช้ **didn't**" },
+    { "q": "If she ___ more time, she would learn Japanese.", "options": ["has", "had", "will have", "having"], "answer": 1, "explanation": "If Type 2 → If + **V2**" },
+    { "q": "ความจริง: I'm not rich. → I wish I ___ rich.", "options": ["am", "were", "will be", "been"], "answer": 1, "explanation": "wish + **were**" },
+    { "q": "“It's time we left.” หมายความว่าอย่างไร", "options": ["เราออกไปแล้ว", "ถึงเวลาที่เราควรออกไปแล้ว", "เราจะออกไปเมื่อวาน", "เราไม่อยากออกไป"], "answer": 1, "explanation": "It's time + V2 = **ถึงเวลาที่ควร…แล้ว** (ยังไม่ได้ไป)" },
+    { "q": "“He looks as if he were sick.” หมายความว่าอย่างไร", "options": ["เขาดูเหมือนป่วย (แต่จริง ๆ ไม่ได้ป่วย)", "เขาป่วยหนักแน่นอน", "เขาเคยป่วย", "เขาจะป่วยพรุ่งนี้"], "answer": 0, "explanation": "as if + were = **ราวกับว่า** (ไม่จริง)" },
+    { "q": "“I wish I lived in Japan.” ความจริงคืออะไร", "options": ["ผู้พูดอาศัยอยู่ญี่ปุ่น", "ผู้พูดไม่ได้อาศัยอยู่ญี่ปุ่น", "ผู้พูดเคยอยู่ญี่ปุ่น", "ผู้พูดจะย้ายไปญี่ปุ่นแน่นอน"], "answer": 1, "explanation": "wish ตรงข้ามกับความจริง → **ไม่ได้อยู่ญี่ปุ่น**" },
+    { "q": "“I'd rather you didn't tell anyone.” ผู้พูดต้องการอะไร", "options": ["อยากให้อีกฝ่ายไม่บอกใคร", "อยากให้อีกฝ่ายบอกทุกคน", "อีกฝ่ายบอกไปแล้ว", "ผู้พูดจะบอกเอง"], "answer": 0, "explanation": "would rather + you + didn't = **อยากให้คุณไม่…**" },
+    { "q": "Past Subjunctive ใช้ V2 แต่หมายถึงเวลาใด", "options": ["ปัจจุบัน (สิ่งที่ไม่จริงตอนนี้)", "อดีตเท่านั้น", "อนาคตเท่านั้น", "ไม่บอกเวลา"], "answer": 0, "explanation": "V2 ในที่นี้บอก **ความไม่จริงในปัจจุบัน** ไม่ใช่อดีต" },
+    { "q": "It's time + ประธาน + ___", "options": ["V1", "V2", "V-ing", "V3"], "answer": 1, "explanation": "It's time + ประธาน + **V2** (ถ้าไม่มีประธานใช้ to + V1)" },
+    { "q": "ข้อใดผิด", "options": ["It's time we went home.", "I wish I had a bigger house.", "It's time we go home.", "If I were you, I'd rest."], "answer": 2, "explanation": "It's time + ประธาน + V2 → It's time we **went** home." },
+    { "q": "ข้อใดผิด", "options": ["I'd rather you stayed.", "She talks as if she were a star.", "I wish I live near the beach.", "It's about time you got a job."], "answer": 2, "explanation": "wish + V2 → I wish I **lived** near the beach." },
+    { "q": "หาส่วนที่ผิด: “It's high time the school fixes the old computers.” ต้องแก้อย่างไร", "options": ["It's → It was", "high → very", "fixes → fixed", "computers → computer"], "answer": 2, "explanation": "It's high time + ประธาน + **V2** → fixed" },
+    { "q": "ข้อใดถูกต้อง", "options": ["It's time to go.", "It's time to went.", "It's time we going.", "It's time we goes."], "answer": 0, "explanation": "ไม่มีประธาน → It's time **to + V1**" },
+    { "q": "แปล: “ถึงเวลาที่พวกเราควรเริ่มทำการบ้านแล้ว”", "options": ["It's time we started our homework.", "It's time we starting our homework.", "It's time we will start our homework.", "It's time we starts our homework."], "answer": 0, "explanation": "It's time + ประธาน + **V2** (started)" },
+    { "q": "แปล: “ฉันอยากให้เธออยู่ที่นี่ด้วย (แต่เธอไม่ได้อยู่)”", "options": ["I wish you were here.", "I wish you are here.", "I wish you will be here.", "I wish you be here."], "answer": 0, "explanation": "wish + **were**" },
+    { "q": "แปล: “เขาทำตัวราวกับว่าเป็นเจ้าของบ้าน”", "options": ["He acts as if he were the owner of the house.", "He acts as if he is being the owner.", "He acts if he were the owner of the house.", "He acts as he were the owner of the house."], "answer": 0, "explanation": "ราวกับว่า = **as if** + were" },
+    { "q": "แปล: “ฉันอยากให้คุณไม่บอกแม่”", "options": ["I'd rather you didn't tell Mom.", "I'd rather you don't told Mom.", "I'd rather you not telling Mom.", "I'd rather you won't tell Mom."], "answer": 0, "explanation": "would rather + you + **didn't** + V1" },
+    { "q": "แปล: “ถ้าฉันเป็นนก ฉันจะบินไปทั่วโลก”", "options": ["If I were a bird, I would fly around the world.", "If I am a bird, I will fly around the world.", "If I were a bird, I will fly around the world.", "If I had been a bird, I flew around the world."], "answer": 0, "explanation": "สมมติไม่จริงตอนนี้ → If + **were**, **would** + V1" },
+    { "q": "ความจริง: Tom can't drive. ข้อใดแสดงความปรารถนาได้ถูกต้อง", "options": ["Tom wishes he could drive.", "Tom wishes he can drive.", "Tom wishes he couldn't drive.", "Tom wishes he drives."], "answer": 0, "explanation": "can't → wish + **could**" },
+    { "q": "ความจริง: Our classroom is very hot. ข้อใดแสดงความปรารถนาได้ถูกต้อง", "options": ["We wish our classroom were cooler.", "We wish our classroom is cooler.", "We wish our classroom will be cooler.", "We wish our classroom was hotter."], "answer": 0, "explanation": "wish + **were** cooler (ตรงข้ามกับความจริง)" },
+    { "q": "ความจริง: My parents work far away. ข้อใดแสดงความปรารถนาได้ถูกต้อง", "options": ["I wish my parents worked nearby.", "I wish my parents work nearby.", "I wish my parents will work nearby.", "I wish my parents had worked nearby yesterday."], "answer": 0, "explanation": "wish + **V2** (worked)" },
+    { "q": "It's about time you ___ a new phone. That one is very old.", "options": ["buy", "bought", "buying", "will buy"], "answer": 1, "explanation": "It's about time + ประธาน + **V2**" },
+    { "q": "I'd rather we ___ at home tonight.", "options": ["eat", "ate", "eating", "will eat"], "answer": 1, "explanation": "would rather + ประธาน + **V2**" },
+    { "q": "She spends money as if she ___ a millionaire.", "options": ["is", "were", "will be", "be"], "answer": 1, "explanation": "as if + **were** (ไม่ได้เป็นเศรษฐีจริง)" },
+    { "q": "If I ___ how to cook, I would make dinner.", "options": ["know", "knew", "will know", "known"], "answer": 1, "explanation": "If Type 2 → If + **V2**" },
+    { "q": "It's late. It's time ___ bed.", "options": ["to go to", "we go to", "going to", "went to"], "answer": 0, "explanation": "ไม่มีประธาน → It's time **to go** to bed." },
+    { "q": "สถานการณ์: ลูกเล่นเกมจนดึกมาก แม่อยากบอกว่าควรไปนอนได้แล้ว ข้อใดเหมาะสม", "options": ["It's time you went to bed.", "It's time you go to bed yesterday.", "It's time you going to bed.", "It's time for you went to bed."], "answer": 0, "explanation": "It's time + ประธาน + **V2**" },
+    { "q": "สถานการณ์: เพื่อนเป็นคนไทยแต่พูดภาษาอังกฤษคล่องเหมือนเจ้าของภาษา ข้อใดเหมาะสม", "options": ["She speaks English as if she were a native speaker.", "She speaks English as if she is being a native speaker.", "She speaks English if she were a native speaker.", "She speaks English as she were a native speaker."], "answer": 0, "explanation": "ราวกับว่า (ไม่จริง) → **as if** + were" },
+    { "q": "อ่านข้อความ: “Lily is only 12, but she talks as if she were an adult. Her mom often says, ‘It's time you acted your age!’” ข้อใดถูกต้อง", "options": ["Lily เป็นผู้ใหญ่แล้ว", "Lily พูดเหมือนผู้ใหญ่ทั้งที่อายุแค่ 12", "แม่ชม Lily ว่าโตแล้ว", "Lily อายุ 20 ปี"], "answer": 1, "explanation": "talks **as if she were** an adult = พูดราวกับเป็นผู้ใหญ่ (แต่ไม่ใช่)" },
+    { "q": "อ่านข้อความ: “Ken lives in a small town. He wishes he lived in Bangkok because there are more things to do. But his parents would rather he stayed with them.” ข้อใดถูกต้อง", "options": ["Ken อาศัยอยู่ในกรุงเทพฯ", "พ่อแม่อยากให้ Ken อยู่กับพวกเขา", "Ken ไม่อยากไปกรุงเทพฯ", "พ่อแม่อยากให้ Ken ย้ายไปกรุงเทพฯ"], "answer": 1, "explanation": "his parents **would rather he stayed** with them = พ่อแม่อยากให้อยู่ด้วย" }
+  ]
+}

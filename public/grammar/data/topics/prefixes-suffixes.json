@@ -1,0 +1,132 @@
+{
+  "lesson": {
+    "summary": "**Prefix** คือส่วนที่เติม **หน้าคำ** เพื่อเปลี่ยนความหมาย (happy → **un**happy) ส่วน **Suffix** คือส่วนที่เติม **ท้ายคำ** เพื่อเปลี่ยนชนิดของคำ (care → care**ful**, teach → teach**er**) — รู้หลักนี้แล้วจะเดาความหมายคำศัพท์ใหม่ได้ง่ายขึ้น",
+    "sections": [
+      {
+        "icon": "⬅️",
+        "title": "Prefix ที่ใช้บ่อย",
+        "table": {
+          "head": ["Prefix", "ความหมาย", "ตัวอย่าง"],
+          "rows": [
+            ["un-", "ไม่ / ตรงข้าม", "unhappy, unfair, unsafe"],
+            ["in- / im- / il- / ir-", "ไม่", "incorrect, impossible, illegal, irregular"],
+            ["dis-", "ไม่ / ตรงข้าม", "disagree, dislike, dishonest"],
+            ["mis-", "ผิด", "misspell, misunderstand"],
+            ["re-", "อีกครั้ง", "rewrite, restart, recheck"],
+            ["pre-", "ก่อน", "preview, pre-order"],
+            ["inter-", "ระหว่าง", "international, intercity"],
+            ["co-", "ร่วมกัน", "co-worker, cooperate"],
+            ["semi-", "ครึ่ง / กึ่ง", "semicircle, semi-final"],
+            ["trans-", "ข้าม / เปลี่ยน", "transport, translate"]
+          ]
+        },
+        "list": [
+          "**im-** มักใช้หน้าคำที่ขึ้นต้นด้วย p, m: impossible, impolite · **il-** หน้า l: illegal · **ir-** หน้า r: irregular"
+        ]
+      },
+      {
+        "icon": "🏷️",
+        "title": "Suffix สร้างคำนาม",
+        "table": {
+          "head": ["Suffix", "ความหมาย", "ตัวอย่าง"],
+          "rows": [
+            ["-er / -or", "ผู้กระทำ", "teacher, driver, visitor, actor"],
+            ["-ist", "ผู้เชี่ยวชาญ / ผู้ทำ", "artist, scientist, pianist"],
+            ["-tion / -sion", "การ… (จากกริยา)", "inform → information, decide → decision"],
+            ["-ment", "การ…", "develop → development, move → movement"],
+            ["-ness", "ความ… (จากคุณศัพท์)", "happy → happiness, kind → kindness"],
+            ["-ity", "ความ…", "active → activity, possible → possibility"]
+          ]
+        }
+      },
+      {
+        "icon": "🎨",
+        "title": "Suffix สร้างคุณศัพท์ / กริยา / กริยาวิเศษณ์",
+        "table": {
+          "head": ["Suffix", "ได้คำชนิด", "ตัวอย่าง"],
+          "rows": [
+            ["-ful / -less", "คุณศัพท์ (มี… / ไม่มี…)", "careful / careless, useful / useless"],
+            ["-able / -ible", "คุณศัพท์ (…ได้)", "comfortable, enjoyable, visible"],
+            ["-ous / -al / -ive", "คุณศัพท์", "famous, national, creative"],
+            ["-ize / -en / -ify", "กริยา", "organize, realize, shorten, simplify"],
+            ["-ly", "กริยาวิเศษณ์", "quick → quickly, careful → carefully"]
+          ]
+        }
+      },
+      {
+        "icon": "🧩",
+        "title": "เลือกชนิดคำให้ตรงตำแหน่ง",
+        "list": [
+          "หลัง a / the / my / your → **คำนาม**: the **decision**, your **kindness**",
+          "หน้าคำนาม หรือหลัง be → **คุณศัพท์**: a **famous** singer, She is **creative**.",
+          "ขยายกริยา → **กริยาวิเศษณ์**: Mint learns **quickly**.",
+          "หลังประธาน / to / modal → **กริยา**: We must **organize** the party."
+        ]
+      },
+      {
+        "icon": "⚠️",
+        "title": "ระวัง! จุดที่มักผิด",
+        "mistakes": [
+          { "wrong": "**unpossible**", "right": "**impossible**", "why": "possible ใช้ im- (ขึ้นต้นด้วย p)" },
+          { "wrong": "**unhonest**", "right": "**dishonest**", "why": "honest ใช้ dis-" },
+          { "wrong": "Thank you for your **kind**.", "right": "Thank you for your **kindness**.", "why": "หลัง your ต้องเป็นคำนาม" },
+          { "wrong": "The trip was very **enjoy**.", "right": "The trip was very **enjoyable**.", "why": "หลัง very / be ต้องเป็นคุณศัพท์" },
+          { "wrong": "He answered **correct**.", "right": "He answered **correctly**.", "why": "ขยายกริยาต้องเป็นกริยาวิเศษณ์" }
+        ]
+      }
+    ],
+    "tip": "Prefix เปลี่ยน **ความหมาย** (un- / dis- / re-) · Suffix เปลี่ยน **ชนิดคำ** (-ness = นาม, -ful = คุณศัพท์, -ly = กริยาวิเศษณ์) — ดูตำแหน่งในประโยคก่อนว่าต้องการคำชนิดไหน"
+  },
+  "questions": [
+    { "q": "คำตรงข้ามของ “happy” (เติม prefix) คือข้อใด", "options": ["unhappy", "inhappy", "dishappy", "mishappy"], "answer": 0, "explanation": "happy ใช้ **un-** → unhappy (ไม่มีความสุข)" },
+    { "q": "คำตรงข้ามของ “possible” คือข้อใด", "options": ["unpossible", "impossible", "dispossible", "inpossible"], "answer": 1, "explanation": "ขึ้นต้นด้วย p ใช้ **im-** → impossible" },
+    { "q": "คำตรงข้ามของ “agree” คือข้อใด", "options": ["unagree", "disagree", "misagree", "imagree"], "answer": 1, "explanation": "agree ใช้ **dis-** → disagree (ไม่เห็นด้วย)" },
+    { "q": "คำตรงข้ามของ “correct” คือข้อใด", "options": ["uncorrect", "incorrect", "discorrect", "imcorrect"], "answer": 1, "explanation": "correct ใช้ **in-** → incorrect" },
+    { "q": "คำตรงข้ามของ “legal” คือข้อใด", "options": ["unlegal", "illegal", "inlegal", "dislegal"], "answer": 1, "explanation": "ขึ้นต้นด้วย l ใช้ **il-** → illegal (ผิดกฎหมาย)" },
+    { "q": "คำตรงข้ามของ “regular” คือข้อใด", "options": ["unregular", "irregular", "inregular", "disregular"], "answer": 1, "explanation": "ขึ้นต้นด้วย r ใช้ **ir-** → irregular" },
+    { "q": "คำตรงข้ามของ “honest” คือข้อใด", "options": ["unhonest", "dishonest", "inhonest", "mishonest"], "answer": 1, "explanation": "honest ใช้ **dis-** → dishonest (ไม่ซื่อสัตย์)" },
+    { "q": "คำตรงข้ามของ “polite” คือข้อใด", "options": ["unpolite", "impolite", "dispolite", "inpolite"], "answer": 1, "explanation": "ขึ้นต้นด้วย p ใช้ **im-** → impolite" },
+    { "q": "Prefix “re-” มีความหมายว่าอะไร", "options": ["อีกครั้ง", "ไม่", "ก่อน", "ผิด"], "answer": 0, "explanation": "re- = **อีกครั้ง** เช่น rewrite, restart" },
+    { "q": "Prefix “mis-” มีความหมายว่าอะไร", "options": ["ผิด", "อีกครั้ง", "ระหว่าง", "ร่วมกัน"], "answer": 0, "explanation": "mis- = **ผิด** เช่น misspell, misunderstand" },
+    { "q": "Prefix “pre-” มีความหมายว่าอะไร", "options": ["ก่อน", "หลัง", "ครึ่ง", "ข้าม"], "answer": 0, "explanation": "pre- = **ก่อน** เช่น preview, pre-order" },
+    { "q": "Prefix “inter-” ในคำว่า “international” มีความหมายว่าอะไร", "options": ["ระหว่าง", "ภายใน", "ไม่", "อีกครั้ง"], "answer": 0, "explanation": "inter- = **ระหว่าง** → international = ระหว่างประเทศ" },
+    { "q": "“rewrite” แปลว่าอะไร", "options": ["เขียนใหม่", "เขียนผิด", "เขียนก่อน", "ไม่เขียน"], "answer": 0, "explanation": "re (อีกครั้ง) + write = **เขียนใหม่**" },
+    { "q": "“misunderstand” แปลว่าอะไร", "options": ["เข้าใจผิด", "เข้าใจอีกครั้ง", "ไม่เข้าใจเลย", "เข้าใจล่วงหน้า"], "answer": 0, "explanation": "mis (ผิด) + understand = **เข้าใจผิด**" },
+    { "q": "“co-worker” แปลว่าอะไร", "options": ["เพื่อนร่วมงาน", "หัวหน้างาน", "คนตกงาน", "งานเสริม"], "answer": 0, "explanation": "co (ร่วมกัน) + worker = **เพื่อนร่วมงาน**" },
+    { "q": "“semicircle” แปลว่าอะไร", "options": ["ครึ่งวงกลม", "วงกลมใหญ่", "วงกลมซ้อน", "สามวงกลม"], "answer": 0, "explanation": "semi (ครึ่ง) + circle = **ครึ่งวงกลม**" },
+    { "q": "เติมคำในช่องว่าง: I typed the word wrong. I ___ it.", "options": ["misspelled", "respelled", "prespelled", "unspelled"], "answer": 0, "explanation": "สะกดผิด = **mis**spelled" },
+    { "q": "เติมคำในช่องว่าง: The computer froze, so I had to ___ it.", "options": ["restart", "prestart", "misstart", "unstart"], "answer": 0, "explanation": "เริ่มใหม่ = **re**start" },
+    { "q": "เติมคำในช่องว่าง: Can you ___ this Thai sentence into English?", "options": ["translate", "transmit", "transform", "transport"], "answer": 0, "explanation": "**translate** = แปลภาษา" },
+    { "q": "คนที่สอน เรียกว่าอะไร", "options": ["teacher", "teachist", "teachment", "teachness"], "answer": 0, "explanation": "teach + **-er** (ผู้กระทำ) = teacher" },
+    { "q": "คนที่เป็นศิลปิน เรียกว่าอะไร", "options": ["arter", "artist", "artment", "artion"], "answer": 1, "explanation": "art + **-ist** = artist" },
+    { "q": "คำนามของ “happy” คือข้อใด", "options": ["happily", "happiness", "happyment", "happiful"], "answer": 1, "explanation": "happy + **-ness** (y → i) = happiness" },
+    { "q": "คำนามของ “decide” คือข้อใด", "options": ["decision", "decidement", "decideness", "decisive"], "answer": 0, "explanation": "decide → **decision** (การตัดสินใจ)" },
+    { "q": "คำนามของ “develop” ที่แปลว่า “การพัฒนา” คือข้อใด", "options": ["development", "develoption", "developness", "developful"], "answer": 0, "explanation": "develop + **-ment** = development" },
+    { "q": "คำนามของ “kind” ที่แปลว่า “ความใจดี” คือข้อใด", "options": ["kindly", "kindness", "kindful", "kindment"], "answer": 1, "explanation": "kind + **-ness** = kindness" },
+    { "q": "คำนามของ “inform” ที่แปลว่า “ข้อมูล” คือข้อใด", "options": ["information", "informment", "informness", "informal"], "answer": 0, "explanation": "inform + **-ation** = information" },
+    { "q": "คำนามของ “active” ที่แปลว่า “กิจกรรม” คือข้อใด", "options": ["activity", "actively", "activeness", "actor"], "answer": 0, "explanation": "active + **-ity** = activity" },
+    { "q": "คำคุณศัพท์ของ “care” ที่แปลว่า “ระมัดระวัง” คือข้อใด", "options": ["careful", "careless", "carely", "careness"], "answer": 0, "explanation": "-ful = มี… → careful (careless = ไม่ระวัง)" },
+    { "q": "คำคุณศัพท์ที่แปลว่า “ไม่มีความหวัง” คือข้อใด", "options": ["hopeful", "hopeless", "hopely", "hopeness"], "answer": 1, "explanation": "-less = ไม่มี… → **hopeless**" },
+    { "q": "คำคุณศัพท์ของ “comfort” คือข้อใด", "options": ["comfortable", "comfortful", "comfortly", "comfortness"], "answer": 0, "explanation": "comfort + **-able** = comfortable (สบาย)" },
+    { "q": "คำคุณศัพท์ของ “danger” คือข้อใด", "options": ["dangerful", "dangerous", "dangerly", "dangerable"], "answer": 1, "explanation": "danger + **-ous** = dangerous" },
+    { "q": "คำคุณศัพท์ของ “create” คือข้อใด", "options": ["creative", "creation", "creator", "creatively"], "answer": 0, "explanation": "**creative** (มีความคิดสร้างสรรค์) ลงท้าย -ive · creation / creator เป็นคำนาม" },
+    { "q": "คำใดเป็นคำคุณศัพท์", "options": ["enjoyment", "enjoyable", "enjoy", "enjoyably"], "answer": 1, "explanation": "**enjoyable** (น่าสนุก) ลงท้าย -able" },
+    { "q": "คำกริยาของ “short” ที่แปลว่า “ทำให้สั้นลง” คือข้อใด", "options": ["shorten", "shortly", "shortness", "shortful"], "answer": 0, "explanation": "short + **-en** = shorten" },
+    { "q": "คำกริยาของ “real” ที่แปลว่า “ตระหนัก / รู้ตัว” คือข้อใด", "options": ["realize", "reality", "really", "realistic"], "answer": 0, "explanation": "real + **-ize** = realize" },
+    { "q": "คำกริยาของ “simple” ที่แปลว่า “ทำให้ง่ายขึ้น” คือข้อใด", "options": ["simplify", "simply", "simplicity", "simpleness"], "answer": 0, "explanation": "simple → **simplify** (-ify = ทำให้…)" },
+    { "q": "คำกริยาวิเศษณ์ของ “quick” คือข้อใด", "options": ["quickly", "quickness", "quicken", "quicker"], "answer": 0, "explanation": "quick + **-ly** = quickly" },
+    { "q": "เติมรูปคำที่ถูกต้อง: She is a very ___ singer. (fame)", "options": ["fame", "famous", "famously", "fameless"], "answer": 1, "explanation": "หน้าคำนาม singer ต้องเป็นคุณศัพท์ → **famous**" },
+    { "q": "เติมรูปคำที่ถูกต้อง: Thank you for your ___. (kind)", "options": ["kind", "kindly", "kindness", "kinder"], "answer": 2, "explanation": "หลัง your ต้องเป็นคำนาม → **kindness**" },
+    { "q": "เติมรูปคำที่ถูกต้อง: Please drive ___. (care)", "options": ["careful", "carefully", "careless", "care"], "answer": 1, "explanation": "ขยายกริยา drive → **carefully**" },
+    { "q": "เติมรูปคำที่ถูกต้อง: We need to ___ a party for Mom's birthday. (organization)", "options": ["organization", "organize", "organizer", "organized"], "answer": 1, "explanation": "หลัง need to ต้องเป็นกริยา V1 → **organize**" },
+    { "q": "เติมรูปคำที่ถูกต้อง: Nobody can do that. It is ___ to swim across the ocean. (possible)", "options": ["possible", "impossible", "possibly", "possibility"], "answer": 1, "explanation": "ไม่มีใครทำได้ → **impossible** (เป็นไปไม่ได้)" },
+    { "q": "เติมรูปคำที่ถูกต้อง: My little brother is very ___. He never sits still. (act)", "options": ["action", "active", "actor", "actively"], "answer": 1, "explanation": "หลัง very / is ต้องเป็นคุณศัพท์ → **active** (กระตือรือร้น / ซน)" },
+    { "q": "เติมรูปคำที่ถูกต้อง: The test was ___ difficult. (extreme)", "options": ["extreme", "extremely", "extremity", "extremeness"], "answer": 1, "explanation": "ขยายคุณศัพท์ difficult ต้องเป็นกริยาวิเศษณ์ → **extremely**" },
+    { "q": "เติมรูปคำที่ถูกต้อง: A ___ works in a laboratory. (science)", "options": ["scientist", "scientific", "science", "scientifically"], "answer": 0, "explanation": "หลัง a และเป็นคนที่ทำงาน → **scientist**" },
+    { "q": "เติมรูปคำที่ถูกต้อง: I can't make a ___ right now. (decide)", "options": ["decide", "decision", "decisive", "decided"], "answer": 1, "explanation": "หลัง a ต้องเป็นคำนาม → make a **decision**" },
+    { "q": "คำในข้อใดเติม prefix ผิด", "options": ["unkind", "impossible", "dishappy", "incomplete"], "answer": 2, "explanation": "happy ใช้ un- → **unhappy** ไม่ใช่ dishappy" },
+    { "q": "คำในข้อใดเป็นคำนาม", "options": ["careful", "carefully", "carelessness", "careless"], "answer": 2, "explanation": "ลงท้าย **-ness** เป็นคำนาม → carelessness (ความประมาท)" },
+    { "q": "เติมรูปคำที่ถูกต้อง: Mint is a quick learner. She learns very ___. (quick)", "options": ["quick", "quickly", "quickness", "quicken"], "answer": 1, "explanation": "ขยายกริยา learns → **quickly**" },
+    { "q": "อ่านข้อความ: “Nok is a helpful and friendly student. She often helps her classmates with their homework. Her teacher says her kindness makes the classroom a happier place.” คำใดเป็นคำนามที่สร้างจากคุณศัพท์ + suffix", "options": ["helpful", "kindness", "happier", "friendly"], "answer": 1, "explanation": "kind (คุณศัพท์) + **-ness** = kindness (คำนาม)" }
+  ]
+}

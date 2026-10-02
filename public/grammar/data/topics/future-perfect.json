@@ -1,0 +1,368 @@
+{
+  "lesson": {
+    "summary": "ใช้บอกว่าสิ่งหนึ่ง **จะทำเสร็จแล้ว ก่อนหรือภายใน** เวลาหนึ่งในอนาคต เช่น “ภายในห้าโมงเย็น ฉันจะทำการบ้านเสร็จแล้ว”",
+    "sections": [
+      {
+        "icon": "🎯",
+        "title": "ใช้เมื่อไหร่",
+        "list": [
+          "จะเสร็จก่อนเวลาที่กำหนดในอนาคต — **By** 6 p.m., I **will have finished** my homework.",
+          "จะเกิดขึ้นก่อนอีกเหตุการณ์ในอนาคต — The movie **will have started** **before** we **get** there."
+        ]
+      },
+      {
+        "icon": "🧱",
+        "title": "โครงสร้าง",
+        "text": "ใช้ **have** กับทุกประธาน (ไม่ใช้ has) เพราะตามหลัง will",
+        "formulas": [
+          { "label": "บอกเล่า", "formula": "ประธาน + **will have** + V3", "example": "She **will have left** by 8." },
+          { "label": "ปฏิเสธ", "formula": "ประธาน + **won't have** + V3", "example": "They **won't have arrived** by noon." },
+          { "label": "คำถาม", "formula": "**Will** + ประธาน + **have** + V3 ?", "example": "**Will** you **have finished** by Friday? — Yes, I will." }
+        ]
+      },
+      {
+        "icon": "⏰",
+        "title": "คำสังเกต",
+        "chips": ["by 5 p.m.", "by tomorrow", "by next week", "by the end of this year", "before …", "by the time …"],
+        "list": [
+          "**by** แปลว่า “ภายใน / ไม่เกิน” เป็นคำสังเกตสำคัญของ Future Perfect",
+          "หลัง **by the time / before** ใช้ **Present Simple**: By the time you **wake** up, I **will have left**. (ไม่ใช้ will หลัง by the time)"
+        ]
+      },
+      {
+        "icon": "🆚",
+        "title": "เทียบ Future 3 แบบ",
+        "table": {
+          "head": ["Tense", "โครงสร้าง", "ตัวอย่าง"],
+          "rows": [
+            ["Future Simple", "will + V1", "I **will finish** the report. (จะทำ)"],
+            ["Future Continuous", "will be + V-ing", "At 5 p.m., I **will be writing** the report. (จะกำลังทำ)"],
+            ["Future Perfect", "will have + V3", "By 5 p.m., I **will have finished** the report. (จะเสร็จแล้ว)"]
+          ]
+        }
+      },
+      {
+        "icon": "📝",
+        "title": "ตัวอย่าง",
+        "examples": [
+          { "en": "By next June, my sister **will have graduated**.", "th": "ภายในเดือนมิถุนายนปีหน้า พี่สาวจะเรียนจบแล้ว" },
+          { "en": "Hurry! The shop **will have closed** by the time we get there.", "th": "รีบเร็ว! กว่าเราจะไปถึง ร้านคงปิดไปแล้ว" },
+          { "en": "I **won't have finished** this book by tomorrow.", "th": "ภายในพรุ่งนี้ ฉันจะยังอ่านหนังสือเล่มนี้ไม่จบ" }
+        ]
+      },
+      {
+        "icon": "⚠️",
+        "title": "ระวัง! จุดที่มักผิด",
+        "mistakes": [
+          { "wrong": "She will **has** finished.", "right": "She will **have** finished.", "why": "หลัง will ใช้ have เสมอ" },
+          { "wrong": "I will have **finish** it by noon.", "right": "I will have **finished** it by noon.", "why": "หลัง have ต้องเป็น V3" },
+          { "wrong": "By the time you **will arrive**, we will have eaten.", "right": "By the time you **arrive**, we will have eaten.", "why": "หลัง by the time ใช้ Present Simple" },
+          { "wrong": "They **won't has** gone.", "right": "They **won't have** gone.", "why": "won't + have + V3" }
+        ]
+      }
+    ],
+    "tip": "เห็น **by + เวลาในอนาคต** ให้นึกถึง **will have + V3** = “จะ…เสร็จแล้ว”"
+  },
+  "questions": [
+    {
+      "q": "เติมคำในช่องว่าง: By 6 p.m., I ___ finished my homework.",
+      "options": ["will have", "will has", "have", "will"],
+      "answer": 0,
+      "explanation": "by 6 p.m. (ภายในหกโมงเย็น) → **will have** + V3"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: She will have ___ the report by Friday.",
+      "options": ["write", "wrote", "written", "writing"],
+      "answer": 2,
+      "explanation": "will have + V3 ของ write คือ **written**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: By next year, they will have ___ the new bridge.",
+      "options": ["build", "built", "building", "builded"],
+      "answer": 1,
+      "explanation": "build → built → **built**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The train will have ___ before we reach the station.",
+      "options": ["leave", "left", "leaving", "leaved"],
+      "answer": 1,
+      "explanation": "leave → left → **left**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: By the end of this month, I ___ (read) five books.",
+      "options": ["read", "will have read", "have read", "will be reading"],
+      "answer": 1,
+      "explanation": "by the end of this month + จำนวนที่ทำเสร็จ → **will have read**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: By the time you get home, Mom ___ (cook) dinner.",
+      "options": ["will have cooked", "cooked", "has cooked", "will be cook"],
+      "answer": 0,
+      "explanation": "แม่จะทำอาหารเสร็จก่อนเธอกลับถึงบ้าน → **will have cooked**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: By 2040, scientists ___ (find) a cure for the disease.",
+      "options": ["will have found", "found", "will have find", "have found"],
+      "answer": 0,
+      "explanation": "by 2040 (อนาคต) → will have + V3 (found) → **will have found**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: We ___ (finish) the project by tomorrow morning.",
+      "options": ["will have finished", "have finished", "will finishing", "finished"],
+      "answer": 0,
+      "explanation": "by tomorrow morning → **will have finished**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: By 10 p.m., the guests ___ (go) home.",
+      "options": ["will have gone", "will have went", "went", "will go have"],
+      "answer": 0,
+      "explanation": "will have + V3 ของ go คือ gone → **will have gone**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Ann ___ (save) enough money by December.",
+      "options": ["will have saved", "will has saved", "saves", "have saved"],
+      "answer": 0,
+      "explanation": "หลัง will ใช้ have เสมอ → **will have saved**"
+    },
+    {
+      "q": "เลือก V3 ที่ถูกต้อง: By noon, they will have ___ (eat) lunch.",
+      "options": ["ate", "eaten", "eated", "eat"],
+      "answer": 1,
+      "explanation": "eat → ate → **eaten**"
+    },
+    {
+      "q": "เลือก V3 ที่ถูกต้อง: He will have ___ (fly) to Tokyo by tomorrow night.",
+      "options": ["flew", "flown", "flied", "flying"],
+      "answer": 1,
+      "explanation": "fly → flew → **flown**"
+    },
+    {
+      "q": "เลือก V3 ที่ถูกต้อง: By then, I will have ___ (forget) about it.",
+      "options": ["forgot", "forgotten", "forgetted", "forget"],
+      "answer": 1,
+      "explanation": "forget → forgot → **forgotten**"
+    },
+    {
+      "q": "ประโยคใดเป็น Future Perfect",
+      "options": ["I will finish it soon.", "I will be finishing it at 5.", "I will have finished it by 5.", "I have finished it."],
+      "answer": 2,
+      "explanation": "**will have finished** = will have + V3"
+    },
+    {
+      "q": "ประโยคใดเป็น Future Continuous",
+      "options": ["She will have left by noon.", "She will be leaving at noon.", "She will leave at noon.", "She left at noon."],
+      "answer": 1,
+      "explanation": "**will be leaving** = will be + V-ing"
+    },
+    {
+      "q": "“By 8 p.m., we will have arrived in Hat Yai.” หมายความว่าอย่างไร",
+      "options": ["เราจะออกเดินทางตอนสองทุ่ม", "ภายในสองทุ่มเราจะถึงหาดใหญ่แล้ว", "เราจะกำลังเดินทางตอนสองทุ่ม", "เราถึงหาดใหญ่เมื่อวานตอนสองทุ่ม"],
+      "answer": 1,
+      "explanation": "will have arrived by 8 p.m. = **ภายในสองทุ่มจะถึงแล้ว**"
+    },
+    {
+      "q": "คำว่า “by” ในประโยค “I will have finished by Monday.” แปลว่าอะไร",
+      "options": ["โดย", "ภายใน / ไม่เกิน", "ข้าง ๆ", "ผ่าน"],
+      "answer": 1,
+      "explanation": "by + เวลา = **ภายใน / ไม่เกิน** เวลานั้น"
+    },
+    {
+      "q": "ประโยคปฏิเสธของ “They will have arrived by noon.” คือข้อใด",
+      "options": ["They won't have arrived by noon.", "They will haven't arrived by noon.", "They don't will have arrived by noon.", "They won't has arrived by noon."],
+      "answer": 0,
+      "explanation": "will not → **won't** + have + V3"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: I ___ have finished the work by tomorrow. It's too much.",
+      "options": ["won't", "don't", "haven't", "am not"],
+      "answer": 0,
+      "explanation": "งานเยอะเกินไป จะทำไม่เสร็จภายในพรุ่งนี้ → **won't** have finished"
+    },
+    {
+      "q": "ข้อใดเป็นรูปย่อของ “She will not have left.”",
+      "options": ["She won't have left.", "She willn't have left.", "She won't has left.", "She'll not left."],
+      "answer": 0,
+      "explanation": "will not → **won't** แล้วตามด้วย have + V3"
+    },
+    {
+      "q": "ข้อใดเป็นประโยคปฏิเสธที่ถูกต้อง",
+      "options": ["We won't have finished by Friday.", "We won't have finish by Friday.", "We will not has finished by Friday.", "We don't will have finished by Friday."],
+      "answer": 0,
+      "explanation": "won't + have + **V3** (finished)"
+    },
+    {
+      "q": "เปลี่ยน “You will have done the task by 5.” เป็นประโยคคำถาม ข้อใดถูกต้อง",
+      "options": ["Will you have done the task by 5?", "Will have you done the task by 5?", "Have you will done the task by 5?", "Will you have do the task by 5?"],
+      "answer": 0,
+      "explanation": "Will + ประธาน + have + V3 → **Will you have done** the task by 5?"
+    },
+    {
+      "q": "A: Will you have finished the book by Sunday?  B: Yes, I ___.",
+      "options": ["have", "will", "do", "am"],
+      "answer": 1,
+      "explanation": "คำถามขึ้นต้นด้วย Will ตอบสั้นด้วย **will** → Yes, I will."
+    },
+    {
+      "q": "A: Will they have arrived by 7?  B: No, they ___.",
+      "options": ["haven't", "won't", "don't", "aren't"],
+      "answer": 1,
+      "explanation": "ตอบปฏิเสธคำถามที่ขึ้นต้นด้วย Will → No, they **won't**."
+    },
+    {
+      "q": "เรียงคำให้เป็นคำถามที่ถูกต้อง: (have / will / by noon / she / left)",
+      "options": ["Will she have left by noon?", "Will have she left by noon?", "She will have left by noon?", "Will she left have by noon?"],
+      "answer": 0,
+      "explanation": "Will + ประธาน + have + V3 → **Will she have left** by noon?"
+    },
+    {
+      "q": "A: How many countries will you have visited by the end of the year?  B: ___",
+      "options": ["I will have visited six countries.", "I visit six countries.", "Yes, I will.", "I am visiting six countries."],
+      "answer": 0,
+      "explanation": "ตอบด้วยโครงสร้างเดียวกับคำถาม → I **will have visited** six countries."
+    },
+    {
+      "q": "เติมคำในช่องว่าง: By the time you ___, I will have cleaned the house.",
+      "options": ["arrive", "will arrive", "arrived", "will have arrived"],
+      "answer": 0,
+      "explanation": "หลัง by the time ใช้ **Present Simple** → arrive"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Before the teacher ___ the room, we will have finished the test.",
+      "options": ["enters", "will enter", "entered", "will have entered"],
+      "answer": 0,
+      "explanation": "หลัง before (ในประโยคอนาคต) ใช้ **Present Simple** → enters"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The plane will have landed ___ 9 a.m.",
+      "options": ["by", "since", "for", "ago"],
+      "answer": 0,
+      "explanation": "**by** 9 a.m. = ภายใน 9 โมงเช้า"
+    },
+    {
+      "q": "ข้อใดถูกต้อง",
+      "options": ["By the time he will come, we will have left.", "By the time he comes, we will have left.", "By the time he comes, we will left.", "By the time he came, we will have left."],
+      "answer": 1,
+      "explanation": "by the time + Present Simple (**comes**) และอีกส่วนใช้ **will have left**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: At 5 p.m., I ___ my report. (จะกำลังทำ)",
+      "options": ["will be writing", "will have written", "will write", "wrote"],
+      "answer": 0,
+      "explanation": "จะกำลังทำ ณ จุดเวลาในอนาคต → Future Continuous **will be writing**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: By 5 p.m., I ___ my report. (จะเสร็จแล้ว)",
+      "options": ["will be writing", "will have written", "will write", "wrote"],
+      "answer": 1,
+      "explanation": "จะเสร็จภายในเวลานั้น → Future Perfect **will have written**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Don't worry. I ___ you with your homework later. (เสนอช่วย)",
+      "options": ["will help", "will have helped", "will be helped", "helped"],
+      "answer": 0,
+      "explanation": "เสนอความช่วยเหลือใช้ Future Simple → **will help**"
+    },
+    {
+      "q": "ข้อใดใช้ Future Perfect ได้เหมาะสม",
+      "options": ["By next June, I will have graduated from school.", "Yesterday, I will have graduated.", "I will have graduate next June.", "Now I will have graduated."],
+      "answer": 0,
+      "explanation": "**By next June** + will have + V3 ใช้ได้เหมาะสม ส่วนข้ออื่นเวลาไม่ตรงหรือผิดรูปกริยา"
+    },
+    {
+      "q": "งาน: ทำการบ้านคณิต  กำหนด: ภายใน 8 p.m. ข้อใดเขียนได้ถูกต้อง",
+      "options": ["I will have done my math homework by 8 p.m.", "I have done my math homework by 8 p.m.", "I will doing my math homework by 8 p.m.", "I did my math homework by 8 p.m."],
+      "answer": 0,
+      "explanation": "จะทำเสร็จภายในเวลาที่กำหนด → **will have done** … by 8 p.m."
+    },
+    {
+      "q": "งาน: พ่อทาสีห้อง  กำหนด: ก่อนวันเสาร์ ข้อใดเขียนได้ถูกต้อง",
+      "options": ["Dad will have painted the room before Saturday.", "Dad will has painted the room before Saturday.", "Dad will paint have the room before Saturday.", "Dad has painted the room before Saturday."],
+      "answer": 0,
+      "explanation": "ประธาน + **will have** + V3 + before + เวลา"
+    },
+    {
+      "q": "งาน: นกเก็บเงินให้ครบ 5,000 บาท  กำหนด: ภายในสิ้นปี ข้อใดเขียนได้ถูกต้อง",
+      "options": ["Nok will have saved 5,000 baht by the end of the year.", "Nok saves 5,000 baht by the end of the year.", "Nok will be saving 5,000 baht by the end of the year.", "Nok has saved 5,000 baht by the end of the year."],
+      "answer": 0,
+      "explanation": "จะเก็บได้ครบภายในสิ้นปี → **will have saved** … by the end of the year"
+    },
+    {
+      "q": "สถานการณ์: ร้านปิดหกโมงเย็น และคุณจะไปถึงตอนหกโมงครึ่ง ข้อใดถูกต้อง",
+      "options": ["The shop will have closed by the time I get there.", "The shop closes by the time I get there.", "The shop will be closing when I got there.", "The shop has closed by the time I get there."],
+      "answer": 0,
+      "explanation": "ร้านจะปิดไปก่อนที่เราไปถึง → **will have closed** by the time I get there"
+    },
+    {
+      "q": "แปล: “ภายในพรุ่งนี้ ฉันจะอ่านหนังสือเล่มนี้จบแล้ว”",
+      "options": ["I will have finished this book by tomorrow.", "I finished this book by tomorrow.", "I will finishing this book by tomorrow.", "I have finished this book by tomorrow."],
+      "answer": 0,
+      "explanation": "“ภายใน…จะ…แล้ว” → **will have finished** … by tomorrow"
+    },
+    {
+      "q": "แปล: “ภายในสองทุ่ม เขาจะยังกลับไม่ถึงบ้าน”",
+      "options": ["He won't have got home by 8 p.m.", "He doesn't get home by 8 p.m.", "He won't got home by 8 p.m.", "He hasn't got home by 8 p.m."],
+      "answer": 0,
+      "explanation": "ปฏิเสธ → **won't have** + V3 (got)"
+    },
+    {
+      "q": "หาส่วนที่ผิด: “She will has finished her work by noon.” ต้องแก้อย่างไร",
+      "options": ["will → would", "has → have", "finished → finish", "by → for"],
+      "answer": 1,
+      "explanation": "หลัง will ใช้ **have** เสมอ"
+    },
+    {
+      "q": "หาส่วนที่ผิด: “By next week, we will have build the website.” ต้องแก้อย่างไร",
+      "options": ["By → In", "will → are", "build → built", "website → websites"],
+      "answer": 2,
+      "explanation": "หลัง will have ต้องเป็น V3 → **built**"
+    },
+    {
+      "q": "หาส่วนที่ผิด: “By the time you will wake up, I will have left.” ต้องแก้อย่างไร",
+      "options": ["By the time → When", "will wake → wake", "will have → would have", "left → leave"],
+      "answer": 1,
+      "explanation": "หลัง by the time ใช้ Present Simple → you **wake** up"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: In two years, my sister ___ from university.",
+      "options": ["will have graduated", "graduates", "graduated", "has graduated"],
+      "answer": 0,
+      "explanation": "อีกสองปีข้างหน้าจะเรียนจบแล้ว → **will have graduated**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: By the end of today, I ___ 10,000 steps.",
+      "options": ["will have walked", "walk", "walked", "am walk"],
+      "answer": 0,
+      "explanation": "ภายในสิ้นวันนี้จะเดินครบ 10,000 ก้าว → **will have walked**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Will the workers ___ the road by next month?",
+      "options": ["have repaired", "repaired", "have repair", "be repaired have"],
+      "answer": 0,
+      "explanation": "Will + ประธาน + **have + V3** → have repaired"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: By the time the party starts, we ___ all the balloons.",
+      "options": ["will have blown up", "blow up", "blew up", "have blew up"],
+      "answer": 0,
+      "explanation": "จะเป่าลูกโป่งเสร็จก่อนงานเริ่ม → **will have blown up** (blow → blew → blown)"
+    },
+    {
+      "q": "อ่านข้อความ: “Lin has a busy week. By Tuesday, she will have finished her science project. By Thursday, she will have practiced her speech. By Saturday, she will have packed for her trip.” ภายในวันอังคาร Lin จะทำอะไรเสร็จ",
+      "options": ["Her speech.", "Her science project.", "Packing for her trip.", "Nothing."],
+      "answer": 1,
+      "explanation": "By Tuesday, she will have finished her **science project**."
+    },
+    {
+      "q": "อ่านข้อความ: “The cake needs 40 minutes in the oven. I put it in at 3:00, so it will have baked by 3:40.” ข้อใดถูกต้อง",
+      "options": ["เค้กจะเริ่มอบตอน 3:40", "เค้กจะอบเสร็จภายใน 3:40", "เค้กอบเสร็จตอน 3:00", "เค้กต้องอบ 3 ชั่วโมง"],
+      "answer": 1,
+      "explanation": "will have baked by 3:40 = **ภายใน 3:40 จะอบเสร็จแล้ว**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: How long will you ___ here by next summer?",
+      "options": ["have lived", "lived", "have live", "be lived"],
+      "answer": 0,
+      "explanation": "How long will + ประธาน + **have + V3** + by … = ถึงตอนนั้นจะอยู่มานานเท่าไรแล้ว"
+    }
+  ]
+}

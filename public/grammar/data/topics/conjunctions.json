@@ -1,0 +1,341 @@
+{
+  "lesson": {
+    "summary": "คำสันธาน (Conjunction) ใช้ **เชื่อมคำ วลี หรือประโยค** เข้าด้วยกัน แบ่งเป็น 3 แบบ คือ เชื่อมสิ่งที่เท่ากัน (FANBOYS), คำเชื่อมที่มาเป็นคู่ และคำเชื่อมประโยครอง",
+    "sections": [
+      {
+        "icon": "🔗",
+        "title": "Coordinating: FANBOYS",
+        "text": "เชื่อมสิ่งที่สำคัญเท่ากัน เมื่อเชื่อม 2 ประโยค นิยมใส่ **comma ( , )** หน้าคำเชื่อม",
+        "table": {
+          "head": ["คำ", "ความหมาย", "ตัวอย่าง"],
+          "rows": [
+            ["**for**", "เพราะ (ภาษาทางการ)", "She was tired, **for** she worked all day."],
+            ["**and**", "และ", "I like tea **and** coffee."],
+            ["**nor**", "และไม่ (ใช้ต่อจากประโยคปฏิเสธ)", "He doesn't eat meat, **nor** does he eat fish."],
+            ["**but**", "แต่", "The room is small **but** comfortable."],
+            ["**or**", "หรือ / มิฉะนั้น", "Rice **or** noodles? / Hurry, **or** you'll be late."],
+            ["**yet**", "แต่ถึงกระนั้น", "It was raining, **yet** they played outside."],
+            ["**so**", "ดังนั้น", "I was hungry, **so** I made a sandwich."]
+          ]
+        }
+      },
+      {
+        "icon": "👫",
+        "title": "Correlative: คำเชื่อมที่มาเป็นคู่",
+        "table": {
+          "head": ["คู่คำ", "ความหมาย", "ตัวอย่าง"],
+          "rows": [
+            ["both … and", "ทั้ง … และ", "**Both** Tom **and** Ben are here."],
+            ["either … or", "ไม่ … ก็ … (อย่างใดอย่างหนึ่ง)", "You can **either** call **or** text me."],
+            ["neither … nor", "ไม่ทั้ง … และไม่ …", "It's **neither** cheap **nor** useful."],
+            ["not only … but also", "ไม่เพียงแต่ … แต่ยัง …", "She is **not only** smart **but also** kind."],
+            ["so … that", "… มากจนกระทั่ง …", "The app is **so** useful **that** everyone uses it."]
+          ]
+        },
+        "list": [
+          "**neither … nor** มีความหมายปฏิเสธอยู่แล้ว ไม่ต้องใส่ not ซ้ำ",
+          "**both … and** เป็นประธานพหูพจน์: Both my sister and I **are** students."
+        ]
+      },
+      {
+        "icon": "🌿",
+        "title": "Subordinating: เชื่อมประโยครอง",
+        "table": {
+          "head": ["คำ", "ความหมาย"],
+          "rows": [
+            ["because", "เพราะว่า"],
+            ["although / though", "ถึงแม้ว่า"],
+            ["when / while", "เมื่อ / ขณะที่"],
+            ["if", "ถ้า"],
+            ["before / after", "ก่อน / หลังจากที่"],
+            ["until", "จนกระทั่ง"]
+          ]
+        },
+        "text": "ประโยครองขึ้นต้นประโยคได้ ถ้าขึ้นต้นให้ใส่ comma: **Because** it rained, we stayed home."
+      },
+      {
+        "icon": "⚠️",
+        "title": "ระวัง! จุดที่มักผิด",
+        "mistakes": [
+          { "wrong": "**Although** it rained, **but** we went out.", "right": "**Although** it rained, we went out.", "why": "although กับ but ห้ามใช้คู่กัน เลือกใช้คำเดียว" },
+          { "wrong": "**Because** I was sick, **so** I stayed home.", "right": "**Because** I was sick, I stayed home.", "why": "because กับ so ห้ามใช้คู่กัน" },
+          { "wrong": "She **doesn't** like **neither** tea nor coffee.", "right": "She likes **neither** tea nor coffee.", "why": "neither มีความหมายปฏิเสธอยู่แล้ว" },
+          { "wrong": "**Both** Ann **or** Bee are coming.", "right": "**Both** Ann **and** Bee are coming.", "why": "both คู่กับ and" }
+        ]
+      }
+    ],
+    "tip": "คำเชื่อมคู่ต้องจับคู่ให้ถูก: **both–and · either–or · neither–nor · not only–but also** และห้ามใช้ although คู่กับ but หรือ because คู่กับ so"
+  },
+  "questions": [
+    {
+      "q": "เติมคำในช่องว่าง: I wanted to go out, ___ it was raining.",
+      "options": ["and", "but", "or", "so"],
+      "answer": 1,
+      "explanation": "อยากออกไปข้างนอก **แต่** ฝนตก → but (ความขัดแย้ง)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The printer was broken, ___ I wrote the report by hand.",
+      "options": ["so", "but", "or", "nor"],
+      "answer": 0,
+      "explanation": "เครื่องพิมพ์เสีย **ดังนั้น** จึงเขียนด้วยมือ → so (ผลลัพธ์)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Is your new teacher a man ___ a woman?",
+      "options": ["and", "or", "but", "so"],
+      "answer": 1,
+      "explanation": "ถามให้เลือกอย่างใดอย่างหนึ่ง ใช้ **or** (หรือ)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: My brother likes football, ___ my sister likes tennis.",
+      "options": ["and", "so", "or", "nor"],
+      "answer": 0,
+      "explanation": "เพิ่มข้อมูลอีกอย่าง ใช้ **and**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: He doesn't eat meat, ___ does he eat fish.",
+      "options": ["or", "nor", "but", "so"],
+      "answer": 1,
+      "explanation": "ต่อจากประโยคปฏิเสธ = “และก็ไม่…” ใช้ **nor** แล้วสลับ does he"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: She was tired, ___ she kept working.",
+      "options": ["yet", "so", "or", "nor"],
+      "answer": 0,
+      "explanation": "เหนื่อย **แต่ถึงกระนั้น** ก็ทำงานต่อ → yet"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: I was hungry, ___ I made a sandwich.",
+      "options": ["but", "so", "or", "yet"],
+      "answer": 1,
+      "explanation": "หิว **ดังนั้น** จึงทำแซนด์วิช → so"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: You can pay by cash ___ by card.",
+      "options": ["or", "nor", "so", "yet"],
+      "answer": 0,
+      "explanation": "จ่ายเงินสด **หรือ** บัตรก็ได้ → or"
+    },
+    {
+      "q": "คำใดใน FANBOYS แปลว่า “ดังนั้น”",
+      "options": ["for", "so", "yet", "nor"],
+      "answer": 1,
+      "explanation": "**so** = ดังนั้น (for = เพราะ · yet = แต่ถึงกระนั้น · nor = และไม่)"
+    },
+    {
+      "q": "ข้อใดใช้ comma ถูกต้อง",
+      "options": ["It was late, so we went home.", "It was late so, we went home.", "It was, late so we went home.", "It was late so we, went home."],
+      "answer": 0,
+      "explanation": "เชื่อม 2 ประโยคด้วย FANBOYS ใส่ comma **หน้า** คำเชื่อม → late**, so** we…"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: ___ Tom and Ben are in my class.",
+      "options": ["Either", "Neither", "Both", "Not only"],
+      "answer": 2,
+      "explanation": "คู่กับ and และกริยา are → **Both** … and …"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: You can either walk ___ take a bus.",
+      "options": ["and", "or", "nor", "but"],
+      "answer": 1,
+      "explanation": "either คู่กับ **or**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The food was neither hot ___ tasty.",
+      "options": ["or", "and", "nor", "but"],
+      "answer": 2,
+      "explanation": "neither คู่กับ **nor**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: She is not only smart ___ also friendly.",
+      "options": ["and", "but", "or", "so"],
+      "answer": 1,
+      "explanation": "not only … **but** also …"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The test was ___ difficult that nobody finished it.",
+      "options": ["so", "such", "too", "very"],
+      "answer": 0,
+      "explanation": "**so** + คำคุณศัพท์ + that = …มากจนกระทั่ง…"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Neither my parents ___ my brother likes spicy food.",
+      "options": ["or", "nor", "and", "but"],
+      "answer": 1,
+      "explanation": "neither คู่กับ **nor**"
+    },
+    {
+      "q": "ข้อใดถูกต้อง",
+      "options": ["Both Ann or Bee are coming.", "Both Ann and Bee are coming.", "Both Ann nor Bee are coming.", "Both Ann but Bee are coming."],
+      "answer": 1,
+      "explanation": "both คู่กับ **and**"
+    },
+    {
+      "q": "ข้อใดถูกต้อง",
+      "options": ["She doesn't like neither tea nor coffee.", "She likes neither tea nor coffee.", "She likes neither tea or coffee.", "She doesn't like neither tea or coffee."],
+      "answer": 1,
+      "explanation": "neither … nor มีความหมายปฏิเสธในตัว จึงไม่ใช้ doesn't ซ้ำ และต้องคู่กับ nor"
+    },
+    {
+      "q": "“either … or” แปลว่าอะไร",
+      "options": ["ทั้ง … และ", "ไม่ … ก็ … (อย่างใดอย่างหนึ่ง)", "ไม่ทั้ง … และไม่ …", "ไม่เพียงแต่ … แต่ยัง …"],
+      "answer": 1,
+      "explanation": "either … or = **อย่างใดอย่างหนึ่ง** (ไม่…ก็…)"
+    },
+    {
+      "q": "แปล: “เขาไม่เพียงแต่ร้องเพลงเก่ง แต่ยังเต้นเก่งด้วย”",
+      "options": ["He not only sings well but also dances well.", "He both sings well but dances well.", "He either sings well nor dances well.", "He sings well so also dances well."],
+      "answer": 0,
+      "explanation": "ไม่เพียงแต่…แต่ยัง… = **not only … but also …**"
+    },
+    {
+      "q": "แปล: “ทั้งฉันและน้องสาวเป็นนักเรียน”",
+      "options": ["Both my sister and I are students.", "Either my sister and I are students.", "Both my sister or I am students.", "Neither my sister nor I are students."],
+      "answer": 0,
+      "explanation": "ทั้ง…และ… = **Both … and …** ใช้กริยาพหูพจน์ are"
+    },
+    {
+      "q": "แปล: “ร้านนี้ไม่ถูกและไม่อร่อย”",
+      "options": ["This restaurant is neither cheap nor delicious.", "This restaurant is either cheap or delicious.", "This restaurant is both cheap and delicious.", "This restaurant is not only cheap but also delicious."],
+      "answer": 0,
+      "explanation": "ไม่…และไม่… = **neither … nor …**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The weather was so cold ___ we stayed inside.",
+      "options": ["that", "than", "then", "so"],
+      "answer": 0,
+      "explanation": "so + คำคุณศัพท์ + **that** = หนาวมากจนพวกเราต้องอยู่ข้างใน"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: I stayed home ___ I was sick.",
+      "options": ["because", "although", "but", "or"],
+      "answer": 0,
+      "explanation": "อยู่บ้าน **เพราะ** ป่วย → because (เหตุผล)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: ___ it was raining, they played football.",
+      "options": ["Because", "Although", "So", "If"],
+      "answer": 1,
+      "explanation": "**ถึงแม้ว่า** ฝนตก พวกเขาก็ยังเล่นฟุตบอล → Although (ความขัดแย้ง)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Call me ___ you arrive at the station.",
+      "options": ["when", "but", "or", "nor"],
+      "answer": 0,
+      "explanation": "โทรหาฉัน **เมื่อ** ถึงสถานี → when"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: We'll go to the beach ___ it's sunny tomorrow.",
+      "options": ["if", "but", "or", "so"],
+      "answer": 0,
+      "explanation": "จะไปทะเล **ถ้า** พรุ่งนี้แดดออก → if (เงื่อนไข)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Brush your teeth ___ you go to bed.",
+      "options": ["before", "because", "although", "but"],
+      "answer": 0,
+      "explanation": "แปรงฟัน **ก่อน** เข้านอน → before"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Wait here ___ I come back.",
+      "options": ["until", "because", "although", "or"],
+      "answer": 0,
+      "explanation": "รอที่นี่ **จนกว่า** ฉันจะกลับมา → until"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: My dad was cooking ___ I was doing my homework.",
+      "options": ["while", "because", "so", "nor"],
+      "answer": 0,
+      "explanation": "สองเหตุการณ์เกิด **ขณะเดียวกัน** → while"
+    },
+    {
+      "q": "ข้อใดผิดหลักไวยากรณ์",
+      "options": ["Although it rained, we went out.", "Although it rained, but we went out.", "It rained, but we went out.", "We went out although it rained."],
+      "answer": 1,
+      "explanation": "although กับ but **ห้ามใช้คู่กัน** ในประโยคเดียว"
+    },
+    {
+      "q": "ข้อใดผิดหลักไวยากรณ์",
+      "options": ["Because I was tired, I went to bed early.", "I was tired, so I went to bed early.", "Because I was tired, so I went to bed early.", "I went to bed early because I was tired."],
+      "answer": 2,
+      "explanation": "because กับ so **ห้ามใช้คู่กัน** ในประโยคเดียว"
+    },
+    {
+      "q": "รวมประโยค “It was very hot.” กับ “We turned on the fan.” ข้อใดถูกต้อง",
+      "options": ["It was very hot, so we turned on the fan.", "It was very hot, but we turned on the fan.", "It was very hot, or we turned on the fan.", "It was very hot, nor we turned on the fan."],
+      "answer": 0,
+      "explanation": "ร้อน **ดังนั้น** จึงเปิดพัดลม → so"
+    },
+    {
+      "q": "รวมประโยค “Nok studied hard.” กับ “She failed the test.” ข้อใดถูกต้อง",
+      "options": ["Nok studied hard, but she failed the test.", "Nok studied hard, so she failed the test.", "Nok studied hard, or she failed the test.", "Because Nok studied hard, she failed the test."],
+      "answer": 0,
+      "explanation": "ตั้งใจเรียน **แต่** สอบตก เป็นความขัดแย้ง → but"
+    },
+    {
+      "q": "รวมประโยค “You can stay here.” กับ “You can come with us.” (เลือกอย่างใดอย่างหนึ่ง) ข้อใดถูกต้อง",
+      "options": ["You can either stay here or come with us.", "You can both stay here or come with us.", "You can neither stay here or come with us.", "You can either stay here nor come with us."],
+      "answer": 0,
+      "explanation": "อย่างใดอย่างหนึ่ง = **either … or …**"
+    },
+    {
+      "q": "คำเชื่อมใดบอก “เหตุผล”",
+      "options": ["because", "but", "or", "although"],
+      "answer": 0,
+      "explanation": "**because** = เพราะว่า"
+    },
+    {
+      "q": "คำเชื่อมใดบอก “ความขัดแย้ง”",
+      "options": ["so", "and", "although", "because"],
+      "answer": 2,
+      "explanation": "**although** = ถึงแม้ว่า"
+    },
+    {
+      "q": "คำเชื่อมใดบอก “ผลลัพธ์”",
+      "options": ["so", "because", "or", "although"],
+      "answer": 0,
+      "explanation": "**so** = ดังนั้น"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Both Mint and Nam ___ good at math.",
+      "options": ["is", "are", "has", "was"],
+      "answer": 1,
+      "explanation": "Both … and … เป็นประธานพหูพจน์ → **are**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: My cat is small ___ very fast.",
+      "options": ["and", "or", "nor", "so"],
+      "answer": 0,
+      "explanation": "บอกลักษณะเพิ่มเติม ใช้ **and**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Hurry up, ___ you will be late.",
+      "options": ["or", "and", "but", "so"],
+      "answer": 0,
+      "explanation": "รีบหน่อย **มิฉะนั้น** จะสาย → or"
+    },
+    {
+      "q": "“Hurry up, or you'll miss the bus.” คำว่า or ในประโยคนี้หมายถึงอะไร",
+      "options": ["หรือ", "มิฉะนั้น", "และ", "เพราะ"],
+      "answer": 1,
+      "explanation": "or หลังคำสั่ง แปลว่า **มิฉะนั้น**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: She didn't come to school ___ she had a fever.",
+      "options": ["so", "because", "but", "or"],
+      "answer": 1,
+      "explanation": "ไม่มาโรงเรียน **เพราะ** มีไข้ → because"
+    },
+    {
+      "q": "อ่านข้อความ: “Lek wanted to buy a new bike, but it was too expensive. So she decided to save money. She didn't buy snacks, nor did she go to the movies.” ทำไม Lek ไม่ซื้อจักรยานทันที",
+      "options": ["Because it was too expensive.", "Because she didn't like it.", "Because she wanted snacks.", "Because she went to the movies."],
+      "answer": 0,
+      "explanation": "ข้อความบอกว่า but **it was too expensive** (แต่มันแพงเกินไป)"
+    },
+    {
+      "q": "อ่านข้อความ: “You can either take the train or fly to Chiang Mai. The train is cheap but slow, and the plane is fast but expensive.” ข้อใดถูกต้อง",
+      "options": ["The train is fast and cheap.", "The plane is cheap.", "The train is slower than the plane.", "You must take the train."],
+      "answer": 2,
+      "explanation": "รถไฟช้า (slow) ส่วนเครื่องบินเร็ว (fast) → **The train is slower than the plane.**"
+    }
+  ]
+}

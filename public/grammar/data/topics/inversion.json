@@ -1,0 +1,118 @@
+{
+  "lesson": {
+    "summary": "Inversion คือการ **ย้ายกริยาช่วยมาไว้หน้าประธาน** (เรียงแบบประโยคคำถาม) ในประโยคบอกเล่า เพื่อ **เน้นความหมาย** มักเกิดเมื่อขึ้นต้นด้วยคำปฏิเสธหรือคำจำกัด เช่น Never, Rarely, Only และในสำนวน So do I / Neither do I",
+    "sections": [
+      {
+        "icon": "🔃",
+        "title": "หลักการ",
+        "formulas": [
+          { "label": "ปกติ", "formula": "ประธาน + กริยาช่วย + กริยา", "example": "I **have never seen** such a big fish." },
+          { "label": "Inversion", "formula": "คำที่ทำให้สลับ + **กริยาช่วย + ประธาน** + กริยา", "example": "**Never have I seen** such a big fish." }
+        ],
+        "list": [
+          "ถ้าประโยคเดิมไม่มีกริยาช่วย ให้เติม **do / does / did** แล้วกริยาหลักกลับเป็น V1: She rarely **cooks**. → Rarely **does she cook**."
+        ]
+      },
+      {
+        "icon": "🚩",
+        "title": "คำที่ทำให้เกิด Inversion",
+        "table": {
+          "head": ["คำ", "ความหมาย", "ตัวอย่าง"],
+          "rows": [
+            ["Never", "ไม่เคยเลย", "**Never have I** felt so happy."],
+            ["Rarely / Seldom", "แทบจะไม่ / นาน ๆ ครั้ง", "**Rarely does he** eat breakfast."],
+            ["Hardly ever", "แทบไม่เคย", "**Hardly ever do they** watch TV."],
+            ["Not only … but also", "ไม่เพียงแต่ … แต่ยัง", "**Not only is she** smart, but she is also kind."],
+            ["Only then / Only after …", "เพียงแค่ตอนนั้น / หลังจาก…เท่านั้น", "**Only then did I** understand."],
+            ["Little", "แทบไม่…เลย", "**Little did he** know about the plan."]
+          ]
+        }
+      },
+      {
+        "icon": "🙋",
+        "title": "So / Neither — “…ก็เหมือนกัน”",
+        "table": {
+          "head": ["ประโยคแรก", "ตอบว่าก็เหมือนกัน"],
+          "rows": [
+            ["บอกเล่า: Mint plays tennis well.", "**So does** her brother."],
+            ["ปฏิเสธ: I don't eat seafood.", "**Neither does** my dad."],
+            ["มีกริยาช่วย: They have visited Korea.", "**So have** we."],
+            ["verb to be: I'm hungry.", "**So am** I."]
+          ]
+        },
+        "text": "ใช้ **กริยาช่วยตัวเดียวกับประโยคแรก** (ถ้าไม่มีใช้ do / does / did) · บอกเล่าใช้ **So** · ปฏิเสธใช้ **Neither**"
+      },
+      {
+        "icon": "🌀",
+        "title": "Inversion แทน If",
+        "list": [
+          "**Should** you need help, call me. = If you need help, call me.",
+          "**Had** I known, I would have come. = If I had known, …",
+          "**Were** I you, I would apologize. = If I were you, …"
+        ]
+      },
+      {
+        "icon": "📍",
+        "title": "Here / There",
+        "list": [
+          "ประธานเป็นคำนาม → สลับ: **Here comes the bus!** / **There goes the bell!**",
+          "ประธานเป็นสรรพนาม → ไม่สลับ: **Here it comes!** / **There she goes!**"
+        ]
+      },
+      {
+        "icon": "⚠️",
+        "title": "ระวัง! จุดที่มักผิด",
+        "mistakes": [
+          { "wrong": "Never **I have** seen it.", "right": "Never **have I** seen it.", "why": "ต้องสลับกริยาช่วยมาไว้หน้าประธาน" },
+          { "wrong": "Rarely **he eats** breakfast.", "right": "Rarely **does he eat** breakfast.", "why": "ไม่มีกริยาช่วย ต้องเติม does และกริยากลับเป็น V1" },
+          { "wrong": "I like cats. — So **I do**.", "right": "I like cats. — So **do I**.", "why": "So + กริยาช่วย + ประธาน" },
+          { "wrong": "I can't swim. — **So can't** I.", "right": "I can't swim. — **Neither can** I.", "why": "ประโยคปฏิเสธใช้ Neither + กริยาช่วยรูปบอกเล่า" },
+          { "wrong": "Here **comes it**!", "right": "Here **it comes**!", "why": "ประธานเป็นสรรพนาม ไม่สลับ" }
+        ]
+      }
+    ],
+    "tip": "เห็นคำปฏิเสธหรือคำจำกัด (Never, Rarely, Only…, Not only) **ขึ้นต้นประโยค** → เรียงแบบคำถาม: **กริยาช่วย + ประธาน** (ไม่มีก็เติม do / does / did)"
+  },
+  "questions": [
+    { "q": "เติมคำในช่องว่าง: Never ___ such a beautiful sunset.", "options": ["I have seen", "have I seen", "I saw", "seen I have"], "answer": 1, "explanation": "Never ขึ้นต้น → สลับ **have I** seen" },
+    { "q": "เติมคำในช่องว่าง: Rarely ___ breakfast.", "options": ["he eats", "does he eat", "he does eat", "eats he"], "answer": 1, "explanation": "ไม่มีกริยาช่วย ต้องเติม does → **does he eat**" },
+    { "q": "เติมคำในช่องว่าง: Seldom ___ late for work.", "options": ["she is", "is she", "does she", "she does"], "answer": 1, "explanation": "verb to be สลับได้เลย → **is she**" },
+    { "q": "เติมคำในช่องว่าง: Not only ___ smart, but she is also kind.", "options": ["she is", "is she", "does she", "she does"], "answer": 1, "explanation": "Not only ขึ้นต้น → สลับ **is she**" },
+    { "q": "เติมคำในช่องว่าง: Only then ___ the truth.", "options": ["I understood", "did I understand", "I did understand", "understood I"], "answer": 1, "explanation": "Only then ขึ้นต้น + อดีต → **did I understand**" },
+    { "q": "เติมคำในช่องว่าง: Little ___ about the surprise party.", "options": ["he knew", "did he know", "he did know", "knew he"], "answer": 1, "explanation": "Little (แทบไม่…เลย) ขึ้นต้น → **did he know**" },
+    { "q": "เติมคำในช่องว่าง: Hardly ever ___ TV on weekdays.", "options": ["they watch", "do they watch", "they do watch", "watch they"], "answer": 1, "explanation": "Hardly ever ขึ้นต้น → **do they watch**" },
+    { "q": "เปลี่ยนเป็น Inversion: “I have never felt so happy.”", "options": ["Never have I felt so happy.", "Never I have felt so happy.", "Never did I felt so happy.", "Never have felt I so happy."], "answer": 0, "explanation": "Never + **have I** + V3" },
+    { "q": "เปลี่ยนเป็น Inversion: “He rarely smiles.”", "options": ["Rarely does he smile.", "Rarely he smiles.", "Rarely does he smiles.", "Rarely smiles he."], "answer": 0, "explanation": "Rarely + **does he** + V1 (smile ไม่เติม s แล้ว)" },
+    { "q": "เปลี่ยนเป็น Inversion: “We seldom go out at night.”", "options": ["Seldom do we go out at night.", "Seldom we go out at night.", "Seldom go we out at night.", "Seldom do we going out at night."], "answer": 0, "explanation": "Seldom + **do we** + V1" },
+    { "q": "เปลี่ยนเป็น Inversion: “She had never been to the sea.”", "options": ["Never had she been to the sea.", "Never she had been to the sea.", "Never has she been to the sea.", "Never did she been to the sea."], "answer": 0, "explanation": "กริยาช่วย had ย้ายมาหน้าประธาน → **had she**" },
+    { "q": "ประโยคใดมีความหมายเหมือน “Never have I seen such a big fish.”", "options": ["I have never seen such a big fish.", "I have seen a big fish many times.", "I will never see a big fish.", "I saw a big fish yesterday."], "answer": 0, "explanation": "Inversion แค่เน้นความหมาย ความหมายเท่ากับ **I have never seen…**" },
+    { "q": "A: I'm hungry.  B: So ___ I.", "options": ["am", "do", "have", "is"], "answer": 0, "explanation": "ประโยคแรกใช้ am → So **am** I." },
+    { "q": "A: Mint plays tennis.  B: So ___ her brother.", "options": ["is", "does", "do", "plays"], "answer": 1, "explanation": "plays (ไม่มีกริยาช่วย) และ her brother เอกพจน์ → So **does**" },
+    { "q": "A: I don't eat seafood.  B: Neither ___ my dad.", "options": ["does", "doesn't", "do", "is"], "answer": 0, "explanation": "Neither + กริยาช่วยรูปบอกเล่า → Neither **does** my dad." },
+    { "q": "A: They have visited Korea.  B: So ___ we.", "options": ["have", "do", "are", "did"], "answer": 0, "explanation": "ประโยคแรกใช้ have → So **have** we." },
+    { "q": "A: I can't swim.  B: ___ can I.", "options": ["So", "Neither", "Either", "Too"], "answer": 1, "explanation": "ประโยคปฏิเสธ → **Neither** can I." },
+    { "q": "A: I went to the concert last night.  B: So ___ I.", "options": ["did", "do", "was", "have"], "answer": 0, "explanation": "went (อดีต ไม่มีกริยาช่วย) → So **did** I." },
+    { "q": "A: Tom isn't coming.  B: Neither ___ Jerry.", "options": ["is", "does", "isn't", "has"], "answer": 0, "explanation": "ประโยคแรกใช้ is → Neither **is** Jerry." },
+    { "q": "ข้อใดถูกต้อง", "options": ["A: I like cats. B: So I do.", "A: I like cats. B: So do I.", "A: I like cats. B: So am I.", "A: I like cats. B: Neither do I."], "answer": 1, "explanation": "So + กริยาช่วย + ประธาน → **So do I.**" },
+    { "q": "ข้อใดถูกต้อง", "options": ["A: I won't go. B: So won't I.", "A: I won't go. B: Neither will I.", "A: I won't go. B: Neither won't I.", "A: I won't go. B: So will I."], "answer": 1, "explanation": "ปฏิเสธ (won't) → **Neither will I.**" },
+    { "q": "แปล: “ฉันไม่ชอบผัก — น้องชายฉันก็ไม่ชอบเหมือนกัน”", "options": ["I don't like vegetables. Neither does my brother.", "I don't like vegetables. So does my brother.", "I don't like vegetables. Neither doesn't my brother.", "I don't like vegetables. My brother neither does."], "answer": 0, "explanation": "ปฏิเสธ → **Neither does** my brother." },
+    { "q": "เติมคำในช่องว่าง: ___ you need any help, please call me.", "options": ["Should", "Would", "Did", "Were"], "answer": 0, "explanation": "**Should** you … = If you … (ถ้าคุณ…)" },
+    { "q": "เติมคำในช่องว่าง: ___ I known about the test, I would have studied.", "options": ["Had", "Have", "Did", "Should"], "answer": 0, "explanation": "**Had** I known = If I had known (If Type 3)" },
+    { "q": "เติมคำในช่องว่าง: ___ I you, I would say sorry.", "options": ["Were", "Was", "Am", "Had"], "answer": 0, "explanation": "**Were** I you = If I were you" },
+    { "q": "“Should you have any questions, ask the teacher.” มีความหมายเหมือนข้อใด", "options": ["If you have any questions, ask the teacher.", "You should ask questions.", "You shouldn't ask the teacher.", "The teacher should have questions."], "answer": 0, "explanation": "Should you … = **If you** …" },
+    { "q": "“Had she left earlier, she would have caught the bus.” มีความหมายเหมือนข้อใด", "options": ["If she had left earlier, she would have caught the bus.", "She had left earlier and caught the bus.", "She should leave earlier.", "She will catch the bus."], "answer": 0, "explanation": "Had she left = **If she had left**" },
+    { "q": "เติมคำในช่องว่าง: Look! Here ___ the bus!", "options": ["comes", "come", "coming", "is come"], "answer": 0, "explanation": "Here + กริยา + ประธาน (คำนาม) → Here **comes** the bus!" },
+    { "q": "ข้อใดถูกต้อง", "options": ["Here comes it!", "Here it comes!", "Here coming it!", "Here it come!"], "answer": 1, "explanation": "ประธานเป็นสรรพนาม ไม่สลับ → **Here it comes!**" },
+    { "q": "ข้อใดถูกต้อง", "options": ["There goes the bell.", "There the bell goes it.", "There go the bell.", "There going the bell."], "answer": 0, "explanation": "ประธานเป็นคำนาม (the bell) → สลับ **There goes the bell.**" },
+    { "q": "แปล: “รถไฟมาแล้ว!”", "options": ["Here comes the train!", "Here the train come!", "Here comes train the!", "Here is coming train!"], "answer": 0, "explanation": "**Here comes the train!**" },
+    { "q": "ข้อใดผิด", "options": ["Never have I eaten durian.", "Rarely does she complain.", "Seldom we see him these days.", "Only then did I realize it."], "answer": 2, "explanation": "Seldom ขึ้นต้นต้องสลับ → Seldom **do we see** him" },
+    { "q": "ข้อใดผิด", "options": ["So do I.", "Neither can she.", "So I am.", "Neither did they."], "answer": 2, "explanation": "ต้องสลับเป็น So **am I**." },
+    { "q": "คำใดขึ้นต้นประโยคแล้วทำให้ต้องใช้ Inversion", "options": ["Never", "Always", "Usually", "Sometimes"], "answer": 0, "explanation": "**Never** เป็นคำปฏิเสธ ขึ้นต้นแล้วต้องสลับ" },
+    { "q": "ในประโยค “Not only did he win, but he also broke the record.” ส่วนใดเป็น inversion", "options": ["did he win", "he also broke", "the record", "Not only"], "answer": 0, "explanation": "กริยาช่วย did มาอยู่หน้าประธาน he → **did he win**" },
+    { "q": "เติมคำในช่องว่าง: Only after the exam ___ how easy it was.", "options": ["did I realize", "I realized", "I did realize", "realized I"], "answer": 0, "explanation": "Only after … ขึ้นต้น → **did I realize**" },
+    { "q": "เติมคำในช่องว่าง: Not only ___ the piano, but he also sings.", "options": ["he plays", "does he play", "he does play", "plays he"], "answer": 1, "explanation": "Not only ขึ้นต้น + ไม่มีกริยาช่วย → **does he play**" },
+    { "q": "เรียงคำเป็นประโยค Inversion: (have / never / I / so tired / felt)", "options": ["Never have I felt so tired.", "Never I have felt so tired.", "Never felt I have so tired.", "I never have felt so tired."], "answer": 0, "explanation": "Never + **have I** + felt" },
+    { "q": "อ่านบทสนทนา: “A: I've never been to Japan.  B: Neither have I. But I'd love to go!” B เคยไปญี่ปุ่นไหม", "options": ["เคย", "ไม่เคย", "กำลังจะไปพรุ่งนี้", "อยู่ที่ญี่ปุ่น"], "answer": 1, "explanation": "Neither have I = ฉันก็ **ไม่เคย** เหมือนกัน" },
+    { "q": "อ่านข้อความ: “Rarely does Mr. Somchai get angry. He is patient, and never has he shouted at his students.” ข้อใดถูกต้อง", "options": ["Mr. Somchai often gets angry.", "Mr. Somchai has never shouted at his students.", "Mr. Somchai shouts every day.", "Mr. Somchai is impatient."], "answer": 1, "explanation": "never has he shouted = **He has never shouted** at his students." }
+  ]
+}

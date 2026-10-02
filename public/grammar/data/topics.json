@@ -1,0 +1,92 @@
+{
+  "title": "English Grammar",
+  "level": "ม.ต้น",
+  "levelEn": "LOWER SECONDARY",
+  "questionsPerRound": 20,
+  "groups": [
+    {
+      "id": "tenses",
+      "name": "Tenses",
+      "nameTh": "กาลของกริยา บอกว่าเหตุการณ์เกิดขึ้นเมื่อไร",
+      "icon": "⏱️",
+      "color": "#6a45b8",
+      "topics": [
+        { "id": "present-simple", "title": "Present Simple Tense", "titleTh": "ปัจจุบันกาลธรรมดา", "icon": "🔁", "ready": true },
+        { "id": "present-continuous", "title": "Present Continuous Tense", "titleTh": "ปัจจุบันกาลกำลังกระทำ", "icon": "▶️", "ready": true },
+        { "id": "present-perfect", "title": "Present Perfect Tense", "titleTh": "ปัจจุบันกาลสมบูรณ์", "icon": "✅", "ready": true },
+        { "id": "present-perfect-continuous", "title": "Present Perfect Continuous Tense", "titleTh": "ปัจจุบันกาลสมบูรณ์กำลังกระทำ", "icon": "⏳", "ready": true },
+        { "id": "past-simple", "title": "Past Simple Tense", "titleTh": "อดีตกาลธรรมดา", "icon": "🕰️", "ready": true },
+        { "id": "past-continuous", "title": "Past Continuous Tense", "titleTh": "อดีตกาลกำลังกระทำ", "icon": "🎬", "ready": true },
+        { "id": "past-perfect", "title": "Past Perfect Tense", "titleTh": "อดีตกาลสมบูรณ์", "icon": "📜", "ready": true },
+        { "id": "past-perfect-continuous", "title": "Past Perfect Continuous Tense", "titleTh": "อดีตกาลสมบูรณ์กำลังกระทำ", "icon": "⌛", "ready": true },
+        { "id": "future-simple", "title": "Future Simple Tense", "titleTh": "อนาคตกาลธรรมดา", "icon": "🚀", "ready": true },
+        { "id": "future-continuous", "title": "Future Continuous Tense", "titleTh": "อนาคตกาลกำลังกระทำ", "icon": "🛰️", "ready": true },
+        { "id": "future-perfect", "title": "Future Perfect Tense", "titleTh": "อนาคตกาลสมบูรณ์", "icon": "🏁", "ready": true },
+        { "id": "future-perfect-continuous", "title": "Future Perfect Continuous Tense", "titleTh": "อนาคตกาลสมบูรณ์กำลังกระทำ", "icon": "🔭", "ready": true }
+      ]
+    },
+    {
+      "id": "parts-of-speech",
+      "name": "Parts of Speech",
+      "nameTh": "ชนิดของคำและคำเชื่อม",
+      "icon": "🧩",
+      "color": "#1d7488",
+      "topics": [
+        { "id": "nouns", "title": "Nouns", "titleTh": "คำนาม", "icon": "🍎", "ready": true },
+        { "id": "pronouns", "title": "Pronouns", "titleTh": "คำสรรพนาม", "icon": "🙋", "ready": true },
+        { "id": "adjectives", "title": "Adjectives", "titleTh": "คำคุณศัพท์", "icon": "🎨", "ready": true },
+        { "id": "verbs", "title": "Verbs", "titleTh": "คำกริยา", "icon": "🏃", "ready": true },
+        { "id": "adverbs", "title": "Adverbs", "titleTh": "คำกริยาวิเศษณ์", "icon": "💨", "ready": true },
+        { "id": "prepositions", "title": "Prepositions", "titleTh": "คำบุพบท", "icon": "📦", "ready": true },
+        { "id": "conjunctions", "title": "Conjunctions", "titleTh": "คำสันธาน", "icon": "🔗", "ready": true },
+        { "id": "connectives", "title": "Connectives", "titleTh": "คำเชื่อมความ", "icon": "🧷", "ready": true }
+      ]
+    },
+    {
+      "id": "sentence-structures",
+      "name": "Sentence Structures",
+      "nameTh": "โครงสร้างประโยคที่พบบ่อยในข้อสอบ",
+      "icon": "🏗️",
+      "color": "#b8541d",
+      "topics": [
+        { "id": "if-clauses", "title": "If-Clauses", "titleTh": "ประโยคเงื่อนไข", "icon": "🔀", "ready": true },
+        { "id": "reported-speech", "title": "Reported Speech", "titleTh": "การเล่าคำพูดของผู้อื่น", "icon": "🗣️", "ready": true },
+        { "id": "question-tags", "title": "Question Tags", "titleTh": "คำถามท้ายประโยค", "icon": "❓", "ready": true },
+        { "id": "relative-clauses", "title": "Relative Clauses", "titleTh": "อนุประโยคขยายคำนาม", "icon": "👉", "ready": true },
+        { "id": "passive-voice", "title": "Passive Voice", "titleTh": "ประโยคถูกกระทำ", "icon": "🔄", "ready": true },
+        { "id": "modal-verbs", "title": "Modal Verbs", "titleTh": "กริยาช่วยแสดงความหมาย", "icon": "🎛️", "ready": true },
+        { "id": "perfect-infinitives-modals", "title": "Perfect Infinitives with Modals", "titleTh": "must / should / could + have + V3", "icon": "🤔", "ready": true },
+        { "id": "parallelism", "title": "Parallelism", "titleTh": "โครงสร้างคู่ขนาน", "icon": "⚖️", "ready": true },
+        { "id": "subject-verb-agreement", "title": "Subject-Verb Agreement", "titleTh": "ความสอดคล้องของประธานและกริยา", "icon": "🤝", "ready": true },
+        { "id": "participles", "title": "Participles", "titleTh": "กริยารูป -ing และ V3", "icon": "🧬", "ready": true },
+        { "id": "inversion", "title": "Inversion", "titleTh": "การสลับตำแหน่งประธานและกริยา", "icon": "🔃", "ready": true }
+      ]
+    },
+    {
+      "id": "wish-subjunctive",
+      "name": "Wish & Subjunctive",
+      "nameTh": "ความปรารถนาและการสมมติ",
+      "icon": "💭",
+      "color": "#b8386a",
+      "topics": [
+        { "id": "wish", "title": "Wish", "titleTh": "ประโยคแสดงความปรารถนา", "icon": "🌠", "ready": true },
+        { "id": "present-subjunctive", "title": "Present Subjunctive", "titleTh": "การแนะนำ เรียกร้อง สั่งการ", "icon": "📋", "ready": true },
+        { "id": "past-subjunctive", "title": "Past Subjunctive", "titleTh": "การสมมติที่ไม่จริงในปัจจุบัน", "icon": "💫", "ready": true },
+        { "id": "past-perfect-subjunctive", "title": "Past Perfect Subjunctive", "titleTh": "การสมมติที่ไม่จริงในอดีต", "icon": "⏪", "ready": true }
+      ]
+    },
+    {
+      "id": "word-verb-patterns",
+      "name": "Word & Verb Patterns",
+      "nameTh": "การสร้างคำและรูปแบบกริยา",
+      "icon": "🔤",
+      "color": "#2f7d3a",
+      "topics": [
+        { "id": "prefixes-suffixes", "title": "Prefixes and Suffixes", "titleTh": "การเติมหน้าคำและท้ายคำ", "icon": "🧱", "ready": true },
+        { "id": "phrasal-verbs", "title": "Phrasal Verbs", "titleTh": "กริยาวลี", "icon": "🧲", "ready": true },
+        { "id": "gerund-infinitive", "title": "Gerund + Infinitive", "titleTh": "V-ing และ to + V", "icon": "🎯", "ready": true },
+        { "id": "causative", "title": "Causative", "titleTh": "ให้ผู้อื่นทำให้ (have / get / make / let)", "icon": "✂️", "ready": true }
+      ]
+    }
+  ]
+}

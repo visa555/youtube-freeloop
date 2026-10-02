@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>English Grammar ม.ต้น</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+Thai:wght@400;700;800;900&display=swap">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="app">
+  <header class="hero">
+    <div>
+      <div class="eyebrow" id="heroEyebrow">ENGLISH GRAMMAR</div>
+      <h1 id="heroTitle">ไวยากรณ์ภาษาอังกฤษ</h1>
+      <p id="heroSubtitle"></p>
+    </div>
+    <div class="hero-icon" id="heroIcon">📘</div>
+  </header>
+
+  <nav id="crumbs" class="crumbs hidden"></nav>
+
+  <section id="loadingScreen" class="card status">กำลังโหลด...</section>
+
+  <section id="errorScreen" class="card status hidden">
+    <h2>โหลดข้อมูลไม่สำเร็จ</h2>
+    <p id="errorMessage"></p>
+    <a class="button secondary" href="#/">กลับหน้าแรก</a>
+  </section>
+
+  <section id="homeScreen" class="hidden">
+    <div id="groupList" class="group-list"></div>
+  </section>
+
+  <section id="lessonScreen" class="hidden">
+    <div class="lesson-bar">
+      <span>📖 อ่านสรุปก่อนทำแบบฝึกหัด ใช้เวลาประมาณ 3 นาที</span>
+      <a id="skipLink" class="skip-link" href="#/">ข้ามไปทำแบบฝึกหัด →</a>
+    </div>
+    <div id="lessonBody" class="lesson"></div>
+    <div class="card lesson-cta">
+      <h2>อ่านครบแล้ว พร้อมลองทำหรือยัง?</h2>
+      <p id="lessonQuizInfo"></p>
+      <button class="primary" onclick="startFromLesson()">เริ่มทำแบบฝึกหัด →</button>
+    </div>
+  </section>
+
+  <main id="quizScreen" class="hidden">
+    <div class="topbar">
+      <div class="progress-wrap">
+        <div class="progress-label"><span id="progressText"></span><span id="scoreText"></span></div>
+        <div class="progress"><div id="progressBar"></div></div>
+      </div>
+      <button class="ghost" onclick="openLessonDialog()">📖 สรุป</button>
+      <button class="ghost" onclick="confirmRestart()">เริ่มใหม่</button>
+    </div>
+
+    <section class="card question-card">
+      <div class="question-number" id="questionNumber"></div>
+      <h2 id="questionText"></h2>
+      <div id="options" class="options"></div>
+
+      <div id="feedback" class="feedback hidden"></div>
+
+      <div class="actions">
+        <button id="prevBtn" class="secondary" onclick="prevQuestion()">← ข้อก่อนหน้า</button>
+        <button id="checkBtn" class="primary" onclick="checkAnswer()">ตรวจคำตอบ</button>
+        <button id="nextBtn" class="primary hidden" onclick="nextQuestion()">ข้อถัดไป →</button>
+      </div>
+    </section>
+  </main>
+
+  <section id="resultScreen" class="card result hidden">
+    <div class="result-icon">🎉</div>
+    <h2>ทำแบบฝึกหัดครบแล้ว!</h2>
+    <div class="score-circle"><span id="finalScore">0</span><small id="finalTotal">/ 0</small></div>
+    <h3 id="resultTitle"></h3>
+    <p id="resultMessage"></p>
+    <div class="result-stats">
+      <div><strong id="correctCount">0</strong><span>ตอบถูก</span></div>
+      <div><strong id="wrongCount">0</strong><span>ตอบผิด</span></div>
+      <div><strong id="percent">0%</strong><span>คิดเป็น</span></div>
+    </div>
+    <div class="result-actions">
+      <button class="primary" onclick="startQuiz()">ทำอีกครั้ง (สุ่มชุดใหม่)</button>
+      <button id="reviewBtn" class="secondary" onclick="reviewWrong()">ทบทวนข้อที่ผิด</button>
+      <a id="lessonLink" class="button secondary" href="#/">อ่านสรุปอีกครั้ง</a>
+      <a id="nextTopicLink" class="button secondary" href="#/">เรื่องถัดไป →</a>
+    </div>
+  </section>
+
+  <footer>แบบฝึกหัดไวยากรณ์ภาษาอังกฤษออนไลน์ ระดับมัธยมศึกษาตอนต้น</footer>
+</div>
+
+<dialog id="lessonDialog" class="lesson-dialog">
+  <div class="dialog-inner">
+    <div class="dialog-head">
+      <strong id="dialogTitle"></strong>
+      <button class="ghost" onclick="closeLessonDialog()">ปิด ✕</button>
+    </div>
+    <div id="dialogBody" class="lesson"></div>
+  </div>
+</dialog>
+
+<script src="app.js"></script>
+</body>
+</html>

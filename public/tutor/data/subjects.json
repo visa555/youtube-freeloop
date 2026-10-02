@@ -15,7 +15,10 @@
         { "id": "loanwords", "title": "คำที่มาจากภาษาต่างประเทศ", "icon": "🌏" },
         { "id": "idioms", "title": "สำนวน คำพังเพย และสุภาษิต", "icon": "💬", "ready": true },
         { "id": "poetry", "title": "การแต่งบทร้อยกรอง", "icon": "🎼" },
-        { "id": "reading", "title": "การอ่านจับใจความ", "icon": "📰" }
+        { "id": "reading", "title": "การอ่านจับใจความ", "icon": "📰" },
+        { "id": "essay-writing", "title": "การเขียนเรียงความ", "icon": "✍️", "ready": true },
+        { "id": "letter-writing", "title": "การเขียนจดหมาย", "icon": "✉️", "ready": true },
+        { "id": "rhetoric", "title": "โวหารและภาพพจน์", "icon": "🎨", "ready": true }
       ]
     },
     {

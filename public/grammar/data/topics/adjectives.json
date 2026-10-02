@@ -1,0 +1,402 @@
+{
+  "lesson": {
+    "summary": "คำคุณศัพท์ (Adjective) ใช้ **ขยายคำนาม** บอกลักษณะ เช่น สี ขนาด รูปร่าง ความรู้สึก วางได้ 2 ตำแหน่ง คือ **หน้าคำนาม** หรือ **หลัง verb to be / linking verb**",
+    "sections": [
+      {
+        "icon": "📍",
+        "title": "ตำแหน่งของคำคุณศัพท์",
+        "formulas": [
+          { "label": "หน้าคำนาม", "formula": "**adjective** + คำนาม", "example": "a **heavy** bag, a **beautiful** garden" },
+          { "label": "หลัง be", "formula": "be + **adjective**", "example": "The bag **is heavy**." },
+          { "label": "หลัง linking verb", "formula": "look / feel / taste / smell / sound / seem / become + **adjective**", "example": "The soup **tastes salty**. You **look tired**." }
+        ],
+        "list": [
+          "คำคุณศัพท์ **ไม่เติม s** แม้คำนามจะเป็นพหูพจน์: two **red** apples"
+        ]
+      },
+      {
+        "icon": "🔢",
+        "title": "ลำดับเมื่อมีคำคุณศัพท์หลายคำ",
+        "table": {
+          "head": ["ลำดับ", "ประเภท", "ตัวอย่าง"],
+          "rows": [
+            ["1", "ความเห็น", "beautiful, lovely, nice"],
+            ["2", "ขนาด", "big, small, long"],
+            ["3", "อายุ", "old, new, young"],
+            ["4", "รูปร่าง", "round, square"],
+            ["5", "สี", "red, white, black"],
+            ["6", "ที่มา", "Thai, Japanese"],
+            ["7", "วัสดุ", "wooden, silk, leather"],
+            ["8", "จุดประสงค์", "running (shoes), dining (table)"]
+          ]
+        },
+        "examples": [
+          { "en": "a **lovely small white** cat", "th": "ความเห็น → ขนาด → สี" },
+          { "en": "an **old Thai silk** dress", "th": "อายุ → ที่มา → วัสดุ" }
+        ]
+      },
+      {
+        "icon": "✏️",
+        "title": "คำลงท้ายที่บอกว่าเป็นคำคุณศัพท์",
+        "table": {
+          "head": ["ลงท้าย", "ตัวอย่าง"],
+          "rows": [
+            ["-ful (มี…)", "careful, helpful, beautiful"],
+            ["-less (ไม่มี…)", "careless, useless, homeless"],
+            ["-ous", "dangerous, famous, nervous"],
+            ["-ive", "active, creative, expensive"],
+            ["-al", "national, natural, personal"],
+            ["-able / -ible", "comfortable, possible"],
+            ["-y", "sunny, healthy, noisy"]
+          ]
+        }
+      },
+      {
+        "icon": "😮",
+        "title": "-ing กับ -ed",
+        "text": "**-ing** บอกลักษณะของ **สิ่งที่ทำให้รู้สึก** (น่า…) ส่วน **-ed** บอก **ความรู้สึกของคน** (รู้สึก…)",
+        "table": {
+          "head": ["-ing (น่า…)", "-ed (รู้สึก…)"],
+          "rows": [
+            ["The movie was **boring**. (หนังน่าเบื่อ)", "I was **bored**. (ฉันรู้สึกเบื่อ)"],
+            ["The news is **surprising**.", "We were **surprised**."],
+            ["This game is **exciting**.", "The kids are **excited**."]
+          ]
+        }
+      },
+      {
+        "icon": "📏",
+        "title": "การเปรียบเทียบ",
+        "table": {
+          "head": ["แบบ", "ขั้นกว่า (… than)", "ขั้นสุด (the …)"],
+          "rows": [
+            ["พยางค์เดียว", "tall → **taller**", "the **tallest**"],
+            ["ลงท้าย e", "large → **larger**", "the **largest**"],
+            ["สระเสียงสั้น + พยัญชนะ", "big → **bigger**", "the **biggest**"],
+            ["พยัญชนะ + y", "happy → **happier**", "the **happiest**"],
+            ["2 พยางค์ขึ้นไป", "**more** beautiful", "the **most** beautiful"],
+            ["ไม่ปกติ", "good → **better** · bad → **worse**", "the **best** · the **worst**"]
+          ]
+        },
+        "list": [
+          "**as + adjective + as** = เท่ากัน: Mint is **as tall as** Fah.",
+          "**not as + adjective + as** = ไม่…เท่า: Tom is **not as tall as** Ben."
+        ]
+      },
+      {
+        "icon": "⚠️",
+        "title": "ระวัง! จุดที่มักผิด",
+        "mistakes": [
+          { "wrong": "She has a **dress blue**.", "right": "She has a **blue dress**.", "why": "คำคุณศัพท์วางหน้าคำนาม" },
+          { "wrong": "I'm **boring**. (ต้องการบอกว่ารู้สึกเบื่อ)", "right": "I'm **bored**.", "why": "ความรู้สึกของคนใช้ -ed" },
+          { "wrong": "She is **more taller** than me.", "right": "She is **taller** than me.", "why": "ไม่ใช้ more ซ้อนกับ -er" },
+          { "wrong": "This is the **most good** pizza.", "right": "This is the **best** pizza.", "why": "good เป็นรูปไม่ปกติ: good → better → best" },
+          { "wrong": "The soup tastes **well**.", "right": "The soup tastes **good**.", "why": "หลัง linking verb ใช้คำคุณศัพท์" }
+        ]
+      }
+    ],
+    "tip": "คุณศัพท์ **ไม่เติม s** · วางหน้าคำนามหรือหลัง be / look / feel / taste / smell / sound · **-ing = น่า…** ส่วน **-ed = รู้สึก…**"
+  },
+  "questions": [
+    {
+      "q": "ข้อใดเรียงคำได้ถูกต้อง",
+      "options": ["She has a dress blue.", "She has a blue dress.", "She has blue a dress.", "She has a dress is blue."],
+      "answer": 1,
+      "explanation": "คำคุณศัพท์ (blue) วาง **หน้าคำนาม** (dress)"
+    },
+    {
+      "q": "ข้อใดถูกต้อง",
+      "options": ["I have two reds pens.", "I have two red pens.", "I have two pens reds.", "I have red two pens."],
+      "answer": 1,
+      "explanation": "คำคุณศัพท์ **ไม่เติม s** และวางหลังตัวเลข หน้าคำนาม → two **red** pens"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: This soup tastes ___.",
+      "options": ["salt", "salty", "saltily", "saltiness"],
+      "answer": 1,
+      "explanation": "หลัง linking verb (tastes) ใช้คำคุณศัพท์ → **salty** (เค็ม)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: You look ___. Did you sleep well?",
+      "options": ["tired", "tiredly", "tire", "tiring"],
+      "answer": 0,
+      "explanation": "look + คำคุณศัพท์บอกความรู้สึกของคน → **tired** (รู้สึกเหนื่อย)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The blanket feels very ___.",
+      "options": ["soft", "softly", "softness", "soften"],
+      "answer": 0,
+      "explanation": "feel (สัมผัส) + คำคุณศัพท์ → **soft** (นุ่ม)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: That idea sounds ___!",
+      "options": ["great", "greatly", "greatness", "greats"],
+      "answer": 0,
+      "explanation": "sound (ฟังดู) + คำคุณศัพท์ → **great**"
+    },
+    {
+      "q": "คำใดเป็น linking verb ที่ตามด้วยคำคุณศัพท์ได้",
+      "options": ["smell", "run", "write", "eat"],
+      "answer": 0,
+      "explanation": "**smell** (มีกลิ่น) เป็น linking verb เช่น The flowers smell nice."
+    },
+    {
+      "q": "เรียงลำดับให้ถูกต้อง: (red / small / beautiful) + car",
+      "options": ["a red small beautiful car", "a beautiful small red car", "a small beautiful red car", "a beautiful red small car"],
+      "answer": 1,
+      "explanation": "ความเห็น (beautiful) → ขนาด (small) → สี (red)"
+    },
+    {
+      "q": "เรียงลำดับให้ถูกต้อง: (wooden / old / big) + house",
+      "options": ["an old big wooden house", "a big old wooden house", "a wooden big old house", "an old wooden big house"],
+      "answer": 1,
+      "explanation": "ขนาด (big) → อายุ (old) → วัสดุ (wooden)"
+    },
+    {
+      "q": "เรียงลำดับให้ถูกต้อง: (Thai / silk / lovely) + scarf",
+      "options": ["a lovely Thai silk scarf", "a Thai lovely silk scarf", "a silk Thai lovely scarf", "a lovely silk Thai scarf"],
+      "answer": 0,
+      "explanation": "ความเห็น (lovely) → ที่มา (Thai) → วัสดุ (silk)"
+    },
+    {
+      "q": "เรียงลำดับให้ถูกต้อง: (round / small / black) + table",
+      "options": ["a black small round table", "a small round black table", "a round small black table", "a small black round table"],
+      "answer": 1,
+      "explanation": "ขนาด (small) → รูปร่าง (round) → สี (black)"
+    },
+    {
+      "q": "เรียงลำดับให้ถูกต้อง: (running / new / white) + shoes",
+      "options": ["new white running shoes", "white new running shoes", "running new white shoes", "new running white shoes"],
+      "answer": 0,
+      "explanation": "อายุ (new) → สี (white) → จุดประสงค์ (running) ซึ่งอยู่ติดคำนามเสมอ"
+    },
+    {
+      "q": "ลำดับคำคุณศัพท์ข้อใดถูกต้อง",
+      "options": ["ความเห็น → ขนาด → สี → วัสดุ", "สี → ขนาด → ความเห็น → วัสดุ", "วัสดุ → สี → ขนาด → ความเห็น", "ขนาด → ความเห็น → วัสดุ → สี"],
+      "answer": 0,
+      "explanation": "เรียงจาก **ความเห็น → ขนาด → อายุ → รูปร่าง → สี → ที่มา → วัสดุ → จุดประสงค์**"
+    },
+    {
+      "q": "เติม suffix ให้เป็นคำคุณศัพท์ที่แปลว่า “อันตราย”: danger___",
+      "options": ["-ful", "-ous", "-ive", "-less"],
+      "answer": 1,
+      "explanation": "danger + **-ous** = dangerous (อันตราย)"
+    },
+    {
+      "q": "care + ___ = ประมาท / สะเพร่า",
+      "options": ["-ful", "-less", "-ous", "-ive"],
+      "answer": 1,
+      "explanation": "-less = ไม่มี… → care**less** = ไม่ระวัง / สะเพร่า (careful = ระมัดระวัง)"
+    },
+    {
+      "q": "คำใดเป็นคำคุณศัพท์",
+      "options": ["create", "creative", "creation", "creatively"],
+      "answer": 1,
+      "explanation": "**creative** (มีความคิดสร้างสรรค์) ลงท้าย -ive · create = กริยา · creation = นาม · creatively = กริยาวิเศษณ์"
+    },
+    {
+      "q": "คำใดเป็นคำคุณศัพท์",
+      "options": ["nation", "national", "nationally", "nations"],
+      "answer": 1,
+      "explanation": "**national** (ระดับชาติ) ลงท้าย -al"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Thank you for your help. You are very ___.",
+      "options": ["help", "helpful", "helpless", "helping"],
+      "answer": 1,
+      "explanation": "**helpful** = มีประโยชน์ / ชอบช่วยเหลือ (helpless = ช่วยตัวเองไม่ได้)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: This old phone doesn't work anymore. It's ___.",
+      "options": ["useful", "useless", "use", "using"],
+      "answer": 1,
+      "explanation": "ใช้งานไม่ได้แล้ว → **useless** (ไร้ประโยชน์)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Lisa is a ___ singer. Everyone knows her.",
+      "options": ["fame", "famous", "famously", "fames"],
+      "answer": 1,
+      "explanation": "หน้าคำนาม singer ต้องเป็นคำคุณศัพท์ → **famous** (มีชื่อเสียง)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: This sofa is very ___. I can sleep on it.",
+      "options": ["comfort", "comfortable", "comfortably", "comforts"],
+      "answer": 1,
+      "explanation": "หลัง is ต้องเป็นคำคุณศัพท์ → **comfortable** (สบาย)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The movie was so ___ that I fell asleep.",
+      "options": ["bored", "boring", "bore", "boredom"],
+      "answer": 1,
+      "explanation": "หนังเป็นสิ่งที่ทำให้รู้สึกเบื่อ ใช้ -ing → **boring** (น่าเบื่อ)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: I was very ___ when I heard the news.",
+      "options": ["surprising", "surprised", "surprise", "surprisingly"],
+      "answer": 1,
+      "explanation": "ความรู้สึกของคน (I) ใช้ -ed → **surprised** (รู้สึกประหลาดใจ)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Roller coasters are ___. I'm scared of them.",
+      "options": ["frightened", "frightening", "frighten", "fright"],
+      "answer": 1,
+      "explanation": "รถไฟเหาะเป็นสิ่งที่ทำให้กลัว → **frightening** (น่ากลัว)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The students were ___ about the school trip.",
+      "options": ["exciting", "excited", "excite", "excitement"],
+      "answer": 1,
+      "explanation": "ความรู้สึกของนักเรียน → **excited** (รู้สึกตื่นเต้น)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: This math problem is really ___. I don't understand it.",
+      "options": ["confused", "confusing", "confuse", "confusion"],
+      "answer": 1,
+      "explanation": "โจทย์เป็นสิ่งที่ทำให้งง → **confusing** (น่าสับสน)"
+    },
+    {
+      "q": "ข้อใดถูกต้อง",
+      "options": ["I'm interesting in music.", "I'm interested in music.", "I'm interest in music.", "I'm interestingly in music."],
+      "answer": 1,
+      "explanation": "ความรู้สึกของคน → I'm **interested** in … (ฉันสนใจ…)"
+    },
+    {
+      "q": "“She was embarrassed.” หมายความว่าอย่างไร",
+      "options": ["เธอทำให้คนอื่นอาย", "เธอรู้สึกอาย", "เธอเป็นคนน่าอาย", "เธอไม่อายเลย"],
+      "answer": 1,
+      "explanation": "-ed บอกความรู้สึกของคน → embarrassed = **รู้สึกอาย**"
+    },
+    {
+      "q": "ขั้นกว่าของ “big” คือข้อใด",
+      "options": ["biger", "bigger", "more big", "bigest"],
+      "answer": 1,
+      "explanation": "big สระเสียงสั้น + พยัญชนะตัวเดียว เพิ่ม g แล้วเติม -er → **bigger**"
+    },
+    {
+      "q": "ขั้นกว่าของ “happy” คือข้อใด",
+      "options": ["happyer", "happier", "more happy", "happiest"],
+      "answer": 1,
+      "explanation": "ลงท้ายพยัญชนะ + y เปลี่ยน y เป็น i + er → **happier**"
+    },
+    {
+      "q": "ขั้นสุดของ “good” คือข้อใด",
+      "options": ["the goodest", "the best", "the better", "the most good"],
+      "answer": 1,
+      "explanation": "good → better → **the best** (รูปไม่ปกติ)"
+    },
+    {
+      "q": "ขั้นกว่าของ “bad” คือข้อใด",
+      "options": ["badder", "worse", "more bad", "worst"],
+      "answer": 1,
+      "explanation": "bad → **worse** → the worst (รูปไม่ปกติ)"
+    },
+    {
+      "q": "ขั้นกว่าของ “expensive” คือข้อใด",
+      "options": ["expensiver", "more expensive", "most expensive", "expensivest"],
+      "answer": 1,
+      "explanation": "คำยาวหลายพยางค์ใช้ **more** + adjective"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: An elephant is ___ than a horse.",
+      "options": ["heavy", "heavier", "heaviest", "more heavy"],
+      "answer": 1,
+      "explanation": "มี than = ขั้นกว่า และ heavy ลงท้ายพยัญชนะ + y → **heavier**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Mount Everest is the ___ mountain in the world.",
+      "options": ["high", "higher", "highest", "most high"],
+      "answer": 2,
+      "explanation": "the … in the world = ขั้นสุด → **highest**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: This test is ___ difficult than the last one.",
+      "options": ["more", "most", "much", "very"],
+      "answer": 0,
+      "explanation": "difficult เป็นคำยาว ขั้นกว่าใช้ **more** difficult than"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Bangkok is the ___ city in Thailand.",
+      "options": ["big", "bigger", "biggest", "most big"],
+      "answer": 2,
+      "explanation": "the … in Thailand = ขั้นสุด → **biggest**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: My bag is as ___ as yours.",
+      "options": ["heavy", "heavier", "heaviest", "heavily"],
+      "answer": 0,
+      "explanation": "as + คำคุณศัพท์รูปปกติ + as → as **heavy** as (หนักเท่ากัน)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Tom is not as ___ as his brother.",
+      "options": ["tall", "taller", "tallest", "more tall"],
+      "answer": 0,
+      "explanation": "not as + คำคุณศัพท์รูปปกติ + as → not as **tall** as"
+    },
+    {
+      "q": "ข้อใดถูกต้อง",
+      "options": ["She is more taller than me.", "She is taller than me.", "She is tallest than me.", "She is more tall than me."],
+      "answer": 1,
+      "explanation": "tall เป็นคำสั้น เติม -er อย่างเดียว ไม่ใช้ more ซ้อน → **taller** than"
+    },
+    {
+      "q": "ข้อใดถูกต้อง",
+      "options": ["This is the most beautiful beach I've ever seen.", "This is the beautifulest beach I've ever seen.", "This is the more beautiful beach I've ever seen.", "This is most beautiful beach I've ever seen."],
+      "answer": 0,
+      "explanation": "คำยาว ขั้นสุดใช้ **the most** + adjective"
+    },
+    {
+      "q": "จากข้อมูล: Ann สูง 150 cm · Bee สูง 160 cm · Cat สูง 155 cm ข้อใดถูกต้อง",
+      "options": ["Ann is the tallest.", "Bee is the tallest.", "Cat is taller than Bee.", "Ann is taller than Cat."],
+      "answer": 1,
+      "explanation": "Bee สูงที่สุด (160 cm) → **Bee is the tallest.**"
+    },
+    {
+      "q": "จากข้อมูล: ปากการาคา 20 บาท ดินสอราคา 20 บาท ข้อใดถูกต้อง",
+      "options": ["The pen is as expensive as the pencil.", "The pen is more expensive than the pencil.", "The pencil is cheaper than the pen.", "The pen is the cheapest."],
+      "answer": 0,
+      "explanation": "ราคาเท่ากัน ใช้ **as … as**"
+    },
+    {
+      "q": "ข้อใดผิดหลักไวยากรณ์",
+      "options": ["The flowers smell nice.", "He drives a fast car.", "The music sounds beautifully.", "She seems happy today."],
+      "answer": 2,
+      "explanation": "หลัง linking verb (sounds) ใช้คำคุณศัพท์ → sounds **beautiful**"
+    },
+    {
+      "q": "คำที่ไฮไลต์ในข้อใดเป็นคำคุณศัพท์",
+      "options": ["She sings **beautifully**.", "She has a **beautiful** voice.", "Her **beauty** is famous.", "She **sings** every day."],
+      "answer": 1,
+      "explanation": "**beautiful** ขยายคำนาม voice จึงเป็นคำคุณศัพท์ (beautifully = กริยาวิเศษณ์ · beauty = คำนาม)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Be ___! The floor is wet.",
+      "options": ["care", "careful", "carefully", "careless"],
+      "answer": 1,
+      "explanation": "Be + คำคุณศัพท์ → Be **careful**! (ระวังนะ)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: It's a ___ day. Let's go to the beach.",
+      "options": ["sun", "sunny", "sunnily", "suns"],
+      "answer": 1,
+      "explanation": "หน้าคำนาม day ต้องเป็นคำคุณศัพท์ → **sunny** (แดดออก)"
+    },
+    {
+      "q": "อ่านข้อความ: “Bob lives in a small old house near the river. The house has a big green garden. Bob feels relaxed when he sits there.” ข้อใดถูกต้อง",
+      "options": ["Bob's house is big and new.", "The garden is green.", "Bob feels bored in the garden.", "The house is far from the river."],
+      "answer": 1,
+      "explanation": "ข้อความบอกว่า a big **green** garden ส่วนบ้านเล็กและเก่า อยู่ใกล้แม่น้ำ และ Bob รู้สึกผ่อนคลาย"
+    },
+    {
+      "q": "แปล: “กระเป๋าหนังสีน้ำตาลใบใหญ่”",
+      "options": ["a big brown leather bag", "a brown big leather bag", "a leather brown big bag", "a big leather brown bag"],
+      "answer": 0,
+      "explanation": "ขนาด (big) → สี (brown) → วัสดุ (leather) → คำนาม"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Which is ___, a cat or a mouse?",
+      "options": ["big", "bigger", "biggest", "the biggest"],
+      "answer": 1,
+      "explanation": "เปรียบเทียบ 2 สิ่ง ใช้ขั้นกว่า → **bigger**"
+    }
+  ]
+}

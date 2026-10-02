@@ -1,0 +1,115 @@
+{
+  "lesson": {
+    "summary": "Participle คือกริยารูป **-ing** และ **V3** ที่นำมาใช้ **ขยายคำนาม** หรือ **ย่อประโยค** — **V-ing = ทำเอง / กำลัง…** · **V3 = ถูกกระทำ** · **Having + V3 = ทำเสร็จก่อน**",
+    "sections": [
+      {
+        "icon": "🧬",
+        "title": "Participle 3 แบบ",
+        "table": {
+          "head": ["แบบ", "ความหมาย", "ตัวอย่าง"],
+          "rows": [
+            ["Present Participle (V-ing)", "ทำเอง / กำลัง…", "a **crying** baby (ทารกที่กำลังร้องไห้)"],
+            ["Past Participle (V3)", "ถูกกระทำ", "a **broken** window (หน้าต่างที่แตก)"],
+            ["Perfect Participle (Having + V3)", "ทำเสร็จก่อนอีกเหตุการณ์", "**Having finished** my homework, I watched TV."]
+          ]
+        }
+      },
+      {
+        "icon": "🎯",
+        "title": "ใช้ขยายคำนาม",
+        "list": [
+          "คำเดียว วาง **หน้า** คำนาม: a **smiling** girl, **boiled** eggs, a **stolen** bike",
+          "เป็นวลี วาง **หลัง** คำนาม: The girl **smiling at us** is my friend. / The cars **made in Japan** are reliable."
+        ]
+      },
+      {
+        "icon": "✂️",
+        "title": "ย่อ Relative Clause",
+        "text": "ทำเอง (active) → **V-ing** · ถูกทำ (passive) → **V3**",
+        "table": {
+          "head": ["ประโยคเต็ม", "ประโยคย่อ"],
+          "rows": [
+            ["The man **who is walking** there is my uncle.", "The man **walking** there is my uncle."],
+            ["The dog **that barks** every night is noisy.", "The dog **barking** every night is noisy."],
+            ["The books **which were written** by her are popular.", "The books **written** by her are popular."]
+          ]
+        }
+      },
+      {
+        "icon": "⏱️",
+        "title": "ย่อประโยคที่มี 2 เหตุการณ์",
+        "list": [
+          "เกิดพร้อมกัน: **Walking** home, I saw a cat. (= While I was walking home…)",
+          "ทำเสร็จก่อน: **Having eaten** breakfast, Dad went to work. (= After Dad had eaten…)",
+          "ถูกทำเสร็จก่อน: **Having been checked**, the forms were filed. (= After the forms had been checked…)",
+          "ประธานของทั้งสองส่วน **ต้องเป็นคนเดียวกัน**"
+        ]
+      },
+      {
+        "icon": "👀",
+        "title": "see / hear / watch / find + กรรม + V-ing",
+        "examples": [
+          { "en": "We heard someone **singing** next door.", "th": "พวกเราได้ยินใครบางคนกำลังร้องเพลงอยู่ข้างบ้าน" }
+        ]
+      },
+      {
+        "icon": "⚠️",
+        "title": "ระวัง! จุดที่มักผิด",
+        "mistakes": [
+          { "wrong": "the **breaking** window (หมายถึงหน้าต่างที่แตกแล้ว)", "right": "the **broken** window", "why": "หน้าต่างถูกทำให้แตก → V3" },
+          { "wrong": "The boy **who playing** football is Tom.", "right": "The boy **playing** football is Tom.", "why": "ย่อแล้วต้องตัด who ทิ้ง (หรือใช้ who is playing)" },
+          { "wrong": "Having **finish** lunch, she went out.", "right": "Having **finished** lunch, she went out.", "why": "Having + V3" },
+          { "wrong": "**Walking** to school, the rain started.", "right": "**Walking** to school, **I** got caught in the rain.", "why": "ประธานต้องเป็นคนที่เดิน ฝนเดินไม่ได้" }
+        ]
+      }
+    ],
+    "tip": "ถามว่าคำนามนั้น **ทำเอง หรือ ถูกทำ** — ทำเอง → **V-ing** · ถูกทำ → **V3** · ทำเสร็จก่อน → **Having + V3**"
+  },
+  "questions": [
+    { "q": "เติมคำในช่องว่าง: Look at the ___ baby. (กำลังร้องไห้)", "options": ["cry", "crying", "cried", "cries"], "answer": 1, "explanation": "ทารกกำลังร้องไห้เอง → **crying**" },
+    { "q": "เติมคำในช่องว่าง: The ___ window needs to be fixed. (แตก)", "options": ["breaking", "broken", "break", "broke"], "answer": 1, "explanation": "หน้าต่างถูกทำให้แตก → **broken** (V3)" },
+    { "q": "เติมคำในช่องว่าง: I'd like two ___ eggs, please. (ต้มแล้ว)", "options": ["boiling", "boiled", "boil", "boils"], "answer": 1, "explanation": "ไข่ถูกต้ม → **boiled**" },
+    { "q": "เติมคำในช่องว่าง: The girl ___ at us is my cousin. (กำลังโบกมือ)", "options": ["waving", "waved", "waves", "wave"], "answer": 0, "explanation": "เด็กผู้หญิงโบกมือเอง → **waving**" },
+    { "q": "เติมคำในช่องว่าง: The cars ___ in this factory are sold worldwide.", "options": ["making", "made", "make", "makes"], "answer": 1, "explanation": "รถถูกผลิต → **made**" },
+    { "q": "เติมคำในช่องว่าง: The dog ___ at the mailman is mine.", "options": ["barking", "barked", "barks", "bark"], "answer": 0, "explanation": "สุนัขเห่าเอง → **barking**" },
+    { "q": "เติมคำในช่องว่าง: Did you find your ___ wallet? (หาย)", "options": ["losing", "lost", "lose", "loses"], "answer": 1, "explanation": "กระเป๋าถูกทำหาย → **lost**" },
+    { "q": "เติมคำในช่องว่าง: The man ___ next to the door looks tired.", "options": ["standing", "stood", "stands", "stand"], "answer": 0, "explanation": "ผู้ชายยืนเอง → **standing**" },
+    { "q": "เติมคำในช่องว่าง: This is a book ___ by a famous Thai author.", "options": ["writing", "written", "wrote", "writes"], "answer": 1, "explanation": "หนังสือถูกเขียน → **written**" },
+    { "q": "เติมคำในช่องว่าง: Don't touch the ___ water. It's very hot!", "options": ["boiling", "boiled", "boil", "boils"], "answer": 0, "explanation": "น้ำกำลังเดือดอยู่ (ร้อนมาก) → **boiling**" },
+    { "q": "เติมคำในช่องว่าง: The students ___ the test early can go home.", "options": ["finishing", "finished", "finish", "finishes"], "answer": 0, "explanation": "นักเรียนทำข้อสอบเสร็จเอง (active) → **finishing** (= who finish)" },
+    { "q": "V-ing ในประโยค “The smiling girl waved at us.” มีความหมายแบบใด", "options": ["ทำเอง (กำลัง…)", "ถูกกระทำ", "ทำเสร็จก่อน", "เหตุการณ์ในอนาคต"], "answer": 0, "explanation": "V-ing = **ทำเอง** (เด็กผู้หญิงยิ้มเอง)" },
+    { "q": "V3 ในประโยค “The stolen car was found.” มีความหมายแบบใด", "options": ["ทำเอง", "ถูกกระทำ", "กำลังทำ", "จะทำ"], "answer": 1, "explanation": "V3 = **ถูกกระทำ** (รถถูกขโมย)" },
+    { "q": "ย่อประโยค: “The man who is walking there is my uncle.”", "options": ["The man walking there is my uncle.", "The man walked there is my uncle.", "The man who walking there is my uncle.", "The man is walking there my uncle."], "answer": 0, "explanation": "ตัด who is เหลือ **walking**" },
+    { "q": "ย่อประโยค: “The letters which were sent yesterday arrived today.”", "options": ["The letters sent yesterday arrived today.", "The letters sending yesterday arrived today.", "The letters were sent yesterday arrived today.", "The letters which sent yesterday arrived today."], "answer": 0, "explanation": "which were + V3 → ตัดเหลือ **sent**" },
+    { "q": "ย่อประโยค: “The boy who plays the drums is my brother.”", "options": ["The boy playing the drums is my brother.", "The boy played the drums is my brother.", "The boy plays the drums is my brother.", "The boy who playing the drums is my brother."], "answer": 0, "explanation": "ทำเอง (active) → **playing**" },
+    { "q": "ย่อประโยค: “The toys which are made in this factory are safe.”", "options": ["The toys made in this factory are safe.", "The toys making in this factory are safe.", "The toys are made in this factory are safe.", "The toys make in this factory are safe."], "answer": 0, "explanation": "ของเล่นถูกผลิต (passive) → **made**" },
+    { "q": "ประโยคเต็มของ “The children playing in the park are my students.” คือข้อใด", "options": ["The children who are playing in the park are my students.", "The children who were played in the park are my students.", "The children which play in the park are my students.", "The children played in the park are my students."], "answer": 0, "explanation": "V-ing มาจาก **who are + V-ing**" },
+    { "q": "ประโยคเต็มของ “The house built in 1950 is very old.” คือข้อใด", "options": ["The house which was built in 1950 is very old.", "The house which built in 1950 is very old.", "The house who was built in 1950 is very old.", "The house which is building in 1950 is very old."], "answer": 0, "explanation": "V3 มาจาก **which was + V3**" },
+    { "q": "เติมคำในช่องว่าง: ___ my homework, I watched TV.", "options": ["Having finished", "Having finish", "Finished", "Have finished"], "answer": 0, "explanation": "ทำการบ้านเสร็จก่อน → **Having + V3**" },
+    { "q": "เติมคำในช่องว่าง: Having ___ breakfast, Dad went to work.", "options": ["eat", "ate", "eaten", "eating"], "answer": 2, "explanation": "Having + V3 → **eaten**" },
+    { "q": "“Having closed the window, Dan went out.” เหตุการณ์ใดเกิดก่อน", "options": ["ปิดหน้าต่าง", "ออกไปข้างนอก", "เกิดพร้อมกัน", "บอกไม่ได้"], "answer": 0, "explanation": "Having + V3 = เกิด **ก่อน** → ปิดหน้าต่างก่อนแล้วจึงออกไป" },
+    { "q": "ย่อประโยค: “After Nok had cleaned her room, she went shopping.”", "options": ["Having cleaned her room, Nok went shopping.", "Having clean her room, Nok went shopping.", "Cleaned her room, Nok went shopping.", "Having cleaned her room, went shopping Nok."], "answer": 0, "explanation": "ทำเสร็จก่อน → **Having cleaned**, แล้วต่อด้วยประธาน Nok" },
+    { "q": "ย่อประโยค: “After the letter had been translated, it was sent.”", "options": ["Having been translated, the letter was sent.", "Having translated, the letter was sent.", "Having been translate, the letter was sent.", "Been translated, the letter was sent."], "answer": 0, "explanation": "ถูกทำเสร็จก่อน → **Having been + V3**" },
+    { "q": "ข้อใดเป็นรูป Having been + V3 (ถูกกระทำเสร็จก่อน)", "options": ["Having been checked, the forms were filed.", "Having checked the forms, she filed them.", "Checking the forms, she found a mistake.", "The checked forms were filed."], "answer": 0, "explanation": "**Having been checked** = หลังจากถูกตรวจแล้ว" },
+    { "q": "แปล: “Having been invited, we went to the party.”", "options": ["หลังจากได้รับเชิญแล้ว พวกเราก็ไปงานปาร์ตี้", "พวกเราเชิญเพื่อนไปงานปาร์ตี้", "พวกเรากำลังเชิญเพื่อน", "พวกเราไม่ได้รับเชิญ"], "answer": 0, "explanation": "Having been + V3 = **หลังจากถูก / ได้รับ…แล้ว**" },
+    { "q": "ย่อประโยค: “While I was walking home, I saw an accident.”", "options": ["Walking home, I saw an accident.", "Walked home, I saw an accident.", "Having walked home, I saw an accident.", "Walk home, I saw an accident."], "answer": 0, "explanation": "เกิดพร้อมกัน → **Walking** home, …" },
+    { "q": "เติมคำในช่องว่าง: ___ loudly, the children ran into the classroom.", "options": ["Laughing", "Laughed", "Laugh", "Having laugh"], "answer": 0, "explanation": "หัวเราะไปพร้อมกับวิ่ง → **Laughing**" },
+    { "q": "ข้อใดผิด", "options": ["Walking to school, I met my friend.", "Walking to school, the rain started.", "Having eaten lunch, she went back to work.", "Tired after the game, he slept early."], "answer": 1, "explanation": "ฝนเดินไปโรงเรียนไม่ได้ ประธานต้องเป็นคนที่เดิน" },
+    { "q": "ข้อใดถูกต้อง", "options": ["Opening the door, the room was dark.", "Opening the door, I saw that the room was dark.", "Opened the door, I saw the room was dark.", "Opening the door, it was dark."], "answer": 1, "explanation": "คนที่เปิดประตูคือ **I** จึงต้องเป็นประธานของประโยคหลัก" },
+    { "q": "เติมคำในช่องว่าง: I saw my sister ___ a cake in the kitchen.", "options": ["baking", "baked", "bakes", "to baking"], "answer": 0, "explanation": "see + กรรม + **V-ing** = เห็น…กำลัง…" },
+    { "q": "เติมคำในช่องว่าง: We heard someone ___ next door.", "options": ["singing", "sung", "sings", "to singing"], "answer": 0, "explanation": "hear + กรรม + **V-ing**" },
+    { "q": "เติมคำในช่องว่าง: The teacher caught Tom ___ in the test.", "options": ["cheating", "cheated", "cheats", "to cheating"], "answer": 0, "explanation": "catch + กรรม + **V-ing** = จับได้ว่ากำลัง…" },
+    { "q": "แปล: “ฉันเห็นแมวกำลังวิ่งข้ามถนน”", "options": ["I saw a cat running across the road.", "I saw a cat ran across the road.", "I saw a cat runs across the road.", "I saw a cat to running across the road."], "answer": 0, "explanation": "see + กรรม + V-ing → saw a cat **running**" },
+    { "q": "เติมคำในช่องว่าง: There is a ___ sign on the door. (เขียนด้วยมือ)", "options": ["handwriting", "handwritten", "handwrite", "handwrote"], "answer": 1, "explanation": "ป้ายถูกเขียนด้วยมือ → **handwritten**" },
+    { "q": "เติมคำในช่องว่าง: The ___ leaves covered the ground. (ร่วงลงมาแล้ว)", "options": ["falling", "fallen", "fell", "falls"], "answer": 1, "explanation": "ใบไม้ที่ร่วงลงมาแล้ว → **fallen**" },
+    { "q": "ข้อใดใช้ participle ถูกต้อง", "options": ["I bought a used car.", "I bought a using car.", "I bought a use car.", "I bought a uses car."], "answer": 0, "explanation": "รถที่ถูกใช้มาแล้ว (มือสอง) → **used**" },
+    { "q": "ข้อใดใช้ participle ถูกต้อง", "options": ["The exciting fans cheered loudly.", "The excited fans cheered loudly.", "The excite fans cheered loudly.", "The excitement fans cheered loudly."], "answer": 1, "explanation": "แฟน ๆ รู้สึกตื่นเต้น → **excited**" },
+    { "q": "เติมคำในช่องว่าง: People ___ in big cities often have stressful lives.", "options": ["living", "lived", "live", "lives"], "answer": 0, "explanation": "คนที่อาศัยอยู่ (ทำเอง) → **living**" },
+    { "q": "เติมคำในช่องว่าง: The money ___ in the bag belongs to Mr. Kim.", "options": ["finding", "found", "find", "finds"], "answer": 1, "explanation": "เงินถูกพบ → **found**" },
+    { "q": "แปล: “ผู้หญิงที่กำลังคุยกับพ่ออยู่เป็นครูของฉัน”", "options": ["The woman talking to Dad is my teacher.", "The woman talked to Dad is my teacher.", "The woman talks to Dad is my teacher.", "The woman is talking to Dad is my teacher."], "answer": 0, "explanation": "กำลังคุย (ทำเอง) → **talking**" },
+    { "q": "แปล: “ภาพวาดที่ถูกขโมยไปถูกพบแล้ว”", "options": ["The stolen painting has been found.", "The stealing painting has been found.", "The stole painting has been found.", "The steals painting has been found."], "answer": 0, "explanation": "ภาพถูกขโมย → **stolen**" },
+    { "q": "ข้อใดมีความหมายเหมือน “Having lost his key, Tom couldn't get in.”", "options": ["Because Tom had lost his key, he couldn't get in.", "Tom lost his key after he got in.", "Tom is losing his key now.", "Tom found his key and got in."], "answer": 0, "explanation": "ทำกุญแจหายก่อน จึงเข้าไม่ได้" },
+    { "q": "อ่านข้อความ: “Having finished the race, the runners rested under a tree. A boy holding a camera took photos of them.” ใครถ่ายรูป", "options": ["นักวิ่ง", "เด็กผู้ชายที่ถือกล้อง", "ต้นไม้", "กรรมการ"], "answer": 1, "explanation": "A boy **holding a camera** took photos = เด็กผู้ชายที่ถือกล้อง" },
+    { "q": "อ่านข้อความ: “The old bridge, built in 1900, was closed last year. A new bridge made of steel is being built now.” ข้อใดถูกต้อง", "options": ["สะพานเก่าสร้างเมื่อปี 1900", "สะพานใหม่ทำจากไม้", "สะพานเก่ายังเปิดใช้", "สะพานใหม่สร้างเสร็จแล้ว"], "answer": 0, "explanation": "The old bridge, **built in 1900** = สะพานเก่าซึ่งสร้างเมื่อปี 1900" }
+  ]
+}

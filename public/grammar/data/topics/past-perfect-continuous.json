@@ -1,0 +1,372 @@
+{
+  "lesson": {
+    "summary": "ใช้บอกว่า **ทำอะไรต่อเนื่องมานานแค่ไหน ก่อน** อีกเหตุการณ์หนึ่งในอดีตจะเกิดขึ้น — เหมือน Present Perfect Continuous แต่ย้ายจุดอ้างอิงไปอยู่ในอดีต",
+    "sections": [
+      {
+        "icon": "🎯",
+        "title": "ใช้เมื่อไหร่",
+        "list": [
+          "ทำต่อเนื่องมาระยะหนึ่ง ก่อนอีกเหตุการณ์ในอดีต — I **had been waiting** for an hour **when** the bus finally **came**.",
+          "อธิบายสาเหตุของสภาพที่เห็นในอดีต — She was tired because she **had been running**."
+        ]
+      },
+      {
+        "icon": "🧱",
+        "title": "โครงสร้าง",
+        "text": "ใช้ **had been** กับทุกประธาน",
+        "formulas": [
+          { "label": "บอกเล่า", "formula": "ประธาน + **had been** + V-ing", "example": "They **had been playing** for two hours." },
+          { "label": "ปฏิเสธ", "formula": "ประธาน + **hadn't been** + V-ing", "example": "He **hadn't been sleeping** well." },
+          { "label": "คำถาม", "formula": "**Had** + ประธาน + **been** + V-ing ?", "example": "**Had** you **been waiting** long? — Yes, I had." },
+          { "label": "คำถาม Wh-", "formula": "How long + had + ประธาน + been + V-ing ?", "example": "**How long had** she **been working** there?" }
+        ]
+      },
+      {
+        "icon": "🆚",
+        "title": "เทียบ Tense อดีต 3 แบบ",
+        "table": {
+          "head": ["Tense", "โครงสร้าง", "ตัวอย่าง"],
+          "rows": [
+            ["Past Continuous", "was / were + V-ing", "I **was reading** at 9 p.m. (กำลังทำ ณ จุดเวลา)"],
+            ["Past Perfect", "had + V3", "I **had read** the book before the test. (ทำเสร็จก่อน)"],
+            ["Past Perfect Continuous", "had been + V-ing", "I **had been reading** for 2 hours when you called. (ทำต่อเนื่องมานาน)"]
+          ]
+        }
+      },
+      {
+        "icon": "⏰",
+        "title": "คำสังเกตและการแปล",
+        "chips": ["for …", "since …", "all day", "How long …?", "when …", "before …", "by the time …"],
+        "list": [
+          "บอกเล่า: แปลว่า “ทำ…มา (นานเท่าไร) แล้ว ตอนที่…”",
+          "ปฏิเสธ: แปลว่า “ไม่ได้ทำ…อย่างต่อเนื่องมาก่อน” — He **hadn't been eating** well. = ก่อนหน้านั้นเขาไม่ได้กินอาหารดี ๆ เลย"
+        ]
+      },
+      {
+        "icon": "📝",
+        "title": "ตัวอย่าง",
+        "examples": [
+          { "en": "We **had been driving** for six hours **when** we stopped for lunch.", "th": "พวกเราขับรถมาหกชั่วโมงแล้วตอนที่แวะกินข้าวกลางวัน" },
+          { "en": "The ground was wet because it **had been raining**.", "th": "พื้นเปียกเพราะฝนตกมาก่อนหน้านั้น" },
+          { "en": "**How long had** you **been living** there before you moved?", "th": "เธออาศัยอยู่ที่นั่นนานเท่าไรก่อนจะย้ายออก" }
+        ]
+      },
+      {
+        "icon": "⚠️",
+        "title": "ระวัง! จุดที่มักผิด",
+        "mistakes": [
+          { "wrong": "She had been **work** there for years.", "right": "She had been **working** there for years.", "why": "หลัง been ต้องเป็น V-ing" },
+          { "wrong": "They **have** been waiting for an hour when the doctor arrived.", "right": "They **had** been waiting for an hour when the doctor arrived.", "why": "จุดอ้างอิงอยู่ในอดีต (arrived) จึงต้องใช้ had" },
+          { "wrong": "Had she **being** studying?", "right": "Had she **been** studying?", "why": "ต้องใช้ been ไม่ใช่ being" },
+          { "wrong": "I had been **knowing** him for years.", "right": "I **had known** him for years.", "why": "know เป็นกริยาบอกสภาวะ ไม่ใช้รูป -ing" }
+        ]
+      }
+    ],
+    "tip": "**had been + V-ing** = “ทำมา…แล้ว ตอนที่ (อีกเหตุการณ์ในอดีต) เกิดขึ้น” — เจอ How long กับเหตุการณ์ในอดีต ให้นึกถึงรูปนี้"
+  },
+  "questions": [
+    {
+      "q": "เติมคำในช่องว่าง: We ___ been walking for hours when we finally found the hotel.",
+      "options": ["have", "had", "has", "were"],
+      "answer": 1,
+      "explanation": "เดินมาหลายชั่วโมงก่อนเหตุการณ์ในอดีต (found) → **had** been walking"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: She had been ___ for 30 minutes before the bus came.",
+      "options": ["wait", "waited", "waiting", "waits"],
+      "answer": 2,
+      "explanation": "had been + **V-ing** → waiting"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The kids were dirty because they had ___ playing in the mud.",
+      "options": ["be", "been", "being", "was"],
+      "answer": 1,
+      "explanation": "had + **been** + V-ing"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: How long ___ you been living there before you moved?",
+      "options": ["have", "had", "did", "were"],
+      "answer": 1,
+      "explanation": "ระยะเวลาก่อนเหตุการณ์ในอดีต (moved) → How long **had** you been living"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: I ___ (study) for three hours when my friend called.",
+      "options": ["have been studying", "had been studying", "was study", "am studying"],
+      "answer": 1,
+      "explanation": "อ่านหนังสือต่อเนื่องมา 3 ชั่วโมงก่อนเพื่อนโทรมา (อดีต) → **had been studying**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: It ___ (rain) all night, so the roads were flooded.",
+      "options": ["has been raining", "had been raining", "is raining", "rains"],
+      "answer": 1,
+      "explanation": "ฝนตกต่อเนื่องทั้งคืนก่อนถนนจะน้ำท่วม (were – อดีต) → **had been raining**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Max was out of breath because he ___ (run).",
+      "options": ["had been running", "has been running", "runs", "had been run"],
+      "answer": 0,
+      "explanation": "หอบเพราะวิ่งมาก่อนหน้านั้น (อดีต) → **had been running**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: They ___ (work) at the company for ten years when it closed.",
+      "options": ["have been working", "had been working", "are working", "work"],
+      "answer": 1,
+      "explanation": "ทำงานต่อเนื่อง 10 ปีก่อนบริษัทปิด (closed – อดีต) → **had been working**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Her eyes were red. She ___ (cry).",
+      "options": ["had been crying", "has been crying", "cries", "is crying"],
+      "answer": 0,
+      "explanation": "ตาแดง (were – อดีต) เพราะร้องไห้มาก่อน → **had been crying**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The phone ___ (ring) for a long time before someone answered it.",
+      "options": ["has been ringing", "had been ringing", "rings", "is ringing"],
+      "answer": 1,
+      "explanation": "ดังต่อเนื่องนานก่อนมีคนรับสาย (answered – อดีต) → **had been ringing**"
+    },
+    {
+      "q": "ข้อใดถูกต้อง",
+      "options": ["He had been play the guitar all morning.", "He had been playing the guitar all morning.", "He has been played the guitar all morning.", "He had being playing the guitar all morning."],
+      "answer": 1,
+      "explanation": "had + been + V-ing → He **had been playing**"
+    },
+    {
+      "q": "ข้อใดผิดหลักไวยากรณ์",
+      "options": ["We had been talking for an hour.", "She had been cooking since noon.", "They had been wait for the train.", "I had been feeling sick all week."],
+      "answer": 2,
+      "explanation": "หลัง been ต้องเป็น V-ing → They had been **waiting** for the train."
+    },
+    {
+      "q": "ประโยคปฏิเสธของ “She had been sleeping well.” คือข้อใด",
+      "options": ["She hadn't been sleeping well.", "She didn't had been sleeping well.", "She hadn't sleeping well.", "She hasn't been sleeping well."],
+      "answer": 0,
+      "explanation": "เติม not หลัง had → **hadn't been** + V-ing"
+    },
+    {
+      "q": "“had not been” เขียนแบบย่อได้ว่าอะไร",
+      "options": ["hadn't been", "hasn't been", "haven't been", "weren't been"],
+      "answer": 0,
+      "explanation": "had not → **hadn't** แล้วตามด้วย been"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: He failed the test because he ___ been studying.",
+      "options": ["hasn't", "hadn't", "didn't", "wasn't"],
+      "answer": 1,
+      "explanation": "ไม่ได้อ่านหนังสืออย่างต่อเนื่องมาก่อนสอบตก (อดีต) → **hadn't** been studying"
+    },
+    {
+      "q": "แปล: “They hadn't been practicing before the match.”",
+      "options": ["พวกเขาไม่ได้ฝึกซ้อมอย่างต่อเนื่องมาก่อนการแข่งขัน", "พวกเขาจะไม่ฝึกซ้อมก่อนการแข่งขัน", "พวกเขากำลังฝึกซ้อมก่อนการแข่งขัน", "พวกเขาฝึกซ้อมทุกวันก่อนการแข่งขัน"],
+      "answer": 0,
+      "explanation": "hadn't been + V-ing แปลว่า **ไม่ได้ทำ…อย่างต่อเนื่องมาก่อน**"
+    },
+    {
+      "q": "เปลี่ยน “You had been waiting long.” เป็นประโยคคำถาม ข้อใดถูกต้อง",
+      "options": ["Had you been waiting long?", "Have you been waiting long?", "Did you had been waiting long?", "Had you waiting long?"],
+      "answer": 0,
+      "explanation": "ย้าย had ขึ้นต้นประโยค → **Had you been waiting** long?"
+    },
+    {
+      "q": "A: Had she been working there long?  B: Yes, she ___.",
+      "options": ["was", "has", "had", "did"],
+      "answer": 2,
+      "explanation": "คำถามขึ้นต้นด้วย Had คำตอบสั้นใช้ **had** → Yes, she had."
+    },
+    {
+      "q": "เรียงคำให้เป็นคำถามที่ถูกต้อง: (been / had / they / how long / waiting)",
+      "options": ["How long had they been waiting?", "How long they had been waiting?", "How long had been they waiting?", "Had how long they been waiting?"],
+      "answer": 0,
+      "explanation": "How long + had + ประธาน + been + V-ing → **How long had they been waiting?**"
+    },
+    {
+      "q": "ข้อใดเป็นคำถามที่ถูกต้อง",
+      "options": ["Had he been sleep before the alarm rang?", "Had he been sleeping before the alarm rang?", "Has he been sleeping before the alarm rang?", "Did he been sleeping before the alarm rang?"],
+      "answer": 1,
+      "explanation": "Had + ประธาน + been + **V-ing** และจุดอ้างอิงอยู่ในอดีต (rang)"
+    },
+    {
+      "q": "หาส่วนที่ผิด: “Had you being studying all night?” ต้องแก้อย่างไร",
+      "options": ["Had → Have", "being → been", "studying → study", "all → every"],
+      "answer": 1,
+      "explanation": "โครงสร้างคือ Had + ประธาน + **been** + V-ing ไม่ใช่ being"
+    },
+    {
+      "q": "หาส่วนที่ผิด: “How long had she been wait for the doctor?” ต้องแก้อย่างไร",
+      "options": ["How long → How much", "had → has", "wait → waiting", "for → since"],
+      "answer": 2,
+      "explanation": "หลัง been ต้องเป็น V-ing → been **waiting**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: At 8 p.m. last night, I ___ dinner. (กำลังทำ ณ จุดเวลานั้น)",
+      "options": ["had been having", "was having", "had had", "have had"],
+      "answer": 1,
+      "explanation": "กำลังทำ ณ จุดเวลาหนึ่งในอดีต ใช้ Past Continuous → **was having**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: I ___ my homework before I went out. (ทำเสร็จก่อน)",
+      "options": ["had finished", "had been finishing", "was finishing", "finish"],
+      "answer": 0,
+      "explanation": "ทำเสร็จก่อนอีกเหตุการณ์ในอดีต ใช้ Past Perfect → **had finished**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: I ___ for two hours when I finally finished my homework.",
+      "options": ["had been working", "was worked", "have been working", "had worked been"],
+      "answer": 0,
+      "explanation": "ทำต่อเนื่องมานาน (for two hours) ก่อนจะเสร็จในอดีต → **had been working**"
+    },
+    {
+      "q": "ประโยคใดเป็น Past Perfect Continuous",
+      "options": ["She was swimming.", "She had swum.", "She had been swimming.", "She has been swimming."],
+      "answer": 2,
+      "explanation": "**had been swimming** = had been + V-ing"
+    },
+    {
+      "q": "ข้อใดเน้น “ระยะเวลาที่ทำต่อเนื่องก่อนเหตุการณ์ในอดีต”",
+      "options": ["He had written three letters.", "He had been writing letters all morning before lunch.", "He was writing a letter at noon.", "He writes letters every week."],
+      "answer": 1,
+      "explanation": "**had been writing … all morning before lunch** เน้นว่าเขียนต่อเนื่องทั้งเช้าก่อนมื้อกลางวัน"
+    },
+    {
+      "q": "สถานการณ์: เมื่อวานคุณรอเพื่อน 45 นาที แล้วเพื่อนจึงมาถึง ข้อใดถูกต้อง",
+      "options": ["I had been waiting for 45 minutes when my friend arrived.", "I have been waiting for 45 minutes when my friend arrived.", "I was waited for 45 minutes when my friend arrived.", "I had been waiting for 45 minutes when my friend has arrived."],
+      "answer": 0,
+      "explanation": "รอต่อเนื่องก่อนเพื่อนมาถึง (arrived) → **had been waiting**"
+    },
+    {
+      "q": "สถานการณ์: เมื่อวาน Tom ตัวเปียก เพราะเขาเดินตากฝนมา ข้อใดถูกต้อง",
+      "options": ["Tom was wet because he has been walking in the rain.", "Tom was wet because he had been walking in the rain.", "Tom is wet because he had been walking in the rain.", "Tom was wet because he walks in the rain."],
+      "answer": 1,
+      "explanation": "สภาพในอดีต (was wet) เกิดจากสิ่งที่ทำต่อเนื่องมาก่อน → **had been walking**"
+    },
+    {
+      "q": "สถานการณ์: ร้านปิดตัวลงปีที่แล้ว หลังจากเปิดมา 20 ปี ข้อใดถูกต้อง",
+      "options": ["The shop had been operating for 20 years when it closed last year.", "The shop has been operating for 20 years when it closed last year.", "The shop was operating for 20 years when it closes last year.", "The shop had been operate for 20 years when it closed last year."],
+      "answer": 0,
+      "explanation": "เปิดต่อเนื่อง 20 ปีก่อนปิด (closed last year) → **had been operating**"
+    },
+    {
+      "q": "เติม for หรือ since: She had been living in Rayong ___ 2015 before she moved.",
+      "options": ["for", "since"],
+      "answer": 1,
+      "keepOrder": true,
+      "explanation": "2015 เป็นจุดเริ่มต้น ใช้ **since**"
+    },
+    {
+      "q": "เติม for หรือ since: We had been driving ___ six hours when we stopped for lunch.",
+      "options": ["for", "since"],
+      "answer": 0,
+      "keepOrder": true,
+      "explanation": "six hours เป็นระยะเวลา ใช้ **for**"
+    },
+    {
+      "q": "เติม for หรือ since: He had been working ___ early morning, so he was exhausted.",
+      "options": ["for", "since"],
+      "answer": 1,
+      "keepOrder": true,
+      "explanation": "early morning เป็นจุดเริ่มต้น (ตั้งแต่เช้าตรู่) ใช้ **since**"
+    },
+    {
+      "q": "ข้อใดถูกต้อง",
+      "options": ["They had been knowing each other for years.", "They had known each other for years.", "They had been know each other for years.", "They have been knowing each other for years."],
+      "answer": 1,
+      "explanation": "know ไม่ใช้รูป -ing จึงใช้ Past Perfect → They **had known** each other"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Before he sold it, he ___ that car for ten years.",
+      "options": ["had been owning", "had owned", "has owned", "owned been"],
+      "answer": 1,
+      "explanation": "own (เป็นเจ้าของ) เป็นกริยาบอกสภาวะ ไม่ใช้ -ing → **had owned**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: When I got home, Mom was angry because my brother ___ video games all day.",
+      "options": ["has been playing", "had been playing", "plays", "is playing"],
+      "answer": 1,
+      "explanation": "เล่นเกมต่อเนื่องทั้งวันก่อนที่แม่จะโกรธ (อดีต) → **had been playing**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The road was wet. It ___.",
+      "options": ["has been raining", "had been raining", "rains", "rain"],
+      "answer": 1,
+      "explanation": "ถนนเปียก (was – อดีต) เพราะฝนตกมาก่อน → **had been raining**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: By the time the teacher came in, the students ___ for 20 minutes.",
+      "options": ["have been talking", "had been talking", "talk", "are talking"],
+      "answer": 1,
+      "explanation": "by the time + Past Simple (came) และคุยต่อเนื่องมา 20 นาที → **had been talking**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: I was very hungry because I ___ anything since breakfast.",
+      "options": ["haven't eaten", "hadn't eaten", "don't eat", "didn't eat"],
+      "answer": 1,
+      "explanation": "ไม่ได้กินอะไรเลยตั้งแต่มื้อเช้าจนถึงตอนนั้นในอดีต → **hadn't eaten**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: How long had you ___ English before you went to London?",
+      "options": ["learn", "been learning", "be learning", "learned been"],
+      "answer": 1,
+      "explanation": "How long had + ประธาน + **been + V-ing**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: She ___ been feeling well, so she stayed home.",
+      "options": ["hadn't", "haven't", "didn't", "wasn't"],
+      "answer": 0,
+      "explanation": "ไม่สบายต่อเนื่องมาก่อนจะอยู่บ้าน (stayed – อดีต) → **hadn't** been feeling"
+    },
+    {
+      "q": "แปล: “ฉันทำงานมาทั้งวันก่อนที่จะรู้สึกเหนื่อย”",
+      "options": ["I had been working all day before I felt tired.", "I have been working all day before I felt tired.", "I was work all day before I felt tired.", "I had working all day before I felt tired."],
+      "answer": 0,
+      "explanation": "ทำต่อเนื่องมาทั้งวันก่อนเหตุการณ์ในอดีต (felt) → **had been working**"
+    },
+    {
+      "q": "แปล: “ตอนที่ฉันมาถึง พวกเขาคุยกันมาเป็นชั่วโมงแล้ว”",
+      "options": ["When I arrived, they had been talking for an hour.", "When I arrived, they were talking for an hour.", "When I had arrived, they talked for an hour.", "When I arrive, they have been talking for an hour."],
+      "answer": 0,
+      "explanation": "คุยต่อเนื่องมา 1 ชั่วโมงก่อนฉันมาถึง → **had been talking** for an hour"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The baby woke up. She ___ for only 20 minutes.",
+      "options": ["had been sleeping", "has been sleeping", "sleeps", "is sleeping"],
+      "answer": 0,
+      "explanation": "หลับมาแค่ 20 นาทีก่อนจะตื่น (woke up – อดีต) → **had been sleeping**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Joe's hands were covered in paint. He ___ the fence.",
+      "options": ["had been painting", "has been painting", "paints", "is painting"],
+      "answer": 0,
+      "explanation": "มือเปื้อนสี (were – อดีต) เพราะทาสีรั้วมาก่อน → **had been painting**"
+    },
+    {
+      "q": "เรียงคำให้เป็นประโยคที่ถูกต้อง: (had / she / been / for weeks / training)",
+      "options": ["She had been training for weeks.", "She been had training for weeks.", "She had training been for weeks.", "Had she been training for weeks."],
+      "answer": 0,
+      "explanation": "ประธาน + had + been + V-ing → **She had been training** for weeks."
+    },
+    {
+      "q": "เรียงคำให้เป็นประโยคที่ถูกต้อง: (hadn't / they / been / attention / paying)",
+      "options": ["They hadn't been paying attention.", "They hadn't paying been attention.", "They been hadn't paying attention.", "Hadn't they been paying attention."],
+      "answer": 0,
+      "explanation": "ประธาน + hadn't + been + V-ing → **They hadn't been paying** attention."
+    },
+    {
+      "q": "อ่านข้อความ: “Somchai had been working in the garden for four hours when it started to rain. He had been planting flowers, and he was very tired.” Somchai ทำอะไรอยู่ก่อนฝนตก",
+      "options": ["He had been cooking.", "He had been planting flowers.", "He had been sleeping.", "He had been reading."],
+      "answer": 1,
+      "explanation": "ข้อความบอกว่า He **had been planting flowers** (ปลูกดอกไม้มาก่อนฝนตก)"
+    },
+    {
+      "q": "อ่านข้อความ: “Fon had been learning the violin for three years before she joined the school orchestra. She had been practicing every evening.” ข้อใดถูกต้อง",
+      "options": ["Fon started the violin after joining the orchestra.", "Fon had learned the violin for three years before joining the orchestra.", "Fon practiced only on weekends.", "Fon has never played the violin."],
+      "answer": 1,
+      "explanation": "had been learning the violin for three years **before** she joined = เรียนไวโอลินมา 3 ปีก่อนเข้าวง"
+    },
+    {
+      "q": "แปล: “ตอนที่ไฟดับ ฉันอ่านหนังสือมาสองชั่วโมงแล้ว”",
+      "options": ["When the power went out, I had been reading for two hours.", "When the power went out, I was reading for two hours.", "When the power had gone out, I read for two hours.", "When the power goes out, I had been reading for two hours."],
+      "answer": 0,
+      "explanation": "อ่านต่อเนื่อง 2 ชั่วโมงก่อนไฟดับ (went out) → **had been reading**"
+    }
+  ]
+}

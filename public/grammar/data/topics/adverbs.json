@@ -1,0 +1,344 @@
+{
+  "lesson": {
+    "summary": "คำกริยาวิเศษณ์ (Adverb) ใช้ **ขยายกริยา คำคุณศัพท์ หรือ adverb ด้วยกัน** บอกว่า **อย่างไร เมื่อไร ที่ไหน บ่อยแค่ไหน มากแค่ไหน** ส่วนใหญ่ลงท้ายด้วย **-ly**",
+    "sections": [
+      {
+        "icon": "🗂️",
+        "title": "ชนิดของ Adverb",
+        "table": {
+          "head": ["ชนิด", "ตอบคำถาม", "ตัวอย่าง"],
+          "rows": [
+            ["ลักษณะ / วิธีการ", "อย่างไร", "quickly, slowly, carefully, well"],
+            ["เวลา", "เมื่อไร", "now, today, yesterday, soon, later"],
+            ["สถานที่", "ที่ไหน", "here, there, outside, upstairs, nearby"],
+            ["ความถี่", "บ่อยแค่ไหน", "always, usually, often, sometimes, never"],
+            ["ระดับ", "มากแค่ไหน", "very, quite, really, too, extremely, almost"]
+          ]
+        }
+      },
+      {
+        "icon": "✏️",
+        "title": "สร้าง Adverb จาก Adjective",
+        "table": {
+          "head": ["แบบ", "ตัวอย่าง"],
+          "rows": [
+            ["คำทั่วไป เติม **-ly**", "quick → quickly, careful → carefully"],
+            ["พยัญชนะ + y → **-ily**", "easy → easily, happy → happily, heavy → heavily"],
+            ["ลงท้าย -le → **-ly**", "gentle → gently, simple → simply"],
+            ["รูปไม่ปกติ", "good → **well** · fast → **fast** · hard → **hard** · late → **late** · early → **early**"]
+          ]
+        },
+        "list": [
+          "ระวัง: **hardly** = แทบจะไม่ (ไม่ใช่ “อย่างหนัก”) · **lately** = ช่วงนี้",
+          "friendly, lovely, lonely ลงท้าย -ly แต่เป็น **คำคุณศัพท์**"
+        ]
+      },
+      {
+        "icon": "📍",
+        "title": "ตำแหน่งของ Adverb",
+        "list": [
+          "ขยายกริยา: วาง **หลังกริยา** หรือ **หลังกรรม** — She speaks **slowly**. / He did his homework **carefully**.",
+          "ห้ามวางคั่นระหว่างกริยากับกรรม — ✘ He speaks fluently English. → ✔ He speaks English **fluently**.",
+          "ขยายคุณศัพท์ / adverb: วาง **หน้า** คำนั้น — **very** hot, **really** fast",
+          "ความถี่: หน้ากริยาแท้ แต่หลัง verb to be — I **often** read. / She **is always** late.",
+          "มีหลายตัว: ลักษณะ → สถานที่ → เวลา — She sang **beautifully at the concert last night**."
+        ]
+      },
+      {
+        "icon": "🆚",
+        "title": "Adjective กับ Adverb",
+        "table": {
+          "head": ["Adjective (ขยายนาม)", "Adverb (ขยายกริยา)"],
+          "rows": [
+            ["She is a **careful** driver.", "She drives **carefully**."],
+            ["He is a **good** singer.", "He sings **well**."],
+            ["The test was **easy**.", "I passed the test **easily**."]
+          ]
+        }
+      },
+      {
+        "icon": "⚠️",
+        "title": "ระวัง! จุดที่มักผิด",
+        "mistakes": [
+          { "wrong": "He speaks English **good**.", "right": "He speaks English **well**.", "why": "ขยายกริยา speaks ต้องใช้ adverb (good → well)" },
+          { "wrong": "She drives **careful**.", "right": "She drives **carefully**.", "why": "ขยายกริยาใช้รูป -ly" },
+          { "wrong": "I work **hardly** every day.", "right": "I work **hard** every day.", "why": "hardly = แทบจะไม่ ส่วน hard เป็น adverb ได้เลย" },
+          { "wrong": "She sings **beautiful**.", "right": "She sings **beautifully**.", "why": "ขยายกริยา sings ต้องใช้ adverb" }
+        ]
+      }
+    ],
+    "tip": "ถามตัวเองว่าคำนั้นขยายอะไร — ขยาย **คำนาม → adjective** · ขยาย **กริยา → adverb (-ly)** และจำไว้ว่า good → **well**"
+  },
+  "questions": [
+    {
+      "q": "เติมคำในช่องว่าง: The old man walked ___.",
+      "options": ["slow", "slowly", "slowness", "slows"],
+      "answer": 1,
+      "explanation": "ขยายกริยา walked ต้องใช้ adverb → **slowly**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Please read the instructions ___.",
+      "options": ["careful", "carefully", "care", "careless"],
+      "answer": 1,
+      "explanation": "ขยายกริยา read → **carefully** (อย่างระมัดระวัง)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: She speaks Japanese very ___.",
+      "options": ["fluent", "fluently", "fluency", "fluents"],
+      "answer": 1,
+      "explanation": "ขยายกริยา speaks → **fluently** (อย่างคล่องแคล่ว)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: He plays the piano ___.",
+      "options": ["good", "well", "goodly", "goods"],
+      "answer": 1,
+      "explanation": "adverb ของ good คือ **well**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The receptionist spoke to the visitors ___.",
+      "options": ["polite", "politely", "politeness", "polites"],
+      "answer": 1,
+      "explanation": "ขยายกริยา spoke → **politely** (อย่างสุภาพ)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The test was easy. I finished it ___.",
+      "options": ["easy", "easily", "easier", "ease"],
+      "answer": 1,
+      "explanation": "ขยายกริยา finished และ easy ลงท้าย y → **easily**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The children played ___ in the garden.",
+      "options": ["happy", "happily", "happiness", "happier"],
+      "answer": 1,
+      "explanation": "ขยายกริยา played → **happily**"
+    },
+    {
+      "q": "รูป adverb ของ “gentle” คือข้อใด",
+      "options": ["gentlely", "gently", "gentily", "gentle"],
+      "answer": 1,
+      "explanation": "ลงท้าย -le ให้ตัด e แล้วเติม y → **gently**"
+    },
+    {
+      "q": "รูป adverb ของ “heavy” คือข้อใด",
+      "options": ["heavyly", "heavily", "heavely", "heavy"],
+      "answer": 1,
+      "explanation": "พยัญชนะ + y เปลี่ยนเป็น **-ily** → heavily"
+    },
+    {
+      "q": "รูป adverb ของ “fast” คือข้อใด",
+      "options": ["fastly", "fast", "fastily", "faster"],
+      "answer": 1,
+      "explanation": "fast เป็นได้ทั้ง adjective และ adverb ไม่ต้องเติม -ly → He runs **fast**."
+    },
+    {
+      "q": "รูป adverb ของ “good” คือข้อใด",
+      "options": ["goodly", "well", "better", "goodily"],
+      "answer": 1,
+      "explanation": "good → **well** (รูปไม่ปกติ)"
+    },
+    {
+      "q": "คำใดเป็น adjective แม้จะลงท้ายด้วย -ly",
+      "options": ["quickly", "friendly", "slowly", "badly"],
+      "answer": 1,
+      "explanation": "**friendly** (เป็นมิตร) เป็นคำคุณศัพท์ เช่น a friendly dog"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: He worked ___ all day, so he is very tired.",
+      "options": ["hard", "hardly", "hardy", "harden"],
+      "answer": 0,
+      "explanation": "ทำงานหนัก = work **hard** (hardly = แทบจะไม่)"
+    },
+    {
+      "q": "“I can hardly hear you.” หมายความว่าอย่างไร",
+      "options": ["ฉันได้ยินเธอชัดมาก", "ฉันแทบจะไม่ได้ยินเธอเลย", "ฉันได้ยินเธออย่างหนัก", "ฉันไม่อยากฟังเธอ"],
+      "answer": 1,
+      "explanation": "**hardly** = แทบจะไม่"
+    },
+    {
+      "q": "คำใดเป็น adverb บอกสถานที่",
+      "options": ["quickly", "upstairs", "yesterday", "often"],
+      "answer": 1,
+      "explanation": "**upstairs** (ชั้นบน) บอกสถานที่"
+    },
+    {
+      "q": "คำใดเป็น adverb บอกเวลา",
+      "options": ["here", "carefully", "tomorrow", "very"],
+      "answer": 2,
+      "explanation": "**tomorrow** (พรุ่งนี้) บอกเวลา"
+    },
+    {
+      "q": "คำใดเป็น adverb บอกความถี่",
+      "options": ["usually", "outside", "quietly", "soon"],
+      "answer": 0,
+      "explanation": "**usually** (มักจะ) บอกความถี่"
+    },
+    {
+      "q": "คำใดเป็น adverb บอกระดับ",
+      "options": ["extremely", "nearby", "later", "rarely"],
+      "answer": 0,
+      "explanation": "**extremely** (อย่างมาก / สุด ๆ) บอกระดับ"
+    },
+    {
+      "q": "คำที่ไฮไลต์ในประโยค “She walked **quickly** to the bus stop.” บอกอะไร",
+      "options": ["เวลา", "สถานที่", "ลักษณะ / วิธีการ", "ความถี่"],
+      "answer": 2,
+      "explanation": "quickly ตอบคำถามว่าเดิน **อย่างไร** จึงบอกลักษณะ / วิธีการ"
+    },
+    {
+      "q": "ข้อใดวาง adverb ถูกตำแหน่ง",
+      "options": ["He speaks fluently English.", "He speaks English fluently.", "He fluently English speaks.", "Fluently he English speaks."],
+      "answer": 1,
+      "explanation": "ไม่วาง adverb คั่นกริยากับกรรม → speaks English **fluently**"
+    },
+    {
+      "q": "ข้อใดวาง adverb ถูกตำแหน่ง",
+      "options": ["She always is late.", "She is always late.", "She is late always.", "Always she late is."],
+      "answer": 1,
+      "explanation": "คำบอกความถี่วาง **หลัง verb to be** → is always"
+    },
+    {
+      "q": "ข้อใดวาง adverb ถูกตำแหน่ง",
+      "options": ["It is hot very today.", "It is very hot today.", "It very is hot today.", "It is hot today very."],
+      "answer": 1,
+      "explanation": "very ขยายคำคุณศัพท์ hot จึงวาง **หน้า** hot"
+    },
+    {
+      "q": "เรียงคำให้ถูกต้อง: (carefully / the box / opened / she)",
+      "options": ["She opened carefully the box.", "She opened the box carefully.", "She the box opened carefully.", "Carefully the box she opened."],
+      "answer": 1,
+      "explanation": "adverb บอกลักษณะวางหลังกรรม → She opened the box **carefully**."
+    },
+    {
+      "q": "เรียงคำให้ถูกต้อง: (at the concert / beautifully / last night / she sang)",
+      "options": ["She sang beautifully at the concert last night.", "She sang last night at the concert beautifully.", "She sang at the concert beautifully last night.", "Beautifully she sang last night at the concert."],
+      "answer": 0,
+      "explanation": "เรียง **ลักษณะ → สถานที่ → เวลา**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: My grandma ___ goes to the temple on Sundays. (เสมอ)",
+      "options": ["always", "always is", "is always", "never"],
+      "answer": 0,
+      "explanation": "เสมอ = always วางหน้ากริยาแท้ goes"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: This coffee is ___ hot. I can't drink it.",
+      "options": ["too", "enough", "very much", "quite enough"],
+      "answer": 0,
+      "explanation": "**too** = เกินไป (ร้อนเกินไปจนดื่มไม่ได้)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: We ___ finished the project. Only one page is left. (เกือบ)",
+      "options": ["almost", "already", "always", "also"],
+      "answer": 0,
+      "explanation": "เหลืออีกหน้าเดียว = เกือบเสร็จ → **almost**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: She is a ___ driver. She always drives ___.",
+      "options": ["careful / carefully", "carefully / careful", "careful / careful", "carefully / carefully"],
+      "answer": 0,
+      "explanation": "ช่องแรกขยายคำนาม driver ใช้ **careful** · ช่องที่สองขยายกริยา drives ใช้ **carefully**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: He is a ___ singer. He sings ___.",
+      "options": ["good / well", "well / good", "good / good", "well / well"],
+      "answer": 0,
+      "explanation": "ขยายคำนาม singer ใช้ **good** · ขยายกริยา sings ใช้ **well**"
+    },
+    {
+      "q": "ข้อใดถูกต้อง",
+      "options": ["She sings beautiful.", "She sings beautifully.", "She beautiful sings.", "She sings beauty."],
+      "answer": 1,
+      "explanation": "ขยายกริยา sings ใช้ adverb → **beautifully**"
+    },
+    {
+      "q": "ข้อใดผิดหลักไวยากรณ์",
+      "options": ["He runs fast.", "She looks happy.", "They answered the question correct.", "I slept well last night."],
+      "answer": 2,
+      "explanation": "ขยายกริยา answered ต้องใช้ adverb → answered the question **correctly**"
+    },
+    {
+      "q": "คำที่ไฮไลต์ในข้อใดเป็น adverb",
+      "options": ["She has a **lovely** voice.", "He is a **fast** runner.", "He runs **fast**.", "It's a **hard** test."],
+      "answer": 2,
+      "explanation": "runs **fast** ขยายกริยา runs จึงเป็น adverb ส่วนข้ออื่นขยายคำนาม (voice, runner, test)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The baby is sleeping. Please talk ___.",
+      "options": ["quiet", "quietly", "quietness", "quieting"],
+      "answer": 1,
+      "explanation": "ขยายกริยา talk → **quietly** (อย่างเงียบ ๆ)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: He answered the question ___. He was very nervous.",
+      "options": ["nervous", "nervously", "nervousness", "nerve"],
+      "answer": 1,
+      "explanation": "ขยายกริยา answered → **nervously** (อย่างประหม่า)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The train arrived ___. We waited for an hour.",
+      "options": ["late", "lately", "lateness", "lating"],
+      "answer": 0,
+      "explanation": "มาสาย = arrive **late** (lately = ช่วงนี้)"
+    },
+    {
+      "q": "แปล: “เขาข้ามถนนอย่างปลอดภัย”",
+      "options": ["He crossed the road safe.", "He crossed the road safely.", "He safely the road crossed.", "He crossed safely the road."],
+      "answer": 1,
+      "explanation": "adverb วางหลังกรรม → crossed the road **safely**"
+    },
+    {
+      "q": "แปล: “ฉันมาโรงเรียนสายเมื่อวานนี้”",
+      "options": ["I came to school late yesterday.", "I came to school lately yesterday.", "I came late to school lately.", "I yesterday came to school late."],
+      "answer": 0,
+      "explanation": "สาย = **late** และคำบอกเวลา yesterday วางท้ายประโยค"
+    },
+    {
+      "q": "แปล: “เด็ก ๆ กำลังเล่นอยู่ข้างนอก”",
+      "options": ["The kids are playing outside.", "The kids are outside playing outside.", "The kids outside are play.", "The kids are playing outsidely."],
+      "answer": 0,
+      "explanation": "ข้างนอก = **outside** (adverb บอกสถานที่ วางหลังกริยา)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The movie was ___ good. I want to watch it again.",
+      "options": ["really", "real", "reality", "realize"],
+      "answer": 0,
+      "explanation": "ขยายคำคุณศัพท์ good ใช้ adverb → **really** good"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The box is ___ heavy for me to lift.",
+      "options": ["too", "very much", "enough", "so much"],
+      "answer": 0,
+      "explanation": "**too** + adjective + for … to … = …เกินกว่าที่…จะ…ได้"
+    },
+    {
+      "q": "ในประโยค “The test was extremely difficult.” คำใดขยายคำคุณศัพท์",
+      "options": ["The", "test", "extremely", "was"],
+      "answer": 2,
+      "explanation": "**extremely** ขยาย difficult (ยากมาก ๆ)"
+    },
+    {
+      "q": "ในประโยค “He drove very slowly.” คำว่า very ขยายคำใด",
+      "options": ["He", "drove", "slowly", "very"],
+      "answer": 2,
+      "explanation": "very ขยาย adverb **slowly** (ช้ามาก)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: I'll call you ___. I'm busy right now.",
+      "options": ["later", "late", "lately", "latest"],
+      "answer": 0,
+      "explanation": "**later** = ภายหลัง / ทีหลัง"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Let's eat ___ today. The weather is nice.",
+      "options": ["outside", "outsider", "outing", "out of"],
+      "answer": 0,
+      "explanation": "**outside** (ข้างนอก) เป็น adverb บอกสถานที่"
+    },
+    {
+      "q": "อ่านข้อความ: “Mint is a quiet student. She always listens carefully in class and does her homework neatly. She rarely talks during lessons.” ข้อใดถูกต้อง",
+      "options": ["Mint often talks in class.", "Mint listens carefully.", "Mint's homework is messy.", "Mint never does homework."],
+      "answer": 1,
+      "explanation": "ข้อความบอกว่า She always **listens carefully** in class."
+    }
+  ]
+}

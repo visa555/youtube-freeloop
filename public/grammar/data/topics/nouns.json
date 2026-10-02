@@ -1,0 +1,459 @@
+{
+  "lesson": {
+    "summary": "คำนาม (Noun) คือคำที่ใช้เรียก **คน สัตว์ สิ่งของ สถานที่ และความคิด** สิ่งสำคัญที่สุดคือต้องรู้ว่าคำนามนั้น **นับได้ หรือ นับไม่ได้** เพราะจะเป็นตัวกำหนดว่าใช้ a / an ได้ไหม มีรูปพหูพจน์ไหม และใช้คำบอกปริมาณคำไหน",
+    "sections": [
+      {
+        "icon": "🗂️",
+        "title": "ชนิดของคำนาม",
+        "table": {
+          "head": ["ชนิด", "ความหมาย", "ตัวอย่าง"],
+          "rows": [
+            ["Common noun", "ชื่อเรียกทั่วไป ขึ้นต้นด้วยตัวพิมพ์เล็ก", "city, teacher, phone"],
+            ["Proper noun", "ชื่อเฉพาะ **ขึ้นต้นด้วยตัวพิมพ์ใหญ่**", "Phuket, Monday, April, Thailand"],
+            ["Collective noun", "คำเรียกกลุ่ม", "a **team** of players, a **flock** of birds, a **bunch** of flowers"],
+            ["Abstract noun", "สิ่งที่จับต้องไม่ได้", "love, health, knowledge, happiness"],
+            ["Gerund", "กริยาเติม -ing ที่ทำหน้าที่เป็นคำนาม", "**Reading** is fun. / I enjoy **cooking**."]
+          ]
+        }
+      },
+      {
+        "icon": "🅰️",
+        "title": "a / an / the",
+        "list": [
+          "**a** + นามนับได้เอกพจน์ที่ขึ้นต้นด้วย **เสียง** พยัญชนะ: a book, a uniform (เสียง “ยู”)",
+          "**an** + นามนับได้เอกพจน์ที่ขึ้นต้นด้วย **เสียง** สระ: an apple, an hour (h ไม่ออกเสียง)",
+          "**the** + สิ่งที่รู้กันอยู่แล้ว / พูดถึงมาก่อน / มีสิ่งเดียวในโลก: I bought a bag. **The** bag is red. / **the** sun, **the** moon",
+          "ไม่ใช้ the กับมื้ออาหาร กีฬา และชื่อเมือง/ประเทศส่วนใหญ่: have lunch, play football, in Japan"
+        ]
+      },
+      {
+        "icon": "🔢",
+        "title": "นับได้ กับ นับไม่ได้",
+        "table": {
+          "head": ["นับได้ (Countable)", "นับไม่ได้ (Uncountable)"],
+          "rows": [
+            ["มีเอกพจน์และพหูพจน์: a cat → two cats", "ไม่มีรูปพหูพจน์ ไม่ใช้ a / an: water, rice, money, information, advice, homework, furniture"],
+            ["กริยาตามจำนวน: The cats **are** cute.", "ใช้กริยาเอกพจน์เสมอ: The water **is** cold."],
+            ["นับด้วยตัวเลขได้: three apples", "นับด้วยหน่วย: a glass of water, a piece of advice, two bottles of milk"]
+          ]
+        }
+      },
+      {
+        "icon": "✏️",
+        "title": "การทำพหูพจน์",
+        "table": {
+          "head": ["แบบ", "วิธี", "ตัวอย่าง"],
+          "rows": [
+            ["คำทั่วไป", "เติม **-s**", "book → books"],
+            ["ลงท้าย s, ss, sh, ch, x, o", "เติม **-es**", "bus → buses, box → boxes, tomato → tomatoes (ยกเว้น photo → photos)"],
+            ["พยัญชนะ + y", "เปลี่ยน y เป็น **ies**", "baby → babies, city → cities"],
+            ["ลงท้าย f / fe", "เปลี่ยนเป็น **ves**", "leaf → leaves, knife → knives"],
+            ["เปลี่ยนรูป (ต้องจำ)", "—", "man → men, woman → women, child → children, tooth → teeth, foot → feet, mouse → mice, person → people"],
+            ["รูปเดิม", "ไม่เปลี่ยน", "sheep → sheep, fish → fish, deer → deer"],
+            ["เป็นพหูพจน์เสมอ", "ใช้กริยาพหูพจน์", "glasses, scissors, jeans, trousers"]
+          ]
+        }
+      },
+      {
+        "icon": "⚖️",
+        "title": "คำบอกปริมาณ",
+        "table": {
+          "head": ["ใช้กับนามนับได้ (พหูพจน์)", "ใช้กับนามนับไม่ได้"],
+          "rows": [
+            ["**many** (มาก): many books", "**much** (มาก): much time"],
+            ["**a few** = มีอยู่บ้าง · **few** = มีน้อยมาก แทบไม่มี", "**a little** = มีอยู่บ้าง · **little** = มีน้อยมาก"],
+            ["**How many** + นามพหูพจน์?", "**How much** + นามนับไม่ได้? (และใช้ถามราคา)"]
+          ]
+        },
+        "list": [
+          "**some** ใช้ในประโยคบอกเล่าและประโยคเสนอ (Would you like some tea?) · **any** ใช้ในประโยคปฏิเสธและคำถาม",
+          "**a lot of / lots of** ใช้ได้กับนามทุกประเภท: a lot of friends, a lot of money",
+          "**each / every** + นามเอกพจน์ + กริยาเอกพจน์: **Every** student **has** a book.",
+          "**no** + คำนาม = ไม่มีเลย: There are **no** chairs. · **None of** + the + คำนาม: **None of** the students knew it."
+        ]
+      },
+      {
+        "icon": "👉",
+        "title": "this / that / these / those",
+        "table": {
+          "head": ["", "ใกล้", "ไกล"],
+          "rows": [
+            ["เอกพจน์", "**this** book", "**that** book"],
+            ["พหูพจน์", "**these** books", "**those** books"]
+          ]
+        }
+      },
+      {
+        "icon": "⚠️",
+        "title": "ระวัง! จุดที่มักผิด",
+        "mistakes": [
+          { "wrong": "I need **an information**.", "right": "I need **some information**.", "why": "information นับไม่ได้ ใช้ a / an ไม่ได้" },
+          { "wrong": "There are many **childs**.", "right": "There are many **children**.", "why": "child เปลี่ยนรูปพหูพจน์เป็น children" },
+          { "wrong": "How **many** money do you have?", "right": "How **much** money do you have?", "why": "money นับไม่ได้ ใช้ much" },
+          { "wrong": "**Every students have** a locker.", "right": "**Every student has** a locker.", "why": "every + นามเอกพจน์ + กริยาเอกพจน์" },
+          { "wrong": "She bought **a** umbrella.", "right": "She bought **an** umbrella.", "why": "umbrella ขึ้นต้นด้วยเสียงสระ" }
+        ]
+      }
+    ],
+    "tip": "ก่อนเลือก a / an, much / many, few / little ให้ถามตัวเองก่อนว่า **นับได้ไหม?** — นับได้ใช้ many · a few · How many ส่วนนับไม่ได้ใช้ much · a little · How much"
+  },
+  "questions": [
+    {
+      "q": "เติมคำในช่องว่าง: Pim wants to become ___ engineer.",
+      "options": ["a", "an", "the", "some"],
+      "answer": 1,
+      "explanation": "engineer ขึ้นต้นด้วยเสียงสระ (เอ็น) จึงใช้ **an**"
+    },
+    {
+      "q": "เติม a หรือ an: ___ hour",
+      "options": ["a", "an"],
+      "answer": 1,
+      "keepOrder": true,
+      "explanation": "hour ตัว h ไม่ออกเสียง จึงขึ้นต้นด้วยเสียงสระ (เอา) → **an** hour"
+    },
+    {
+      "q": "เติม a หรือ an: ___ uniform",
+      "options": ["a", "an"],
+      "answer": 0,
+      "keepOrder": true,
+      "explanation": "uniform ขึ้นต้นด้วยตัว u แต่ออกเสียง “ยู” ซึ่งเป็นเสียงพยัญชนะ → **a** uniform"
+    },
+    {
+      "q": "เติม a หรือ an: ___ orange umbrella",
+      "options": ["a", "an"],
+      "answer": 1,
+      "keepOrder": true,
+      "explanation": "ดูคำที่อยู่ติดกัน คือ orange ขึ้นต้นด้วยเสียงสระ → **an** orange umbrella"
+    },
+    {
+      "q": "ข้อใดใช้ a / an ถูกต้องทั้งหมด",
+      "options": ["an apple, a egg, an hour", "a apple, an egg, a hour", "an apple, an egg, an hour", "an apple, an egg, a hour"],
+      "answer": 2,
+      "explanation": "apple, egg, hour ขึ้นต้นด้วยเสียงสระทั้งหมด จึงใช้ **an** ทุกคำ"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: I saw a dog in the park. ___ dog was very friendly.",
+      "options": ["A", "An", "The", "Some"],
+      "answer": 2,
+      "explanation": "พูดถึงหมาตัวนั้นไปแล้วในประโยคแรก ครั้งที่สองจึงใช้ **The**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: ___ moon goes around the earth.",
+      "options": ["A", "An", "The", "Some"],
+      "answer": 2,
+      "explanation": "ดวงจันทร์มีดวงเดียว ใช้ **The**"
+    },
+    {
+      "q": "ประโยคใดใช้ the ไม่ถูกต้อง",
+      "options": ["The sun is very hot.", "Can you close the door?", "We had the lunch at noon.", "The book on the desk is mine."],
+      "answer": 2,
+      "explanation": "มื้ออาหารทั่วไปไม่ใช้ the → We had **lunch** at noon."
+    },
+    {
+      "q": "ข้อใดเขียนตัวพิมพ์ใหญ่ถูกต้อง",
+      "options": ["we went to phuket in april.", "We went to Phuket in April.", "We went to phuket in April.", "we went to Phuket in april."],
+      "answer": 1,
+      "explanation": "ต้นประโยค ชื่อสถานที่ (**Phuket**) และชื่อเดือน (**April**) ต้องขึ้นต้นด้วยตัวพิมพ์ใหญ่"
+    },
+    {
+      "q": "คำใดเป็นคำนามเฉพาะ (Proper noun)",
+      "options": ["museum", "river", "Chiang Mai", "teacher"],
+      "answer": 2,
+      "explanation": "**Chiang Mai** เป็นชื่อเฉพาะของจังหวัด จึงขึ้นต้นด้วยตัวพิมพ์ใหญ่"
+    },
+    {
+      "q": "คำใดเป็นคำนามนามธรรม (Abstract noun)",
+      "options": ["table", "happiness", "dog", "bottle"],
+      "answer": 1,
+      "explanation": "**happiness** (ความสุข) เป็นสิ่งที่จับต้องไม่ได้"
+    },
+    {
+      "q": "เติมคำนามกลุ่ม: a ___ of football players",
+      "options": ["team", "flock", "bunch", "herd"],
+      "answer": 0,
+      "explanation": "กลุ่มนักกีฬาเรียกว่า a **team** of players"
+    },
+    {
+      "q": "เติมคำนามกลุ่ม: a ___ of birds",
+      "options": ["team", "class", "flock", "bunch"],
+      "answer": 2,
+      "explanation": "ฝูงนกเรียกว่า a **flock** of birds"
+    },
+    {
+      "q": "เติมคำนามกลุ่ม: a ___ of flowers",
+      "options": ["bunch", "herd", "team", "crowd"],
+      "answer": 0,
+      "explanation": "ช่อดอกไม้เรียกว่า a **bunch** of flowers"
+    },
+    {
+      "q": "รูปพหูพจน์ของ “box” คือข้อใด",
+      "options": ["boxs", "boxes", "boxies", "boxen"],
+      "answer": 1,
+      "explanation": "box ลงท้ายด้วย x ต้องเติม **-es** → boxes"
+    },
+    {
+      "q": "รูปพหูพจน์ของ “city” คือข้อใด",
+      "options": ["citys", "cities", "cityes", "cites"],
+      "answer": 1,
+      "explanation": "city ลงท้ายด้วยพยัญชนะ + y เปลี่ยน y เป็น **ies** → cities"
+    },
+    {
+      "q": "รูปพหูพจน์ของ “knife” คือข้อใด",
+      "options": ["knifes", "knives", "knifves", "knive"],
+      "answer": 1,
+      "explanation": "knife ลงท้ายด้วย fe เปลี่ยนเป็น **ves** → knives"
+    },
+    {
+      "q": "รูปพหูพจน์ของ “child” คือข้อใด",
+      "options": ["childs", "childes", "children", "childrens"],
+      "answer": 2,
+      "explanation": "child เปลี่ยนรูปพิเศษเป็น **children** (ไม่ต้องเติม s อีก)"
+    },
+    {
+      "q": "รูปพหูพจน์ของ “tooth” คือข้อใด",
+      "options": ["tooths", "teeth", "toothes", "teeths"],
+      "answer": 1,
+      "explanation": "tooth เปลี่ยนสระเป็น **teeth** (เหมือน foot → feet)"
+    },
+    {
+      "q": "รูปพหูพจน์ของ “mouse” (หนู) คือข้อใด",
+      "options": ["mouses", "mice", "mices", "mousies"],
+      "answer": 1,
+      "explanation": "mouse เปลี่ยนรูปพิเศษเป็น **mice**"
+    },
+    {
+      "q": "คำใดมีรูปเอกพจน์และพหูพจน์เหมือนกัน",
+      "options": ["sheep", "dog", "cat", "horse"],
+      "answer": 0,
+      "explanation": "**sheep** → sheep (one sheep, two sheep) ไม่ต้องเติม s"
+    },
+    {
+      "q": "คำนามใดเปลี่ยนเป็นพหูพจน์ ไม่ถูกต้อง",
+      "options": ["leaf → leaves", "tomato → tomatoes", "photo → photoes", "bus → buses"],
+      "answer": 2,
+      "explanation": "photo เป็นข้อยกเว้น เติมแค่ -s → **photos**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: There are two ___ in the photo. (woman)",
+      "options": ["womans", "women", "womens", "woman"],
+      "answer": 1,
+      "explanation": "woman เปลี่ยนรูปพหูพจน์เป็น **women**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: My new jeans ___ too long.",
+      "options": ["is", "are", "was", "has"],
+      "answer": 1,
+      "explanation": "jeans เป็นคำนามพหูพจน์เสมอ จึงใช้ **are**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Where ___ my scissors? I can't find them.",
+      "options": ["is", "are", "does", "has"],
+      "answer": 1,
+      "explanation": "scissors (กรรไกร) เป็นพหูพจน์เสมอ → Where **are** my scissors?"
+    },
+    {
+      "q": "คำนามใดนับไม่ได้",
+      "options": ["chair", "information", "pencil", "friend"],
+      "answer": 1,
+      "explanation": "**information** (ข้อมูล) นับไม่ได้ ไม่มีรูปพหูพจน์"
+    },
+    {
+      "q": "คำนามใดนับได้",
+      "options": ["water", "rice", "egg", "advice"],
+      "answer": 2,
+      "explanation": "**egg** นับได้ (an egg, two eggs) ส่วนข้ออื่นนับไม่ได้"
+    },
+    {
+      "q": "ข้อใดถูกต้อง",
+      "options": ["Can you give me an advice?", "Can you give me some advice?", "Can you give me advices?", "Can you give me a advice?"],
+      "answer": 1,
+      "explanation": "advice นับไม่ได้ ใช้ a / an หรือเติม s ไม่ได้ → **some advice** (หรือ a piece of advice)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: I'd like ___ water, please.",
+      "options": ["a", "an", "a glass of", "two"],
+      "answer": 2,
+      "explanation": "water นับไม่ได้ ต้องนับด้วยหน่วย → **a glass of** water"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The furniture in this room ___ very old.",
+      "options": ["are", "is", "were", "have"],
+      "answer": 1,
+      "explanation": "furniture (เฟอร์นิเจอร์) นับไม่ได้ ใช้กริยาเอกพจน์ → **is**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: My homework ___ difficult today.",
+      "options": ["are", "is", "were", "aren't"],
+      "answer": 1,
+      "explanation": "homework นับไม่ได้ ใช้กริยาเอกพจน์ → **is**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: There ___ some milk in the fridge.",
+      "options": ["are", "is", "have", "were"],
+      "answer": 1,
+      "explanation": "milk นับไม่ได้ จึงใช้ There **is**"
+    },
+    {
+      "q": "รูปคำนาม (Gerund) ของ “swim” คือข้อใด",
+      "options": ["swimming", "swiming", "swims", "swam"],
+      "answer": 0,
+      "explanation": "Gerund = V + ing และ swim ต้องเพิ่ม m → **swimming** (การว่ายน้ำ)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: ___ is my favorite hobby.",
+      "options": ["Draw", "Drawing", "Draws", "To drawing"],
+      "answer": 1,
+      "explanation": "ประธานต้องเป็นคำนาม ใช้ Gerund → **Drawing** (การวาดรูป)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: She enjoys ___ cakes on weekends.",
+      "options": ["bake", "baking", "bakes", "to baking"],
+      "answer": 1,
+      "explanation": "หลัง enjoy ใช้ Gerund เป็นกรรม → enjoys **baking**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: I have ___ friends in this town, so I'm not lonely.",
+      "options": ["a few", "a little", "few", "little"],
+      "answer": 0,
+      "explanation": "friends นับได้ และ “ไม่เหงา” แปลว่ามีอยู่บ้าง → **a few**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: There is ___ milk left. We need to buy more.",
+      "options": ["little", "few", "a few", "many"],
+      "answer": 0,
+      "explanation": "milk นับไม่ได้ และต้องซื้อเพิ่ม แปลว่าเหลือน้อยมาก → **little**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Very ___ students understood the last question. It was too hard.",
+      "options": ["few", "little", "a little", "much"],
+      "answer": 0,
+      "explanation": "students นับได้ และคำถามยากเกินไป แปลว่าแทบไม่มีใครเข้าใจ → very **few**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Don't worry. We still have ___ time before the bus leaves.",
+      "options": ["a few", "a little", "few", "many"],
+      "answer": 1,
+      "explanation": "time นับไม่ได้ และ “ไม่ต้องห่วง” แปลว่ายังมีอยู่บ้าง → **a little**"
+    },
+    {
+      "q": "“few” ต่างจาก “a few” อย่างไร",
+      "options": ["few = มีอยู่บ้าง · a few = แทบไม่มี", "few = มีน้อยมาก แทบไม่มี · a few = มีอยู่บ้าง", "ความหมายเหมือนกันทุกประการ", "few ใช้กับนามนับไม่ได้"],
+      "answer": 1,
+      "explanation": "**few** เน้นว่าน้อยมาก (ความหมายเชิงลบ) ส่วน **a few** = มีอยู่บ้าง (ความหมายเชิงบวก)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: There are ___ cookies on the plate.",
+      "options": ["some", "any", "much", "a"],
+      "answer": 0,
+      "explanation": "ประโยคบอกเล่าใช้ **some**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: I don't have ___ money with me.",
+      "options": ["some", "any", "many", "a"],
+      "answer": 1,
+      "explanation": "ประโยคปฏิเสธใช้ **any**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Would you like ___ tea?",
+      "options": ["some", "any", "many", "a few"],
+      "answer": 0,
+      "explanation": "ประโยคเสนอให้ (Would you like…?) ใช้ **some** แม้จะเป็นคำถาม"
+    },
+    {
+      "q": "ข้อใดใช้ some / any ถูกต้อง",
+      "options": ["I need any help.", "There aren't some chairs.", "She doesn't have any brothers.", "We haven't got some eggs."],
+      "answer": 2,
+      "explanation": "ประโยคปฏิเสธ (doesn't have) ใช้ **any** ส่วนข้ออื่นสลับกัน"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: How ___ students are in your class?",
+      "options": ["much", "many", "a lot", "few"],
+      "answer": 1,
+      "explanation": "students นับได้ ใช้ **How many**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: How ___ sugar do you want in your tea?",
+      "options": ["many", "much", "few", "a few"],
+      "answer": 1,
+      "explanation": "sugar นับไม่ได้ ใช้ **How much**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: I don't have ___ time today.",
+      "options": ["many", "much", "few", "a few"],
+      "answer": 1,
+      "explanation": "time นับไม่ได้ ใช้ **much**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: There weren't ___ people at the beach.",
+      "options": ["much", "many", "little", "a little"],
+      "answer": 1,
+      "explanation": "people เป็นนามนับได้พหูพจน์ ใช้ **many**"
+    },
+    {
+      "q": "A: How much is this T-shirt?  B: ___",
+      "options": ["Three.", "It's 250 baht.", "Two T-shirts.", "Very much."],
+      "answer": 1,
+      "explanation": "How much is … ? ใช้ถาม **ราคา** จึงตอบว่า It's 250 baht."
+    },
+    {
+      "q": "A: ___ brothers and sisters do you have?  B: I have two sisters.",
+      "options": ["How much", "How many", "How old", "How long"],
+      "answer": 1,
+      "explanation": "ถามจำนวนพี่น้อง (นับได้) ใช้ **How many**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Every student ___ a laptop.",
+      "options": ["have", "has", "are having", "were"],
+      "answer": 1,
+      "explanation": "every + นามเอกพจน์ ใช้กริยาเอกพจน์ → **has**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Each ___ gets a free drink.",
+      "options": ["customer", "customers", "customer's", "customeres"],
+      "answer": 0,
+      "explanation": "each ตามด้วยนามเอกพจน์ → each **customer**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: There is ___ water in the bottle. It's empty.",
+      "options": ["no", "any", "none", "some"],
+      "answer": 0,
+      "explanation": "ขวดว่างเปล่า แปลว่าไม่มีน้ำเลย → There is **no** water."
+    },
+    {
+      "q": "เติมคำในช่องว่าง: ___ of the students knew the answer. The question was too hard.",
+      "options": ["No", "None", "Any", "Every"],
+      "answer": 1,
+      "explanation": "**None of** the + คำนาม = ไม่มีใครเลยใน… (No ใช้ตามด้วย of ไม่ได้)"
+    },
+    {
+      "q": "ข้อใดถูกต้อง",
+      "options": ["She has a lot of friends.", "She has a lot friends.", "She has lot of friends.", "She has a lots of friends."],
+      "answer": 0,
+      "explanation": "รูปที่ถูกคือ **a lot of** หรือ lots of"
+    },
+    {
+      "q": "คำใดใช้ได้ทั้งกับนามนับได้และนับไม่ได้",
+      "options": ["many", "much", "a lot of", "a few"],
+      "answer": 2,
+      "explanation": "**a lot of** ใช้ได้ทั้ง a lot of books และ a lot of water"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Look at ___ birds in the sky! (อยู่ไกล หลายตัว)",
+      "options": ["this", "that", "these", "those"],
+      "answer": 3,
+      "explanation": "อยู่ไกลและเป็นพหูพจน์ → **those**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: ___ book in my hand is very interesting.",
+      "options": ["This", "These", "Those", "That"],
+      "answer": 0,
+      "explanation": "อยู่ในมือ (ใกล้) และเป็นเอกพจน์ → **This**"
+    },
+    {
+      "q": "ประโยคใดผิดหลักไวยากรณ์",
+      "options": ["The children are playing outside.", "I need some informations.", "There is a little juice left.", "Those shoes are expensive."],
+      "answer": 1,
+      "explanation": "information นับไม่ได้ ไม่เติม s → I need some **information**."
+    }
+  ]
+}

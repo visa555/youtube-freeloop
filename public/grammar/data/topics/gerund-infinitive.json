@@ -1,0 +1,113 @@
+{
+  "lesson": {
+    "summary": "**Gerund (V-ing)** และ **Infinitive (to + V1)** คือกริยาที่ทำหน้าที่เหมือนคำนาม สิ่งที่ต้องจำคือ **กริยาบางคำตามด้วย V-ing บางคำตามด้วย to + V1** และบางคำใช้ได้ทั้งสองแบบแต่ความหมายเปลี่ยน",
+    "sections": [
+      {
+        "icon": "🧩",
+        "title": "Gerund กับ Infinitive คืออะไร",
+        "table": {
+          "head": ["แบบ", "รูป", "ตัวอย่าง"],
+          "rows": [
+            ["Gerund", "V-ing", "**Swimming** is good exercise. / I enjoy **cooking**."],
+            ["Infinitive", "to + V1", "I want **to learn** English. / It's fun **to travel**."]
+          ]
+        },
+        "list": [
+          "เป็นประธานของประโยค นิยมใช้ **Gerund**: **Reading** helps you relax.",
+          "หลัง **บุพบท** ใช้ V-ing เสมอ: good at **drawing**, interested in **learning**, thank you for **helping**, before **eating**"
+        ]
+      },
+      {
+        "icon": "🔤",
+        "title": "กริยาที่ตามด้วย V-ing",
+        "chips": ["enjoy", "finish", "mind", "avoid", "keep", "practice", "suggest", "consider", "miss", "admit", "imagine", "give up", "can't stand"]
+      },
+      {
+        "icon": "🔤",
+        "title": "กริยาที่ตามด้วย to + V1",
+        "chips": ["want", "need", "decide", "plan", "hope", "agree", "refuse", "promise", "learn", "choose", "expect", "would like", "afford", "manage"]
+      },
+      {
+        "icon": "🔀",
+        "title": "ใช้ได้ทั้งสองแบบ ความหมายเหมือนเดิม",
+        "text": "**like, love, hate, start, begin, continue** — I like **swimming** = I like **to swim** · It started **raining** = It started **to rain**"
+      },
+      {
+        "icon": "⚠️",
+        "title": "ใช้ได้ทั้งสองแบบ แต่ความหมายเปลี่ยน",
+        "table": {
+          "head": ["กริยา", "+ V-ing", "+ to + V1"],
+          "rows": [
+            ["stop", "เลิกทำ: He stopped **smoking**.", "หยุด (สิ่งที่ทำอยู่) เพื่อไปทำ: He stopped **to buy** a drink."],
+            ["remember", "จำได้ว่าเคยทำ: I remember **meeting** her.", "อย่าลืมว่าต้องทำ: Remember **to lock** the door."],
+            ["forget", "ลืมว่าเคยทำ: I'll never forget **seeing** the sea.", "ลืมทำ: I forgot **to bring** my book."]
+          ]
+        }
+      },
+      {
+        "icon": "❌",
+        "title": "ระวัง! จุดที่มักผิด",
+        "mistakes": [
+          { "wrong": "I enjoy **to swim**.", "right": "I enjoy **swimming**.", "why": "enjoy ตามด้วย V-ing" },
+          { "wrong": "She wants **going** home.", "right": "She wants **to go** home.", "why": "want ตามด้วย to + V1" },
+          { "wrong": "He is good at **draw**.", "right": "He is good at **drawing**.", "why": "หลังบุพบท (at) ใช้ V-ing" },
+          { "wrong": "I forgot **locking** the door, so it was open.", "right": "I forgot **to lock** the door, so it was open.", "why": "ลืมทำ = forget + to V" },
+          { "wrong": "**Swim** is fun.", "right": "**Swimming** is fun.", "why": "ประธานต้องเป็นคำนาม (Gerund)" }
+        ]
+      }
+    ],
+    "tip": "จำเป็นกลุ่ม: **enjoy / finish / mind / avoid / keep + V-ing** · **want / need / decide / plan / hope + to V** · หลัง **บุพบท** ใช้ V-ing เสมอ"
+  },
+  "questions": [
+    { "q": "เติมคำในช่องว่าง: My grandpa enjoys ___ in his garden.", "options": ["work", "working", "to work", "worked"], "answer": 1, "explanation": "enjoy + **V-ing**" },
+    { "q": "เติมคำในช่องว่าง: I want ___ a new bike.", "options": ["buy", "buying", "to buy", "bought"], "answer": 2, "explanation": "want + **to + V1**" },
+    { "q": "เติมคำในช่องว่าง: She finished ___ her homework at 9.", "options": ["do", "doing", "to do", "did"], "answer": 1, "explanation": "finish + **V-ing**" },
+    { "q": "เติมคำในช่องว่าง: We decided ___ to the beach.", "options": ["go", "going", "to go", "went"], "answer": 2, "explanation": "decide + **to + V1**" },
+    { "q": "เติมคำในช่องว่าง: Do you mind ___ the window?", "options": ["open", "opening", "to open", "opened"], "answer": 1, "explanation": "mind + **V-ing**" },
+    { "q": "เติมคำในช่องว่าง: The child refused ___ his vegetables.", "options": ["eat", "eating", "to eat", "ate"], "answer": 2, "explanation": "refuse + **to + V1**" },
+    { "q": "เติมคำในช่องว่าง: You should avoid ___ junk food.", "options": ["eat", "eating", "to eat", "ate"], "answer": 1, "explanation": "avoid + **V-ing**" },
+    { "q": "เติมคำในช่องว่าง: They hope ___ the competition.", "options": ["win", "winning", "to win", "won"], "answer": 2, "explanation": "hope + **to + V1**" },
+    { "q": "เติมคำในช่องว่าง: Keep ___! You're almost there.", "options": ["try", "trying", "to try", "tried"], "answer": 1, "explanation": "keep + **V-ing** = ทำต่อไปเรื่อย ๆ" },
+    { "q": "เติมคำในช่องว่าง: I need ___ some sleep.", "options": ["get", "getting", "to get", "got"], "answer": 2, "explanation": "need + **to + V1**" },
+    { "q": "เติมคำในช่องว่าง: She practices ___ the piano every day.", "options": ["play", "playing", "to play", "played"], "answer": 1, "explanation": "practice + **V-ing**" },
+    { "q": "เติมคำในช่องว่าง: We plan ___ Japan next year.", "options": ["visit", "visiting", "to visit", "visited"], "answer": 2, "explanation": "plan + **to + V1**" },
+    { "q": "เติมคำในช่องว่าง: Since moving to Bangkok, Fah misses ___ in the river near her old home.", "options": ["swim", "swimming", "to swim", "swam"], "answer": 1, "explanation": "miss (คิดถึง) + **V-ing**" },
+    { "q": "เติมคำในช่องว่าง: My dad promised ___ me to the zoo.", "options": ["take", "taking", "to take", "took"], "answer": 2, "explanation": "promise + **to + V1**" },
+    { "q": "เติมคำในช่องว่าง: I don't mind ___ the dishes tonight.", "options": ["wash", "washing", "to wash", "washed"], "answer": 1, "explanation": "mind + **V-ing**" },
+    { "q": "เติมคำในช่องว่าง: My parents agreed ___ me a puppy.", "options": ["buy", "buying", "to buy", "bought"], "answer": 2, "explanation": "agree + **to + V1**" },
+    { "q": "เติมคำในช่องว่าง: Have you considered ___ a new hobby?", "options": ["start", "starting", "to start", "started"], "answer": 1, "explanation": "consider + **V-ing**" },
+    { "q": "เติมคำในช่องว่าง: She learned ___ when she was five.", "options": ["swim", "swimming", "to swim", "swam"], "answer": 2, "explanation": "learn + **to + V1**" },
+    { "q": "เติมคำในช่องว่าง: He admitted ___ the window.", "options": ["break", "breaking", "to break", "broke"], "answer": 1, "explanation": "admit (ยอมรับ) + **V-ing**" },
+    { "q": "เติมคำในช่องว่าง: I can't afford ___ a new phone.", "options": ["buy", "buying", "to buy", "bought"], "answer": 2, "explanation": "afford + **to + V1**" },
+    { "q": "เติมคำในช่องว่าง: ___ is good for your health.", "options": ["Jog", "Jogging", "To jogging", "Jogs"], "answer": 1, "explanation": "ประธานใช้ Gerund → **Jogging**" },
+    { "q": "เติมคำในช่องว่าง: ___ English every day helps you improve.", "options": ["Practice", "Practicing", "Practiced", "Practices"], "answer": 1, "explanation": "ประธานเป็นการกระทำ → Gerund **Practicing**" },
+    { "q": "เติมคำในช่องว่าง: She is good at ___.", "options": ["sing", "singing", "to sing", "sang"], "answer": 1, "explanation": "หลังบุพบท at ใช้ **V-ing**" },
+    { "q": "เติมคำในช่องว่าง: Thank you for ___ me with my homework.", "options": ["help", "helping", "to help", "helped"], "answer": 1, "explanation": "หลังบุพบท for ใช้ **V-ing**" },
+    { "q": "เติมคำในช่องว่าง: I'm interested in ___ about space.", "options": ["learn", "learning", "to learn", "learned"], "answer": 1, "explanation": "หลังบุพบท in ใช้ **V-ing**" },
+    { "q": "เติมคำในช่องว่าง: Wash your hands before ___.", "options": ["eat", "eating", "to eat", "ate"], "answer": 1, "explanation": "หลังบุพบท before ใช้ **V-ing**" },
+    { "q": "เติมคำในช่องว่าง: I'm looking forward to ___ my cousins.", "options": ["see", "seeing", "to see", "saw"], "answer": 1, "explanation": "look forward to (to เป็นบุพบท) + **V-ing**" },
+    { "q": "เติมคำในช่องว่าง: How about ___ to the movies tonight?", "options": ["go", "going", "to go", "went"], "answer": 1, "explanation": "How about + **V-ing** = …ดีไหม" },
+    { "q": "เติมคำในช่องว่าง: He stopped ___ because it's bad for his health. (เลิก)", "options": ["smoking", "to smoke", "smoke", "smoked"], "answer": 0, "explanation": "เลิกทำ = stop + **V-ing**" },
+    { "q": "เติมคำในช่องว่าง: On the way home, we stopped ___ some photos of the sunset. (หยุดเพื่อ)", "options": ["taking", "to take", "take", "took"], "answer": 1, "explanation": "หยุดเพื่อไปทำ = stop + **to + V1**" },
+    { "q": "เติมคำในช่องว่าง: Remember ___ the door when you leave. (อย่าลืม)", "options": ["locking", "to lock", "lock", "locked"], "answer": 1, "explanation": "อย่าลืมว่าต้องทำ = remember + **to + V1**" },
+    { "q": "เติมคำในช่องว่าง: I remember ___ this movie when I was a kid. (จำได้ว่าเคย)", "options": ["watching", "to watch", "watch", "watched"], "answer": 0, "explanation": "จำได้ว่าเคยทำ = remember + **V-ing**" },
+    { "q": "เติมคำในช่องว่าง: I forgot ___ my homework, so the teacher was angry. (ลืมทำ)", "options": ["bringing", "to bring", "bring", "brought"], "answer": 1, "explanation": "ลืมทำ = forget + **to + V1**" },
+    { "q": "เติมคำในช่องว่าง: I'll never forget ___ the sea for the first time. (ลืมไม่ได้ว่าเคย)", "options": ["seeing", "to see", "see", "saw"], "answer": 0, "explanation": "ลืมไม่ได้ว่าเคยทำ = forget + **V-ing**" },
+    { "q": "“She stopped to talk to her friend.” หมายความว่าอย่างไร", "options": ["เธอหยุด (เดิน) เพื่อคุยกับเพื่อน", "เธอเลิกคุยกับเพื่อน", "เธอไม่เคยคุยกับเพื่อน", "เธอคุยกับเพื่อนตลอด"], "answer": 0, "explanation": "stop + to V = **หยุดเพื่อไปทำ** สิ่งนั้น" },
+    { "q": "“I stopped eating sweets.” หมายความว่าอย่างไร", "options": ["ฉันเลิกกินขนมหวาน", "ฉันหยุดเพื่อกินขนมหวาน", "ฉันกินขนมหวานทุกวัน", "ฉันเริ่มกินขนมหวาน"], "answer": 0, "explanation": "stop + V-ing = **เลิกทำ**" },
+    { "q": "กริยาใดตามด้วยได้ทั้ง V-ing และ to + V1 โดยความหมายไม่เปลี่ยน", "options": ["like", "enjoy", "want", "avoid"], "answer": 0, "explanation": "**like** swimming = like to swim" },
+    { "q": "เติมคำในช่องว่าง: It started ___ heavily.", "options": ["rain", "raining", "rained", "rains"], "answer": 1, "explanation": "start + **V-ing** (หรือ to rain ก็ได้)" },
+    { "q": "คำใดเป็น Gerund ในประโยค “I love reading comics before bed.”", "options": ["love", "reading", "comics", "bed"], "answer": 1, "explanation": "**reading** = V-ing ที่ทำหน้าที่เป็นกรรม" },
+    { "q": "ส่วนใดเป็น Infinitive ในประโยค “She wants to become a doctor.”", "options": ["wants", "to become", "a doctor", "She"], "answer": 1, "explanation": "**to become** = to + V1" },
+    { "q": "กริยาใดตามด้วย V-ing เท่านั้น", "options": ["enjoy", "want", "decide", "hope"], "answer": 0, "explanation": "**enjoy** + V-ing ส่วนข้ออื่นตามด้วย to + V1" },
+    { "q": "กริยาใดตามด้วย to + V1 เท่านั้น", "options": ["finish", "avoid", "decide", "mind"], "answer": 2, "explanation": "**decide** + to V ส่วนข้ออื่นตามด้วย V-ing" },
+    { "q": "ข้อใดผิด", "options": ["I enjoy dancing.", "She wants to travel.", "He finished to read the book.", "They decided to stay."], "answer": 2, "explanation": "finish + V-ing → He finished **reading** the book." },
+    { "q": "ข้อใดผิด", "options": ["Swimming is fun.", "I'm good at drawing.", "She avoids to eat sugar.", "We hope to see you soon."], "answer": 2, "explanation": "avoid + V-ing → She avoids **eating** sugar." },
+    { "q": "ข้อใดถูกต้อง", "options": ["I'm thinking about buy a new phone.", "I'm thinking about buying a new phone.", "I'm thinking about to buy a new phone.", "I'm thinking about bought a new phone."], "answer": 1, "explanation": "หลังบุพบท about ใช้ **V-ing**" },
+    { "q": "แปล: “พี่ชายฉันเลิกดื่มน้ำอัดลมแล้ว”", "options": ["My brother has given up drinking soda.", "My brother has given up to drink soda.", "My brother has given up drink soda.", "My brother has given drinking up soda."], "answer": 0, "explanation": "give up (เลิก) + **V-ing**" },
+    { "q": "แปล: “เราวางแผนจะไปเที่ยวทะเลเดือนหน้า”", "options": ["We plan to go to the beach next month.", "We plan going to the beach next month.", "We plan go to the beach next month.", "We plan to going to the beach next month."], "answer": 0, "explanation": "plan + **to + V1**" },
+    { "q": "แปล: “การเรียนภาษาใหม่เป็นเรื่องสนุก”", "options": ["Learning a new language is fun.", "Learn a new language is fun.", "To learning a new language is fun.", "Learned a new language is fun."], "answer": 0, "explanation": "ประธานเป็น Gerund → **Learning**" },
+    { "q": "อ่านข้อความ: “Nam loves drawing. She wants to become an artist, so she practices sketching every day. She avoids wasting time on her phone.” ข้อใดถูกต้อง", "options": ["Nam ไม่ชอบวาดรูป", "Nam ฝึกสเก็ตช์ภาพทุกวัน", "Nam ใช้โทรศัพท์ทั้งวัน", "Nam อยากเป็นหมอ"], "answer": 1, "explanation": "she **practices sketching** every day = ฝึกสเก็ตช์ภาพทุกวัน" },
+    { "q": "อ่านข้อความ: “On the way to school, Tom stopped to buy some bread. Then he realized that he had forgotten to bring his wallet!” ข้อใดถูกต้อง", "options": ["Tom เลิกกินขนมปัง", "Tom หยุดเพื่อซื้อขนมปัง แต่ลืมเอากระเป๋าสตางค์มา", "Tom เอากระเป๋าสตางค์มาแล้ว", "Tom ไม่ได้ไปโรงเรียน"], "answer": 1, "explanation": "**stopped to buy** = หยุดเพื่อซื้อ · **forgotten to bring** = ลืมเอามา" }
+  ]
+}

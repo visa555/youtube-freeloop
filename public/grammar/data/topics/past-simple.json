@@ -1,0 +1,398 @@
+{
+  "lesson": {
+    "summary": "ใช้เล่าเรื่องที่ **เกิดขึ้นและจบไปแล้ว** ในอดีต มักมีคำบอกเวลาในอดีต เช่น yesterday, last week, two days ago",
+    "sections": [
+      {
+        "icon": "🎯",
+        "title": "ใช้เมื่อไหร่",
+        "list": [
+          "เหตุการณ์ที่จบไปแล้ว รู้เวลาชัดเจน — I **visited** my grandma last Sunday.",
+          "เหตุการณ์ที่เกิดต่อกันเป็นลำดับ (เล่าเรื่อง) — She **got** up, **took** a shower and **went** to school.",
+          "สิ่งที่เคยทำเป็นประจำในอดีต — When I was young, I **played** outside every day."
+        ]
+      },
+      {
+        "icon": "🧱",
+        "title": "โครงสร้าง (กริยาทั่วไป)",
+        "text": "ข่าวดีคือ Past Simple ใช้รูปเดียวกันกับ **ทุกประธาน** ไม่ต้องเติม s",
+        "formulas": [
+          { "label": "บอกเล่า", "formula": "ประธาน + **V2**", "example": "Tom **watched** a movie last night." },
+          { "label": "ปฏิเสธ", "formula": "ประธาน + **didn't** + V1", "example": "Tom **didn't watch** a movie." },
+          { "label": "คำถาม", "formula": "**Did** + ประธาน + V1 ?", "example": "**Did** Tom **watch** a movie? — Yes, he did. / No, he didn't." },
+          { "label": "คำถาม Wh-", "formula": "Wh- + **did** + ประธาน + V1 ?", "example": "What **did** Tom **watch**?" }
+        ]
+      },
+      {
+        "icon": "🟰",
+        "title": "Verb to be ในอดีต: was / were",
+        "table": {
+          "head": ["ประธาน", "บอกเล่า", "ปฏิเสธ"],
+          "rows": [
+            ["I / He / She / It / นามเอกพจน์", "**was**", "wasn't"],
+            ["You / We / They / นามพหูพจน์", "**were**", "weren't"]
+          ]
+        },
+        "list": [
+          "คำถาม: **Was** she at home? / **Were** they happy?",
+          "ประโยคที่มี was / were **ไม่ใช้ did** — ✘ Did she happy? → ✔ **Was** she happy?"
+        ]
+      },
+      {
+        "icon": "✏️",
+        "title": "กริยาช่อง 2 แบบปกติ (เติม -ed)",
+        "table": {
+          "head": ["แบบ", "วิธีเติม", "ตัวอย่าง"],
+          "rows": [
+            ["คำทั่วไป", "เติม **-ed**", "work → worked, watch → watched"],
+            ["ลงท้ายด้วย e", "เติม **-d**", "live → lived, dance → danced"],
+            ["พยัญชนะ + y", "เปลี่ยน y เป็น i แล้วเติม **-ed**", "study → studied, cry → cried"],
+            ["สระ + y", "เติม **-ed** ได้เลย", "play → played, stay → stayed"],
+            ["พยางค์เดียว สระเสียงสั้น 1 ตัว + พยัญชนะ 1 ตัว", "เพิ่มตัวสะกดอีกตัว แล้วเติม **-ed**", "stop → stopped, plan → planned"]
+          ]
+        }
+      },
+      {
+        "icon": "🔀",
+        "title": "กริยาช่อง 2 แบบไม่ปกติ (ต้องจำ)",
+        "table": {
+          "head": ["กลุ่ม", "ตัวอย่าง"],
+          "rows": [
+            ["ช่อง 1 กับช่อง 2 เหมือนกัน", "cut → cut, put → put, hit → hit, read → read (อ่านว่า “เร้ด”)"],
+            ["ลงท้าย -ought / -aught", "buy → bought, think → thought, teach → taught, catch → caught"],
+            ["เปลี่ยนเสียงสระ", "drink → drank, swim → swam, write → wrote, ride → rode"],
+            ["เปลี่ยนทั้งคำ", "go → went, eat → ate, see → saw, have → had, do → did"]
+          ]
+        }
+      },
+      {
+        "icon": "⏰",
+        "title": "คำบอกเวลาในอดีต",
+        "chips": ["yesterday", "yesterday morning", "last night", "last week", "last year", "two days ago", "an hour ago", "in 2020", "the other day", "when I was young"]
+      },
+      {
+        "icon": "📝",
+        "title": "ตัวอย่าง",
+        "examples": [
+          { "en": "We **went** to Hua Hin last summer.", "th": "พวกเราไปหัวหินเมื่อฤดูร้อนที่แล้ว" },
+          { "en": "I **didn't see** him at school yesterday.", "th": "เมื่อวานฉันไม่เห็นเขาที่โรงเรียน" },
+          { "en": "**Did** you **finish** your project? — Yes, I **did**.", "th": "เธอทำโครงงานเสร็จหรือยัง — เสร็จแล้ว" },
+          { "en": "The weather **was** hot, so we **were** tired.", "th": "อากาศร้อน พวกเราเลยเหนื่อย" }
+        ]
+      },
+      {
+        "icon": "⚠️",
+        "title": "ระวัง! จุดที่มักผิด",
+        "mistakes": [
+          { "wrong": "She didn't **went** to school.", "right": "She didn't **go** to school.", "why": "หลัง didn't ใช้ V1 เพราะ did บอกความเป็นอดีตไว้แล้ว" },
+          { "wrong": "Did you **saw** him?", "right": "Did you **see** him?", "why": "ประโยคคำถามที่ขึ้นต้นด้วย Did ก็ต้องใช้ V1 เช่นกัน" },
+          { "wrong": "I **buyed** a new bag.", "right": "I **bought** a new bag.", "why": "buy เป็นกริยาไม่ปกติ ต้องจำรูปช่อง 2" },
+          { "wrong": "They **was** at the beach.", "right": "They **were** at the beach.", "why": "ประธาน they ใช้ were" },
+          { "wrong": "**Did** she tired?", "right": "**Was** she tired?", "why": "tired เป็นคำคุณศัพท์ ไม่มีกริยาแท้ จึงต้องใช้ was / were" }
+        ]
+      }
+    ],
+    "tip": "**did** เป็นตัวบอกอดีตแทนกริยา: ประโยคไหนมี did / didn't แล้ว กริยาต้องกลับเป็น **ช่อง 1** เสมอ"
+  },
+  "questions": [
+    {
+      "q": "รูปอดีต (V2) ของ “visit” คือข้อใด",
+      "options": ["visitted", "visited", "visit", "visits"],
+      "answer": 1,
+      "explanation": "visit เป็นกริยาปกติ เติม **-ed** ได้เลย ไม่ต้องเพิ่ม t → visited"
+    },
+    {
+      "q": "รูปอดีต (V2) ของ “dance” คือข้อใด",
+      "options": ["danceed", "danced", "dancd", "dancing"],
+      "answer": 1,
+      "explanation": "dance ลงท้ายด้วย e อยู่แล้ว เติมแค่ **-d** → danced"
+    },
+    {
+      "q": "รูปอดีต (V2) ของ “carry” คือข้อใด",
+      "options": ["carryed", "carried", "caried", "carries"],
+      "answer": 1,
+      "explanation": "carry ลงท้ายด้วยพยัญชนะ (r) + y เปลี่ยน y เป็น i แล้วเติม -ed → **carried**"
+    },
+    {
+      "q": "รูปอดีต (V2) ของ “stay” คือข้อใด",
+      "options": ["staied", "stayed", "stayd", "stays"],
+      "answer": 1,
+      "explanation": "stay ลงท้ายด้วยสระ (a) + y เติม **-ed** ได้เลย → stayed"
+    },
+    {
+      "q": "รูปอดีต (V2) ของ “plan” คือข้อใด",
+      "options": ["planed", "planned", "planing", "plans"],
+      "answer": 1,
+      "explanation": "plan เป็นคำพยางค์เดียว สระเสียงสั้น 1 ตัว + พยัญชนะ 1 ตัว ต้องเพิ่ม n อีกตัวก่อนเติม -ed → **planned**"
+    },
+    {
+      "q": "รูปอดีต (V2) ของ “think” คือข้อใด",
+      "options": ["thinked", "thank", "thought", "taught"],
+      "answer": 2,
+      "explanation": "think เป็นกริยาไม่ปกติ ช่อง 2 คือ **thought** (ส่วน taught เป็นช่อง 2 ของ teach)"
+    },
+    {
+      "q": "รูปอดีต (V2) ของ “teach” คือข้อใด",
+      "options": ["teached", "taught", "thought", "tought"],
+      "answer": 1,
+      "explanation": "teach เป็นกริยาไม่ปกติ ช่อง 2 คือ **taught**"
+    },
+    {
+      "q": "รูปอดีต (V2) ของ “swim” คือข้อใด",
+      "options": ["swimmed", "swum", "swam", "swims"],
+      "answer": 2,
+      "explanation": "swim → **swam** (ช่อง 2) ส่วน swum เป็นช่อง 3 ใช้กับ have / has"
+    },
+    {
+      "q": "รูปอดีต (V2) ของ “put” คือข้อใด",
+      "options": ["puted", "put", "pat", "puts"],
+      "answer": 1,
+      "explanation": "put เป็นกริยาที่ช่อง 1 และช่อง 2 **เหมือนกัน** → put"
+    },
+    {
+      "q": "รูปอดีต (V2) ของ “catch” คือข้อใด",
+      "options": ["catched", "caught", "cought", "catches"],
+      "answer": 1,
+      "explanation": "catch เป็นกริยาไม่ปกติ ช่อง 2 คือ **caught**"
+    },
+    {
+      "q": "กริยาในข้อใดเปลี่ยนเป็นช่อง 2 ไม่ถูกต้อง",
+      "options": ["write → wrote", "drive → drove", "speak → spoke", "bring → brang"],
+      "answer": 3,
+      "explanation": "bring เปลี่ยนเป็น **brought** ไม่ใช่ brang ส่วนข้ออื่นถูกต้องทั้งหมด"
+    },
+    {
+      "q": "กริยาคู่ใดมีรูปช่อง 1 และช่อง 2 เหมือนกัน",
+      "options": ["cut – cut", "sit – sat", "run – ran", "get – got"],
+      "answer": 0,
+      "explanation": "**cut** เป็นกริยาที่ไม่เปลี่ยนรูป (เช่นเดียวกับ put, hit, hurt) ส่วนข้ออื่นเปลี่ยนเสียงสระ"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: My grandparents ___ farmers 30 years ago.",
+      "options": ["was", "were", "are", "be"],
+      "answer": 1,
+      "explanation": "My grandparents เป็นพหูพจน์ และ 30 years ago บอกอดีต จึงใช้ **were**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The test ___ very difficult yesterday.",
+      "options": ["were", "was", "is", "did"],
+      "answer": 1,
+      "explanation": "The test เป็นเอกพจน์ และ yesterday บอกอดีต จึงใช้ **was**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: There ___ a lot of people at the concert last night.",
+      "options": ["was", "were", "is", "did"],
+      "answer": 1,
+      "explanation": "people เป็นคำนามพหูพจน์ จึงใช้ There **were** (ในอดีต)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: I ___ hungry, so I didn't eat lunch.",
+      "options": ["wasn't", "weren't", "didn't", "don't"],
+      "answer": 0,
+      "explanation": "ประธาน I ในอดีตใช้ was → ปฏิเสธคือ **wasn't** (hungry เป็นคำคุณศัพท์ จึงใช้ didn't ไม่ได้)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: ___ you at home last night?",
+      "options": ["Did", "Was", "Were", "Are"],
+      "answer": 2,
+      "explanation": "ประธาน you ในอดีตใช้ were และประโยคไม่มีกริยาแท้ จึงขึ้นต้นด้วย **Were**"
+    },
+    {
+      "q": "ประโยคใดถูกต้อง",
+      "options": ["Did your brother sick yesterday?", "Was your brother sick yesterday?", "Were your brother sick yesterday?", "Does your brother sick yesterday?"],
+      "answer": 1,
+      "explanation": "sick เป็นคำคุณศัพท์ ต้องใช้ verb to be และ your brother เป็นเอกพจน์ → **Was** your brother sick?"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Jack ___ his leg when he fell off his bike.",
+      "options": ["breaked", "broke", "broken", "breaks"],
+      "answer": 1,
+      "explanation": "break เป็นกริยาไม่ปกติ ช่อง 2 คือ **broke** (broken เป็นช่อง 3)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: We ___ a beautiful rainbow after the rain yesterday.",
+      "options": ["see", "seen", "saw", "seed"],
+      "answer": 2,
+      "explanation": "yesterday บอกอดีต see เป็นกริยาไม่ปกติ ช่อง 2 คือ **saw**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Mom ___ a birthday cake for me last week.",
+      "options": ["make", "made", "maked", "makes"],
+      "answer": 1,
+      "explanation": "make เป็นกริยาไม่ปกติ ช่อง 2 คือ **made**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: The movie ___ at 7 p.m. and finished at 9 p.m.",
+      "options": ["start", "starts", "started", "starting"],
+      "answer": 2,
+      "explanation": "finished เป็นอดีต เหตุการณ์ที่เกิดต่อกันในอดีตต้องใช้ Past Simple ทั้งคู่ → **started**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Ann ___ her keys, so she couldn't open the door.",
+      "options": ["lose", "lost", "losed", "loses"],
+      "answer": 1,
+      "explanation": "couldn't บอกว่าเป็นเรื่องในอดีต lose เป็นกริยาไม่ปกติ ช่อง 2 คือ **lost**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: I ___ my best friend a message an hour ago.",
+      "options": ["send", "sended", "sent", "sends"],
+      "answer": 2,
+      "explanation": "an hour ago บอกอดีต send เป็นกริยาไม่ปกติ ช่อง 2 คือ **sent**"
+    },
+    {
+      "q": "ประโยคใดเป็น Past Simple",
+      "options": ["She is cooking dinner now.", "She cooks dinner every day.", "She cooked dinner last night.", "She has cooked dinner already."],
+      "answer": 2,
+      "explanation": "**cooked** เป็นกริยาช่อง 2 และ last night บอกอดีต จึงเป็น Past Simple"
+    },
+    {
+      "q": "ประโยคใด ไม่ใช่ Past Simple",
+      "options": ["The bus left early.", "We won the game.", "My dog sleeps a lot.", "They told me the truth."],
+      "answer": 2,
+      "explanation": "**sleeps** เป็นกริยาเติม s ของ Present Simple ส่วน left, won, told เป็นกริยาช่อง 2 ทั้งหมด"
+    },
+    {
+      "q": "คำหรือวลีใดใช้กับ Past Simple",
+      "options": ["every morning", "right now", "last weekend", "these days"],
+      "answer": 2,
+      "explanation": "**last weekend** (สุดสัปดาห์ที่แล้ว) บอกเวลาในอดีต ส่วนข้ออื่นใช้กับ Present"
+    },
+    {
+      "q": "คำหรือวลีใด ไม่ใช้ กับ Past Simple",
+      "options": ["the other day", "in 2019", "an hour ago", "at the moment"],
+      "answer": 3,
+      "explanation": "**at the moment** (ในขณะนี้) ใช้กับ Present Continuous ส่วนข้ออื่นบอกเวลาในอดีต"
+    },
+    {
+      "q": "ประโยคปฏิเสธของ “Pete fixed the computer.” คือข้อใด",
+      "options": ["Pete didn't fixed the computer.", "Pete didn't fix the computer.", "Pete doesn't fix the computer.", "Pete wasn't fix the computer."],
+      "answer": 1,
+      "explanation": "ปฏิเสธในอดีตใช้ **didn't + V1** จึงต้องเปลี่ยน fixed กลับเป็น fix"
+    },
+    {
+      "q": "ประโยคปฏิเสธของ “The children were noisy.” คือข้อใด",
+      "options": ["The children didn't noisy.", "The children weren't noisy.", "The children wasn't noisy.", "The children didn't were noisy."],
+      "answer": 1,
+      "explanation": "ประโยคที่มี were ให้เติม not หลัง were → **weren't** (children เป็นพหูพจน์)"
+    },
+    {
+      "q": "“did not” เขียนแบบย่อได้ว่าอะไร",
+      "options": ["don't", "didn't", "doesn't", "did'nt"],
+      "answer": 1,
+      "explanation": "ตัดตัว o ใน not แล้วใส่ ’ แทน → **didn't** (did'nt ใส่ ’ ผิดตำแหน่ง)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: We ___ go to school last Monday because it was a holiday.",
+      "options": ["weren't", "didn't", "don't", "wasn't"],
+      "answer": 1,
+      "explanation": "มีกริยาแท้ go และเป็นอดีต (last Monday) จึงใช้ **didn't** + go"
+    },
+    {
+      "q": "ประโยคใดถูกต้อง",
+      "options": ["He didn't came to the party.", "He didn't come to the party.", "He don't came to the party.", "He wasn't come to the party."],
+      "answer": 1,
+      "explanation": "หลัง didn't ต้องใช้ V1 → didn't **come**"
+    },
+    {
+      "q": "เปลี่ยน “Lily bought a new dress.” เป็นประโยคคำถาม ข้อใดถูกต้อง",
+      "options": ["Did Lily bought a new dress?", "Does Lily buy a new dress?", "Did Lily buy a new dress?", "Was Lily buy a new dress?"],
+      "answer": 2,
+      "explanation": "คำถามในอดีตใช้ **Did + ประธาน + V1** จึงเปลี่ยน bought กลับเป็น buy"
+    },
+    {
+      "q": "A: Did you enjoy the trip?  B: Yes, I ___.",
+      "options": ["was", "did", "do", "enjoyed"],
+      "answer": 1,
+      "explanation": "คำถามขึ้นต้นด้วย Did คำตอบสั้นจึงใช้ **did** → Yes, I did."
+    },
+    {
+      "q": "A: Were they late for class?  B: No, they ___.",
+      "options": ["didn't", "wasn't", "weren't", "don't"],
+      "answer": 2,
+      "explanation": "คำถามขึ้นต้นด้วย Were และประธาน they คำตอบปฏิเสธคือ No, they **weren't**."
+    },
+    {
+      "q": "เติมคำในช่องว่าง: What ___ you have for breakfast this morning?",
+      "options": ["do", "did", "were", "was"],
+      "answer": 1,
+      "explanation": "มื้อเช้าผ่านไปแล้ว เป็นคำถามในอดีตที่มีกริยาแท้ (have) จึงใช้ What + **did** + you + have"
+    },
+    {
+      "q": "เรียงคำให้เป็นคำถามที่ถูกต้อง: (go / did / where / they / last summer)",
+      "options": ["Where they did go last summer?", "Where did they go last summer?", "Did where they go last summer?", "Where did they went last summer?"],
+      "answer": 1,
+      "explanation": "โครงสร้าง Wh- + did + ประธาน + V1 → **Where did they go** last summer?"
+    },
+    {
+      "q": "เรียงคำให้เป็นคำถามที่ถูกต้อง: (yesterday / did / your mom / call / who)",
+      "options": ["Who did your mom call yesterday?", "Who your mom did call yesterday?", "Did who your mom call yesterday?", "Who did your mom called yesterday?"],
+      "answer": 0,
+      "explanation": "โครงสร้าง Wh- + did + ประธาน + V1 → **Who did your mom call** yesterday?"
+    },
+    {
+      "q": "A: ___ did you get home?  B: By taxi.",
+      "options": ["When", "How", "Why", "What"],
+      "answer": 1,
+      "explanation": "คำตอบบอกวิธีการเดินทาง (By taxi) จึงถามด้วย **How** (อย่างไร)"
+    },
+    {
+      "q": "A: ___ did Sara cry?  B: Because she lost her cat.",
+      "options": ["Why", "Who", "Where", "How"],
+      "answer": 0,
+      "explanation": "คำตอบขึ้นต้นด้วย Because (เพราะ) จึงถามด้วย **Why** (ทำไม)"
+    },
+    {
+      "q": "A: When did you move to this town?  B: ___",
+      "options": ["I move here in 2021.", "I moved here in 2021.", "I moving here in 2021.", "I have move here in 2021."],
+      "answer": 1,
+      "explanation": "ตอบเรื่องในอดีต ใช้กริยาช่อง 2 → I **moved** here in 2021."
+    },
+    {
+      "q": "ประโยคใดผิดหลักไวยากรณ์",
+      "options": ["Did you hear that noise?", "I studied for the test last night.", "She taked a lot of photos.", "They were tired after the game."],
+      "answer": 2,
+      "explanation": "take เป็นกริยาไม่ปกติ ช่อง 2 คือ **took** ไม่ใช่ taked"
+    },
+    {
+      "q": "เปลี่ยน “I eat noodles.” ให้เป็นเหตุการณ์เมื่อวาน ข้อใดถูกต้อง",
+      "options": ["I eated noodles yesterday.", "I ate noodles yesterday.", "I eaten noodles yesterday.", "I eat noodles yesterday."],
+      "answer": 1,
+      "explanation": "eat เป็นกริยาไม่ปกติ ช่อง 2 คือ **ate** (eaten เป็นช่อง 3)"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Last Saturday, I ___ up late, ___ a big breakfast and ___ to the park.",
+      "options": ["get / have / go", "got / had / went", "got / have / go", "get / had / went"],
+      "answer": 1,
+      "explanation": "เล่าเหตุการณ์ต่อกันในอดีต (Last Saturday) ทุกกริยาต้องเป็นช่อง 2 → **got / had / went**"
+    },
+    {
+      "q": "อ่านข้อความ: “Last weekend, Nat went to the beach with his family. They swam in the sea and built a sandcastle. In the evening, they ate seafood. Nat didn't want to go home!” ข้อใด ไม่ถูกต้อง ตามข้อความ",
+      "options": ["Nat went to the beach with his family.", "They built a sandcastle.", "They ate seafood for lunch.", "Nat didn't want to go home."],
+      "answer": 2,
+      "explanation": "ข้อความบอกว่ากินอาหารทะเล **In the evening** (ตอนเย็น) ไม่ใช่มื้อกลางวัน"
+    },
+    {
+      "q": "อ่านข้อความ: “Yesterday Mew was sick. She didn't go to school. She stayed in bed and drank a lot of water.” ทำไม Mew ไม่ไปโรงเรียน",
+      "options": ["Because it was a holiday.", "Because she was sick.", "Because she was late.", "Because she stayed with friends."],
+      "answer": 1,
+      "explanation": "ประโยคแรกบอกว่า Mew **was sick** (ไม่สบาย) จึงไม่ได้ไปโรงเรียน"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: When I was a child, I ___ afraid of the dark.",
+      "options": ["am", "was", "were", "did"],
+      "answer": 1,
+      "explanation": "When I was a child บอกอดีต ประธาน I ใช้ **was**"
+    },
+    {
+      "q": "เติมคำในช่องว่าง: Did the teacher ___ the answers on the board?",
+      "options": ["wrote", "writes", "write", "written"],
+      "answer": 2,
+      "explanation": "หลัง Did + ประธาน ต้องใช้ V1 → **write**"
+    },
+    {
+      "q": "ข้อใดเติมได้ถูกต้องทั้งสองช่อง: The weather ___ nice, and the beaches ___ clean.",
+      "options": ["was / was", "were / were", "was / were", "were / was"],
+      "answer": 2,
+      "explanation": "The weather เป็นเอกพจน์ใช้ **was** ส่วน the beaches เป็นพหูพจน์ใช้ **were**"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "lesson": {
+    "summary": "Passive Voice คือประโยคที่ **ประธานถูกกระทำ** ใช้เมื่อสนใจ “สิ่งที่ถูกทำ” มากกว่า “ใครทำ” หรือไม่รู้ว่าใครทำ สูตรหลักคือ **be + V3** โดย be ต้องผันตาม tense",
+    "sections": [
+      {
+        "icon": "🔄",
+        "title": "Active กับ Passive",
+        "formulas": [
+          { "label": "Active", "formula": "ผู้กระทำ + กริยา + กรรม", "example": "Tom **cleans** the room." },
+          { "label": "Passive", "formula": "กรรม + **be + V3** + (by ผู้กระทำ)", "example": "The room **is cleaned** by Tom." }
+        ],
+        "list": [
+          "วิธีเปลี่ยน: ① ย้ายกรรมขึ้นเป็นประธาน ② ใส่ be ให้ตรง tense เดิม ③ เปลี่ยนกริยาเป็น V3 ④ ใส่ by + ผู้กระทำ (ถ้าจำเป็น)",
+          "ไม่ต้องใส่ by ถ้าไม่รู้หรือไม่สำคัญว่าใครทำ: My bike **was stolen**.",
+          "be ผันตาม **ประธานใหม่**: The rooms **are** cleaned every day.",
+          "กริยาที่ไม่มีกรรม (happen, arrive, die) ทำเป็น passive ไม่ได้"
+        ]
+      },
+      {
+        "icon": "⏱️",
+        "title": "Passive ในแต่ละ tense",
+        "table": {
+          "head": ["Tense", "Passive", "ตัวอย่าง"],
+          "rows": [
+            ["Present Simple", "is / am / are + V3", "English **is spoken** here."],
+            ["Present Continuous", "is / am / are + **being** + V3", "The car **is being washed**."],
+            ["Present Perfect", "has / have + **been** + V3", "The work **has been done**."],
+            ["Past Simple", "was / were + V3", "The bridge **was built** in 1990."],
+            ["Past Continuous", "was / were + **being** + V3", "The room **was being painted**."],
+            ["Past Perfect", "had + **been** + V3", "The food **had been eaten**."],
+            ["Future Simple", "will + **be** + V3", "The results **will be announced**."],
+            ["Future Perfect", "will have + **been** + V3", "It **will have been finished** by 5."],
+            ["Modal", "can / must / should + **be** + V3", "Phones **must be turned** off."]
+          ]
+        },
+        "text": "รูป Perfect Continuous แบบ passive (has / had / will have + been being + V3) แทบไม่ใช้ในชีวิตจริง ไม่ต้องเน้น"
+      },
+      {
+        "icon": "🇹🇭",
+        "title": "แปลอย่างไร",
+        "list": [
+          "มักแปลว่า **“ถูก…” / “ได้รับการ…”** หรือแปลแบบไม่มีคำว่าถูกก็ได้: The school was built in 1980. = โรงเรียนสร้างขึ้นเมื่อปี 1980",
+          "being + V3 = **กำลังถูก…**: The patient is being examined. = ผู้ป่วยกำลังถูกตรวจ"
+        ]
+      },
+      {
+        "icon": "⚠️",
+        "title": "ระวัง! จุดที่มักผิด",
+        "mistakes": [
+          { "wrong": "The cake **was make** by Mom.", "right": "The cake **was made** by Mom.", "why": "หลัง be ต้องเป็น V3" },
+          { "wrong": "English **speaks** in many countries.", "right": "English **is spoken** in many countries.", "why": "ภาษาพูดเองไม่ได้ ต้องเป็น passive" },
+          { "wrong": "The letters **was** sent.", "right": "The letters **were** sent.", "why": "be ผันตามประธานพหูพจน์" },
+          { "wrong": "The house **is building** now.", "right": "The house **is being built** now.", "why": "กำลังถูกสร้าง = is being + V3" },
+          { "wrong": "The accident **was happened** at night.", "right": "The accident **happened** at night.", "why": "happen ไม่มีกรรม ทำเป็น passive ไม่ได้" }
+        ]
+      }
+    ],
+    "tip": "Passive = **be + V3** เสมอ — ส่วน be ให้ผันตาม tense และประธานใหม่ (is / was / has been / will be / being)"
+  },
+  "questions": [
+    { "q": "ประโยคใดเป็น Passive Voice", "options": ["Tom cleans the room.", "The room is cleaned every day.", "Tom is cleaning the room.", "Tom has cleaned the room."], "answer": 1, "explanation": "**is cleaned** = be + V3 ห้องเป็นฝ่ายถูกทำความสะอาด" },
+    { "q": "ประโยคใดเป็น Active Voice", "options": ["The cake was eaten.", "The letters were sent.", "My mom cooked dinner.", "The car is being repaired."], "answer": 2, "explanation": "ประธาน (my mom) เป็นผู้ **ทำ** เอง จึงเป็น Active" },
+    { "q": "ในประโยค “The window was broken by the boys.” ใครเป็นผู้กระทำ", "options": ["the window", "the boys", "ไม่มีผู้กระทำ", "บอกไม่ได้"], "answer": 1, "explanation": "ผู้กระทำอยู่หลัง by → **the boys**" },
+    { "q": "โครงสร้างพื้นฐานของ Passive Voice คือข้อใด", "options": ["be + V3", "be + V-ing", "have + V3", "do + V1"], "answer": 0, "explanation": "Passive = **be + V3**" },
+    { "q": "ส่วนที่เป็น passive ในประโยค “The new library will be opened next month.” คือข้อใด", "options": ["will be opened", "the new library", "next month", "opened next month"], "answer": 0, "explanation": "will + be + V3 → **will be opened**" },
+    { "q": "เติมคำในช่องว่าง: English ___ in many countries.", "options": ["speaks", "is spoken", "is speaking", "spoke"], "answer": 1, "explanation": "ภาษาถูกพูด (ทั่วไป) → Present Simple Passive **is spoken**" },
+    { "q": "เติมคำในช่องว่าง: These cars ___ in Japan.", "options": ["make", "are made", "is made", "are making"], "answer": 1, "explanation": "รถถูกผลิต และ cars พหูพจน์ → **are made**" },
+    { "q": "เติมคำในช่องว่าง: The classroom ___ every afternoon.", "options": ["cleans", "is cleaned", "are cleaned", "cleaned"], "answer": 1, "explanation": "ห้องถูกทำความสะอาดเป็นประจำ → **is cleaned**" },
+    { "q": "เติมคำในช่องว่าง: The letters ___ every morning.", "options": ["deliver", "are delivered", "is delivered", "delivering"], "answer": 1, "explanation": "จดหมายถูกส่ง และ letters พหูพจน์ → **are delivered**" },
+    { "q": "เปลี่ยนเป็น Passive: “The chef cooks the soup.”", "options": ["The soup is cooked by the chef.", "The soup cooks by the chef.", "The soup was cooked by the chef.", "The chef is cooked by the soup."], "answer": 0, "explanation": "Present Simple → **is cooked** (tense เดิม)" },
+    { "q": "เปลี่ยนเป็น Passive: “People use this app every day.”", "options": ["This app is used every day.", "This app uses every day.", "This app is using every day.", "This app are used every day."], "answer": 0, "explanation": "this app เอกพจน์ → **is used** (ไม่ต้องใส่ by people)" },
+    { "q": "เติมคำในช่องว่าง: The car ___ right now.", "options": ["is washed", "is being washed", "is washing", "was washed"], "answer": 1, "explanation": "กำลังถูกล้างอยู่ตอนนี้ → is **being** washed" },
+    { "q": "เติมคำในช่องว่าง: A new bridge ___ at the moment.", "options": ["is building", "is being built", "builds", "has built"], "answer": 1, "explanation": "สะพานกำลังถูกสร้าง → **is being built**" },
+    { "q": "เติมคำในช่องว่าง: The patients ___ by the doctor now.", "options": ["are being examined", "are examining", "is being examined", "examined"], "answer": 0, "explanation": "patients พหูพจน์ + กำลังถูกตรวจ → **are being examined**" },
+    { "q": "แปล: “ห้องประชุมกำลังถูกตกแต่งสำหรับงานเลี้ยง”", "options": ["The meeting room is being decorated for the party.", "The meeting room is decorating for the party.", "The meeting room was decorated for the party.", "The meeting room decorates for the party."], "answer": 0, "explanation": "กำลังถูก… = is **being** + V3" },
+    { "q": "เปลี่ยนเป็น Passive: “They are painting the fence.”", "options": ["The fence is being painted.", "The fence is painting.", "The fence are being painted.", "The fence is painted being."], "answer": 0, "explanation": "Present Continuous → **is being painted**" },
+    { "q": "เติมคำในช่องว่าง: The work ___ already ___.", "options": ["has / done", "has / been done", "have / been done", "is / been done"], "answer": 1, "explanation": "Present Perfect Passive → **has been done**" },
+    { "q": "เติมคำในช่องว่าง: Two new schools ___ built this year.", "options": ["has been", "have been", "is", "was being"], "answer": 1, "explanation": "schools พหูพจน์ → **have been** built" },
+    { "q": "เติมคำในช่องว่าง: Oh no! My wallet ___ stolen!", "options": ["has been", "have been", "has", "is being"], "answer": 0, "explanation": "เพิ่งถูกขโมย ผลยังอยู่ และ wallet เอกพจน์ → **has been** stolen" },
+    { "q": "เปลี่ยนเป็น Passive: “Someone has opened the door.”", "options": ["The door has been opened.", "The door have been opened.", "The door has been open.", "The door has opening."], "answer": 0, "explanation": "has + **been** + V3 (opened)" },
+    { "q": "หาส่วนที่ผิด: “The emails has been sent to all students.” ต้องแก้อย่างไร", "options": ["has → have", "been → being", "sent → send", "to → for"], "answer": 0, "explanation": "emails พหูพจน์ → **have** been sent" },
+    { "q": "หาส่วนที่ผิด: “The room has been clean.” ต้องแก้อย่างไร", "options": ["has → have", "been → be", "clean → cleaned", "The → A"], "answer": 2, "explanation": "หลัง been ต้องเป็น V3 → **cleaned**" },
+    { "q": "เติมคำในช่องว่าง: This temple ___ 200 years ago.", "options": ["built", "was built", "is built", "were built"], "answer": 1, "explanation": "ago บอกอดีต และวัดถูกสร้าง → **was built**" },
+    { "q": "เติมคำในช่องว่าง: The letters ___ yesterday.", "options": ["was sent", "were sent", "sent", "are sent"], "answer": 1, "explanation": "letters พหูพจน์ + yesterday → **were sent**" },
+    { "q": "เติมคำในช่องว่าง: The Mona Lisa ___ by Leonardo da Vinci.", "options": ["painted", "was painted", "is painting", "were painted"], "answer": 1, "explanation": "ภาพถูกวาดในอดีต → **was painted**" },
+    { "q": "เติมคำในช่องว่าง: My bike ___ last night.", "options": ["stole", "was stolen", "was stole", "is stolen"], "answer": 1, "explanation": "steal → stole → **stolen** · last night → **was stolen**" },
+    { "q": "เปลี่ยนเป็น Passive: “Mom made this cake.”", "options": ["This cake was made by Mom.", "This cake made by Mom.", "This cake is made by Mom.", "This cake was make by Mom."], "answer": 0, "explanation": "Past Simple → **was made**" },
+    { "q": "เปลี่ยนเป็น Passive: “The police caught the thief.”", "options": ["The thief was caught by the police.", "The thief caught by the police.", "The thief was catch by the police.", "The police was caught by the thief."], "answer": 0, "explanation": "catch → caught → **caught** · was caught by the police" },
+    { "q": "เปลี่ยนเป็น Passive: “They cancelled the concert.”", "options": ["The concert was cancelled.", "The concert cancelled.", "The concert were cancelled.", "The concert is cancelling."], "answer": 0, "explanation": "Past Simple + concert เอกพจน์ → **was cancelled**" },
+    { "q": "เติมคำในช่องว่าง: The road ___ when we drove past.", "options": ["was repaired", "was being repaired", "is being repaired", "repairing"], "answer": 1, "explanation": "กำลังถูกซ่อมอยู่ตอนที่เราขับผ่าน → **was being repaired**" },
+    { "q": "เติมคำในช่องว่าง: The houses ___ at that time.", "options": ["was being painted", "were being painted", "were painting", "are being painted"], "answer": 1, "explanation": "houses พหูพจน์ + กำลังถูกทาสีในอดีต → **were being painted**" },
+    { "q": "แปล: “The room was being cleaned when I arrived.”", "options": ["ห้องกำลังถูกทำความสะอาดตอนที่ฉันมาถึง", "ห้องถูกทำความสะอาดเสร็จก่อนฉันมาถึง", "ฉันกำลังทำความสะอาดห้อง", "ห้องจะถูกทำความสะอาดเมื่อฉันมาถึง"], "answer": 0, "explanation": "was being + V3 = **กำลังถูก…** ในอดีต" },
+    { "q": "ข้อใดถูกต้อง", "options": ["The baby was being fed.", "The baby was been fed.", "The baby were being fed.", "The baby was feeding by Mom."], "answer": 0, "explanation": "Past Continuous Passive = was + **being** + V3" },
+    { "q": "เติมคำในช่องว่าง: When we arrived, the food ___ already ___.", "options": ["had / been eaten", "has / been eaten", "had / eaten been", "was / been eaten"], "answer": 0, "explanation": "อาหารถูกกินหมดก่อนเรามาถึง → **had been eaten**" },
+    { "q": "เติมคำในช่องว่าง: The tickets ___ before we got to the theater.", "options": ["had been sold", "had been sell", "has been sold", "have been sold"], "answer": 0, "explanation": "ถูกขายก่อนเหตุการณ์ในอดีต → **had been sold**" },
+    { "q": "หาส่วนที่ผิด: “The house had be cleaned before the guests came.” ต้องแก้อย่างไร", "options": ["had → has", "be → been", "cleaned → clean", "came → come"], "answer": 1, "explanation": "Past Perfect Passive = had + **been** + V3" },
+    { "q": "เติมคำในช่องว่าง: The results ___ tomorrow.", "options": ["will announce", "will be announced", "will announced", "are announcing"], "answer": 1, "explanation": "ผลสอบจะถูกประกาศ → will + be + V3 → **will be announced**" },
+    { "q": "เติมคำในช่องว่าง: The new road ___ next year.", "options": ["will be built", "will build", "will built", "is building"], "answer": 0, "explanation": "ถนนจะถูกสร้าง → **will be built**" },
+    { "q": "เปลี่ยนเป็น Passive: “They will repair the old bridge.”", "options": ["The old bridge will be repaired.", "The old bridge will repaired.", "The old bridge will be repair.", "The old bridge will repair."], "answer": 0, "explanation": "will + **be** + V3" },
+    { "q": "เติมคำในช่องว่าง: By next June, the project ___.", "options": ["will have been finished", "will have been finish", "will be finishing", "has been finished"], "answer": 0, "explanation": "ภายในเดือนมิถุนายนจะถูกทำเสร็จแล้ว → will have + **been** + V3" },
+    { "q": "แปล: “การบ้านจะถูกตรวจพรุ่งนี้”", "options": ["The homework will be checked tomorrow.", "The homework will check tomorrow.", "The homework is checked tomorrow.", "The homework will been checked tomorrow."], "answer": 0, "explanation": "จะถูก… = will + be + V3" },
+    { "q": "เติมคำในช่องว่าง: Mobile phones must ___ off during the exam.", "options": ["turn", "be turned", "be turn", "turned"], "answer": 1, "explanation": "modal + **be + V3** → must be turned off" },
+    { "q": "เติมคำในช่องว่าง: This problem can ___ easily.", "options": ["solve", "be solved", "solved", "be solving"], "answer": 1, "explanation": "ปัญหาถูกแก้ → can + **be solved**" },
+    { "q": "เติมคำในช่องว่าง: The plants should ___ every day.", "options": ["water", "be watered", "watered", "be watering"], "answer": 1, "explanation": "ต้นไม้ถูกรดน้ำ → should + **be watered**" },
+    { "q": "เปลี่ยนเป็น Passive: “You must wear a helmet.”", "options": ["A helmet must be worn.", "A helmet must wear.", "A helmet must be wear.", "A helmet must worn."], "answer": 0, "explanation": "wear → wore → **worn** · must + be + worn" },
+    { "q": "เปลี่ยนเป็น Passive: “We can't use this room today.”", "options": ["This room can't be used today.", "This room can't use today.", "This room can't be use today.", "This room can't used today."], "answer": 0, "explanation": "can't + **be + V3** → can't be used" },
+    { "q": "ประโยคใดเหมาะที่จะไม่ใส่ by + ผู้กระทำ เพราะไม่รู้ว่าใครทำ", "options": ["My purse was stolen last night.", "The song was written by Taylor Swift.", "Hamlet was written by Shakespeare.", "This picture was drawn by my brother."], "answer": 0, "explanation": "ไม่รู้ว่าใครขโมย จึงไม่ใส่ by → **My purse was stolen.**" },
+    { "q": "เปลี่ยนเป็น Passive: “Someone cleaned the classroom.”", "options": ["The classroom was cleaned.", "The classroom was cleaned by someone else.", "The classroom cleaned by someone.", "The classroom is cleaned by someone."], "answer": 0, "explanation": "someone ไม่ได้ให้ข้อมูลอะไร จึงตัดทิ้ง → **The classroom was cleaned.**" },
+    { "q": "เติมคำในช่องว่าง: This poem was written ___ a 12-year-old girl.", "options": ["by", "from", "with", "of"], "answer": 0, "explanation": "ผู้กระทำใน passive ใช้ **by**" },
+    { "q": "ข้อใดผิดหลักไวยากรณ์", "options": ["The windows were cleaned yesterday.", "The book was written in 1990.", "The letters was sent last week.", "Thai is spoken in Thailand."], "answer": 2, "explanation": "letters พหูพจน์ → **were** sent" },
+    { "q": "ข้อใดผิดหลักไวยากรณ์", "options": ["The house is being built.", "The work has been done.", "The cake was make by Mom.", "The results will be announced."], "answer": 2, "explanation": "หลัง was ต้องเป็น V3 → was **made**" },
+    { "q": "ข้อใดผิดหลักไวยากรณ์", "options": ["The accident happened at night.", "The guests arrived late.", "The accident was happened at night.", "The train left on time."], "answer": 2, "explanation": "happen ไม่มีกรรม ทำเป็น passive ไม่ได้ → The accident **happened**" },
+    { "q": "ข้อใดถูกต้อง", "options": ["The house is building now.", "The house is being built now.", "The house is been built now.", "The house being built now."], "answer": 1, "explanation": "กำลังถูกสร้าง → is **being built**" },
+    { "q": "เลือกประธานที่เหมาะสม: “___ was delivered this morning.”", "options": ["The parcels", "The parcel", "The postmen", "We"], "answer": 1, "explanation": "was ใช้กับเอกพจน์ และต้องเป็นสิ่งที่ถูกส่ง → **The parcel**" },
+    { "q": "แปล: “The school was built in 1980.”", "options": ["โรงเรียนสร้างขึ้นในปี 1980", "โรงเรียนสร้างตึกในปี 1980", "โรงเรียนจะถูกสร้างในปี 1980", "โรงเรียนกำลังถูกสร้าง"], "answer": 0, "explanation": "was built = **ถูกสร้าง / สร้างขึ้น** ในอดีต" },
+    { "q": "แปล: “ผลไม้เหล่านี้ถูกส่งออกไปยังจีน”", "options": ["These fruits are exported to China.", "These fruits export to China.", "These fruits are exporting to China.", "These fruit is exported to China."], "answer": 0, "explanation": "ถูกส่งออก + fruits พหูพจน์ → **are exported**" },
+    { "q": "แปล: “กุญแจถูกพบใต้โซฟา”", "options": ["The keys were found under the sofa.", "The keys found under the sofa.", "The keys were find under the sofa.", "The keys was found under the sofa."], "answer": 0, "explanation": "keys พหูพจน์ + find → found → **were found**" },
+    { "q": "ป้ายในพิพิธภัณฑ์ต้องการบอกว่า “ห้ามถ่ายรูป” ข้อใดเหมาะสม", "options": ["Photos must not be taken.", "Photos must not take.", "Photos must not be take.", "Photos not must be taken."], "answer": 0, "explanation": "modal passive ปฏิเสธ → must not + be + V3 (**taken**)" },
+    { "q": "อ่านข้อความ: “Our school was founded in 1965. A new science building is being built now, and it will be opened next year. More than 1,000 students are taught here.” ข้อใดถูกต้อง", "options": ["The new building is finished.", "The new building will be opened next year.", "The school was founded last year.", "Fewer than 100 students study here."], "answer": 1, "explanation": "it **will be opened next year** ส่วนตอนนี้ยังกำลังสร้างอยู่" },
+    { "q": "อ่านข้อความ: “The money was taken from the safe last night. The police have been called, and the staff are being questioned now.” ข้อใดถูกต้อง", "options": ["ตำรวจยังไม่ได้รับแจ้ง", "พนักงานกำลังถูกสอบปากคำ", "เงินถูกขโมยเมื่อเช้านี้", "ตำรวจจับคนร้ายได้แล้ว"], "answer": 1, "explanation": "the staff **are being questioned** now = พนักงานกำลังถูกสอบปากคำ" }
+  ]
+}

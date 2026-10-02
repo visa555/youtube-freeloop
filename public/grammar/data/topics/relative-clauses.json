@@ -1,0 +1,118 @@
+{
+  "lesson": {
+    "summary": "Relative clause คืออนุประโยคที่ใช้ **ขยายคำนาม** ให้รู้ว่าเป็นคนหรือสิ่งไหน ขึ้นต้นด้วย **who, which, that, whose, where, when** และวาง **ต่อหลังคำนามที่ขยายทันที**",
+    "sections": [
+      {
+        "icon": "🔤",
+        "title": "คำเชื่อมแต่ละตัว",
+        "table": {
+          "head": ["คำ", "ใช้กับ", "ตัวอย่าง"],
+          "rows": [
+            ["**who**", "คน", "The girl **who** sings is my sister."],
+            ["**which**", "สัตว์ / สิ่งของ", "The bag **which** I bought is red."],
+            ["**that**", "คนหรือสิ่งของ (เฉพาะแบบไม่มี comma)", "The book **that** you lent me is great."],
+            ["**whose**", "ความเป็นเจ้าของ (…ของเขา)", "The boy **whose** bike was stolen is sad."],
+            ["**where**", "สถานที่", "This is the town **where** I was born."],
+            ["**when**", "เวลา", "I remember the day **when** we met."]
+          ]
+        }
+      },
+      {
+        "icon": "🧩",
+        "title": "ดูโครงสร้างให้ออก",
+        "examples": [
+          { "en": "The man **who lives next door** is a doctor.", "th": "ประโยคหลักคือ The man … is a doctor ส่วน who lives next door ขยาย the man" }
+        ],
+        "list": [
+          "กริยาหลักต้องสอดคล้องกับ **คำนามที่ถูกขยาย**: The boys who live here **are** friendly.",
+          "ถ้า who / which / that เป็น **กรรม** ละได้: The cake (**which**) Mom made is delicious.",
+          "where ต้องตามด้วยประโยคที่ครบแล้ว: the house **where I live** (ไม่ใช่ the house where I bought)"
+        ]
+      },
+      {
+        "icon": "✂️",
+        "title": "ข้อมูลจำเป็น กับ ข้อมูลเสริม",
+        "table": {
+          "head": ["Defining (จำเป็น)", "Non-defining (ข้อมูลเสริม)"],
+          "rows": [
+            ["ไม่มี comma — ตัดออกแล้วไม่รู้ว่าพูดถึงใคร", "มี comma ( , ) คร่อม — ตัดออกได้ ความหมายหลักไม่เปลี่ยน"],
+            ["The student **who won the prize** is my cousin.", "My mom, **who is a nurse**, works at night."],
+            ["ใช้ that แทน who / which ได้", "**ห้ามใช้ that**"]
+          ]
+        }
+      },
+      {
+        "icon": "🪄",
+        "title": "การย่อ Relative Clause",
+        "list": [
+          "who / which + **be + V-ing** → **V-ing**: The girl who is waving → The girl **waving**",
+          "who / which + **be + V3** → **V3**: The car which was made in Japan → The car **made** in Japan",
+          "who / which + **be + วลีบุพบท** → **วลีบุพบท**: The man who is in the red shirt → The man **in the red shirt**"
+        ]
+      },
+      {
+        "icon": "⚠️",
+        "title": "ระวัง! จุดที่มักผิด",
+        "mistakes": [
+          { "wrong": "The man **which** helped me was kind.", "right": "The man **who** helped me was kind.", "why": "คนใช้ who" },
+          { "wrong": "The book **who** I read was boring.", "right": "The book **which / that** I read was boring.", "why": "สิ่งของใช้ which / that" },
+          { "wrong": "My father, **that** is a teacher, loves books.", "right": "My father, **who** is a teacher, loves books.", "why": "แบบมี comma ห้ามใช้ that" },
+          { "wrong": "The students who live here **is** friendly.", "right": "The students who live here **are** friendly.", "why": "กริยาหลักตามคำนามที่ถูกขยาย (students)" }
+        ]
+      }
+    ],
+    "tip": "**คน → who · ของ → which · ไม่มี comma → that ได้ · ของใคร → whose · ที่ไหน → where** และกริยาหลักต้องตามคำนามที่ถูกขยาย"
+  },
+  "questions": [
+    { "q": "เติมคำในช่องว่าง: The girl ___ is singing is my sister.", "options": ["who", "which", "where", "whose"], "answer": 0, "explanation": "ขยายคน (the girl) → **who**" },
+    { "q": "เติมคำในช่องว่าง: This is the bag ___ I bought yesterday.", "options": ["who", "which", "whose", "where"], "answer": 1, "explanation": "ขยายสิ่งของ (the bag) → **which**" },
+    { "q": "เติมคำในช่องว่าง: The man ___ car was stolen called the police.", "options": ["who", "which", "whose", "where"], "answer": 2, "explanation": "รถ **ของ** ผู้ชายคนนั้น → **whose** car" },
+    { "q": "เติมคำในช่องว่าง: This is the school ___ my father studied.", "options": ["which", "where", "who", "whose"], "answer": 1, "explanation": "สถานที่ และตามด้วยประโยคครบ (my father studied) → **where**" },
+    { "q": "เติมคำในช่องว่าง: I have a friend ___ speaks four languages.", "options": ["who", "which", "where", "whose"], "answer": 0, "explanation": "ขยายคน (a friend) → **who**" },
+    { "q": "เติมคำในช่องว่าง: The dog ___ lives next door barks every night.", "options": ["who", "which", "whose", "where"], "answer": 1, "explanation": "ขยายสัตว์ → **which**" },
+    { "q": "เติมคำในช่องว่าง: Do you remember the day ___ we first met?", "options": ["when", "which", "who", "whose"], "answer": 0, "explanation": "ขยายเวลา (the day) → **when**" },
+    { "q": "เติมคำในช่องว่าง: The woman ___ son is a famous singer lives here.", "options": ["who", "which", "whose", "that"], "answer": 2, "explanation": "ลูกชาย **ของ** ผู้หญิงคนนั้น → **whose** son" },
+    { "q": "เติมคำในช่องว่าง: The cake ___ Mom made is delicious.", "options": ["who", "whose", "that", "where"], "answer": 2, "explanation": "ขยายสิ่งของแบบไม่มี comma → **that** (หรือ which)" },
+    { "q": "เติมคำในช่องว่าง: Chiang Mai is the city ___ I was born.", "options": ["which", "where", "who", "that"], "answer": 1, "explanation": "สถานที่ + ประโยคครบ (I was born) → **where**" },
+    { "q": "เติมคำในช่องว่าง: The students ___ passed the test got a prize.", "options": ["which", "who", "whose", "where"], "answer": 1, "explanation": "ขยายคน → **who**" },
+    { "q": "คำใดใช้ได้ทั้งกับคนและสิ่งของ (ในประโยคที่ไม่มี comma)", "options": ["who", "which", "that", "where"], "answer": 2, "explanation": "**that** ใช้ได้ทั้งคนและสิ่งของ" },
+    { "q": "คำนามที่ relative clause ขยายในประโยค “The phone that I lost was new.” คือคำใด", "options": ["phone", "I", "new", "lost"], "answer": 0, "explanation": "that I lost ขยาย **phone** (โทรศัพท์ที่ฉันทำหาย)" },
+    { "q": "relative clause ในประโยค “The man who lives next door is a doctor.” คือส่วนใด", "options": ["The man", "who lives next door", "is a doctor", "next door is a doctor"], "answer": 1, "explanation": "**who lives next door** ขยาย the man" },
+    { "q": "ประโยคหลักของ “The book which you gave me is interesting.” คือข้อใด", "options": ["The book is interesting.", "You gave me.", "Which you gave me.", "The book which you gave."], "answer": 0, "explanation": "ตัด relative clause ออกจะเหลือประโยคหลัก **The book is interesting.**" },
+    { "q": "เติมคำในช่องว่าง: The boys who live in this house ___ very friendly.", "options": ["is", "are", "was", "has"], "answer": 1, "explanation": "กริยาหลักตามคำนามที่ถูกขยาย (the boys – พหูพจน์) → **are**" },
+    { "q": "เติมคำในช่องว่าง: The book which my friends wrote ___ very popular.", "options": ["is", "are", "were", "have"], "answer": 0, "explanation": "ประธานหลักคือ the book (เอกพจน์) → **is**" },
+    { "q": "เติมคำในช่องว่าง: The teacher who teaches my sisters ___ from Canada.", "options": ["is", "are", "were", "am"], "answer": 0, "explanation": "ประธานหลักคือ the teacher → **is**" },
+    { "q": "เติมคำในช่องว่าง: The students who sit near the window ___ the answer.", "options": ["knows", "know", "is knowing", "has known"], "answer": 1, "explanation": "ประธานหลักคือ the students (พหูพจน์) → **know**" },
+    { "q": "ข้อใดใช้ comma ถูกต้อง", "options": ["My mom, who is a nurse, works at night.", "My mom who is a nurse, works at night.", "My mom, who is a nurse works at night.", "My mom who, is a nurse works at night."], "answer": 0, "explanation": "ข้อมูลเสริมต้องมี comma **คร่อมทั้งสองข้าง**" },
+    { "q": "ข้อใดผิดหลักไวยากรณ์", "options": ["My father, who is a teacher, loves reading.", "My father, that is a teacher, loves reading.", "The man who helped me was kind.", "The book that I read was great."], "answer": 1, "explanation": "แบบมี comma ห้ามใช้ that → My father, **who** is…" },
+    { "q": "relative clause ในข้อใดเป็นข้อมูลเสริม ตัดออกได้", "options": ["The student who won the prize is my cousin.", "Bangkok, which is the capital of Thailand, is very busy.", "The shoes that I bought are too small.", "People who exercise are healthy."], "answer": 1, "explanation": "มี comma คร่อม และตัดออกแล้วยังรู้ว่าพูดถึง Bangkok" },
+    { "q": "relative clause ในข้อใดเป็นข้อมูลจำเป็น ตัดออกไม่ได้", "options": ["Mount Fuji, which is in Japan, is beautiful.", "My best friend, who lives in Phuket, is visiting me.", "The girl who is wearing a hat is my sister.", "Ms. Lee, who teaches English, is kind."], "answer": 2, "explanation": "ถ้าตัด who is wearing a hat ออก จะไม่รู้ว่า **ผู้หญิงคนไหน**" },
+    { "q": "ข้อใดตัดคำเชื่อม (who / which / that) ออกได้", "options": ["The man who called me is my uncle.", "The pizza that we ordered is cold.", "The dog which barks a lot is mine.", "The girl who sits here is new."], "answer": 1, "explanation": "that เป็น **กรรม** ของ ordered (เรา order พิซซ่า) จึงละได้ → The pizza we ordered…" },
+    { "q": "รวมประโยค: “I have a cousin.” + “She lives in Canada.”", "options": ["I have a cousin who lives in Canada.", "I have a cousin which lives in Canada.", "I have a cousin who she lives in Canada.", "I have a cousin where lives in Canada."], "answer": 0, "explanation": "who แทน she แล้วตัด she ออก → a cousin **who lives** in Canada" },
+    { "q": "รวมประโยค: “This is the phone.” + “I bought it last week.”", "options": ["This is the phone which I bought last week.", "This is the phone which I bought it last week.", "This is the phone who I bought last week.", "This is the phone where I bought last week."], "answer": 0, "explanation": "which แทน it แล้วต้องตัด it ออก" },
+    { "q": "รวมประโยค: “I know a boy.” + “His father is a pilot.”", "options": ["I know a boy whose father is a pilot.", "I know a boy who father is a pilot.", "I know a boy which father is a pilot.", "I know a boy his father is a pilot."], "answer": 0, "explanation": "his (ของเขา) → **whose**" },
+    { "q": "รวมประโยค: “That is the restaurant.” + “We had dinner there.”", "options": ["That is the restaurant where we had dinner.", "That is the restaurant where we had dinner there.", "That is the restaurant who we had dinner.", "That is the restaurant which we had dinner."], "answer": 0, "explanation": "there (ที่นั่น) → **where** แล้วตัด there ออก" },
+    { "q": "รวมประโยค: “The woman is my teacher.” + “She is talking to Dad.”", "options": ["The woman who is talking to Dad is my teacher.", "The woman is talking to Dad who is my teacher.", "The woman which is talking to Dad is my teacher.", "The woman who she is talking to Dad is my teacher."], "answer": 0, "explanation": "วาง relative clause ต่อหลัง the woman ทันที → The woman **who is talking to Dad** is my teacher." },
+    { "q": "ข้อใดผิด", "options": ["The man who helped me was kind.", "The book who I read was boring.", "The house which they built is big.", "The girl whose cat is lost is crying."], "answer": 1, "explanation": "หนังสือเป็นสิ่งของ ต้องใช้ **which / that**" },
+    { "q": "ข้อใดผิด", "options": ["This is the park where we play.", "This is the park which we play.", "This is the park that we love.", "This is the park which is near my home."], "answer": 1, "explanation": "we play (ไม่มีกรรม) เป็นประโยคครบ ใช้ **where** we play (หรือ which we play in)" },
+    { "q": "ข้อใดถูกต้อง", "options": ["The people which live here are nice.", "The people who lives here are nice.", "The people who live here are nice.", "The people who live here is nice."], "answer": 2, "explanation": "คนใช้ who · people พหูพจน์ → **live** และ **are**" },
+    { "q": "ย่อ relative clause: “The girl who is waving at us is my friend.”", "options": ["The girl waving at us is my friend.", "The girl waved at us is my friend.", "The girl is waving at us my friend.", "The girl who waving at us is my friend."], "answer": 0, "explanation": "who is + V-ing → ตัด who is เหลือ **waving**" },
+    { "q": "ย่อ relative clause: “The car which was made in Japan is very reliable.”", "options": ["The car made in Japan is very reliable.", "The car making in Japan is very reliable.", "The car which made in Japan is very reliable.", "The car was made in Japan is very reliable."], "answer": 0, "explanation": "which was + V3 → ตัดเหลือ **made** (ถูกผลิต)" },
+    { "q": "ย่อ relative clause: “The man who is in the blue shirt is our coach.”", "options": ["The man in the blue shirt is our coach.", "The man is in the blue shirt is our coach.", "The man who in the blue shirt is our coach.", "The man being the blue shirt is our coach."], "answer": 0, "explanation": "who is + วลีบุพบท → เหลือ **in the blue shirt**" },
+    { "q": "ข้อใดเป็นรูปเต็มของ “The boy sitting next to me is Ken.”", "options": ["The boy who is sitting next to me is Ken.", "The boy whose sitting next to me is Ken.", "The boy which is sitting next to me is Ken.", "The boy is sitting next to me is Ken."], "answer": 0, "explanation": "V-ing มาจาก **who is + V-ing**" },
+    { "q": "แปล: “ผู้หญิงที่ทำงานในร้านนี้ใจดีมาก”", "options": ["The woman who works in this shop is very kind.", "The woman which works in this shop is very kind.", "The woman works in this shop who is very kind.", "The woman who work in this shop are very kind."], "answer": 0, "explanation": "คน → who · the woman เอกพจน์ → works / is" },
+    { "q": "แปล: “นี่คือบ้านที่ฉันเคยอาศัยอยู่”", "options": ["This is the house where I used to live.", "This is the house which I used to live.", "This is the house who I used to live.", "This is the house where I used to live in it."], "answer": 0, "explanation": "สถานที่ + ประโยคครบ → **where** I used to live" },
+    { "q": "แปล: “ฉันมีเพื่อนที่แม่เป็นนักร้อง”", "options": ["I have a friend whose mother is a singer.", "I have a friend who mother is a singer.", "I have a friend which mother is a singer.", "I have a friend whose her mother is a singer."], "answer": 0, "explanation": "แม่ **ของ** เพื่อน → **whose** mother" },
+    { "q": "เติมคำในช่องว่าง: The movie ___ we watched last night was scary.", "options": ["who", "which", "whose", "where"], "answer": 1, "explanation": "สิ่งของ (the movie) → **which**" },
+    { "q": "เติมคำในช่องว่าง: Do you know the girl ___ is standing by the door?", "options": ["which", "who", "whose", "where"], "answer": 1, "explanation": "คน → **who**" },
+    { "q": "เติมคำในช่องว่าง: That's the hotel ___ we stayed last summer.", "options": ["which", "where", "who", "whose"], "answer": 1, "explanation": "สถานที่ + ประโยคครบ (we stayed) → **where**" },
+    { "q": "เติมคำในช่องว่าง: I like people ___ are honest.", "options": ["which", "who", "whose", "where"], "answer": 1, "explanation": "คน → **who**" },
+    { "q": "เติมคำในช่องว่าง: Jim, ___ brother is my classmate, plays the guitar.", "options": ["who", "whose", "which", "that"], "answer": 1, "explanation": "พี่ชาย **ของ** Jim → **whose**" },
+    { "q": "เติมคำในช่องว่าง: Phuket, ___ is in the south of Thailand, has beautiful beaches.", "options": ["which", "that", "where", "who"], "answer": 0, "explanation": "แบบมี comma ใช้ that ไม่ได้ และ is ต้องมีประธาน → **which** is…" },
+    { "q": "เติมคำในช่องว่าง: Summer is the season ___ many people go to the beach.", "options": ["when", "which", "who", "whose"], "answer": 0, "explanation": "ขยายเวลา (the season) + ประโยคครบ → **when**" },
+    { "q": "เติมคำในช่องว่าง: The pen ___ is on the desk is mine.", "options": ["who", "that", "whose", "where"], "answer": 1, "explanation": "สิ่งของแบบไม่มี comma → **that** (หรือ which)" },
+    { "q": "ในประโยค “The cookies (which) my grandma baked are delicious.” ทำไมจึงละ which ได้", "options": ["เพราะ which เป็นกรรมของ baked", "เพราะมี comma", "เพราะ cookies เป็นคน", "ละได้ทุกประโยค"], "answer": 0, "explanation": "ยายอบคุกกี้ → which เป็น **กรรม** ของ baked จึงละได้" },
+    { "q": "อ่านข้อความ: “Somchai, who is my neighbor, has a dog which is very friendly. The dog, whose name is Lucky, likes children who play in the park.” Lucky คืออะไร", "options": ["ชื่อเพื่อนบ้าน", "ชื่อสุนัข", "ชื่อสวนสาธารณะ", "ชื่อเด็ก"], "answer": 1, "explanation": "The dog, **whose name is Lucky** = สุนัขซึ่งชื่อ Lucky" },
+    { "q": "อ่านข้อความ: “The museum which opened last month has many old cars. The guide who showed us around was very funny.” ข้อใดถูกต้อง", "options": ["พิพิธภัณฑ์เปิดมาหลายปีแล้ว", "ไกด์ที่พาชมตลกมาก", "พิพิธภัณฑ์จัดแสดงเครื่องบิน", "ไม่มีไกด์พาชม"], "answer": 1, "explanation": "The guide **who showed us around** was very funny." }
+  ]
+}
